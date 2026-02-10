@@ -32,9 +32,10 @@ export async function POST(request: Request) {
       return NextResponse.json({ error: 'You\'re already on the waitlist!' }, { status: 400 });
     }
 
-    // Insert new signup with just email
+    // Insert new signup with email + birth date
     const { error } = await supabase.from('waitlist').insert({
       email: email.toLowerCase(),
+      birth_date: body.birthDate || null,
       created_at: new Date().toISOString(),
     });
 
