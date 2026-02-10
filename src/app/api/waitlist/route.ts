@@ -6,27 +6,15 @@ const supabaseKey = process.env.SUPABASE_SERVICE_KEY;
 
 export async function POST(request: Request) {
   try {
-    // Debug: Check env vars
     if (!supabaseUrl || !supabaseKey) {
-      console.error('Missing env vars:', { 
-        hasUrl: !!supabaseUrl, 
-        hasKey: !!supabaseKey 
-      });
-      return NextResponse.json({ 
-        error: 'Server configuration error',
-        debug: 'Missing Supabase credentials'
-      }, { status: 500 });
+      return NextResponse.json({ error: 'Server configuration error' }, { status: 500 });
     }
 
     const body = await request.json();
-    const { email, name, birthDate, birthTime, birthPlace, consent } = body;
+    const { email, birthDate } = body;
 
     if (!email) {
       return NextResponse.json({ error: 'Email is required' }, { status: 400 });
-    }
-
-    if (!consent) {
-      return NextResponse.json({ error: 'Consent is required' }, { status: 400 });
     }
 
     const supabase = createClient(supabaseUrl, supabaseKey);
@@ -42,32 +30,21 @@ export async function POST(request: Request) {
       return NextResponse.json({ error: 'You\'re already on the waitlist!' }, { status: 400 });
     }
 
-    // Insert new signup
+    // Insert new signup - only email and birth_date
     const { error } = await supabase.from('waitlist').insert({
       email: email.toLowerCase(),
-      name: name || null,
       birth_date: birthDate || null,
-      birth_time: birthTime || null,
-      birth_place: birthPlace || null,
-      consent: consent,
       created_at: new Date().toISOString(),
-      source: 'website',
     });
 
     if (error) {
       console.error('Supabase error:', error);
-      return NextResponse.json({ 
-        error: 'Failed to join waitlist',
-        debug: error.message 
-      }, { status: 500 });
+      return NextResponse.json({ error: 'Failed to join waitlist' }, { status: 500 });
     }
 
     return NextResponse.json({ success: true, message: 'Welcome to the waitlist!' });
   } catch (error) {
     console.error('API error:', error);
-    return NextResponse.json({ 
-      error: 'Server error',
-      debug: error instanceof Error ? error.message : 'Unknown error'
-    }, { status: 500 });
+    return NextResponse.json({ error: 'Server error' }, { status: 500 });
   }
 }

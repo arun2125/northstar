@@ -1,16 +1,11 @@
 'use client';
 
-
 import { useState } from 'react';
 
 export default function Home() {
   const [formData, setFormData] = useState({
     email: '',
-    name: '',
     birthDate: '',
-    birthTime: '',
-    birthPlace: '',
-    consent: false,
   });
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
   const [message, setMessage] = useState('');
@@ -30,8 +25,8 @@ export default function Home() {
 
       if (res.ok) {
         setStatus('success');
-        setMessage('Welcome to the waitlist! Check your inbox soon. ✨');
-        setFormData({ email: '', name: '', birthDate: '', birthTime: '', birthPlace: '', consent: false });
+        setMessage('Welcome to the waitlist! ✨');
+        setFormData({ email: '', birthDate: '' });
       } else {
         setStatus('error');
         setMessage(data.error || 'Something went wrong. Please try again.');
@@ -61,7 +56,7 @@ export default function Home() {
           Not generic horoscopes. Actual guidance for <em>your</em> stars.
         </p>
 
-        {/* Waitlist Form */}
+        {/* Waitlist Form - Simplified */}
         <div className="max-w-md mx-auto glow rounded-2xl bg-white/5 backdrop-blur-sm border border-purple-500/20 p-8">
           {status === 'success' ? (
             <div className="text-center py-8">
@@ -74,7 +69,7 @@ export default function Home() {
               <div>
                 <input
                   type="email"
-                  placeholder="Email *"
+                  placeholder="Your email"
                   required
                   value={formData.email}
                   onChange={(e) => setFormData({ ...formData, email: e.target.value })}
@@ -83,65 +78,16 @@ export default function Home() {
               </div>
               
               <div>
-                <input
-                  type="text"
-                  placeholder="Name (optional)"
-                  value={formData.name}
-                  onChange={(e) => setFormData({ ...formData, name: e.target.value })}
-                  className="w-full px-4 py-3 bg-white/10 border border-purple-500/30 rounded-lg text-white placeholder-purple-300/50 focus:outline-none focus:border-purple-400 transition"
-                />
-              </div>
-
-              <div className="pt-2 border-t border-purple-500/20">
-                <p className="text-sm text-purple-300/60 mb-3 text-left">
-                  Birth details (for your personalized chart):
-                </p>
-                
-                <div className="grid grid-cols-2 gap-3">
-                  <div>
-                    <label className="text-xs text-purple-300/50 block mb-1 text-left">Date of Birth</label>
-                    <input
-                      type="date"
-                      value={formData.birthDate}
-                      onChange={(e) => setFormData({ ...formData, birthDate: e.target.value })}
-                      className="w-full px-3 py-2 bg-white/10 border border-purple-500/30 rounded-lg text-white focus:outline-none focus:border-purple-400 transition text-sm"
-                    />
-                  </div>
-                  <div>
-                    <label className="text-xs text-purple-300/50 block mb-1 text-left">Time of Birth</label>
-                    <input
-                      type="time"
-                      value={formData.birthTime}
-                      onChange={(e) => setFormData({ ...formData, birthTime: e.target.value })}
-                      className="w-full px-3 py-2 bg-white/10 border border-purple-500/30 rounded-lg text-white focus:outline-none focus:border-purple-400 transition text-sm"
-                    />
-                  </div>
-                </div>
-                
-                <div className="mt-3">
-                  <label className="text-xs text-purple-300/50 block mb-1 text-left">Place of Birth</label>
-                  <input
-                    type="text"
-                    placeholder="City, Country"
-                    value={formData.birthPlace}
-                    onChange={(e) => setFormData({ ...formData, birthPlace: e.target.value })}
-                    className="w-full px-3 py-2 bg-white/10 border border-purple-500/30 rounded-lg text-white placeholder-purple-300/50 focus:outline-none focus:border-purple-400 transition text-sm"
-                  />
-                </div>
-              </div>
-
-              <div className="flex items-start gap-3 pt-2">
-                <input
-                  type="checkbox"
-                  id="consent"
-                  required
-                  checked={formData.consent}
-                  onChange={(e) => setFormData({ ...formData, consent: e.target.checked })}
-                  className="mt-1 accent-purple-500"
-                />
-                <label htmlFor="consent" className="text-xs text-purple-300/60 text-left">
-                  I agree to receive updates about North Star Astro. No spam, unsubscribe anytime.
+                <label className="text-sm text-purple-300/60 block mb-2 text-left">
+                  Date of Birth (for your chart)
                 </label>
+                <input
+                  type="date"
+                  required
+                  value={formData.birthDate}
+                  onChange={(e) => setFormData({ ...formData, birthDate: e.target.value })}
+                  className="w-full px-4 py-3 bg-white/10 border border-purple-500/30 rounded-lg text-white focus:outline-none focus:border-purple-400 transition"
+                />
               </div>
 
               {status === 'error' && (
@@ -157,7 +103,7 @@ export default function Home() {
               </button>
               
               <p className="text-xs text-purple-300/40 text-center">
-                Free beta access + founding member pricing
+                Free beta access • No spam • Unsubscribe anytime
               </p>
             </form>
           )}
