@@ -16,7 +16,9 @@ export default function Home() {
   const [formData, setFormData] = useState({
     email: '',
     birthDate: '',
-    birthTime: '',
+    birthHour: '',
+    birthMinute: '',
+    birthAmPm: '',
     birthPlace: '',
   });
   const [status, setStatus] = useState<'idle' | 'loading' | 'success' | 'error'>('idle');
@@ -84,11 +86,21 @@ export default function Home() {
     e.preventDefault();
     setStatus('loading');
 
+    // Combine time fields
+    const birthTime = formData.birthHour && formData.birthAmPm 
+      ? `${formData.birthHour}:${formData.birthMinute || '00'} ${formData.birthAmPm}`
+      : '';
+
     try {
       const res = await fetch('/api/waitlist', {
         method: 'PUT',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(formData),
+        body: JSON.stringify({
+          email: formData.email,
+          birthDate: formData.birthDate,
+          birthTime,
+          birthPlace: formData.birthPlace,
+        }),
       });
 
       const data = await res.json();
@@ -193,12 +205,37 @@ export default function Home() {
                 <label className="text-sm text-purple-300/60 block mb-2 text-left">
                   Time of Birth <span className="text-purple-400/40">(if known)</span>
                 </label>
-                <input
-                  type="time"
-                  value={formData.birthTime}
-                  onChange={(e) => setFormData({ ...formData, birthTime: e.target.value })}
-                  className="w-full px-4 py-3 bg-white/10 border border-purple-500/30 rounded-lg text-white focus:outline-none focus:border-purple-400 transition"
-                />
+                <div className="grid grid-cols-3 gap-2">
+                  <select
+                    value={formData.birthHour}
+                    onChange={(e) => setFormData({ ...formData, birthHour: e.target.value })}
+                    className="px-3 py-3 bg-white/10 border border-purple-500/30 rounded-lg text-white focus:outline-none focus:border-purple-400 transition"
+                  >
+                    <option value="" className="bg-slate-900">Hour</option>
+                    {[12, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11].map(h => (
+                      <option key={h} value={h} className="bg-slate-900">{h}</option>
+                    ))}
+                  </select>
+                  <select
+                    value={formData.birthMinute}
+                    onChange={(e) => setFormData({ ...formData, birthMinute: e.target.value })}
+                    className="px-3 py-3 bg-white/10 border border-purple-500/30 rounded-lg text-white focus:outline-none focus:border-purple-400 transition"
+                  >
+                    <option value="" className="bg-slate-900">Min</option>
+                    {['00', '15', '30', '45'].map(m => (
+                      <option key={m} value={m} className="bg-slate-900">{m}</option>
+                    ))}
+                  </select>
+                  <select
+                    value={formData.birthAmPm}
+                    onChange={(e) => setFormData({ ...formData, birthAmPm: e.target.value })}
+                    className="px-3 py-3 bg-white/10 border border-purple-500/30 rounded-lg text-white focus:outline-none focus:border-purple-400 transition"
+                  >
+                    <option value="" className="bg-slate-900">AM/PM</option>
+                    <option value="AM" className="bg-slate-900">AM</option>
+                    <option value="PM" className="bg-slate-900">PM</option>
+                  </select>
+                </div>
               </div>
 
               <div className="relative" ref={suggestionsRef}>
