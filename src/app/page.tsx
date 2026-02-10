@@ -205,36 +205,59 @@ export default function Home() {
                 <label className="text-sm text-purple-300/60 block mb-2 text-left">
                   Time of Birth <span className="text-purple-400/40">(if known)</span>
                 </label>
-                <div className="grid grid-cols-3 gap-2">
-                  <select
+                <div className="flex gap-2 items-center">
+                  <input
+                    type="text"
+                    inputMode="numeric"
+                    placeholder="HH"
+                    maxLength={2}
                     value={formData.birthHour}
-                    onChange={(e) => setFormData({ ...formData, birthHour: e.target.value })}
-                    className="px-3 py-3 bg-white/10 border border-purple-500/30 rounded-lg text-white focus:outline-none focus:border-purple-400 transition"
-                  >
-                    <option value="" className="bg-slate-900">Hour</option>
-                    {[12, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11].map(h => (
-                      <option key={h} value={h} className="bg-slate-900">{h}</option>
-                    ))}
-                  </select>
-                  <select
+                    onChange={(e) => {
+                      const v = e.target.value.replace(/\D/g, '');
+                      const num = parseInt(v);
+                      if (v === '' || (num >= 1 && num <= 12)) {
+                        setFormData({ ...formData, birthHour: v });
+                      }
+                    }}
+                    className="w-16 px-3 py-3 bg-white/10 border border-purple-500/30 rounded-lg text-white text-center focus:outline-none focus:border-purple-400 transition"
+                  />
+                  <span className="text-purple-300/60 text-xl">:</span>
+                  <input
+                    type="text"
+                    inputMode="numeric"
+                    placeholder="MM"
+                    maxLength={2}
                     value={formData.birthMinute}
-                    onChange={(e) => setFormData({ ...formData, birthMinute: e.target.value })}
-                    className="px-3 py-3 bg-white/10 border border-purple-500/30 rounded-lg text-white focus:outline-none focus:border-purple-400 transition"
-                  >
-                    <option value="" className="bg-slate-900">Min</option>
-                    {['00', '15', '30', '45'].map(m => (
-                      <option key={m} value={m} className="bg-slate-900">{m}</option>
-                    ))}
-                  </select>
-                  <select
-                    value={formData.birthAmPm}
-                    onChange={(e) => setFormData({ ...formData, birthAmPm: e.target.value })}
-                    className="px-3 py-3 bg-white/10 border border-purple-500/30 rounded-lg text-white focus:outline-none focus:border-purple-400 transition"
-                  >
-                    <option value="" className="bg-slate-900">AM/PM</option>
-                    <option value="AM" className="bg-slate-900">AM</option>
-                    <option value="PM" className="bg-slate-900">PM</option>
-                  </select>
+                    onChange={(e) => {
+                      const v = e.target.value.replace(/\D/g, '');
+                      const num = parseInt(v);
+                      if (v === '' || (num >= 0 && num <= 59)) {
+                        setFormData({ ...formData, birthMinute: v.padStart(v.length === 1 && num > 5 ? 2 : 1, '') });
+                      }
+                    }}
+                    onBlur={(e) => {
+                      if (e.target.value && e.target.value.length === 1) {
+                        setFormData({ ...formData, birthMinute: e.target.value.padStart(2, '0') });
+                      }
+                    }}
+                    className="w-16 px-3 py-3 bg-white/10 border border-purple-500/30 rounded-lg text-white text-center focus:outline-none focus:border-purple-400 transition"
+                  />
+                  <div className="flex rounded-lg overflow-hidden border border-purple-500/30">
+                    <button
+                      type="button"
+                      onClick={() => setFormData({ ...formData, birthAmPm: 'AM' })}
+                      className={`px-4 py-3 transition ${formData.birthAmPm === 'AM' ? 'bg-purple-600 text-white' : 'bg-white/10 text-purple-300/60 hover:bg-white/20'}`}
+                    >
+                      AM
+                    </button>
+                    <button
+                      type="button"
+                      onClick={() => setFormData({ ...formData, birthAmPm: 'PM' })}
+                      className={`px-4 py-3 transition ${formData.birthAmPm === 'PM' ? 'bg-purple-600 text-white' : 'bg-white/10 text-purple-300/60 hover:bg-white/20'}`}
+                    >
+                      PM
+                    </button>
+                  </div>
                 </div>
               </div>
 
