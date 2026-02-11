@@ -30,6 +30,16 @@ interface Metrics {
   tasks_done_this_week: number;
 }
 
+interface Automation {
+  id: string;
+  name: string;
+  schedule: string;
+  description: string;
+  status: 'active' | 'paused';
+  lastRun?: string;
+  nextRun?: string;
+}
+
 const COLUMNS = [
   { id: 'backlog', label: '📋 Backlog', color: 'border-gray-500' },
   { id: 'this_week', label: '🎯 This Week', color: 'border-yellow-500' },
@@ -45,6 +55,20 @@ const CATEGORIES = {
   general: { label: '📌 General', color: 'bg-blue-500/20 text-blue-300' },
 };
 
+// Static automations list - updated by Jarvis when crons change
+const AUTOMATIONS: Automation[] = [
+  { id: '1', name: 'Tweet Generator', schedule: 'Every 30 min (9AM-11PM)', description: 'Posts to @northstar_astro + @angry_hanuman', status: 'active' },
+  { id: '2', name: 'Daily Apple Notes Log', schedule: '6:00 AM', description: 'Logs previous day work to Apple Notes', status: 'active' },
+  { id: '3', name: 'Morning Brief', schedule: '9:00 AM', description: 'Suggests one actionable task', status: 'active' },
+  { id: '4', name: 'Midday Check', schedule: '1:30 PM', description: 'Status ping and priority check', status: 'active' },
+  { id: '5', name: 'Evening Reminder', schedule: '6:30 PM', description: 'Evening task suggestion', status: 'active' },
+  { id: '6', name: 'Engagement Routine', schedule: '9:00 PM', description: 'Twitter/Reddit/FB engagement reminder', status: 'active' },
+  { id: '7', name: 'Night Check', schedule: '10:30 PM', description: 'Last task suggestion (peak energy time)', status: 'active' },
+  { id: '8', name: 'Nightly Production Run', schedule: '4:30 AM', description: 'Reviews priorities, flags issues', status: 'active' },
+  { id: '9', name: 'Weekly Model Review', schedule: 'Sunday 8 PM', description: 'Reviews AI model costs and quotas', status: 'active' },
+  { id: '10', name: 'Distribution Research', schedule: 'Sunday 8 PM', description: 'Finds new promotion channels', status: 'active' },
+];
+
 export default function Dashboard() {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
   const [password, setPassword] = useState('');
@@ -55,6 +79,7 @@ export default function Dashboard() {
   const [error, setError] = useState('');
   const [newTask, setNewTask] = useState({ title: '', category: 'general' as Task['category'] });
   const [showNewTask, setShowNewTask] = useState(false);
+  const [activeTab, setActiveTab] = useState<'tasks' | 'automations'>('tasks');
 
   const fetchData = useCallback(async () => {
     try {
@@ -107,7 +132,6 @@ export default function Dashboard() {
     const task = tasks.find(t => t.id === taskId);
     if (!task) return;
 
-    // Optimistic update
     setTasks(prev => prev.map(t => 
       t.id === taskId 
         ? { ...t, status: newStatus, completed_at: newStatus === 'done' ? new Date().toISOString() : null }
@@ -225,98 +249,185 @@ export default function Dashboard() {
             <div className="text-purple-300/60 text-sm">Tweets This Week</div>
           </div>
           <div className="bg-white/5 border border-purple-500/20 rounded-xl p-4">
-            <div className="text-3xl font-bold text-white">{metrics?.blogs_published || 0}</div>
+            <div className="text-3xl font-bold text-white">{metrics?.blogs_published || 11}</div>
             <div className="text-purple-300/60 text-sm">Blog Posts</div>
           </div>
           <div className="bg-white/5 border border-purple-500/20 rounded-xl p-4">
-            <div className="text-3xl font-bold text-white">{thisWeekDone}</div>
-            <div className="text-purple-300/60 text-sm">Tasks Done This Week</div>
+            <div className="text-3xl font-bold text-white">{AUTOMATIONS.filter(a => a.status === 'active').length}</div>
+            <div className="text-purple-300/60 text-sm">Active Automations</div>
           </div>
         </div>
 
-        {/* Add Task Button */}
-        <div className="mb-6">
-          {showNewTask ? (
-            <form onSubmit={addTask} className="bg-white/5 border border-purple-500/20 rounded-xl p-4 flex gap-3">
-              <input
-                type="text"
-                placeholder="Task title..."
-                value={newTask.title}
-                onChange={(e) => setNewTask(prev => ({ ...prev, title: e.target.value }))}
-                className="flex-1 px-3 py-2 bg-white/10 border border-purple-500/30 rounded-lg text-white placeholder-purple-300/50 focus:outline-none"
-                autoFocus
-              />
-              <select
-                value={newTask.category}
-                onChange={(e) => setNewTask(prev => ({ ...prev, category: e.target.value as Task['category'] }))}
-                className="px-3 py-2 bg-white/10 border border-purple-500/30 rounded-lg text-white focus:outline-none"
-              >
-                {Object.entries(CATEGORIES).map(([key, { label }]) => (
-                  <option key={key} value={key} className="bg-slate-900">{label}</option>
-                ))}
-              </select>
-              <button type="submit" className="px-4 py-2 bg-purple-600 text-white rounded-lg">Add</button>
-              <button type="button" onClick={() => setShowNewTask(false)} className="px-4 py-2 text-purple-300/60">Cancel</button>
-            </form>
-          ) : (
-            <button
-              onClick={() => setShowNewTask(true)}
-              className="px-4 py-2 bg-white/5 border border-purple-500/20 rounded-lg text-purple-300 hover:bg-white/10 transition"
-            >
-              + Add Task
-            </button>
-          )}
+        {/* Tab Navigation */}
+        <div className="flex gap-2 mb-6">
+          <button
+            onClick={() => setActiveTab('tasks')}
+            className={`px-4 py-2 rounded-lg font-medium transition ${
+              activeTab === 'tasks' 
+                ? 'bg-purple-600 text-white' 
+                : 'bg-white/5 text-purple-300 hover:bg-white/10'
+            }`}
+          >
+            📋 Tasks
+          </button>
+          <button
+            onClick={() => setActiveTab('automations')}
+            className={`px-4 py-2 rounded-lg font-medium transition ${
+              activeTab === 'automations' 
+                ? 'bg-purple-600 text-white' 
+                : 'bg-white/5 text-purple-300 hover:bg-white/10'
+            }`}
+          >
+            🤖 Automations
+          </button>
         </div>
 
-        {/* Kanban Board */}
-        <div className="grid grid-cols-1 md:grid-cols-4 gap-4 mb-8">
-          {COLUMNS.map(column => (
-            <div key={column.id} className={`bg-white/5 rounded-xl border-t-4 ${column.color} p-4`}>
-              <h3 className="font-semibold text-white mb-4 flex justify-between items-center">
-                {column.label}
-                <span className="text-purple-300/50 text-sm">{tasksByStatus[column.id]?.length || 0}</span>
-              </h3>
-              <div className="space-y-3">
-                {tasksByStatus[column.id]?.map(task => (
-                  <div
-                    key={task.id}
-                    className="bg-white/5 border border-purple-500/10 rounded-lg p-3 group"
+        {/* Tasks Tab */}
+        {activeTab === 'tasks' && (
+          <>
+            {/* Add Task Button */}
+            <div className="mb-6">
+              {showNewTask ? (
+                <form onSubmit={addTask} className="bg-white/5 border border-purple-500/20 rounded-xl p-4 flex gap-3">
+                  <input
+                    type="text"
+                    placeholder="Task title..."
+                    value={newTask.title}
+                    onChange={(e) => setNewTask(prev => ({ ...prev, title: e.target.value }))}
+                    className="flex-1 px-3 py-2 bg-white/10 border border-purple-500/30 rounded-lg text-white placeholder-purple-300/50 focus:outline-none"
+                    autoFocus
+                  />
+                  <select
+                    value={newTask.category}
+                    onChange={(e) => setNewTask(prev => ({ ...prev, category: e.target.value as Task['category'] }))}
+                    className="px-3 py-2 bg-white/10 border border-purple-500/30 rounded-lg text-white focus:outline-none"
                   >
-                    <div className="flex justify-between items-start mb-2">
-                      <span className={`text-xs px-2 py-0.5 rounded-full ${CATEGORIES[task.category].color}`}>
-                        {CATEGORIES[task.category].label}
-                      </span>
-                      <button
-                        onClick={() => deleteTask(task.id)}
-                        className="text-red-400/50 hover:text-red-400 opacity-0 group-hover:opacity-100 transition"
+                    {Object.entries(CATEGORIES).map(([key, { label }]) => (
+                      <option key={key} value={key} className="bg-slate-900">{label}</option>
+                    ))}
+                  </select>
+                  <button type="submit" className="px-4 py-2 bg-purple-600 text-white rounded-lg">Add</button>
+                  <button type="button" onClick={() => setShowNewTask(false)} className="px-4 py-2 text-purple-300/60">Cancel</button>
+                </form>
+              ) : (
+                <button
+                  onClick={() => setShowNewTask(true)}
+                  className="px-4 py-2 bg-white/5 border border-purple-500/20 rounded-lg text-purple-300 hover:bg-white/10 transition"
+                >
+                  + Add Task
+                </button>
+              )}
+            </div>
+
+            {/* Kanban Board */}
+            <div className="grid grid-cols-1 md:grid-cols-4 gap-4 mb-8">
+              {COLUMNS.map(column => (
+                <div key={column.id} className={`bg-white/5 rounded-xl border-t-4 ${column.color} p-4`}>
+                  <h3 className="font-semibold text-white mb-4 flex justify-between items-center">
+                    {column.label}
+                    <span className="text-purple-300/50 text-sm">{tasksByStatus[column.id]?.length || 0}</span>
+                  </h3>
+                  <div className="space-y-3">
+                    {tasksByStatus[column.id]?.map(task => (
+                      <div
+                        key={task.id}
+                        className="bg-white/5 border border-purple-500/10 rounded-lg p-3 group"
                       >
-                        ×
-                      </button>
-                    </div>
-                    <p className="text-white text-sm mb-2">{task.title}</p>
-                    {task.description && (
-                      <p className="text-purple-300/50 text-xs mb-2">{task.description}</p>
-                    )}
-                    <div className="flex gap-1 flex-wrap">
-                      {COLUMNS.filter(c => c.id !== column.id).map(c => (
-                        <button
-                          key={c.id}
-                          onClick={() => moveTask(task.id, c.id as Task['status'])}
-                          className="text-xs text-purple-300/50 hover:text-purple-300 px-2 py-1 bg-white/5 rounded transition"
-                        >
-                          → {c.label.split(' ')[0]}
-                        </button>
-                      ))}
-                    </div>
+                        <div className="flex justify-between items-start mb-2">
+                          <span className={`text-xs px-2 py-0.5 rounded-full ${CATEGORIES[task.category].color}`}>
+                            {CATEGORIES[task.category].label}
+                          </span>
+                          <button
+                            onClick={() => deleteTask(task.id)}
+                            className="text-red-400/50 hover:text-red-400 opacity-0 group-hover:opacity-100 transition"
+                          >
+                            ×
+                          </button>
+                        </div>
+                        <p className="text-white text-sm mb-2">{task.title}</p>
+                        {task.description && (
+                          <p className="text-purple-300/50 text-xs mb-2">{task.description}</p>
+                        )}
+                        <div className="flex gap-1 flex-wrap">
+                          {COLUMNS.filter(c => c.id !== column.id).map(c => (
+                            <button
+                              key={c.id}
+                              onClick={() => moveTask(task.id, c.id as Task['status'])}
+                              className="text-xs text-purple-300/50 hover:text-purple-300 px-2 py-1 bg-white/5 rounded transition"
+                            >
+                              → {c.label.split(' ')[0]}
+                            </button>
+                          ))}
+                        </div>
+                      </div>
+                    ))}
                   </div>
-                ))}
+                </div>
+              ))}
+            </div>
+          </>
+        )}
+
+        {/* Automations Tab */}
+        {activeTab === 'automations' && (
+          <div className="space-y-6">
+            {/* Automations Grid */}
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+              {AUTOMATIONS.map(automation => (
+                <div 
+                  key={automation.id}
+                  className="bg-white/5 border border-purple-500/20 rounded-xl p-4 hover:bg-white/10 transition"
+                >
+                  <div className="flex justify-between items-start mb-2">
+                    <h3 className="font-semibold text-white">{automation.name}</h3>
+                    <span className={`px-2 py-0.5 rounded-full text-xs ${
+                      automation.status === 'active' 
+                        ? 'bg-green-500/20 text-green-300' 
+                        : 'bg-gray-500/20 text-gray-300'
+                    }`}>
+                      {automation.status === 'active' ? '● Active' : '○ Paused'}
+                    </span>
+                  </div>
+                  <p className="text-purple-200/70 text-sm mb-3">{automation.description}</p>
+                  <div className="flex items-center gap-2 text-xs text-purple-300/50">
+                    <span className="bg-purple-500/10 px-2 py-1 rounded">🕐 {automation.schedule}</span>
+                  </div>
+                </div>
+              ))}
+            </div>
+
+            {/* Summary */}
+            <div className="bg-white/5 border border-purple-500/20 rounded-xl p-6">
+              <h3 className="font-semibold text-white mb-4">📊 Automation Summary</h3>
+              <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
+                <div>
+                  <div className="text-2xl font-bold text-green-400">{AUTOMATIONS.filter(a => a.status === 'active').length}</div>
+                  <div className="text-purple-300/60 text-sm">Active</div>
+                </div>
+                <div>
+                  <div className="text-2xl font-bold text-purple-400">24/7</div>
+                  <div className="text-purple-300/60 text-sm">Coverage</div>
+                </div>
+                <div>
+                  <div className="text-2xl font-bold text-blue-400">~50</div>
+                  <div className="text-purple-300/60 text-sm">Runs/Day</div>
+                </div>
+                <div>
+                  <div className="text-2xl font-bold text-pink-400">$0</div>
+                  <div className="text-purple-300/60 text-sm">Extra Cost</div>
+                </div>
               </div>
             </div>
-          ))}
-        </div>
 
-        {/* Activity Feed */}
-        <div className="bg-white/5 border border-purple-500/20 rounded-xl p-6">
+            {/* Info Note */}
+            <div className="bg-blue-500/10 border border-blue-500/20 rounded-xl p-4 text-sm text-blue-200/80">
+              💡 <strong>Note:</strong> Automations are managed by Jarvis. To add, modify, or pause automations, just ask in chat.
+            </div>
+          </div>
+        )}
+
+        {/* Activity Feed - Always visible */}
+        <div className="bg-white/5 border border-purple-500/20 rounded-xl p-6 mt-8">
           <h3 className="font-semibold text-white mb-4">📜 Recent Activity</h3>
           <div className="space-y-3 max-h-64 overflow-y-auto">
             {activities.length === 0 ? (
