@@ -1,6 +1,6 @@
 ---
 title: "Zodiac Compatibility: The Real Way to Check It"
-description: "Sun sign compatibility is barely scratching the surface. Here's how astrologers actually assess relationship potential."
+description: "Real zodiac compatibility explained. Learn how astrologers check synastry beyond Sun signs — Moon, Venus, Mars aspects and what actually matters in love."
 date: "2026-02-12"
 author: "North Star Astro"
 tags: ["compatibility", "synastry", "relationships", "love astrology"]

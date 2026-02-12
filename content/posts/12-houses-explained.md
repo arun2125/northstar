@@ -1,6 +1,6 @@
 ---
 title: "The 12 Houses in Astrology Explained Simply"
-description: "Houses are where the action happens in your birth chart. Here's a plain-language guide to all 12 areas of life they represent."
+description: "The 12 houses in astrology explained simply. Learn what each house represents, from identity to career to relationships. Complete birth chart guide."
 date: "2026-02-12"
 author: "North Star Astro"
 tags: ["houses", "birth chart basics", "astrology fundamentals"]

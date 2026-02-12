@@ -1,6 +1,6 @@
 ---
 title: "North Node: Your Life's Purpose According to Astrology"
-description: "Your North Node points to what you're here to learn. Your South Node is what you already know. Here's how to find your direction."
+description: "Find your life purpose with North Node astrology. Learn what your North Node sign means, your karmic lessons, and how to grow. All 12 nodes explained."
 date: "2026-02-12"
 author: "North Star Astro"
 tags: ["north node", "south node", "life purpose", "karmic astrology"]

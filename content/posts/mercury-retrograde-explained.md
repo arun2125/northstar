@@ -1,6 +1,6 @@
 ---
 title: "Mercury Retrograde: What It Actually Means (And What It Doesn't)"
-description: "Mercury Retrograde isn't why your life is falling apart. Here's what's really happening and how to work with it."
+description: "Mercury Retrograde explained simply. Learn what it actually means, what it doesn't, and how to navigate communication and tech issues. 2026 guide."
 date: "2026-02-12"
 author: "North Star Astro"
 tags: ["mercury retrograde", "planetary transits", "astrology basics"]

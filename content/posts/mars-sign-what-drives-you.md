@@ -1,6 +1,6 @@
 ---
 title: "Mars Sign: What Drives You (And What Pisses You Off)"
-description: "Your Mars sign reveals how you fight, pursue goals, and express anger. Here's what yours says about your fire."
+description: "What's your Mars sign? Learn how you take action, express anger, and pursue what you want. All 12 Mars signs explained with drive and sexuality."
 date: "2026-02-12"
 author: "North Star Astro"
 tags: ["mars sign", "astrology basics", "motivation"]

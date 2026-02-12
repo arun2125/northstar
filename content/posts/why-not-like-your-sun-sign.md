@@ -1,6 +1,6 @@
 ---
 title: "Why You're Not Like Your Sun Sign (And What to Read Instead)"
-description: "Your Sun sign is only 10% of your chart. Here's why it doesn't describe you — and what does."
+description: "Don't relate to your Sun sign? Here's why. Learn about Moon signs, Rising signs, and what to read instead for accurate horoscopes and self-understanding."
 date: "2026-02-12"
 author: "North Star Astro"
 tags: ["sun sign", "birth chart", "astrology basics"]

@@ -1,6 +1,6 @@
 ---
 title: "What Your Saturn Return Really Means (And Why Ages 27-30 Feel Like Hell)"
-description: "Saturn Return isn't punishment — it's a cosmic audit. Here's what's actually happening and how to survive it."
+description: "What is Saturn Return? Learn why ages 27-30 feel so hard, what Saturn is teaching you, and how to survive your first Saturn Return. Complete guide."
 date: "2026-02-12"
 author: "North Star Astro"
 tags: ["saturn return", "life transitions", "cosmic timing"]

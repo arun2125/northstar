@@ -1,6 +1,6 @@
 ---
 title: "Your Moon Sign Matters More Than You Think"
-description: "Your Sun sign is who you're becoming. Your Moon sign is who you already are. Here's why it might be the most important placement in your chart."
+description: "Discover your Moon sign meaning and why it matters more than your Sun sign. Learn all 12 Moon signs and what they reveal about your emotional nature."
 date: "2026-02-12"
 author: "North Star Astro"
 tags: ["moon sign", "emotional astrology", "birth chart basics"]

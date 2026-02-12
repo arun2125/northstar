@@ -1,6 +1,6 @@
 ---
 title: "Venus Sign: How You Love (And What You Need In Return)"
-description: "Your Venus sign reveals your love language, your aesthetic, and what you find beautiful. Here's what yours says about your heart."
+description: "What's your Venus sign? Discover how you love, what you need in relationships, and your romantic style. All 12 Venus signs explained with compatibility."
 date: "2026-02-12"
 author: "North Star Astro"
 tags: ["venus sign", "love astrology", "relationships"]

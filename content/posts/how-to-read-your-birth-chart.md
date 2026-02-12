@@ -1,6 +1,6 @@
 ---
 title: "How to Read Your Birth Chart (Without Losing Your Mind)"
-description: "A no-BS guide for people who want to understand astrology beyond their Sun sign"
+description: "Learn how to read your birth chart step-by-step. Understand your Sun, Moon, Rising signs, planets, houses, and aspects in plain English. Free guide."
 date: "2026-02-12"
 author: "North Star Astro"
 tags: ["beginners", "birth chart", "astrology basics"]
