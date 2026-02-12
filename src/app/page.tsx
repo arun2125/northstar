@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect, useRef } from 'react';
+import Link from 'next/link';
 
 // Sun sign data with date ranges and insights
 const SUN_SIGNS = [
@@ -181,8 +182,25 @@ export default function Home() {
 
   return (
     <main className="min-h-screen star-bg">
+      {/* Header */}
+      <header className="px-6 py-4 border-b border-purple-500/10">
+        <div className="max-w-5xl mx-auto flex justify-between items-center">
+          <Link href="/" className="text-xl font-bold gradient-text">
+            North Star Astro
+          </Link>
+          <nav className="flex gap-6">
+            <Link href="/blog" className="text-purple-300/70 hover:text-white transition">
+              Blog
+            </Link>
+            <Link href="#waitlist" className="text-purple-300/70 hover:text-white transition">
+              Get Reading
+            </Link>
+          </nav>
+        </div>
+      </header>
+
       {/* Hero Section */}
-      <section className="relative px-6 py-24 md:py-32 max-w-5xl mx-auto text-center">
+      <section id="waitlist" className="relative px-6 py-24 md:py-32 max-w-5xl mx-auto text-center">
         <div className="mb-6 text-purple-400 text-sm tracking-widest uppercase">
           ✦ AI-Powered Astrology ✦
         </div>
@@ -462,15 +480,93 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Blog Preview Section */}
+      <section className="px-6 py-20 bg-gradient-to-b from-transparent to-purple-950/20">
+        <div className="max-w-4xl mx-auto">
+          <div className="text-center mb-12">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4 text-white">
+              Learn Astrology
+            </h2>
+            <p className="text-purple-200/70">
+              Free guides to understanding your birth chart
+            </p>
+          </div>
+          
+          <div className="grid md:grid-cols-3 gap-6">
+            <Link href="/blog/how-to-read-your-birth-chart" className="group block bg-white/5 rounded-xl border border-purple-500/20 p-6 hover:bg-white/10 hover:border-purple-500/40 transition">
+              <div className="text-2xl mb-3">📊</div>
+              <h3 className="font-semibold text-white group-hover:text-purple-300 transition mb-2">
+                How to Read Your Birth Chart
+              </h3>
+              <p className="text-purple-200/60 text-sm">
+                Complete beginner guide to understanding your cosmic blueprint.
+              </p>
+            </Link>
+            
+            <Link href="/blog/moon-sign-meaning" className="group block bg-white/5 rounded-xl border border-purple-500/20 p-6 hover:bg-white/10 hover:border-purple-500/40 transition">
+              <div className="text-2xl mb-3">🌙</div>
+              <h3 className="font-semibold text-white group-hover:text-purple-300 transition mb-2">
+                Your Moon Sign Explained
+              </h3>
+              <p className="text-purple-200/60 text-sm">
+                Why your Moon sign matters more than you think.
+              </p>
+            </Link>
+            
+            <Link href="/blog/saturn-return-meaning" className="group block bg-white/5 rounded-xl border border-purple-500/20 p-6 hover:bg-white/10 hover:border-purple-500/40 transition">
+              <div className="text-2xl mb-3">🪐</div>
+              <h3 className="font-semibold text-white group-hover:text-purple-300 transition mb-2">
+                Saturn Return Survival Guide
+              </h3>
+              <p className="text-purple-200/60 text-sm">
+                Why ages 27-30 feel so intense (and what to do about it).
+              </p>
+            </Link>
+          </div>
+          
+          <div className="text-center mt-8">
+            <Link 
+              href="/blog" 
+              className="inline-flex items-center gap-2 text-purple-300 hover:text-white transition"
+            >
+              View all articles →
+            </Link>
+          </div>
+        </div>
+      </section>
+
       {/* Footer */}
       <footer className="px-6 py-12 border-t border-purple-500/10">
-        <div className="max-w-3xl mx-auto text-center">
-          <p className="gradient-text font-semibold text-lg mb-4">
-            Finally, astrology that knows you.
-          </p>
-          <p className="text-purple-300/40 text-sm">
-            © 2026 North Star Astro. All rights reserved.
-          </p>
+        <div className="max-w-5xl mx-auto">
+          <div className="grid md:grid-cols-3 gap-8 mb-8">
+            <div>
+              <h4 className="font-semibold text-white mb-4">North Star Astro</h4>
+              <p className="text-purple-300/60 text-sm">
+                AI-powered astrology readings based on your complete birth chart.
+              </p>
+            </div>
+            <div>
+              <h4 className="font-semibold text-white mb-4">Learn</h4>
+              <ul className="space-y-2 text-sm">
+                <li><Link href="/blog/how-to-read-your-birth-chart" className="text-purple-300/60 hover:text-white transition">Birth Chart Basics</Link></li>
+                <li><Link href="/blog/rising-sign-explained" className="text-purple-300/60 hover:text-white transition">Rising Sign Guide</Link></li>
+                <li><Link href="/blog/zodiac-compatibility-real-way" className="text-purple-300/60 hover:text-white transition">Compatibility</Link></li>
+                <li><Link href="/blog" className="text-purple-300/60 hover:text-white transition">All Articles</Link></li>
+              </ul>
+            </div>
+            <div>
+              <h4 className="font-semibold text-white mb-4">Connect</h4>
+              <ul className="space-y-2 text-sm">
+                <li><a href="https://twitter.com/northstar_astro" target="_blank" rel="noopener noreferrer" className="text-purple-300/60 hover:text-white transition">Twitter</a></li>
+                <li><Link href="/feed.xml" className="text-purple-300/60 hover:text-white transition">RSS Feed</Link></li>
+              </ul>
+            </div>
+          </div>
+          <div className="border-t border-purple-500/10 pt-8 text-center">
+            <p className="text-purple-300/40 text-sm">
+              © 2026 North Star Astro. All rights reserved.
+            </p>
+          </div>
         </div>
       </footer>
     </main>
