@@ -192,6 +192,9 @@ export default function Home() {
             <Link href="/blog" className="text-purple-300/70 hover:text-white transition">
               Blog
             </Link>
+            <Link href="/about" className="text-purple-300/70 hover:text-white transition">
+              About
+            </Link>
             <Link href="#waitlist" className="text-purple-300/70 hover:text-white transition">
               Get Reading
             </Link>

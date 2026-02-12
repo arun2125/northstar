@@ -34,6 +34,9 @@ export default function BlogPage() {
             <Link href="/blog" className="text-white font-medium">
               Blog
             </Link>
+            <Link href="/about" className="text-purple-300/70 hover:text-white transition">
+              About
+            </Link>
           </nav>
         </div>
       </header>

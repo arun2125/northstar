@@ -4,6 +4,7 @@ import { getPostBySlug, getAllSlugs, getAllPosts } from '@/lib/blog';
 import { Metadata } from 'next';
 import Markdown from '@/components/Markdown';
 import TableOfContents from '@/components/TableOfContents';
+import AuthorBio from '@/components/AuthorBio';
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -273,8 +274,11 @@ export default async function BlogPostPage({ params }: PageProps) {
             </section>
           )}
 
+          {/* Author Bio */}
+          <AuthorBio />
+
           {/* CTA */}
-          <div className="mt-16 p-8 bg-gradient-to-r from-purple-900/40 to-pink-900/40 rounded-2xl border border-purple-500/20 text-center">
+          <div className="mt-8 p-8 bg-gradient-to-r from-purple-900/40 to-pink-900/40 rounded-2xl border border-purple-500/20 text-center">
             <h3 className="text-2xl font-bold text-white mb-3">
               Ready for your personal reading?
             </h3>
