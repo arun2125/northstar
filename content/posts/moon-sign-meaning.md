@@ -33,6 +33,8 @@ If you've ever read your horoscope and thought "this doesn't sound like me at al
 
 The Sun is your highlight reel. The Moon is your private journal.
 
+(If you've never related to your Sun sign, [here's why](/blog/why-not-like-your-sun-sign).)
+
 ---
 
 ## Why Moon Signs Are So Accurate

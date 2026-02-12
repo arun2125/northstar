@@ -58,6 +58,8 @@ When someone asks "what's your sign?" this is what they mean. But here's the thi
 
 Your Moon sign is often more accurate for how you actually *experience* life day-to-day. A Capricorn Sun with a Cancer Moon is going to feel very different from a Capricorn Sun with an Aries Moon — even though they have the same "sign."
 
+→ [Deep dive: Your Moon Sign Matters More Than You Think](/blog/moon-sign-meaning)
+
 ### ⬆️ Your Rising Sign (Ascendant)
 
 **What it is:** The zodiac sign that was rising on the eastern horizon at the exact moment you were born.
@@ -65,6 +67,8 @@ Your Moon sign is often more accurate for how you actually *experience* life day
 **What it means:** Your social mask. First impressions. How you appear to others before they really know you.
 
 This is why birth time matters so much. The Rising sign changes roughly every 2 hours, so being born at 6 AM vs 8 AM could give you a completely different vibe.
+
+→ [Deep dive: Rising Sign — The Mask You Wear](/blog/rising-sign-explained)
 
 **Quick example:** Someone with a Leo Sun, Pisces Moon, and Virgo Rising might be confident and dramatic at their core (Leo), emotionally sensitive and dreamy underneath (Pisces), but come across as practical and reserved when you first meet them (Virgo).
 
@@ -89,7 +93,7 @@ Each planet represents a different aspect of your psyche. Think of them as chara
 | ♆ Neptune | Dreams, illusion, spirituality | Where do I dissolve boundaries? |
 | ♇ Pluto | Transformation, power, death/rebirth | Where do I transform completely? |
 
-Each planet sits in a sign (giving it a style) and a house (giving it a life area). More on houses in a sec.
+Each planet sits in a sign (giving it a style) and a house (giving it a life area). More on [the 12 houses](/blog/12-houses-explained) in a sec.
 
 ---
 

@@ -43,7 +43,7 @@ Sun sign compatibility is one piece of a very complex puzzle.
 
 ### 1. Moon Sign Compatibility
 
-If Sun is who you are, Moon is who you live with every day. Moon sign compatibility might matter more than Sun sign compatibility for long-term relationships.
+If Sun is who you are, [Moon is who you live with](/blog/moon-sign-meaning) every day. Moon sign compatibility might matter more than Sun sign compatibility for long-term relationships.
 
 **Moon in the same element** (Fire-Fire, Earth-Earth, Air-Air, Water-Water) usually means you process emotions similarly. You get each other's needs.
 
@@ -53,7 +53,7 @@ If Sun is who you are, Moon is who you live with every day. Moon sign compatibil
 
 ### 2. Venus Sign Compatibility
 
-Venus is how you love. Two people with compatible Venus signs often have similar love languages.
+[Venus is how you love](/blog/venus-sign-how-you-love). Two people with compatible Venus signs often have similar love languages.
 
 Venus in the same sign? You want the same things romantically.
 
