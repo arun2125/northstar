@@ -41,20 +41,31 @@ export default function AboutPage() {
             while making cosmic wisdom accessible.
           </p>
 
-          <h2 className="text-2xl font-bold text-white mt-12 mb-4">Our Philosophy</h2>
+          <h2 className="text-2xl font-bold text-white mt-12 mb-4">Our Philosophy: Three Systems, One Truth</h2>
           <p>
-            Most astrology content falls into two camps: either it's so dumbed-down it's useless 
-            ("Aries are bold!"), or it's so technical it requires a decade of study to understand.
+            Most astrology platforms pick one system and stick to it. Western astrology sites ignore 
+            Vedic wisdom. Vedic sites dismiss Western psychology. And numerology gets treated as a 
+            separate thing entirely.
           </p>
           <p>
-            We take a different approach. Our content is <strong>deep but accessible</strong> — we explain 
-            the actual astrology (signs, houses, aspects, transits) in plain language, with practical 
-            examples you can apply to your own life.
+            We believe <strong>real insight comes from integration</strong>. That's why North Star Astro 
+            combines three ancient wisdom traditions:
           </p>
+          <ul className="space-y-3 my-6">
+            <li>
+              <strong>Western Astrology:</strong> Psychological depth, seasonal cycles, personal growth orientation
+            </li>
+            <li>
+              <strong>Vedic Astrology (Jyotish):</strong> Predictive power, nakshatras, dashas, karmic patterns
+            </li>
+            <li>
+              <strong>Numerology:</strong> Life path insights, personal year cycles, name vibrations
+            </li>
+          </ul>
           <p>
-            We also believe in <strong>honest astrology</strong>. Every sign has shadow sides. Every 
-            placement has challenges. We don't sugarcoat — we give you the full picture so you can 
-            actually grow.
+            When you ask about your Saturn Return, we don't just give you the Western transit interpretation. 
+            We show you how it connects to your Sade Sati in Vedic, and what your Personal Year number says 
+            about the timing. <strong>That depth doesn't exist anywhere else.</strong>
           </p>
 
           <h2 className="text-2xl font-bold text-white mt-12 mb-4">What We Offer</h2>
@@ -76,18 +87,18 @@ export default function AboutPage() {
 
           <h2 className="text-2xl font-bold text-white mt-12 mb-4">Our Expertise</h2>
           <p>
-            North Star Astro combines <strong>traditional astrological knowledge</strong> with 
+            North Star Astro combines <strong>ancient wisdom traditions</strong> with 
             <strong> modern AI technology</strong>. Our content draws from:
           </p>
           <ul className="space-y-2">
-            <li>Classical Western astrology traditions</li>
-            <li>Psychological astrology and depth psychology</li>
-            <li>Modern transit and timing techniques</li>
-            <li>Relationship astrology (synastry and composite charts)</li>
+            <li><strong>Western Astrology:</strong> Liz Greene, Stephen Arroyo, Robert Hand — psychological depth and transit analysis</li>
+            <li><strong>Vedic Astrology:</strong> Classical Jyotish texts, Parashara, B.V. Raman — nakshatras, dashas, and predictive techniques</li>
+            <li><strong>Numerology:</strong> Pythagorean and Chaldean systems — life path, expression, and personal year calculations</li>
+            <li><strong>Integration:</strong> Synthesizing all three systems for comprehensive readings</li>
           </ul>
           <p>
-            We've studied the works of Liz Greene, Stephen Arroyo, Robert Hand, and other foundational 
-            astrologers, and we translate their insights into language anyone can understand.
+            We translate complex esoteric knowledge into language anyone can understand — without 
+            dumbing it down or losing the depth.
           </p>
 
           <h2 className="text-2xl font-bold text-white mt-12 mb-4">Our Commitment</h2>

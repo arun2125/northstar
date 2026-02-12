@@ -205,7 +205,7 @@ export default function Home() {
       {/* Hero Section */}
       <section id="waitlist" className="relative px-6 py-24 md:py-32 max-w-5xl mx-auto text-center">
         <div className="mb-6 text-purple-400 text-sm tracking-widest uppercase">
-          ✦ AI-Powered Astrology ✦
+          ✦ Western · Vedic · Numerology ✦
         </div>
         
         <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
@@ -449,34 +449,34 @@ export default function Home() {
       <section className="px-6 py-20">
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-6 text-white">
-            Meet your AI astrologer
+            Three wisdom systems. One complete picture.
           </h2>
           <p className="text-lg text-purple-200/70 mb-12">
-            We trained an AI on your complete birth chart — sun, moon, rising, all 12 houses, everything.
+            We combine Western astrology, Vedic astrology, and Numerology for insights you can't find anywhere else.
           </p>
           
           <div className="grid md:grid-cols-3 gap-6 text-left">
             <div className="bg-white/5 rounded-xl p-6 border border-purple-500/20">
               <div className="text-3xl mb-4">🌟</div>
-              <h3 className="text-lg font-semibold text-white mb-2">Full Chart Analysis</h3>
+              <h3 className="text-lg font-semibold text-white mb-2">Western Astrology</h3>
               <p className="text-purple-200/60 text-sm">
-                Every planet, every house, every aspect. Not just your sun sign.
+                Psychological depth. Your Sun, Moon, Rising — the full birth chart with modern interpretation.
               </p>
             </div>
             
             <div className="bg-white/5 rounded-xl p-6 border border-purple-500/20">
-              <div className="text-3xl mb-4">💬</div>
-              <h3 className="text-lg font-semibold text-white mb-2">Conversational</h3>
+              <div className="text-3xl mb-4">🕉️</div>
+              <h3 className="text-lg font-semibold text-white mb-2">Vedic Astrology</h3>
               <p className="text-purple-200/60 text-sm">
-                Ask questions in plain language. Get warm, personalized guidance.
+                Ancient predictive power. Nakshatras, Dashas, and karmic insights from Jyotish tradition.
               </p>
             </div>
             
             <div className="bg-white/5 rounded-xl p-6 border border-purple-500/20">
-              <div className="text-3xl mb-4">⚡</div>
-              <h3 className="text-lg font-semibold text-white mb-2">Always Available</h3>
+              <div className="text-3xl mb-4">🔢</div>
+              <h3 className="text-lg font-semibold text-white mb-2">Numerology</h3>
               <p className="text-purple-200/60 text-sm">
-                No booking. No waiting. Your astrologer is ready whenever you need.
+                Life path numbers, personal years, and the hidden meaning in your birth date.
               </p>
             </div>
           </div>
