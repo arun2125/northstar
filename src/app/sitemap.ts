@@ -13,6 +13,19 @@ export default async function sitemap() {
     priority: 0.8,
   }));
 
+  // Hub pages (high priority - key landing pages for each system)
+  const hubPages = [
+    { url: `${baseUrl}/western-astrology`, priority: 0.9 },
+    { url: `${baseUrl}/vedic-astrology`, priority: 0.9 },
+    { url: `${baseUrl}/numerology`, priority: 0.9 },
+    { url: `${baseUrl}/life-path-calculator`, priority: 0.8 },
+    { url: `${baseUrl}/about`, priority: 0.6 },
+  ].map(page => ({
+    ...page,
+    lastModified: new Date(),
+    changeFrequency: 'weekly' as const,
+  }));
+
   return [
     {
       url: baseUrl,
@@ -26,6 +39,7 @@ export default async function sitemap() {
       changeFrequency: 'daily' as const,
       priority: 0.9,
     },
+    ...hubPages,
     ...blogUrls,
   ];
 }
