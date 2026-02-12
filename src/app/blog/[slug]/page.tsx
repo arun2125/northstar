@@ -23,6 +23,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   }
 
   const url = `https://northstarastro.com/blog/${slug}`;
+  const ogImage = `https://northstarastro.com/api/og?title=${encodeURIComponent(post.title)}&description=${encodeURIComponent(post.description)}`;
 
   return {
     title: `${post.title} | North Star Astro`,
@@ -38,11 +39,20 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       authors: [post.author],
       url: url,
       siteName: 'North Star Astro',
+      images: [
+        {
+          url: ogImage,
+          width: 1200,
+          height: 630,
+          alt: post.title,
+        },
+      ],
     },
     twitter: {
       card: 'summary_large_image',
       title: post.title,
       description: post.description,
+      images: [ogImage],
     },
   };
 }

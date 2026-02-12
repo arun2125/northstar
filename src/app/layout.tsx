@@ -4,21 +4,32 @@ import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
 
+const ogImage = "https://northstarastro.com/api/og?title=Your%20Personal%20AI%20Astrologer&description=AI-powered%20readings%20based%20on%20your%20complete%20birth%20chart";
+
 export const metadata: Metadata = {
   title: "North Star Astro — Your Personal AI Astrologer",
   description: "AI-powered readings based on your complete birth chart. Not generic horoscopes. Actual guidance for your stars.",
-  keywords: "astrology, birth chart, horoscope, AI astrology, personalized astrology, zodiac",
+  keywords: "astrology, birth chart, horoscope, AI astrology, personalized astrology, zodiac, moon sign, rising sign, saturn return",
   openGraph: {
     title: "North Star Astro — Your Personal AI Astrologer",
     description: "AI-powered readings based on your complete birth chart. Not generic horoscopes. Actual guidance for your stars.",
     url: "https://northstarastro.com",
     siteName: "North Star Astro",
     type: "website",
+    images: [
+      {
+        url: ogImage,
+        width: 1200,
+        height: 630,
+        alt: "North Star Astro - AI-Powered Astrology",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "North Star Astro — Your Personal AI Astrologer",
     description: "AI-powered readings based on your complete birth chart.",
+    images: [ogImage],
   },
 };
 
