@@ -1,234 +1,145 @@
 ---
 title: "New Moon Intentions: How to Set Them Right"
-description: "New moon intentions aren't magic spells—they're strategic planting. Here's how to set intentions that actually manifest instead of fading by next week."
+description: "Learn how to harness New Moon energy for powerful intention-setting. Practical steps to work with lunar cycles and manifest what you truly want."
 date: "2026-02-12"
 author: "North Star Astro"
-tags: ["moon phases", "manifestation", "new moon"]
+tags: ["new-moon", "manifestation", "lunar-cycle"]
 faq:
-  - question: "What's the difference between new moon intentions and goals?"
-    answer: "Goals are mental and achievement-focused. Intentions are energetic and growth-focused. A goal is 'get promoted.' An intention is 'embody leadership.' The intention creates the conditions for the goal to happen naturally."
-  - question: "How many intentions should I set at each new moon?"
-    answer: "Quality over quantity. 1-3 focused intentions beat 15 vague ones. You want intentions you can actually work with over the next lunar cycle, not a wishlist you'll forget by next week."
-  - question: "Do new moon intentions have to be written down?"
-    answer: "Not required, but highly recommended. Writing makes it real—it moves the intention from abstract thought to concrete form. Plus, you can track what manifests over the 6-month cycle."
-  - question: "What if I miss the exact new moon time?"
-    answer: "You have about 48 hours on either side of the exact new moon to set intentions. The energy is most potent within 8 hours after the new moon, but don't stress about precision. Consistency matters more than perfect timing."
-  - question: "Can I set intentions for other people?"
-    answer: "No. New moon intentions are about YOUR energy and growth. You can't (and shouldn't try to) manifest outcomes for other people—that's manipulation, not magic. Focus on what you can control: yourself."
+  - question: "What's the best time to set New Moon intentions?"
+    answer: "The most potent window is from the exact New Moon to 48 hours after. However, the entire waxing phase (New Moon to Full Moon, about 14 days) supports intention-setting and forward momentum."
+  - question: "How many intentions should I set at each New Moon?"
+    answer: "Quality over quantity. Focus on 1-3 clear, meaningful intentions rather than a long wish list. This keeps your energy focused and your intentions realistic."
+  - question: "Do I need to do a ritual or can I just write them down?"
+    answer: "Writing them down is the minimum—and it works! Rituals add energetic power through focused intention, but simple is often better. What matters most is clarity and feeling connected to your intentions."
+  - question: "What if I miss the exact New Moon timing?"
+    answer: "You haven't missed it. The entire week after the New Moon is still great for setting intentions. The Moon is still waxing (growing), which supports beginnings and building energy."
+  - question: "Should my intentions match the New Moon's zodiac sign?"
+    answer: "It helps! Each New Moon occurs in a different sign, bringing specific themes. Aligning your intentions with that sign's energy gives them extra cosmic support. But if something urgent needs attention, go with what feels right for you."
 ---
 
-## Why Most New Moon Intentions Don't Work
+Every month, like clockwork, the Moon resets. It disappears from the sky, goes dark, and begins again. This is the New Moon—a cosmic blank slate, a moment of pure potential. And if you've been on spiritual or manifestation corners of the internet, you've definitely heard about setting New Moon intentions.
 
-Every new moon, millions of people light candles, write lists, and set intentions for what they want to manifest. Then by the next new moon—or hell, by next week—they've completely forgotten what they wrote. The intentions didn't manifest. They didn't even remember to check.
+But here's what most guides get wrong: New Moon intention-setting isn't about wishing on a cosmic genie. It's not about demanding the universe deliver your dream life in two weeks. It's about aligning your will with natural cycles, planting seeds intentionally, and then doing the work to help them grow.
 
-The problem isn't the new moon. The problem is treating intentions like cosmic Amazon orders: place your request, forget about it, and expect delivery in 2-3 business days. That's not how lunar magic works.
+Let's talk about how to actually set New Moon intentions in a way that works—grounded, practical, and backed by lunar wisdom.
 
-Here's the truth: **new moon intentions are seeds, not spells.** You plant them at the new moon, but then you have to water them, give them light, pull the weeds around them, and nurture them through the entire lunar cycle (and often beyond). The new moon gives you energetic momentum—a cosmic tailwind. But you still have to do the work.
+## Why the New Moon Matters for Intentions
 
-The people who see their intentions manifest aren't the ones with the prettiest journals or the most elaborate rituals. They're the ones who set clear, aligned intentions and then **show up for them** every single day between new moons. They make choices that support the intention. They notice when opportunities aligned with the intention appear and actually take them.
+The Moon's cycle mirrors the rhythm of growth in nature. Seeds planted in darkness push through soil. Projects begun quietly build momentum over time. The New Moon is that fertile void—the moment before the first sprout breaks through.
 
-New moon intentions work when you understand they're not about wishing—they're about **becoming**. You're not asking the universe to give you something. You're declaring who you're becoming and what you're calling in, then aligning your energy and actions with that declaration.
+Energetically, the New Moon represents **new beginnings, fresh starts, and initiation.** It's the inhale before the exhale, the pause before the action. When you set intentions at the New Moon, you're working with that initiating energy rather than against it.
 
-Everything else is just wishful thinking with good lighting.
+Think of it this way: trying to start something new at the Full Moon (when energy is about culmination and release) is like planting seeds during harvest season. It's not impossible, but you're swimming upstream. The New Moon gives you the current in your favor.
 
-## The New Moon Energy: Understanding What You're Working With
+Astrologically, each New Moon happens in a different zodiac sign, bringing specific themes and flavors to that month's reset. A New Moon in fiery Aries supports bold action and independence. A New Moon in nurturing Cancer invites intentions around home and emotional security. Aligning your intentions with the sign's energy amplifies their potency.
 
-The new moon is the darkest phase of the lunar cycle—when the moon is conjunct the Sun and invisible from Earth. Symbolically, it's the moment of pure potential. Nothing's manifest yet, but everything's possible. It's the cosmic blank page, the zero point, the inhale before the exhale.
+## The Difference Between Wishes and Intentions
 
-Energetically, new moons are quiet. There's no dramatic revelation like at the [full moon](/blog/full-moon-rituals). Instead, there's a gentle invitation to begin again, to plant something new, to set a direction for the cycle ahead.
+Here's where most people go wrong: they treat New Moon intentions like vision boards—vague desires for things to magically appear. "I want more money." "I want true love." "I want to be happy."
 
-**Why new moons are powerful for intentions:**
+That's not an intention. That's a wish.
 
-**Alignment with natural cycles:** You're working *with* the moon's growing energy. As the moon waxes (grows) toward full over the next two weeks, your intentions wax with it. You're riding a wave, not swimming against the current.
+**An intention is specific, actionable, and rooted in your agency.** It's not about what you want the universe to do for you—it's about what you're committing to grow, cultivate, or shift in your own life.
 
-**Psychological reset:** New moons mark the end of one cycle and the beginning of another. Psychologically, this creates a natural momentum for change. It's the same reason people set resolutions on New Year's or start diets on Monday—beginnings feel potent.
+Instead of "I want more money," try: "I intend to apply for three higher-paying positions this month and have an honest conversation with my boss about a raise."
 
-**Lower resistance:** The quiet, dark energy of the new moon makes it easier to go inward without distraction. You're less emotionally reactive than during the full moon, so you can set intentions from clarity rather than intensity.
+Instead of "I want true love," try: "I intend to show up authentically on dates and communicate my needs clearly in my relationships."
 
-**Cumulative power:** Each new moon builds on the last. If you work with new moon intentions consistently, you're not starting from scratch every month—you're layering growth upon growth. Over a year, the cumulative effect is massive.
+See the difference? Intentions put you in the driver's seat. They're collaborative with the universe, not passive. You're saying, "This is what I'm planting. I'll tend it. I trust the conditions will support its growth."
 
-The new moon doesn't *make* things happen. It creates optimal conditions for you to plant and grow what you want. That's the difference between magic and manifestation theater.
+The universe can't do your work for you, but it absolutely will meet you halfway when you're clear and committed.
 
-## How to Set New Moon Intentions That Actually Manifest
+## How to Set New Moon Intentions (Step by Step)
 
-Setting effective new moon intentions is both an art and a science. Here's the framework that works:
+**Step 1: Check the New Moon's Sign and House**
 
-### 1. Get Clear on What You Actually Want (Not What You Think You Should Want)
+Look up where the New Moon is happening this month. What sign? What house in your birth chart (if you know it)? This tells you what themes are being activated. For example:
 
-Most people set intentions based on what sounds good or what they think they're supposed to want. Then they wonder why there's no energy behind it.
+- New Moon in **Taurus** = intentions around stability, finances, pleasure, values
+- New Moon in **Gemini** = intentions around communication, learning, connections
+- New Moon in your **7th house** = intentions around partnerships and relationships
+- New Moon in your **10th house** = intentions around career and public life
 
-**Start here:** Ask yourself, *If I knew I couldn't fail and nobody would judge me, what would I actually want for my life right now?* Not in five years, not in some fantasy future—*right now.*
+Aligning your intentions with these themes gives them natural support.
 
-Write down whatever comes up, even if it seems shallow, impossible, or contradictory. You're not committing yet; you're just getting honest.
+**Step 2: Get Clear on What You Actually Want**
 
-**Then refine:** Look at your list. Which items make your body feel expansive and alive when you imagine them? Which ones feel like "should" energy—heavy, obligatory, someone else's dream? Cross out the shoulds. You're only working with the hell-yes items.
+Before you write anything, sit in stillness. Meditate, journal, or simply ask yourself: *What wants to begin? What area of my life is asking for attention?*
 
-**Get specific, but not rigid:** "I want more money" is too vague. "I want to feel financially secure and attract $10K in unexpected income this cycle" is specific. But don't get so attached to the exact form that you miss other ways the universe might deliver. Stay open to the how.
+Don't force it. Don't pick something because it sounds impressive or because you think you "should" want it. Feel into what's genuinely calling you. Sometimes it's big (career change, relationship shift). Sometimes it's small (drink more water, read before bed). Both are valid.
 
-### 2. Frame Intentions as Embodiment, Not Achievement
+The key is that it resonates with you on a gut level, not just a mental level.
 
-Here's the shift that changes everything: stop setting intentions for *outcomes* and start setting them for **who you're becoming.**
+**Step 3: Write Your Intentions in Present or Future Tense**
 
-**Instead of:** "I want to get a promotion."
-**Try:** "I embody leadership and confidence. I'm recognized for my expertise."
+There's power in language. Write your intentions as if they're already unfolding or as clear future commitments.
 
-**Instead of:** "I want to meet my soulmate."
-**Try:** "I'm magnetic to aligned, healthy love. I'm open and ready for partnership."
+Examples:
+- "I am creating space in my schedule for rest and creative play."
+- "I will have a vulnerable conversation with my partner about our future."
+- "I am building a morning routine that supports my mental health."
 
-**Instead of:** "I want to make $100K this year."
-**Try:** "I am a powerful earner. I attract abundant opportunities aligned with my gifts."
+Keep them **positive** (what you want, not what you don't want) and **specific** (clear actions or outcomes, not vague hopes).
 
-See the difference? The first examples are about external circumstances you can't fully control. The second are about internal states and energy you *can* control. When you embody the energy, the circumstances follow. When you chase the circumstances without the embodiment, you're just grinding.
+Aim for 1-3 intentions. More than that and you dilute your focus.
 
-### 3. Align with the New Moon's Zodiac Sign
+**Step 4: Feel Into Them**
 
-Every new moon happens in a different zodiac sign, and that sign flavors the energy. Setting intentions aligned with the sign's themes gives you extra momentum.
+This step is underrated but crucial. After you write your intentions, close your eyes and feel what it would be like if they came to fruition. How would your life feel different? What would shift in your energy, your daily experience, your sense of self?
 
-**Aries New Moon:** Courage, independence, initiation. Intentions around self-assertion, leadership, starting new ventures.
+This isn't "manifesting" in the woo-woo sense—it's priming your nervous system to recognize and move toward what you're calling in. You're creating an energetic blueprint.
 
-**Taurus New Moon:** Stability, sensuality, resources. Intentions around money, physical pleasure, building security, connecting with your body.
+**Step 5: Take One Aligned Action**
 
-**Gemini New Moon:** Communication, learning, connections. Intentions around writing, teaching, networking, mental agility.
+Intentions without action are just pretty words. Within the first week of the New Moon (ideally within 48 hours), take **one concrete step** toward each intention.
 
-**Cancer New Moon:** Home, family, emotional security. Intentions around nurturing, creating sanctuary, deepening emotional intimacy.
+Intending to prioritize rest? Block out time in your calendar. Intending to improve your relationship? Send the text to set up that conversation. Intending to build healthier habits? Buy the vegetables, set the alarm, download the app.
 
-**Leo New Moon:** Creativity, self-expression, joy. Intentions around art, romance, playfulness, stepping into the spotlight.
+This signals to both your subconscious and the universe: *I'm serious. I'm in.*
 
-**Virgo New Moon:** Health, routine, service. Intentions around wellness, organization, daily habits, meaningful work.
+## What to Do During the Waxing Moon Phase
 
-**Libra New Moon:** Partnership, balance, beauty. Intentions around relationships, collaboration, aesthetics, harmony.
+The two weeks between New Moon and Full Moon are your **building period.** The Moon is growing in light, and so is your intention. This is the time to:
 
-**Scorpio New Moon:** Transformation, depth, power. Intentions around shadow work, sexual empowerment, financial mergers, rebirth.
+- **Stay consistent** with actions that support your intentions
+- **Notice opportunities** that align with what you're calling in
+- **Adjust course** if needed—intentions aren't rigid contracts; they can evolve
+- **Track progress** in a journal or notes app so you can see what's working
 
-**Sagittarius New Moon:** Expansion, adventure, meaning. Intentions around travel, education, philosophy, freedom.
+This phase is active. You're nurturing the seeds you planted. You're showing up. You're doing the work.
 
-**Capricorn New Moon:** Ambition, structure, legacy. Intentions around career, long-term goals, discipline, public recognition.
+At the Full Moon, you'll get a checkpoint: What's come to light? What's ready to release? What needs to shift? But we'll save that for another post.
 
-**Aquarius New Moon:** Innovation, community, authenticity. Intentions around individuality, social impact, friendship, breaking molds.
+## Common Mistakes (And How to Avoid Them)
 
-**Pisces New Moon:** Spirituality, compassion, creativity. Intentions around intuition, art, healing, dissolving boundaries.
+**Mistake #1: Setting too many intentions.** Your energy gets scattered. Pick what truly matters and give it your full focus.
 
-Knowing the sign helps you set intentions that work *with* the cosmic weather instead of against it.
+**Mistake #2: Being too vague.** "I want to be healthier" doesn't tell your brain or the universe what to actually do. Get specific: what does healthier look like? What actions will you take?
 
-### 4. Write It Down Like You Mean It
+**Mistake #3: Forgetting about them.** You set intentions, feel inspired for two days, then forget they exist. Write them somewhere visible. Review them weekly. Keep them alive in your awareness.
 
-There's magic in writing. It takes the intention from the ether of your mind and anchors it in the physical realm. Don't skip this step.
+**Mistake #4: Treating them like magic spells.** The New Moon doesn't grant wishes. It supports your efforts. You still have to do the thing.
 
-**The format:** Write your intentions in present tense, as if they're already true. "I am..." or "I have..." or "I easily..."
+**Mistake #5: Ignoring the lunar sign.** Setting career intentions during a Cancer New Moon (which is about home and feelings) isn't wrong, but it's less supported. Work with the cosmic weather, not against it.
 
-**The energy:** Write from a place of certainty and gratitude, not desperation. You're not begging the universe—you're declaring what's yours.
+## The Long Game: Tracking Your Lunar Intentions
 
-**The commitment:** After each intention, write one concrete action you'll take in the next lunar cycle to support it. This is the bridge between intention and manifestation.
+Here's where it gets really interesting. After 3-6 months of setting New Moon intentions, you'll start to notice patterns. Certain themes keep coming up. Certain areas of life are clearly asking for attention. Some intentions manifest quickly; others take multiple cycles.
 
-**Example:**
-*"I am a clear, compelling communicator. My voice is valued and heard. I easily express my ideas with confidence."*
-**Action:** Speak up at least once in every meeting this week. Pitch one article idea to a publication.
+This is valuable information. It shows you where you're resisting growth, where you're aligned, and what your soul is genuinely asking for versus what your ego thinks you should want.
 
-The action step is non-negotiable. Without it, you're just journaling. With it, you're co-creating.
+Keep a running document or journal of your New Moon intentions. Review them at the Full Moon (two weeks later) and again at the next New Moon. Celebrate what's grown. Release what didn't resonate. Recommit to what still matters.
 
-### 5. Feel It (This is the Secret Sauce)
+Over time, you'll develop a relationship with the lunar cycle. You'll feel when the New Moon is approaching because your energy shifts. You'll instinctively know what wants to begin. You'll trust the rhythm.
 
-Here's what separates manifestation from daydreaming: **embodied feeling.** You can write intentions all day, but if you don't *feel* them in your body as already real, they're just words.
+## New Moon Intention-Setting is a Practice, Not Perfection
 
-After writing your intentions, close your eyes. Imagine living the reality where these intentions have manifested. Don't just visualize it—*feel it.* What does your body feel like? What's the energy in your chest, your gut, your cells? Let yourself bask in that feeling for at least 60 seconds per intention.
+You don't need candles, crystals, or a perfectly curated ritual (though if those things help you feel connected, use them). You don't need to wait for the "perfect" New Moon or beat yourself up if you miss one.
 
-This isn't woo-woo—it's neuroscience. Your brain doesn't fully distinguish between vividly imagined experiences and real ones. When you feel the intention as real, you're literally rewiring your nervous system to align with that reality. You become the person who lives that way, and that person makes different choices. Those choices create different outcomes.
+What you need is consistency, clarity, and commitment. Show up each month. Plant your seeds. Tend them. Trust the cycle.
 
-The feeling is the fertilizer for the seed. Don't skip it.
+The Moon will reset every 29.5 days whether you set intentions or not. The question is: will you use that rhythm intentionally, or let it pass you by?
 
-### 6. Release Attachment to the How and When
+New Moon intentions are simply a way of saying, "I'm awake. I'm participating. I'm choosing what I want to grow in my life." And that's the real magic—not in the Moon, but in your conscious collaboration with the cycles that govern all of life.
 
-This is the hardest part for control freaks (I see you): once you've set the intention and taken aligned action, you have to **let go of the outcome.**
-
-Not let go of the *intention*—let go of the specific way and timeline you think it should manifest. The universe is better at orchestration than you are. Your job is to set the direction and stay aligned. The universe's job is to arrange the details.
-
-If you're white-knuckling and obsessively checking for signs of manifestation, you're in scarcity energy, which repels what you want. If you're open, trusting, and taking inspired action when it arises, you're in abundance energy, which attracts.
-
-Set it, work with it, then trust it. That's the flow.
-
-## The Lunar Cycle: How to Tend Your Intentions Month-Long
-
-The new moon is just the beginning. Here's how to work with your intentions through the entire lunar cycle:
-
-**New Moon (Day 1-3):** Set intentions. Write them. Feel them. Take the first aligned action.
-
-**Waxing Crescent (Days 4-7):** Build momentum. What small steps can you take every day that align with your intentions? This is the "show up" phase. Consistency matters more than perfection.
-
-**First Quarter (Days 8-10):** Obstacles or resistance might appear. This is normal. It's the universe testing your commitment. Push through. Adjust your approach if needed, but don't abandon the intention.
-
-**Waxing Gibbous (Days 11-14):** Refinement. You're close to the full moon. Things are building. Keep going. This is often when you start seeing early signs of manifestation—synchronicities, opportunities, shifts.
-
-**Full Moon (Day 15):** The peak. Something related to your intention will likely come to a head—either a breakthrough or a revelation about what needs to be released for the intention to fully manifest. Work with [full moon release rituals](/blog/full-moon-rituals) if something's blocking you.
-
-**Waning Gibbous (Days 16-18):** Integration. What did the full moon reveal? How can you adjust your approach based on that information? This is wisdom-gathering time.
-
-**Last Quarter (Days 19-21):** Let go of what's not working. If an approach isn't serving the intention, release it. This is a mini-release phase within the cycle.
-
-**Waning Crescent (Days 22-29):** Rest and reflect. How did this cycle go? What manifested? What shifted? What are you carrying into the next new moon? This is essential for cumulative growth.
-
-**Next New Moon:** Review your intentions from last month. What manifested? What's still in process? What's ready to be released or revised? Set new intentions building on what you learned.
-
-Working with the full cycle instead of just the new moon is what separates people who manifest consistently from people who set intentions and forget them.
-
-## Common New Moon Intention Mistakes (And How to Avoid Them)
-
-Even when people understand the theory, they still make predictable mistakes. Here's what to watch for:
-
-**Mistake #1: Setting Too Many Intentions.** Fifteen intentions means zero focus. Pick 1-3 max. You want depth, not breadth. One powerful intention you actually work with beats ten you ignore.
-
-**Mistake #2: Intentions That Are Actually Goals.** "Get a promotion" is a goal. "Embody leadership and magnetize recognition" is an intention. The intention creates the energy that makes the goal possible. Start with energy, not outcomes.
-
-**Mistake #3: No Follow-Through.** You can't set intentions once a month and ignore them the rest of the time. Check in with them weekly. Ask yourself: what aligned action can I take today? Am I living like someone who has already manifested this?
-
-**Mistake #4: Setting Intentions for Other People.** You can't manifest your partner changing, your boss promoting you, or your friend apologizing. You can only set intentions for YOUR energy, YOUR growth, YOUR alignment. When you change, the world around you responds—but you can't control how.
-
-**Mistake #5: Skipping the Feeling Part.** Writing intentions without embodying them is like planting seeds without water. The feeling is what activates the intention energetically. Don't rush this.
-
-**Mistake #6: Giving Up After One Cycle.** Some intentions manifest in one lunar cycle. Others take six months (new moon to full moon in the same sign) or longer. If it doesn't happen immediately, that doesn't mean it's not working. Keep tending the intention across cycles.
-
-**Mistake #7: Staying in Your Comfort Zone.** New moon intentions should stretch you a little. If they feel totally safe and easy, you're probably not aiming high enough. The best intentions make you slightly uncomfortable—that's how you know you're growing.
-
-Avoiding these traps puts you way ahead of most people doing new moon work.
-
-## Advanced Practice: The 6-Month Manifestation Arc
-
-Here's a practice for people ready to go deeper: every new moon plants a seed that reaches full bloom at the **full moon in the same sign six months later.**
-
-For example: If you set intentions at a Gemini new moon (late May/early June), those intentions reach their peak manifestation at the Sagittarius full moon (late November/early December)—because Gemini and Sagittarius are opposite signs.
-
-**How to use this:**
-
-1. **At the new moon:** Set clear intentions aligned with that sign's themes.
-2. **Track the cycle:** Each month, revisit those intentions. What's building? What's shifting?
-3. **At the full moon in the opposite sign (6 months later):** Look back. What manifested? What came full circle? What's being completed or released?
-
-This creates a longer arc of manifestation work. Some things take time to build, and the 6-month cycle honors that. It also helps you see patterns in how your intentions unfold over time.
-
-If you're serious about new moon work, tracking the 6-month arcs will blow your mind. You'll start seeing how the universe orchestrates things on timelines you couldn't have planned.
-
-## New Moon Intentions in Your Personal Chart
-
-If you know your birth chart, you can get even more specific by seeing which *house* the new moon activates for you. This tells you where in your life the new moon's planting energy is focused.
-
-Check which house the new moon falls in, and tailor your intentions accordingly:
-
-**1st House:** Self-image, identity, new beginnings in how you show up.
-**2nd House:** Money, values, self-worth, material security.
-**3rd House:** Communication, learning, siblings, local community.
-**4th House:** Home, family, emotional foundation, private life.
-**5th House:** Creativity, romance, pleasure, children, self-expression.
-**6th House:** Health, work, daily routines, service.
-**7th House:** Partnerships (romantic and business), one-on-one relationships.
-**8th House:** Shared resources, intimacy, transformation, depth.
-**9th House:** Travel, higher education, philosophy, expansion.
-**10th House:** Career, public image, ambition, legacy.
-**11th House:** Friendship, community, long-term goals, social impact.
-**12th House:** Spirituality, solitude, subconscious, healing.
-
-Knowing the house helps you set intentions that work with your personal cosmic weather, not just the general energy. If the new moon is in your 10th house, for example, that's prime time for career intentions. If it's in your 4th, focus on home and emotional grounding.
-
-Layer this with [your rising sign](/blog/rising-sign-meaning) and you've got a personalized roadmap for each new moon.
-
----
-
-New moon intentions aren't magic tricks—they're strategic planting. You set the direction, embody the energy, take aligned action, and trust the process. Do that consistently, cycle after cycle, and you won't need to wonder if manifestation is real. You'll be living proof.
+So next New Moon, grab a pen. Get clear. Write it down. Take one step. And watch what grows.
