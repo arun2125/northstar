@@ -189,6 +189,9 @@ export default function Home() {
             North Star Astro
           </Link>
           <nav className="flex gap-4 md:gap-6 text-sm md:text-base">
+            <Link href="/western-astrology" className="text-purple-300/70 hover:text-white transition">
+              Western
+            </Link>
             <Link href="/vedic-astrology" className="text-purple-300/70 hover:text-white transition">
               Vedic
             </Link>

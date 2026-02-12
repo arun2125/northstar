@@ -22,10 +22,22 @@ export default function NumerologyPage() {
           <Link href="/" className="text-xl font-bold gradient-text">
             North Star Astro
           </Link>
-          <nav className="flex gap-6">
-            <Link href="/" className="text-purple-300/70 hover:text-white transition">Home</Link>
-            <Link href="/blog" className="text-purple-300/70 hover:text-white transition">Blog</Link>
-            <Link href="/about" className="text-purple-300/70 hover:text-white transition">About</Link>
+          <nav className="flex gap-4 md:gap-6 text-sm md:text-base">
+            <Link href="/western-astrology" className="text-purple-300/70 hover:text-white transition">
+              Western
+            </Link>
+            <Link href="/vedic-astrology" className="text-purple-300/70 hover:text-white transition">
+              Vedic
+            </Link>
+            <Link href="/numerology" className="text-white font-medium">
+              Numerology
+            </Link>
+            <Link href="/blog" className="text-purple-300/70 hover:text-white transition">
+              Blog
+            </Link>
+            <Link href="/about" className="text-purple-300/70 hover:text-white transition">
+              About
+            </Link>
           </nav>
         </div>
       </header>
