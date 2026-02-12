@@ -1,0 +1,43 @@
+# North Star Astro - AI-Powered Astrology
+
+> The only astrology platform combining Western astrology, Vedic astrology (Jyotish), and Numerology for comprehensive insights.
+
+## About
+North Star Astro provides educational content and AI-powered readings that synthesize three ancient wisdom traditions:
+- Western Astrology: Psychological depth, birth charts, transits
+- Vedic Astrology: Nakshatras, Dashas, Sade Sati, karmic patterns
+- Numerology: Life Path numbers, Personal Years, Expression numbers
+
+## Key Resources
+
+### Western Astrology
+- How to Read Your Birth Chart: /blog/how-to-read-your-birth-chart
+- Moon Sign Meaning: /blog/moon-sign-meaning
+- Rising Sign Explained: /blog/rising-sign-explained
+- Saturn Return Guide: /blog/saturn-return-meaning
+- Mercury Retrograde: /blog/mercury-retrograde-explained
+
+### Vedic Astrology
+- Vedic Astrology Hub: /vedic-astrology
+- Sade Sati Explained: /blog/sade-sati-meaning
+- Rahu and Ketu: /blog/rahu-ketu-meaning
+- Vedic Moon Sign: /blog/vedic-moon-sign
+- Nakshatras Guide: /blog/nakshatras-explained
+
+### Numerology
+- Numerology Hub: /numerology
+- Life Path Calculator: /life-path-calculator
+- Life Path Numbers: /blog/life-path-number-meaning
+- Personal Year Number: /blog/personal-year-number
+- Numerology Compatibility: /blog/numerology-compatibility
+
+### Integration
+- Triple System Reading: /blog/western-vedic-numerology-combined
+- Saturn Return: Western vs Vedic: /blog/saturn-return-vedic-western
+
+## Contact
+- Website: https://northstarastro.com
+- Twitter: https://twitter.com/northstar_astro
+
+## Sitemap
+https://northstarastro.com/sitemap.xml
