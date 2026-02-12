@@ -4,6 +4,17 @@ description: "Discover your Moon sign meaning and why it matters more than your 
 date: "2026-02-12"
 author: "North Star Astro"
 tags: ["moon sign", "emotional astrology", "birth chart basics"]
+faq:
+  - question: "How do I find my Moon sign?"
+    answer: "You need your birth date, exact birth time, and birth location. Use a free birth chart calculator at astro.com or cafeastrology.com. Your Moon sign changes every 2-3 days, so birth time matters for accuracy."
+  - question: "Why is Moon sign more accurate than Sun sign?"
+    answer: "Your Moon sign reflects your emotional core, instincts, and inner self — how you actually feel day-to-day. Your Sun sign is who you're becoming over time. Most people relate more to their Moon sign because it describes their private, unfiltered self."
+  - question: "Can my Sun and Moon sign be the same?"
+    answer: "Yes! This is called a 'double' (like 'double Aries'). It means your core identity and emotional nature align closely. You may feel very in tune with your sign's traits, but can also be 'extra' in those qualities."
+  - question: "Should I read horoscopes for my Moon sign?"
+    answer: "Yes, especially for emotional and relationship matters. Many astrologers recommend reading for both your Sun and Moon signs to get the full picture. Rising sign horoscopes are also highly accurate for timing."
+  - question: "What if I don't relate to my Moon sign?"
+    answer: "Check your Moon's house placement and aspects to other planets — these modify how your Moon expresses. A Moon square Saturn will feel very different from a Moon trine Jupiter, even in the same sign."
 ---
 
 You know your Sun sign. Everyone does. It's the first thing people ask about and the first thing astrology columns address.

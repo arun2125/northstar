@@ -4,6 +4,17 @@ description: "The 12 houses in astrology explained simply. Learn what each house
 date: "2026-02-12"
 author: "North Star Astro"
 tags: ["houses", "birth chart basics", "astrology fundamentals"]
+faq:
+  - question: "Why do I need birth time for houses?"
+    answer: "The houses are determined by the exact degree of the eastern horizon at your birth moment, which changes every 4 minutes. Without accurate birth time, your house placements could be completely wrong, even if your planet signs are correct."
+  - question: "What if I have empty houses in my birth chart?"
+    answer: "Empty houses are normal and don't mean that life area is unimportant. The sign on the cusp and its ruling planet still influence that house. Most people have 4-6 empty houses — planets cluster, they don't spread evenly."
+  - question: "What's the most important house in astrology?"
+    answer: "The 1st house (Rising sign) is foundational as it sets up all other houses. The 10th house (career/public image) and 7th house (relationships) are also major. But the 'most important' depends on your life priorities and where your planets fall."
+  - question: "What does it mean to have many planets in one house?"
+    answer: "A stellium (3+ planets in one house) means that life area is a major focus for you. It can indicate both gifts and challenges. Someone with a 7th house stellium will have relationships as a central life theme, for better or worse."
+  - question: "Do the houses change during your life?"
+    answer: "Your natal houses never change, but transiting planets move through your houses constantly, activating different life areas. When Saturn transits your 10th house, career becomes a focus. This is how timing works in astrology."
 ---
 
 So you've got planets in signs. Great. But where do they actually play out in your life?

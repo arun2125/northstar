@@ -4,6 +4,17 @@ description: "What's your Mars sign? Learn how you take action, express anger, a
 date: "2026-02-12"
 author: "North Star Astro"
 tags: ["mars sign", "astrology basics", "motivation"]
+faq:
+  - question: "How do I find my Mars sign?"
+    answer: "Use a free birth chart calculator at astro.com or cafeastrology.com. You only need your birth date since Mars stays in each sign for about 6-7 weeks. Birth time and location refine the house placement but aren't required for the sign."
+  - question: "What does Mars represent in astrology?"
+    answer: "Mars represents your drive, ambition, how you take action, express anger, compete, and pursue what you want. It also rules physical energy, sexuality, and how you fight — both literally and metaphorically."
+  - question: "Is Mars sign important for compatibility?"
+    answer: "Yes, especially for physical chemistry and how you handle conflict. Mars-Mars aspects between charts show if you'll motivate each other or constantly clash. Mars-Venus connections indicate sexual attraction."
+  - question: "What's the difference between Mars and Sun sign?"
+    answer: "Your Sun sign is your core identity and ego. Your Mars sign is how you take action and go after what you want. A calm Taurus Sun with Mars in Aries will still be surprisingly assertive and quick to act when motivated."
+  - question: "Why is my Mars sign different from my Sun sign?"
+    answer: "Mars travels independently of the Sun and takes about 2 years to go through all 12 signs. It's common and normal for Mars to be in a completely different sign than your Sun. This creates complexity in your personality."
 ---
 
 Everyone has fire in them. Mars is where yours lives.

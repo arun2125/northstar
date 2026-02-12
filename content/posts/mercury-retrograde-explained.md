@@ -4,6 +4,17 @@ description: "Mercury Retrograde explained simply. Learn what it actually means,
 date: "2026-02-12"
 author: "North Star Astro"
 tags: ["mercury retrograde", "planetary transits", "astrology basics"]
+faq:
+  - question: "How often does Mercury go retrograde?"
+    answer: "Mercury goes retrograde 3-4 times per year, lasting about 3 weeks each time. In total, Mercury is retrograde for roughly 20% of the year — it's not rare or unusual."
+  - question: "Is Mercury actually moving backward during retrograde?"
+    answer: "No, Mercury never actually moves backward. Retrograde is an optical illusion caused by Mercury 'lapping' Earth in its faster orbit around the Sun. It just appears to move backward from our perspective."
+  - question: "Should I avoid signing contracts during Mercury retrograde?"
+    answer: "The advice to avoid contracts is exaggerated. Just read carefully, double-check details, and allow for flexibility. Many successful deals are signed during retrograde. The key is being thorough, not avoidant."
+  - question: "Why do exes come back during Mercury retrograde?"
+    answer: "Mercury rules communication and the past. Retrograde periods are associated with revisiting, reviewing, and re-connecting. Whether exes actually appear more often is debatable — you might just notice it more."
+  - question: "Does Mercury retrograde affect everyone the same way?"
+    answer: "No. It affects you more if Mercury rules your Rising sign (Gemini or Virgo Rising), if you have strong Gemini/Virgo placements, or if retrograde falls in an important house in your chart. Check your natal chart for personal impact."
 ---
 
 Every few months, the internet loses its mind about Mercury Retrograde. Texts go wrong. Exes come back. Flights get delayed. Contracts fall through. 

@@ -4,6 +4,17 @@ description: "Don't relate to your Sun sign? Here's why. Learn about Moon signs,
 date: "2026-02-12"
 author: "North Star Astro"
 tags: ["sun sign", "birth chart", "astrology basics"]
+faq:
+  - question: "Why don't I relate to my zodiac sign?"
+    answer: "Your Sun sign is only one piece of your birth chart. Your Moon sign, Rising sign, and other planetary placements all shape your personality. Many people relate more to their Moon or Rising sign than their Sun sign."
+  - question: "What should I read instead of my Sun sign horoscope?"
+    answer: "Try reading horoscopes for your Rising sign (most accurate for timing/events) and Moon sign (best for emotional matters). Reading all three gives you the fullest picture. You need your birth time to know your Rising sign."
+  - question: "Is Sun sign astrology fake?"
+    answer: "Not fake, just incomplete. Sun sign astrology is real astrology simplified for mass consumption. It works as a general guide but can't capture individual complexity. Full birth chart astrology is far more accurate and personalized."
+  - question: "What if I was born on the cusp between two signs?"
+    answer: "Cusps don't exist in traditional astrology — you're one sign or the other based on the exact degree of the Sun at your birth. But being born near a sign change might mean other planets are in the neighboring sign, adding those qualities to your chart."
+  - question: "Which placement is the 'real' me?"
+    answer: "All of them are the real you. Your Sun is your core identity, Moon is your emotional self, Rising is how others see you. Think of it like different facets of a diamond — each angle reveals something true. You contain multitudes."
 ---
 
 "I'm a Virgo, but I don't relate to Virgo at all."

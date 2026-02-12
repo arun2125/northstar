@@ -4,6 +4,17 @@ description: "Find your life purpose with North Node astrology. Learn what your 
 date: "2026-02-12"
 author: "North Star Astro"
 tags: ["north node", "south node", "life purpose", "karmic astrology"]
+faq:
+  - question: "What's the difference between North Node and South Node?"
+    answer: "North Node represents what you're growing toward — your soul's purpose this lifetime. South Node (always opposite) represents what you're coming from — past life skills and patterns. North Node feels challenging but fulfilling; South Node feels comfortable but limiting."
+  - question: "How do I find my North Node sign?"
+    answer: "Use a free birth chart calculator at astro.com or cafeastrology.com. You only need your birth date — the Nodes move slowly, staying in each sign for about 18 months. Birth time helps with house placement but isn't required for the sign."
+  - question: "Why does my North Node feel so uncomfortable?"
+    answer: "Your North Node represents unfamiliar territory — qualities you're meant to develop but haven't mastered yet. It's supposed to feel awkward at first. Growth happens outside your comfort zone. The discomfort is a sign you're on the right path."
+  - question: "Are North Node and life purpose the same thing?"
+    answer: "In astrology, yes — the North Node is considered your soul's purpose or karmic direction. It shows what you're here to learn and become, not what you're already good at. It's less about career and more about personal evolution."
+  - question: "Does everyone with the same North Node sign have the same purpose?"
+    answer: "The sign shows the general theme, but the house placement personalizes it. North Node in Leo in the 10th house plays out differently than North Node in Leo in the 4th house. Aspects to the Node also modify its expression significantly."
 ---
 
 What are you here to learn?

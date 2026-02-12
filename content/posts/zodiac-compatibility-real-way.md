@@ -4,6 +4,17 @@ description: "Real zodiac compatibility explained. Learn how astrologers check s
 date: "2026-02-12"
 author: "North Star Astro"
 tags: ["compatibility", "synastry", "relationships", "love astrology"]
+faq:
+  - question: "Is Sun sign compatibility accurate?"
+    answer: "Sun sign compatibility is a starting point but very incomplete. Real compatibility (synastry) compares entire birth charts — especially Moon, Venus, and Mars placements. Two 'incompatible' Sun signs can have amazing chemistry through other placements."
+  - question: "What planets matter most for relationship compatibility?"
+    answer: "Moon signs for emotional compatibility and feeling 'at home' together. Venus signs for love style and what you value. Mars signs for physical chemistry and how you handle conflict. The aspects between these planets matter more than the signs alone."
+  - question: "Can incompatible signs have good relationships?"
+    answer: "Absolutely. Sun sign compatibility charts are oversimplified. A Taurus and Sagittarius might clash on paper but have harmonious Moon signs that create deep emotional understanding. Look at the full synastry chart, not just Sun signs."
+  - question: "What is synastry in astrology?"
+    answer: "Synastry is the comparison of two birth charts to assess relationship compatibility. Astrologers look at how planets in one chart aspect (connect to) planets in the other chart. It reveals chemistry, challenges, and growth potential between two people."
+  - question: "What's the worst aspect for compatibility?"
+    answer: "There's no single 'worst' aspect — it depends on the planets involved. Mars square Mars can create conflict but also passion. Saturn aspects can feel limiting but provide stability. Even challenging aspects can work with awareness and effort."
 ---
 
 You've seen the articles. "Are Aries and Libra compatible?" "Best matches for Scorpio."

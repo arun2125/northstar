@@ -4,6 +4,17 @@ description: "What is your Rising Sign (Ascendant)? Learn how it shapes your app
 date: "2026-02-12"
 author: "North Star Astro"
 tags: ["rising sign", "ascendant", "birth chart basics"]
+faq:
+  - question: "Why don't I know my Rising sign like I know my Sun sign?"
+    answer: "Your Rising sign requires your exact birth time because it changes every 2 hours. Without birth time, it can't be calculated. That's why most people only know their Sun sign — it just needs your birth date."
+  - question: "Is Rising sign the same as Ascendant?"
+    answer: "Yes, Rising sign and Ascendant are the same thing. 'Ascendant' is the technical term — it's the sign that was ascending (rising) on the eastern horizon when you were born."
+  - question: "Should I read horoscopes for my Rising sign?"
+    answer: "Many astrologers say Rising sign horoscopes are the most accurate for timing and events. Your Rising sign determines your house placements, which is what horoscopes are actually based on. Try reading for both Sun and Rising."
+  - question: "Does my Rising sign affect my appearance?"
+    answer: "Traditional astrology says yes — each Rising sign is associated with certain physical features and mannerisms. While not scientifically proven, many people find striking similarities between their appearance and their Rising sign's characteristics."
+  - question: "Can your Rising sign change?"
+    answer: "No, your Rising sign is fixed at birth and never changes. However, the ruler of your Rising sign's movements can bring different themes to the foreground at different times in your life."
 ---
 
 "You don't seem like a [your Sun sign]."
