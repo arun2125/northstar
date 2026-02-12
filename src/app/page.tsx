@@ -188,15 +188,18 @@ export default function Home() {
           <Link href="/" className="text-xl font-bold gradient-text">
             North Star Astro
           </Link>
-          <nav className="flex gap-6">
+          <nav className="flex gap-4 md:gap-6 text-sm md:text-base">
+            <Link href="/vedic-astrology" className="text-purple-300/70 hover:text-white transition">
+              Vedic
+            </Link>
+            <Link href="/numerology" className="text-purple-300/70 hover:text-white transition">
+              Numerology
+            </Link>
             <Link href="/blog" className="text-purple-300/70 hover:text-white transition">
               Blog
             </Link>
             <Link href="/about" className="text-purple-300/70 hover:text-white transition">
               About
-            </Link>
-            <Link href="#waitlist" className="text-purple-300/70 hover:text-white transition">
-              Get Reading
             </Link>
           </nav>
         </div>
@@ -433,15 +436,28 @@ export default function Home() {
       <section className="px-6 py-20 bg-gradient-to-b from-transparent to-purple-950/20">
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="text-3xl md:text-4xl font-bold mb-6 text-white">
-            Tired of generic horoscopes?
+            Why settle for one perspective?
           </h2>
           <p className="text-lg text-purple-200/70 mb-8">
-            &quot;Today is a good day for Leos&quot; — yeah, you and 600 million other people.
+            Most astrology apps give you Western OR Vedic. We give you both — plus Numerology.
           </p>
-          <p className="text-purple-200/60">
-            Real astrology is personal. Your birth chart is unique — the exact position of every planet 
-            at the moment you were born. That&apos;s what shapes you.
-          </p>
+          <div className="grid md:grid-cols-3 gap-4 text-left mt-8">
+            <div className="bg-white/5 rounded-lg p-4 border border-purple-500/10">
+              <p className="text-purple-300/80 text-sm">
+                <strong className="text-white">Western alone?</strong> Great psychology, but misses predictive timing and karmic patterns.
+              </p>
+            </div>
+            <div className="bg-white/5 rounded-lg p-4 border border-purple-500/10">
+              <p className="text-purple-300/80 text-sm">
+                <strong className="text-white">Vedic alone?</strong> Powerful predictions, but can feel fatalistic without psychological context.
+              </p>
+            </div>
+            <div className="bg-white/5 rounded-lg p-4 border border-purple-500/10">
+              <p className="text-purple-300/80 text-sm">
+                <strong className="text-white">Together?</strong> The complete picture — psychology, prediction, and life path combined.
+              </p>
+            </div>
+          </div>
         </div>
       </section>
 
@@ -483,21 +499,70 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Explore Systems Section */}
+      <section className="px-6 py-20">
+        <div className="max-w-4xl mx-auto">
+          <div className="text-center mb-12">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4 text-white">
+              Explore Each System
+            </h2>
+            <p className="text-purple-200/70">
+              Deep-dive guides and free tools
+            </p>
+          </div>
+          
+          <div className="grid md:grid-cols-3 gap-6">
+            <Link href="/vedic-astrology" className="group block bg-gradient-to-br from-orange-900/20 to-purple-900/20 rounded-xl border border-orange-500/20 p-6 hover:border-orange-500/40 transition">
+              <div className="text-3xl mb-3">🕉️</div>
+              <h3 className="font-semibold text-white group-hover:text-orange-300 transition mb-2">
+                Vedic Astrology
+              </h3>
+              <p className="text-purple-200/60 text-sm mb-4">
+                Nakshatras, Dashas, Sade Sati, and ancient Jyotish wisdom.
+              </p>
+              <span className="text-orange-400 text-sm">Explore Vedic →</span>
+            </Link>
+            
+            <Link href="/numerology" className="group block bg-gradient-to-br from-blue-900/20 to-purple-900/20 rounded-xl border border-blue-500/20 p-6 hover:border-blue-500/40 transition">
+              <div className="text-3xl mb-3">🔢</div>
+              <h3 className="font-semibold text-white group-hover:text-blue-300 transition mb-2">
+                Numerology
+              </h3>
+              <p className="text-purple-200/60 text-sm mb-4">
+                Life Path, Expression, Soul Urge, and Personal Year numbers.
+              </p>
+              <span className="text-blue-400 text-sm">Explore Numbers →</span>
+            </Link>
+            
+            <Link href="/life-path-calculator" className="group block bg-gradient-to-br from-pink-900/20 to-purple-900/20 rounded-xl border border-pink-500/20 p-6 hover:border-pink-500/40 transition">
+              <div className="text-3xl mb-3">✨</div>
+              <h3 className="font-semibold text-white group-hover:text-pink-300 transition mb-2">
+                Life Path Calculator
+              </h3>
+              <p className="text-purple-200/60 text-sm mb-4">
+                Discover your numerology Life Path number instantly.
+              </p>
+              <span className="text-pink-400 text-sm">Calculate Free →</span>
+            </Link>
+          </div>
+        </div>
+      </section>
+
       {/* Blog Preview Section */}
       <section className="px-6 py-20 bg-gradient-to-b from-transparent to-purple-950/20">
         <div className="max-w-4xl mx-auto">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold mb-4 text-white">
-              Learn Astrology
+              Start Learning
             </h2>
             <p className="text-purple-200/70">
-              Free guides to understanding your birth chart
+              50+ free guides across all three systems
             </p>
           </div>
           
           <div className="grid md:grid-cols-3 gap-6">
             <Link href="/blog/how-to-read-your-birth-chart" className="group block bg-white/5 rounded-xl border border-purple-500/20 p-6 hover:bg-white/10 hover:border-purple-500/40 transition">
-              <div className="text-2xl mb-3">📊</div>
+              <div className="text-xs text-purple-400 mb-2">WESTERN</div>
               <h3 className="font-semibold text-white group-hover:text-purple-300 transition mb-2">
                 How to Read Your Birth Chart
               </h3>
@@ -506,23 +571,23 @@ export default function Home() {
               </p>
             </Link>
             
-            <Link href="/blog/moon-sign-meaning" className="group block bg-white/5 rounded-xl border border-purple-500/20 p-6 hover:bg-white/10 hover:border-purple-500/40 transition">
-              <div className="text-2xl mb-3">🌙</div>
+            <Link href="/vedic-astrology" className="group block bg-white/5 rounded-xl border border-purple-500/20 p-6 hover:bg-white/10 hover:border-purple-500/40 transition">
+              <div className="text-xs text-orange-400 mb-2">VEDIC</div>
               <h3 className="font-semibold text-white group-hover:text-purple-300 transition mb-2">
-                Your Moon Sign Explained
+                Introduction to Jyotish
               </h3>
               <p className="text-purple-200/60 text-sm">
-                Why your Moon sign matters more than you think.
+                Nakshatras, Dashas, and the sidereal zodiac explained.
               </p>
             </Link>
             
-            <Link href="/blog/saturn-return-meaning" className="group block bg-white/5 rounded-xl border border-purple-500/20 p-6 hover:bg-white/10 hover:border-purple-500/40 transition">
-              <div className="text-2xl mb-3">🪐</div>
+            <Link href="/numerology" className="group block bg-white/5 rounded-xl border border-purple-500/20 p-6 hover:bg-white/10 hover:border-purple-500/40 transition">
+              <div className="text-xs text-blue-400 mb-2">NUMEROLOGY</div>
               <h3 className="font-semibold text-white group-hover:text-purple-300 transition mb-2">
-                Saturn Return Survival Guide
+                Your Life Path Number
               </h3>
               <p className="text-purple-200/60 text-sm">
-                Why ages 27-30 feel so intense (and what to do about it).
+                Calculate and understand your most important number.
               </p>
             </Link>
           </div>
@@ -532,7 +597,7 @@ export default function Home() {
               href="/blog" 
               className="inline-flex items-center gap-2 text-purple-300 hover:text-white transition"
             >
-              View all articles →
+              View all 50+ articles →
             </Link>
           </div>
         </div>
@@ -541,20 +606,29 @@ export default function Home() {
       {/* Footer */}
       <footer className="px-6 py-12 border-t border-purple-500/10">
         <div className="max-w-5xl mx-auto">
-          <div className="grid md:grid-cols-3 gap-8 mb-8">
+          <div className="grid md:grid-cols-4 gap-8 mb-8">
             <div>
               <h4 className="font-semibold text-white mb-4">North Star Astro</h4>
               <p className="text-purple-300/60 text-sm">
-                AI-powered astrology readings based on your complete birth chart.
+                Western + Vedic + Numerology — three systems, one complete picture.
               </p>
+            </div>
+            <div>
+              <h4 className="font-semibold text-white mb-4">Explore</h4>
+              <ul className="space-y-2 text-sm">
+                <li><Link href="/vedic-astrology" className="text-purple-300/60 hover:text-white transition">Vedic Astrology</Link></li>
+                <li><Link href="/numerology" className="text-purple-300/60 hover:text-white transition">Numerology</Link></li>
+                <li><Link href="/life-path-calculator" className="text-purple-300/60 hover:text-white transition">Life Path Calculator</Link></li>
+                <li><Link href="/blog" className="text-purple-300/60 hover:text-white transition">All Articles</Link></li>
+              </ul>
             </div>
             <div>
               <h4 className="font-semibold text-white mb-4">Learn</h4>
               <ul className="space-y-2 text-sm">
                 <li><Link href="/blog/how-to-read-your-birth-chart" className="text-purple-300/60 hover:text-white transition">Birth Chart Basics</Link></li>
-                <li><Link href="/blog/rising-sign-explained" className="text-purple-300/60 hover:text-white transition">Rising Sign Guide</Link></li>
-                <li><Link href="/blog/zodiac-compatibility-real-way" className="text-purple-300/60 hover:text-white transition">Compatibility</Link></li>
-                <li><Link href="/blog" className="text-purple-300/60 hover:text-white transition">All Articles</Link></li>
+                <li><Link href="/blog/moon-sign-meaning" className="text-purple-300/60 hover:text-white transition">Moon Signs</Link></li>
+                <li><Link href="/blog/saturn-return-meaning" className="text-purple-300/60 hover:text-white transition">Saturn Return</Link></li>
+                <li><Link href="/about" className="text-purple-300/60 hover:text-white transition">About Us</Link></li>
               </ul>
             </div>
             <div>
