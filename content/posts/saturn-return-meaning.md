@@ -4,6 +4,17 @@ description: "What is Saturn Return? Learn why ages 27-30 feel so hard, what Sat
 date: "2026-02-12"
 author: "North Star Astro"
 tags: ["saturn return", "life transitions", "cosmic timing"]
+faq:
+  - question: "What age does Saturn Return happen?"
+    answer: "Your first Saturn Return occurs roughly between ages 27-30. The second happens around ages 57-60, and the third (if you live that long) around 87-90. The exact timing depends on Saturn's position in your birth chart."
+  - question: "How long does Saturn Return last?"
+    answer: "Saturn Return typically lasts about 2.5 years, though the most intense period is usually 6-12 months when Saturn is closest to its exact natal position. Effects can be felt about a year before and after the exact return."
+  - question: "Why is Saturn Return so difficult?"
+    answer: "Saturn represents structure, discipline, and accountability. During your return, Saturn 'audits' your life — anything built on shaky foundations gets challenged. It forces you to grow up and make mature decisions about career, relationships, and identity."
+  - question: "How do I find when my Saturn Return is?"
+    answer: "You'll need your birth chart to see which sign and degree Saturn was in when you were born. Then check an ephemeris or use an online Saturn Return calculator to find when Saturn returns to that exact position."
+  - question: "What should I do during my Saturn Return?"
+    answer: "Accept responsibility, make necessary changes, and don't resist the lessons. This isn't the time for shortcuts. Focus on building sustainable foundations in your career, relationships, and personal growth. What you build now will last the next 29 years."
 ---
 
 If you're between 27 and 30 and your life feels like it's falling apart — congratulations. You're probably going through your Saturn Return.

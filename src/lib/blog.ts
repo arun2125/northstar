@@ -5,6 +5,11 @@ import readingTime from 'reading-time';
 
 const postsDirectory = path.join(process.cwd(), 'content/posts');
 
+export interface FAQItem {
+  question: string;
+  answer: string;
+}
+
 export interface BlogPost {
   slug: string;
   title: string;
@@ -15,6 +20,7 @@ export interface BlogPost {
   image?: string;
   readingTime: string;
   content: string;
+  faq?: FAQItem[];
 }
 
 export interface BlogPostMeta {
@@ -85,6 +91,7 @@ export function getPostBySlug(slug: string): BlogPost | null {
     image: data.image,
     readingTime: stats.text,
     content,
+    faq: data.faq || undefined,
   };
 }
 

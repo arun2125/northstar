@@ -4,6 +4,17 @@ description: "Learn how to read your birth chart step-by-step. Understand your S
 date: "2026-02-12"
 author: "North Star Astro"
 tags: ["beginners", "birth chart", "astrology basics"]
+faq:
+  - question: "Do I need my exact birth time to read my birth chart?"
+    answer: "Yes, your birth time is crucial for accuracy. Without it, you can still know your Sun sign and planetary positions, but your Rising sign, Moon sign, and house placements may be wrong. Check your birth certificate or ask a parent for the most accurate time."
+  - question: "Why don't I relate to my Sun sign?"
+    answer: "Your Sun sign is only one part of your chart. Your Moon sign, Rising sign, and other planetary placements all influence your personality. Many people relate more strongly to their Moon or Rising sign than their Sun sign."
+  - question: "What's the difference between Sun, Moon, and Rising signs?"
+    answer: "Your Sun sign represents your core identity and ego. Your Moon sign reflects your emotional inner world and needs. Your Rising sign (Ascendant) is how others perceive you and your outward personality. Together, they form your 'Big Three.'"
+  - question: "How do I find my birth chart for free?"
+    answer: "You can get a free birth chart at astro.com, cafeastrology.com, or by searching 'free birth chart calculator' online. You'll need your birth date, exact birth time, and birth location."
+  - question: "What are houses in astrology?"
+    answer: "The 12 houses in your birth chart represent different life areas — like career, relationships, home, and communication. Planets in each house show where those energies play out in your life."
 ---
 
 So you've pulled up your birth chart for the first time and you're staring at a circle full of symbols that look like ancient hieroglyphics. There are lines everywhere. Numbers. Weird glyphs. And somehow this mess is supposed to explain your entire personality?

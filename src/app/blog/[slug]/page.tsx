@@ -3,6 +3,7 @@ import { notFound } from 'next/navigation';
 import { getPostBySlug, getAllSlugs, getAllPosts } from '@/lib/blog';
 import { Metadata } from 'next';
 import Markdown from '@/components/Markdown';
+import TableOfContents from '@/components/TableOfContents';
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -103,6 +104,20 @@ export default async function BlogPostPage({ params }: PageProps) {
     keywords: post.tags.join(', '),
   };
 
+  // FAQ Schema (if FAQ exists)
+  const faqJsonLd = post.faq && post.faq.length > 0 ? {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: post.faq.map(item => ({
+      '@type': 'Question',
+      name: item.question,
+      acceptedAnswer: {
+        '@type': 'Answer',
+        text: item.answer,
+      },
+    })),
+  } : null;
+
   const breadcrumbJsonLd = {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
@@ -139,6 +154,12 @@ export default async function BlogPostPage({ params }: PageProps) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbJsonLd) }}
       />
+      {faqJsonLd && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqJsonLd) }}
+        />
+      )}
 
       <main className="min-h-screen star-bg">
         {/* Header */}
@@ -209,10 +230,38 @@ export default async function BlogPostPage({ params }: PageProps) {
             )}
           </header>
 
+          {/* Table of Contents */}
+          <TableOfContents content={post.content} />
+
           {/* Content */}
           <div className="prose prose-invert prose-purple max-w-none">
             <Markdown content={post.content} />
           </div>
+
+          {/* FAQ Section */}
+          {post.faq && post.faq.length > 0 && (
+            <section className="mt-12 pt-8 border-t border-purple-500/20">
+              <h2 className="text-2xl font-bold text-white mb-6">Frequently Asked Questions</h2>
+              <div className="space-y-4">
+                {post.faq.map((item, index) => (
+                  <details 
+                    key={index} 
+                    className="group bg-white/5 rounded-xl border border-purple-500/20 overflow-hidden"
+                  >
+                    <summary className="flex items-center justify-between p-5 cursor-pointer hover:bg-white/5 transition">
+                      <span className="font-medium text-white pr-4">{item.question}</span>
+                      <span className="text-purple-400 group-open:rotate-180 transition-transform">
+                        ▼
+                      </span>
+                    </summary>
+                    <div className="px-5 pb-5 text-purple-200/80 leading-relaxed">
+                      {item.answer}
+                    </div>
+                  </details>
+                ))}
+              </div>
+            </section>
+          )}
 
           {/* CTA */}
           <div className="mt-16 p-8 bg-gradient-to-r from-purple-900/40 to-pink-900/40 rounded-2xl border border-purple-500/20 text-center">
