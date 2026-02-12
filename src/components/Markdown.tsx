@@ -34,16 +34,44 @@ function parseMarkdown(markdown: string): string {
   // Horizontal rules
   html = html.replace(/^---$/gim, '<hr />');
   
-  // Tables
-  html = html.replace(/^\|(.+)\|$/gim, (match, content) => {
-    const cells = content.split('|').map((c: string) => c.trim());
-    const isHeader = cells.some((c: string) => /^[-:]+$/.test(c));
-    if (isHeader) return '';
-    const tag = 'td';
-    const cellsHtml = cells.map((c: string) => `<${tag}>${c}</${tag}>`).join('');
-    return `<tr>${cellsHtml}</tr>`;
+  // Tables - better parsing
+  const tableRegex = /(?:^\|.+\|$\n?)+/gm;
+  html = html.replace(tableRegex, (tableBlock) => {
+    const lines = tableBlock.trim().split('\n').filter(line => line.trim());
+    if (lines.length < 2) return tableBlock;
+    
+    // Check if second line is separator (|---|---|)
+    const isSeparator = (line: string) => /^\|[\s\-:]+\|$/.test(line.replace(/\|/g, '|').trim());
+    
+    let headerLine = '';
+    let bodyLines: string[] = [];
+    let hasSeparator = false;
+    
+    if (lines.length >= 2 && isSeparator(lines[1])) {
+      headerLine = lines[0];
+      bodyLines = lines.slice(2);
+      hasSeparator = true;
+    } else {
+      bodyLines = lines;
+    }
+    
+    const parseRow = (line: string, isHeader: boolean) => {
+      const cells = line.split('|').slice(1, -1).map(c => c.trim());
+      const tag = isHeader ? 'th' : 'td';
+      return `<tr>${cells.map(c => `<${tag}>${c}</${tag}>`).join('')}</tr>`;
+    };
+    
+    let tableHtml = '<table>';
+    if (hasSeparator && headerLine) {
+      tableHtml += `<thead>${parseRow(headerLine, true)}</thead>`;
+    }
+    if (bodyLines.length > 0) {
+      tableHtml += `<tbody>${bodyLines.map(line => parseRow(line, false)).join('')}</tbody>`;
+    }
+    tableHtml += '</table>';
+    
+    return tableHtml;
   });
-  html = html.replace(/(<tr>[\s\S]*?<\/tr>[\s]*)+/g, '<table>$&</table>');
   
   // Blockquotes
   html = html.replace(/^> (.*$)/gim, '<blockquote>$1</blockquote>');
@@ -66,7 +94,10 @@ function parseMarkdown(markdown: string): string {
         block.startsWith('<blockquote') ||
         block.startsWith('<table') ||
         block.startsWith('<pre') ||
-        block.startsWith('<hr')) {
+        block.startsWith('<hr') ||
+        block.startsWith('<tr') ||
+        block.startsWith('<thead') ||
+        block.startsWith('<tbody')) {
       return block;
     }
     return `<p>${block.replace(/\n/g, '<br />')}</p>`;
