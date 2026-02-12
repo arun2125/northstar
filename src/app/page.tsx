@@ -208,19 +208,19 @@ export default function Home() {
       {/* Hero Section */}
       <section id="waitlist" className="relative px-6 py-24 md:py-32 max-w-5xl mx-auto text-center">
         <div className="mb-6 text-purple-400 text-sm tracking-widest uppercase">
-          ✦ Western · Vedic · Numerology ✦
+          ✦ The Only Platform Combining All Three ✦
         </div>
         
         <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
-          <span className="gradient-text">Your Personal Astrologer</span>
+          <span className="gradient-text">Western. Vedic. Numerology.</span>
           <br />
-          <span className="text-white/90">Available 24/7</span>
+          <span className="text-white/90">One Complete Reading.</span>
         </h1>
         
         <p className="text-xl md:text-2xl text-purple-200/80 mb-12 max-w-2xl mx-auto">
           {step === 1 
-            ? "Get a free mini-reading based on your birth chart. Takes 30 seconds."
-            : "AI-powered readings based on your complete birth chart."}
+            ? "Other apps give you one system. We integrate three — for insights you can't find anywhere else."
+            : "Your birth chart analyzed through Western psychology, Vedic karma, and Numerology."}
         </p>
 
         {/* Multi-step Form */}
@@ -230,7 +230,7 @@ export default function Home() {
           {step === 1 && (
             <form onSubmit={handleStep1Submit} className="space-y-4">
               <h3 className="text-xl font-semibold text-white mb-4">
-                🔮 Get Your Free Mini-Reading
+                🔮 See What Three Systems Reveal
               </h3>
               
               <div>
@@ -295,7 +295,7 @@ export default function Home() {
 
               <div className="border-t border-purple-500/20 pt-6">
                 <p className="text-purple-200/80 text-sm mb-4">
-                  🌙 Want your <strong>Moon sign</strong> and deeper insights?<br/>
+                  🌙 Want your <strong>Vedic Moon sign</strong>, <strong>Nakshatra</strong>, and <strong>Life Path Number</strong>?<br/>
                   Add your birth time and place:
                 </p>
 
@@ -397,7 +397,7 @@ export default function Home() {
                     disabled={status === 'loading'}
                     className="w-full py-3 bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-500 hover:to-pink-500 text-white font-semibold rounded-lg transition"
                   >
-                    {status === 'loading' ? 'Saving...' : 'Unlock Deeper Insights 🌙'}
+                    {status === 'loading' ? 'Saving...' : 'Unlock My Full Triple Reading 🌙'}
                   </button>
 
                   <button
@@ -418,7 +418,7 @@ export default function Home() {
               <div className="text-5xl mb-4">✨</div>
               <h3 className="text-2xl font-semibold text-white mb-2">You&apos;re on the list!</h3>
               <p className="text-purple-200/70 mb-6">
-                We&apos;ll notify you when your full AI astrologer is ready.
+                We&apos;ll notify you when your integrated Western + Vedic + Numerology reading is ready.
               </p>
               {sunSign && (
                 <div className="bg-purple-900/20 rounded-lg p-4 text-left">
