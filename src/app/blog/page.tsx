@@ -1,5 +1,6 @@
 import Link from 'next/link';
-import { getAllPosts } from '@/lib/blog';
+import Image from 'next/image';
+import { getAllPosts, getPostImage } from '@/lib/blog';
 
 export const metadata = {
   title: 'Blog | North Star Astro',
@@ -63,15 +64,13 @@ export default function BlogPage() {
                 href={`/blog/${post.slug}`}
                 className="group block bg-white/5 rounded-xl border border-purple-500/20 overflow-hidden hover:border-purple-500/40 hover:bg-white/10 transition-all"
               >
-                {post.image && (
-                  <div className="aspect-video bg-purple-900/30 overflow-hidden">
-                    <img 
-                      src={post.image} 
-                      alt={post.title}
-                      className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-                    />
-                  </div>
-                )}
+                <div className="aspect-video bg-purple-900/30 overflow-hidden relative">
+                  <img 
+                    src={getPostImage(post).url} 
+                    alt={getPostImage(post).alt}
+                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                  />
+                </div>
                 <div className="p-6">
                   <div className="flex items-center gap-3 text-sm text-purple-300/60 mb-3">
                     <span>{formatDate(post.date)}</span>

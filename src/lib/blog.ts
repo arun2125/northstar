@@ -31,7 +31,20 @@ export interface BlogPostMeta {
   author: string;
   tags: string[];
   image?: string;
+  imageAlt?: string;
   readingTime: string;
+}
+
+// Generate placeholder image URL based on post theme
+export function getPostImage(post: BlogPostMeta): { url: string; alt: string } {
+  // Use dynamic OG image as fallback
+  const ogUrl = `https://northstarastro.com/api/og?title=${encodeURIComponent(post.title)}&description=${encodeURIComponent(post.description)}`;
+  
+  if (post.image) {
+    return { url: post.image, alt: post.imageAlt || post.title };
+  }
+  
+  return { url: ogUrl, alt: post.title };
 }
 
 export function getAllPosts(): BlogPostMeta[] {
@@ -57,6 +70,7 @@ export function getAllPosts(): BlogPostMeta[] {
         author: data.author || 'North Star Astro',
         tags: data.tags || [],
         image: data.image,
+        imageAlt: data.imageAlt,
         readingTime: stats.text,
       };
     });
