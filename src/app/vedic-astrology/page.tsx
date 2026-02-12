@@ -17,19 +17,19 @@ export default function VedicAstrologyPage() {
   return (
     <main className="min-h-screen star-bg">
       {/* Header */}
-      <header className="px-6 py-4 border-b border-purple-500/10">
+      <header className="px-4 md:px-6 py-4 border-b border-purple-500/10">
         <div className="max-w-5xl mx-auto flex justify-between items-center">
-          <Link href="/" className="text-xl font-bold gradient-text">
+          <Link href="/" className="text-lg md:text-xl font-bold gradient-text whitespace-nowrap">
             North Star Astro
           </Link>
-          <nav className="flex gap-4 md:gap-6 text-sm md:text-base">
-            <Link href="/western-astrology" className="text-purple-300/70 hover:text-white transition">
+          <nav className="flex gap-3 md:gap-6 text-sm md:text-base">
+            <Link href="/western-astrology" className="hidden md:block text-purple-300/70 hover:text-white transition">
               Western
             </Link>
-            <Link href="/vedic-astrology" className="text-white font-medium">
+            <Link href="/vedic-astrology" className="hidden md:block text-white font-medium">
               Vedic
             </Link>
-            <Link href="/numerology" className="text-purple-300/70 hover:text-white transition">
+            <Link href="/numerology" className="hidden md:block text-purple-300/70 hover:text-white transition">
               Numerology
             </Link>
             <Link href="/blog" className="text-purple-300/70 hover:text-white transition">
