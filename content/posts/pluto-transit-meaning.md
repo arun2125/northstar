@@ -44,7 +44,7 @@ Where Pluto transits, something has to die for something new to be born. And tha
 
 **Pluto Conjunct Your Sun, Moon, or Rising** – The most intense Pluto transit. Your core identity (Sun), emotional foundation (Moon), or outer persona (Rising) is being completely dismantled and rebuilt. Expect a total life transformation—career changes, relationship endings, identity crises, profound psychological shifts.
 
-**Pluto Square Your Sun, Moon, or Rising** – Friction, power struggles, and forced growth. Squares create crisis that demands transformation. You'll face situations that challenge your sense of control and force you to evolve. External events often mirror internal resistance.
+**Pluto [square](/glossary#S) Your Sun, Moon, or Rising** – Friction, power struggles, and forced growth. Squares create crisis that demands transformation. You'll face situations that challenge your sense of control and force you to evolve. External events often mirror internal resistance.
 
 **Pluto Opposite Your Sun, Moon, or Rising** – Transformation through others. Oppositions bring awareness through projection and relationship. Pluto opposite your Sun might manifest as power struggles with authority or partners. Opposite your Moon, deep emotional purging through intimate relationships.
 
@@ -52,7 +52,7 @@ Where Pluto transits, something has to die for something new to be born. And tha
 
 **Pluto Conjunct Mars** – Transformation of will, desire, anger, and action. Power struggles, intense drive, facing suppressed rage, and learning to wield your personal power responsibly.
 
-**Pluto Transiting Your Houses** – Even without aspecting planets, Pluto moving through a house transforms that life area. Pluto in your 4th house guts and rebuilds your emotional foundation and family dynamics. Pluto in your 10th dismantles and recreates your career and public identity.
+**Pluto Transiting Your [houses](/glossary#H)** – Even without aspecting planets, Pluto moving through a house transforms that life area. Pluto in your 4th house guts and rebuilds your emotional foundation and family dynamics. Pluto in your 10th dismantles and recreates your career and public identity.
 
 ## What Pluto Transits Feel Like (It's Intense)
 
@@ -182,13 +182,13 @@ Each pass deepens the work. Don't expect to "get it" the first time. Pluto's les
 
 ## Pluto Transits by the Numbers
 
-- **Pluto's full orbit:** 248 years (you'll never experience a Pluto return)
+- **Pluto's full orbit:** 248 years (you'll never experience a [pluto return](/glossary#P))
 - **Time in each sign:** 12-30 years (varies due to elliptical orbit)
 - **Pluto retrograde (annual):** ~5-6 months per year
 - **Typical major transit duration:** 1-3 years with retrogrades
-- **Orb of influence:** Most astrologers use 1-3 degrees
+- **[orb](/glossary#O) of influence:** Most astrologers use 1-3 degrees
 
-Pluto's slowness means its transits are generational when moving through signs, but deeply personal when aspecting your natal chart. A Pluto-Sun conjunction might happen once in your life. Make it count.
+Pluto's slowness means its transits are generational when moving through signs, but deeply personal when aspecting your [natal chart](/glossary#B). A Pluto-Sun [conjunction](/glossary#C) might happen once in your life. Make it count.
 
 ## The Gift of Pluto
 
@@ -210,5 +210,5 @@ Trust the process. Surrender to the death. And prepare to be reborn.
 
 **Related Articles:**
 - [12 Houses Explained](/blog/12-houses-explained)
-- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology [elements](/glossary#E) Explained](/blog/astrology-elements-explained)
 - [2026 Astrology Predictions](/blog/2026-astrology-predictions)

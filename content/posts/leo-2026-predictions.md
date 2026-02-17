@@ -21,11 +21,11 @@ faq:
 
 Leo, let's not waste time with pleasantries: 2026 is your year. Not metaphorically, not inspirationally—literally. When astrologers scan the 2026 sky for signs of major life changes, your name keeps appearing in bold.
 
-Jupiter, the planet of expansion, fortune, and opportunity, enters Leo on June 30, 2026. This happens once every 12 years. The eclipse axis shifts to Aquarius-Leo, placing you directly in the cosmic spotlight. Neptune in Aries forms a harmonious trine to your sign, infusing everything you touch with creative magic.
+Jupiter, the planet of expansion, fortune, and opportunity, enters Leo on June 30, 2026. This happens once every 12 years. The eclipse axis shifts to Aquarius-Leo, placing you directly in the cosmic spotlight. Neptune in Aries forms a harmonious [trine](/glossary#T) to your sign, infusing everything you touch with creative magic.
 
 You've been waiting. You've been preparing, perhaps without realizing it. 2026 is when the preparation ends and the performance begins.
 
-This Leo 2026 horoscope will guide you through every major transit, every retrograde twist, and every opportunity window. Month by month, theme by theme—your complete roadmap for the most transformative year of your decade.
+This Leo 2026 horoscope will guide you through every major [transit](/glossary#T), every retrograde twist, and every opportunity window. Month by month, theme by theme—your complete roadmap for the most transformative year of your decade.
 
 Let's begin.
 
@@ -92,7 +92,7 @@ Neptune briefly retrogrades back into Pisces from October 13, 2026, to January 2
 ---
 
 > 💫 **Want Your Personal 2026 Forecast?**  
-> Chat with Tara, our AI astrologer, for a free reading combining Western, Vedic, and Numerology insights tailored to your birth chart.  
+> Chat with Tara, our AI astrologer, for a free reading combining Western, Vedic, and Numerology insights tailored to your [birth chart](/glossary#B).  
 > [Start Free Reading →](/chat)
 
 ---

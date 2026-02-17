@@ -17,7 +17,7 @@ faq:
     answer: "Every Venus placement has strengths. Venus in 'difficult' signs like Aries or Scorpio just means you love intensely and need passion. Understanding your Venus helps you embrace your authentic romantic style instead of fighting it."
 ---
 
-Your Sun sign is who you are. Your Moon sign is how you feel. But your Venus sign? That's how you love.
+Your Sun sign is who you are. Your [moon sign](/glossary#M) is how you feel. But your Venus sign? That's how you love.
 
 Venus governs:
 - What you find attractive
@@ -268,5 +268,5 @@ Look up your birth chart and find the Venus symbol (♀). The sign it's in is yo
 
 **Related Articles:**
 - [12 Houses Explained](/blog/12-houses-explained)
-- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology [elements](/glossary#E) Explained](/blog/astrology-elements-explained)
 - [2026 Astrology Predictions](/blog/2026-astrology-predictions)

@@ -138,12 +138,12 @@ If you're Mutable-dominant, you're probably adaptable to the point of losing you
 
 ## Your Modality Balance and What It Means
 
-Just like with elements, your **modality balance** often explains your behavior better than your sun sign alone.
+Just like with elements, your **modality balance** often explains your behavior better than your [sun sign](/glossary#S) alone.
 
 You might be a Taurus sun (Fixed Earth), but if you have your Moon, Mercury, Venus, and Mars in Gemini, Virgo, Sagittarius, or Pisces, you're actually Mutable-dominant. You won't relate to the "stubborn Taurus who never changes" stereotype—you'll be much more adaptable and restless than typical Taurus descriptions suggest.
 
 To find your modality balance:
-1. Get your full birth chart (birth date, time, and location)
+1. Get your full [birth chart](/glossary#B) (birth date, time, and location)
 2. Count how many planets you have in Cardinal, Fixed, and Mutable signs
 3. Notice which modality dominates and which is weakest
 
@@ -198,7 +198,7 @@ The key is understanding that different modalities have different operating syst
 
 In astrology, signs of the same modality form squares (90-degree angles), which represent tension and challenge.
 
-The **Cardinal square** includes Aries, Cancer, Libra, and Capricorn. All are leaders, but they lead in completely different ways—Aries through assertion, Cancer through nurturing, Libra through diplomacy, Capricorn through structure. When these signs interact, there's friction about *how* to take action.
+The **Cardinal [square](/glossary#S)** includes Aries, Cancer, Libra, and Capricorn. All are leaders, but they lead in completely different ways—Aries through assertion, Cancer through nurturing, Libra through diplomacy, Capricorn through structure. When these signs interact, there's friction about *how* to take action.
 
 The **Fixed square** includes Taurus, Leo, Scorpio, and Aquarius. All are stubborn, but about different things—Taurus about security, Leo about recognition, Scorpio about control, Aquarius about principles. When these signs interact, nobody wants to budge.
 

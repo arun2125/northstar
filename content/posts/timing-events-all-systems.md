@@ -19,7 +19,7 @@ faq:
 
 # Timing Life Events: Transits + Dashas + Personal Years
 
-You know the feeling. You meet someone amazing and think, "Where have you been all my life?" Or you finally get the career opportunity you've been working toward, but it arrives ten years later than you expected. Or you watch friends get married, buy houses, have children—all seemingly on schedule—while your life feels perpetually stuck or out of sync.
+You know the feeling. You meet someone amazing and think, "Where have you been all my life?" Or you finally get the career opportunity you've been working toward, but it arrives ten years later than you expected. Or you watch friends get married, buy [houses](/glossary#H), have children—all seemingly on schedule—while your life feels perpetually stuck or out of sync.
 
 Here's the truth most people never learn: Life has a timing system, and when you understand it, seemingly random events reveal themselves as precisely orchestrated cosmic appointments.
 
@@ -31,7 +31,7 @@ This is complete timing mastery—and it changes everything.
 
 ## Western Transits: The Cosmic Weather Report
 
-Western astrology tracks *transiting planets* (where planets are now) as they aspect *natal planets* (where planets were when you were born). Transits describe the current energy, psychological themes, and opportunities/challenges you're experiencing.
+Western astrology tracks *transiting planets* (where planets are now) as they [aspect](/glossary#A) *natal planets* (where planets were when you were born). Transits describe the current energy, psychological themes, and opportunities/challenges you're experiencing.
 
 **Major timing transits:**
 
@@ -63,7 +63,7 @@ Uranus spends about 7 years in each sign, creating an 84-year cycle. Uranus brin
 - Uranus transiting 1st house: Complete identity revolution, sudden self-discovery
 - Uranus transiting 4th house: Home changes, family disruption, roots shaken
 - Uranus transiting 10th house: Sudden career changes, breaking from traditional path
-- Uranus opposition natal Uranus (age 40-42): Midlife crisis, need for freedom and authenticity
+- Uranus [opposition](/glossary#O) natal Uranus (age 40-42): Midlife crisis, need for freedom and authenticity
 
 **Best for:** Breaking free from limitations, embracing change, innovating, rebelling against what's dead
 
@@ -72,7 +72,7 @@ Neptune spends about 14 years in each sign, creating a 165-year cycle. Neptune d
 
 - Neptune transiting 1st house: Identity becomes fluid, spiritual opening, or identity confusion
 - Neptune transiting 7th house: Idealized relationships, spiritual partnerships, or deception in love
-- Neptune square natal Sun: Confusion about identity, spiritual seeking, or being misled
+- Neptune [square](/glossary#S) natal Sun: Confusion about identity, spiritual seeking, or being misled
 
 **Best for:** Spiritual practices, artistic creation, compassion work, but be cautious of deception
 
@@ -96,22 +96,22 @@ Mars (2 months per sign), Venus (3-4 weeks per sign), Mercury (3 weeks per sign)
 
 Vedic astrology's *dasha system* is perhaps the most powerful timing tool in astrology. Dashas divide your life into planetary periods of variable length, showing which planet's karma is "activated" at any given time.
 
-**The Vimshottari Dasha system (most common):**
+**The [vimshottari dasha](/glossary#V) system (most common):**
 
 Each planet rules a certain number of years:
 - Sun: 6 years
 - Moon: 10 years
 - Mars: 7 years
-- Rahu (North Node): 18 years
+- [rahu](/glossary#R) (North Node): 18 years
 - Jupiter: 16 years
 - Saturn: 19 years
 - Mercury: 17 years
-- Ketu (South Node): 7 years
+- [ketu](/glossary#K) (South Node): 7 years
 - Venus: 20 years
 
 **Total cycle: 120 years**
 
-You're born into a specific planet's *mahadasha* (major period), which is determined by your Moon's nakshatra at birth. Each mahadasha is subdivided into *antardashas* (sub-periods) ruled by all nine planets in sequence.
+You're born into a specific planet's *[mahadasha](/glossary#M)* (major period), which is determined by your Moon's [nakshatra](/glossary#N) at birth. Each mahadasha is subdivided into *antardashas* (sub-periods) ruled by all nine planets in sequence.
 
 **Example timeline:**
 Someone born in Moon nakshatra might run:
@@ -144,7 +144,7 @@ Within Moon mahadasha, they'd experience:
 
 **Saturn dasha:** Focus on discipline, service, hard work, delays, maturation, loss. You're developing responsibility and mastery.
 
-**Rahu dasha:** Focus on obsession, foreign elements, material ambition, unconventional paths, sudden events. You're developing worldly experience.
+**Rahu dasha:** Focus on obsession, foreign [elements](/glossary#E), material ambition, unconventional paths, sudden events. You're developing worldly experience.
 
 **Ketu dasha:** Focus on spirituality, loss, liberation, past karma, isolation, research. You're developing detachment and spiritual insight.
 
@@ -259,7 +259,7 @@ Born: May 22, 1991, 10:30 AM, Seattle, WA
 
 **Current Western Transits (2026):**
 - Jupiter in Cancer transiting his 10th house (career expansion)
-- Jupiter trine natal Sun in Taurus (confidence and opportunity flowing to identity)
+- Jupiter [trine](/glossary#T) natal Sun in Taurus (confidence and opportunity flowing to identity)
 - Saturn in Pisces transiting his 8th house (transformation and shared resources)
 - Pluto in Aquarius transiting his 7th house (relationship transformation, but not career-focused)
 
@@ -290,8 +290,8 @@ All three systems align for major career breakthrough:
 **What this looks like in real life:** David has been working in marketing for 10 years but feeling unfulfilled. In early 2026, he gets an unexpected opportunity to start his own creative agency (Jupiter 10th + Personal Year 1 new beginning). The Venus-Jupiter dasha brings clients easily, and his work focuses on beauty/design (Venus themes). The Jupiter trine Sun means this new career path aligns with who he really is (Sun).
 
 **Timing within 2026:**
-- Best months: April-June (when Jupiter exactly hits his 10th house cusp) during Personal Month 1, 3, or 8
-- Jupiter direct motion (not retrograde) ensures forward momentum
+- Best months: April-June (when Jupiter exactly hits his 10th house [cusp](/glossary#C)) during Personal Month 1, 3, or 8
+- Jupiter direct motion (not [retrograde](/glossary#R)) ensures forward momentum
 - Venus-Jupiter antardasha continues through August 2026—act before it ends
 
 **Advice:** This is a cosmic green light. Launch the business, take the risk, step into leadership. All three systems confirm this is the karmic and cyclical right time.
@@ -318,7 +318,7 @@ What mahadasha and antardasha are you in? Is this planet favorable in your chart
 What major planets are transiting relevant houses or aspecting relevant natal planets?
 
 **Favorable transits:**
-- Jupiter conjunct, trine, or sextile = expansion and opportunity
+- Jupiter conjunct, trine, or [sextile](/glossary#S) = expansion and opportunity
 - Venus aspects = pleasant experiences, relationships, money
 - Saturn aspects = maturation, commitment, long-term success (after tests)
 
@@ -345,7 +345,7 @@ What Personal Year are you in? Does it support or conflict with what you're tryi
 
 **All three favorable = Cosmic green light:** The karma is ripe (dasha), the timing feels right (transits), and the life cycle supports it (Personal Year). This is when major desired events happen most easily.
 
-**Two favorable, one challenging = Proceed with awareness:** Example: Favorable dasha + supportive Personal Year, but challenging Saturn transit = You're karmically ready and in the right life phase, but it will require hard work and maturation. Do it, but expect effort.
+**Two favorable, one challenging = Proceed with awareness:** Example: Favorable dasha + supportive Personal Year, but challenging Saturn [transit](/glossary#T) = You're karmically ready and in the right life phase, but it will require hard work and maturation. Do it, but expect effort.
 
 **One favorable, two challenging = Pause or pivot:** Example: Great Jupiter transit, but difficult dasha and wrong Personal Year = Brief window of opportunity, but bigger karmic timing isn't ready. You can try, but it likely won't stick long-term.
 

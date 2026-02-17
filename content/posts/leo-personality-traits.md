@@ -98,7 +98,7 @@ The key for Leo at work: **find roles where your strengths are genuinely needed,
 
 **Leo + Aquarius** (opposite signs): Intellectually stimulating, emotionally frustrating. Aquarius challenges Leo's ego; Leo challenges Aquarius' detachment. Can be electric if both are mature—Leo learns humility, Aquarius learns warmth. Usually, though, Leo feels unloved and Aquarius feels suffocated.
 
-**Leo + Scorpio**: Power struggle from day one. Both are fixed signs with strong egos. Scorpio's intensity overwhelms Leo's need for lightness; Leo's attention-seeking triggers Scorpio's jealousy. Sexual chemistry is strong, but emotional compatibility requires serious work.
+**Leo + Scorpio**: Power struggle from day one. Both are [fixed signs](/glossary#F) with strong egos. Scorpio's intensity overwhelms Leo's need for lightness; Leo's attention-seeking triggers Scorpio's jealousy. Sexual chemistry is strong, but emotional compatibility requires serious work.
 
 **Leo + Taurus**: Stubborn meets stubborn. Both love luxury and loyalty, but both refuse to back down. Taurus finds Leo exhausting; Leo finds Taurus boring. Can work if they respect each other's strengths, but usually ends in a stalemate.
 
@@ -149,5 +149,5 @@ Shine, Leo. But let others shine too.
 
 **Related Articles:**
 - [Astrology Elements Explained](/blog/astrology-elements-explained)
-- [Astrology Modalities Explained](/blog/astrology-modalities-explained)
-- [12 Houses Explained](/blog/12-houses-explained)
+- [Astrology [modalities](/glossary#M) Explained](/blog/astrology-modalities-explained)
+- [12 [houses](/glossary#H) Explained](/blog/12-houses-explained)

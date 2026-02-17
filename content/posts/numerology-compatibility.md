@@ -19,7 +19,7 @@ faq:
 
 You've met someone intriguing. The chemistry is undeniable, but you wonder: will this actually work long-term? While [astrology reveals your romantic patterns](/posts/venus-signs-love), **numerology compatibility** shows whether your core life paths naturally harmonize or clash.
 
-Your Life Path Number is numerology's equivalent to your Sun sign—it reveals your fundamental nature, strengths, and purpose. When two Life Paths come together, they create a specific dynamic with predictable patterns, challenges, and gifts.
+Your [life path number](/glossary#L) is numerology's equivalent to your [sun sign](/glossary#S)—it reveals your fundamental nature, strengths, and purpose. When two Life Paths come together, they create a specific dynamic with predictable patterns, challenges, and gifts.
 
 Let's explore how to calculate compatibility, what each pairing means, and how to use numerology alongside astrology for a complete relationship picture.
 
@@ -307,7 +307,7 @@ Get weekly astrology insights delivered to your inbox every Monday.
 
 Life Path Numbers are just the beginning. For deep compatibility analysis, also consider:
 
-**Expression Number (from full birth name):** How you naturally express yourself and interact with the world.
+**[expression number](/glossary#E) (from full birth name):** How you naturally express yourself and interact with the world.
 
 **Soul Urge Number (from vowels in name):** Your deepest desires and emotional needs in relationship.
 
@@ -339,5 +339,5 @@ Calculate your compatibility today. Then have a conversation with your partner a
 
 **Related Articles:**
 - [12 Houses Explained](/blog/12-houses-explained)
-- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology [elements](/glossary#E) Explained](/blog/astrology-elements-explained)
 - [2026 Astrology Predictions](/blog/2026-astrology-predictions)

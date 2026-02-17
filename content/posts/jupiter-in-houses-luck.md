@@ -207,5 +207,5 @@ Your luck isn't random. It's built into your chart, waiting for you to claim it.
 
 **Related Articles:**
 - [12 Houses Explained](/blog/12-houses-explained)
-- [Astrology Elements Explained](/blog/astrology-elements-explained)
-- [Astrology Modalities Explained](/blog/astrology-modalities-explained)
+- [Astrology [elements](/glossary#E) Explained](/blog/astrology-elements-explained)
+- [Astrology [modalities](/glossary#M) Explained](/blog/astrology-modalities-explained)

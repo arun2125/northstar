@@ -56,7 +56,7 @@ Your Birthday Number doesn't change your core purpose, but it flavors how you ex
 - **Born June 17:** Birthday Number = 17 → 1 + 7 = **8** (read both 17 and 8)
 - **Born December 29:** Birthday Number = 29 → 2 + 9 = **11** → 1 + 1 = **2** (read 29, 11, and 2—11 is a master number!)
 
-**Master Numbers:** If your birthday reduces to 11, 22, or 29 (which becomes 11), you have a master number. These carry higher spiritual potential and intensity. Read both the master number and its reduced version.
+**[master numbers](/glossary#M):** If your birthday reduces to 11, 22, or 29 (which becomes 11), you have a master number. These carry higher spiritual potential and intensity. Read both the master number and its reduced version.
 
 ## Birthday Numbers 1-9: Your Core Gifts
 

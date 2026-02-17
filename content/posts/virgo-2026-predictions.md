@@ -40,7 +40,7 @@ Here's what this means in practice:
 
 **Shared finances get murky.** Neptune clouds whatever it touches. Joint bank accounts, investments, inheritances, debts, taxes—all of these require extra scrutiny through 2039. The fog is real. Read contracts three times. Don't sign anything involving other people's money without professional advice. Watch for deception (from others) and self-deception (from you).
 
-**Psychological and spiritual awakening.** The flip side of Neptune's confusion is profound insight. This 13-year transit invites deep psychological work, therapy, meditation, and spiritual practices that transform you from the inside out. You're being asked to let go of control—Virgo's hardest lesson—and trust the dissolving process. What falls away wasn't meant to stay.
+**Psychological and spiritual awakening.** The flip side of Neptune's confusion is profound insight. This 13-year [transit](/glossary#T) invites deep psychological work, therapy, meditation, and spiritual practices that transform you from the inside out. You're being asked to let go of control—Virgo's hardest lesson—and trust the dissolving process. What falls away wasn't meant to stay.
 
 **Potential shadow manifestations:** addiction issues (escaping rather than facing), victim mentality in relationships, giving away power to partners or institutions, financial confusion, or attracting manipulative people. Stay conscious. Neptune rewards awareness and punishes denial.
 
@@ -69,7 +69,7 @@ Saturn in the 8th house demands you:
 
 - **Earn your transformation.** Neptune gives spiritual insight freely; Saturn makes you work for lasting change. The combination means this period will be both mystical and practical—you'll have profound realizations AND do the hard work of implementing them.
 
-The Saturn-Neptune conjunction in Aries is rare and powerful. For Virgo, it's happening in your most psychologically intense house. This is once-in-a-lifetime territory. How you handle 2026-2028 determines the depth of person you become.
+The Saturn-Neptune [conjunction](/glossary#C) in Aries is rare and powerful. For Virgo, it's happening in your most psychologically intense house. This is once-in-a-lifetime territory. How you handle 2026-2028 determines the depth of person you become.
 
 ## Uranus Enters Gemini: Career Revolution Begins
 
@@ -221,7 +221,7 @@ Virgo rules health, and with your ruler Mercury going retrograde in Virgo itself
 
 ## Spiritual Growth and Inner Work in 2026
 
-With Neptune, Saturn, and Jupiter all activating your more mystical houses, 2026 is fundamentally a year of **inner work**, not just outer achievement. This might frustrate Virgo's desire for measurable results, but the transformations happening inside you are the foundation for everything external.
+With Neptune, Saturn, and Jupiter all activating your more mystical [houses](/glossary#H), 2026 is fundamentally a year of **inner work**, not just outer achievement. This might frustrate Virgo's desire for measurable results, but the transformations happening inside you are the foundation for everything external.
 
 **Neptune in the 8th house** opens access to your unconscious. Dreams may become more vivid and meaningful. Intuition sharpens, but so does the potential for delusion. Learn to distinguish between genuine insight and wishful thinking—meditation practices that cultivate discernment are invaluable.
 
@@ -237,12 +237,12 @@ With Neptune, Saturn, and Jupiter all activating your more mystical houses, 2026
 
 The temptation is to intellectualize this work rather than feel it. Your mind is brilliant, but Neptune asks you to lead with something deeper. Trust your body. Trust your dreams. Trust what you can't explain.
 
-## Virgo Decan Breakdown: How 2026 Hits Differently
+## Virgo [decan](/glossary#D) Breakdown: How 2026 Hits Differently
 
 Not all Virgos experience the year identically. Your specific birth date determines which planetary transits hit you hardest and when.
 
 **First Decan Virgo (August 23 – September 1):**
-You feel 2026's eclipses most intensely, as they directly aspect early degrees. March's solar eclipse may bring the most dramatic relationship events. You're also first in line for Uranus trine (supportive career energy) once it enters Gemini. Pioneer energy—you're transforming faster than other Virgos.
+You feel 2026's eclipses most intensely, as they directly [aspect](/glossary#A) early degrees. March's solar eclipse may bring the most dramatic relationship events. You're also first in line for Uranus [trine](/glossary#T) (supportive career energy) once it enters Gemini. Pioneer energy—you're transforming faster than other Virgos.
 
 **Second Decan Virgo (September 2 – 12):**
 The middle of the sign often gets the most sustained pressure, as multiple transits pass through your degrees over the year. Mercury retrograde in Virgo (July-August) hits your personal planets directly. August-September eclipse season is your peak intensity zone.
@@ -279,4 +279,4 @@ Trust the process. Do the work. Become.
 - [2026 Astrology Predictions: Complete Year Guide](/blog/2026-astrology-predictions)
 - [Virgo Personality Traits & Characteristics](/blog/virgo-personality-traits)
 - [Best Matches for Virgo](/blog/best-matches-for-virgo)
-- [Understanding the Earth Element in Astrology](/blog/astrology-elements-explained)
+- [Understanding the Earth Element in Astrology](/blog/astrology-[elements](/glossary#E)-explained)

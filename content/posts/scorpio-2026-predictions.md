@@ -186,7 +186,7 @@ The first half of June wraps up Jupiter's final weeks in Cancer, blessing your l
 
 What happens: Career opportunities that feel fated. Creative projects gaining unexpected visibility. A push toward leadership you can't avoid. Simultaneously, what's blocking your authentic public expression becomes undeniable—and must be released.
 
-If you have planets near 19° of fixed signs (Taurus, Leo, Scorpio, Aquarius), this eclipse permanently changes your trajectory.
+If you have planets near 19° of [fixed signs](/glossary#F) (Taurus, Leo, Scorpio, Aquarius), this eclipse permanently changes your trajectory.
 
 **New Moon in Virgo (August 23)** shifts focus to friendships and community. Fresh starts with like-minded groups. A new circle begins forming that aligns with who you're becoming.
 
@@ -251,7 +251,7 @@ Jupiter retrograde continues, so career expansion is internal (skill-building, p
 ---
 
 > 💫 **Want Your Personal 2026 Forecast?**  
-> Chat with Tara, our AI astrologer, for a free reading combining Western, Vedic, and Numerology insights tailored to your birth chart.  
+> Chat with Tara, our AI astrologer, for a free reading combining Western, Vedic, and Numerology insights tailored to your [birth chart](/glossary#B).  
 > [Start Free Reading →](/chat)
 
 ---
@@ -384,4 +384,4 @@ Let the transformation begin.
 - [2026 Astrology Predictions: Complete Year Guide](/blog/2026-astrology-predictions)
 - [Scorpio Personality Traits & Characteristics](/blog/scorpio-personality-traits)
 - [Best Matches for Scorpio](/blog/best-matches-for-scorpio)
-- [Understanding the Water Element in Astrology](/blog/astrology-elements-explained)
+- [Understanding the Water Element in Astrology](/blog/astrology-[elements](/glossary#E)-explained)

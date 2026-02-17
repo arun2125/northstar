@@ -13,7 +13,7 @@ imageAlt: "Libra zodiac scales surrounded by cosmic imagery representing 2026 as
 
 # Libra 2026 Horoscope: The Year You Reclaim Your Power
 
-**Meta Description Suggestion:** *Comprehensive Libra 2026 predictions covering Neptune's opposition from Aries, Venus retrograde in your sign (October-November), eclipses, Mercury retrograde cycles, and detailed month-by-month forecasts for love, career, and health.*
+**Meta Description Suggestion:** *Comprehensive Libra 2026 predictions covering Neptune's [opposition](/glossary#O) from Aries, Venus retrograde in your sign (October-November), eclipses, Mercury retrograde cycles, and detailed month-by-month forecasts for love, career, and health.*
 
 ---
 
@@ -43,11 +43,11 @@ Let's break down exactly what's coming—and how to not just survive it, but thr
 
 **January 26, 2026 – October 13, 2026 (first wave)**
 
-This is the headline transit for Libra in 2026. Neptune hasn't opposed your sign since 1862—no living Libra has experienced this energy before.
+This is the headline [transit](/glossary#T) for Libra in 2026. Neptune hasn't opposed your sign since 1862—no living Libra has experienced this energy before.
 
 **What Neptune opposition means for you:**
 
-Neptune is the planet of dreams, illusions, confusion, and spiritual transcendence. When it sits directly across from your Sun (or Rising sign), it creates a strange fog around your relationships and sense of self.
+Neptune is the planet of dreams, illusions, confusion, and spiritual transcendence. When it sits directly across from your Sun (or [rising sign](/glossary#A)), it creates a strange fog around your relationships and sense of self.
 
 Expect:
 - **Confusion about who you're attracting.** People may not be who they appear to be. Rose-colored glasses are firmly on.
@@ -125,7 +125,7 @@ Venus is your ruling planet. When she stations retrograde *in your own sign*, it
 
 **Three cycles, all in water signs**
 
-Mercury retrograde won't hit Libra directly, but the water sign retrogrades will activate your most private and emotional houses.
+Mercury retrograde won't hit Libra directly, but the water sign retrogrades will activate your most private and emotional [houses](/glossary#H).
 
 **2026 Mercury Retrograde Dates:**
 
@@ -168,7 +168,7 @@ The **March eclipses** activate your health axis (6th/12th houses). Hidden healt
 
 The **July-August eclipses** begin a new 18-month cycle around creativity, romance, and community. Your friend groups may shift dramatically. Children or creative projects become focal points. The question of "what brings you joy?" versus "what group do you belong to?" creates productive tension.
 
-The **August 12 Solar Eclipse at 19° Leo** is particularly significant. If you have planets or points near this degree (especially in fixed signs), expect major developments around friends, community involvement, or long-term goals.
+The **August 12 Solar Eclipse at 19° Leo** is particularly significant. If you have planets or points near this degree (especially in [fixed signs](/glossary#F)), expect major developments around friends, community involvement, or long-term goals.
 
 **Practical Advice:**
 - March is ideal for health transformations—start that wellness practice you've been putting off
@@ -522,7 +522,7 @@ Trust the process. You were made for this.
 **Related Articles:**
 - [2026 Astrology Predictions: Complete Year Guide](/blog/2026-astrology-predictions)
 - [Libra Personality Traits & Characteristics](/blog/libra-personality-traits)
-- [Understanding the Air Element in Astrology](/blog/astrology-elements-explained)
+- [Understanding the Air Element in Astrology](/blog/astrology-[elements](/glossary#E)-explained)
 
 ---
 

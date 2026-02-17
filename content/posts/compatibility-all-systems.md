@@ -21,7 +21,7 @@ faq:
 
 You meet someone and feel instant chemistry. The conversation flows, the attraction is undeniable, and within weeks you're wondering if this could be "the one." But then reality sets in. Communication becomes difficult. Life goals diverge. One person wants commitment while the other needs freedom. What happened to that perfect connection?
 
-Most people check Sun sign compatibility and call it a day. Some dig deeper into Western synastry, comparing full birth charts. A few consult Vedic Kundali matching, especially in Indian traditions. Almost nobody combines all three systems with Numerology to get the complete picture of relationship potential, challenges, and timing.
+Most people check [sun sign](/glossary#S) compatibility and call it a day. Some dig deeper into Western synastry, comparing full birth charts. A few consult Vedic Kundali matching, especially in Indian traditions. Almost nobody combines all three systems with Numerology to get the complete picture of relationship potential, challenges, and timing.
 
 But when you do? You understand not just *if* you're compatible, but *why*, *where*, and *when* the relationship will thrive or struggle. You see the chemistry (Western synastry), the karma (Vedic Kundali), and the life cycle alignment (Numerology) all at once.
 
@@ -33,15 +33,15 @@ Western synastry compares two birth charts to reveal psychological and romantic 
 
 **Key synastry factors:**
 
-**Sun-Moon aspects:** The foundation of emotional understanding. When one person's Sun aspects another's Moon (especially conjunction, trine, or sextile), there's natural rapport. The Sun person energizes the Moon person; the Moon person emotionally supports the Sun person. This is the "we just get each other" aspect.
+**Sun-Moon aspects:** The foundation of emotional understanding. When one person's Sun aspects another's Moon (especially [conjunction](/glossary#C), [trine](/glossary#T), or [sextile](/glossary#S)), there's natural rapport. The Sun person energizes the Moon person; the Moon person emotionally supports the Sun person. This is the "we just get each other" [aspect](/glossary#A).
 
-**Venus-Mars aspects:** Sexual and romantic attraction. Venus represents love, beauty, and values. Mars represents desire, action, and passion. When one person's Venus connects with another's Mars, there's magnetic attraction. Harmonious aspects (trine, sextile) create easy romantic flow. Challenging aspects (square, opposition) create intense attraction but potential conflict.
+**Venus-Mars aspects:** Sexual and romantic attraction. Venus represents love, beauty, and values. Mars represents desire, action, and passion. When one person's Venus connects with another's Mars, there's magnetic attraction. Harmonious aspects (trine, sextile) create easy romantic flow. Challenging aspects ([square](/glossary#S), [opposition](/glossary#O)) create intense attraction but potential conflict.
 
-**Moon-Moon aspects:** Emotional compatibility. When Moons are in compatible elements (both water, both earth, or complementary like water-earth), emotional needs align naturally. Challenging Moon aspects mean you feel and process emotions very differently—not necessarily bad, but requires more conscious effort.
+**Moon-Moon aspects:** Emotional compatibility. When Moons are in compatible [elements](/glossary#E) (both water, both earth, or complementary like water-earth), emotional needs align naturally. Challenging Moon aspects mean you feel and process emotions very differently—not necessarily bad, but requires more conscious effort.
 
 **Mercury aspects:** Communication style. How you think, talk, and process information. Mercury-Mercury harmony means conversation flows effortlessly. Challenging Mercury contacts mean you speak different languages mentally—one person is literal, the other metaphorical; one direct, the other indirect.
 
-**Ascendant aspects:** How you present and perceive each other. When someone's planet (especially Sun, Moon, or Venus) aspects your Ascendant, they "see" you clearly. You feel recognized and understood by them.
+**[ascendant](/glossary#A) aspects:** How you present and perceive each other. When someone's planet (especially Sun, Moon, or Venus) aspects your Ascendant, they "see" you clearly. You feel recognized and understood by them.
 
 **7th house overlays:** The partnership house. When someone's planets fall in your 7th house, they naturally activate your relationship sector. You see them as potential partner material.
 
@@ -61,9 +61,9 @@ Vedic astrology approaches compatibility differently—it's less about whether y
 2. **Vashya (2 points):** Mutual attraction and control dynamics
 3. **Tara (3 points):** Health and well-being of the couple
 4. **Yoni (4 points):** Sexual compatibility and intimate nature
-5. **Graha Maitri (5 points):** Mental and intellectual compatibility
+5. **[graha](/glossary#G) Maitri (5 points):** Mental and intellectual compatibility
 6. **Gana (6 points):** Temperament—human, godly, or demonic nature
-7. **Rashi (7 points):** Emotional and psychological compatibility based on Moon sign lords
+7. **[rashi](/glossary#R) (7 points):** Emotional and psychological compatibility based on [moon sign](/glossary#M) lords
 8. **Nadi (8 points):** Health, progeny, and genetic compatibility
 
 **Total possible:** 36 points (Gunas)
@@ -79,7 +79,7 @@ Vedic astrology approaches compatibility differently—it's less about whether y
 
 **Bhakoot (Moon sign compatibility):** Certain Moon sign combinations are considered naturally incompatible (2-12, 6-8 relationships). These create friction, power struggles, or emotional distance.
 
-**Mangal Dosha (Mars affliction):** If Mars is placed in certain houses (1st, 4th, 7th, 8th, 12th from Ascendant or Moon), the person is "Manglik" and traditionally should marry another Manglik. Mars creates passion but also aggression in relationships. Mangal Dosha loses strength after age 28 or can be canceled by specific planetary configurations.
+**Mangal Dosha (Mars affliction):** If Mars is placed in certain [houses](/glossary#H) (1st, 4th, 7th, 8th, 12th from Ascendant or Moon), the person is "Manglik" and traditionally should marry another Manglik. Mars creates passion but also aggression in relationships. Mangal Dosha loses strength after age 28 or can be canceled by specific planetary configurations.
 
 **What Kundali matching reveals:** Karmic compatibility, long-term stability, health and progeny prospects, spiritual alignment, and whether this union will support both souls' dharma (life purpose).
 
@@ -122,7 +122,7 @@ Life Path numbers are calculated from your birth date and reveal your life's pur
 - 4 & 5: Stability clashes with freedom
 - 7 & 8: Spiritual seeker vs. material achiever
 
-**Master numbers (11, 22, 33):** These high-vibration numbers are compatible with each other and with their root numbers (11 with 2, 22 with 4, 33 with 6), but can overwhelm single-digit Life Paths.
+**[master numbers](/glossary#M) (11, 22, 33):** These high-vibration numbers are compatible with each other and with their root numbers (11 with 2, 22 with 4, 33 with 6), but can overwhelm single-digit Life Paths.
 
 **Personal Year compatibility:**
 
@@ -248,7 +248,7 @@ Get weekly astrology insights delivered to your inbox every Monday.
 
 **Step 4: Identify specific areas**
 
-- **Mental/communication:** Western Mercury, Vedic Graha Maitri, Numerology Expression number
+- **Mental/communication:** Western Mercury, Vedic Graha Maitri, Numerology [expression number](/glossary#E)
 - **Emotional:** Western Moon aspects, Vedic Rashi compatibility, Numerology Soul Urge
 - **Physical/sexual:** Western Mars-Venus, Vedic Yoni, Life Path energy compatibility
 - **Long-term stability:** Western Saturn, Vedic Gun Milan score, Life Path alignment

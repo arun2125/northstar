@@ -153,7 +153,7 @@ Get weekly astrology insights delivered to your inbox every Monday.
 
 In turn, Virgo gives Pisces's dreams concrete form. Pisces has beautiful visions but struggles with execution. Virgo's practical skills transform Pisces's creativity into reality. Together, they create art, businesses, or simply lives that blend inspiration with implementation.
 
-Both are mutable signs, creating natural adaptability. Neither needs rigid routines or unchanging dynamics. They flow together, adjusting to each other's needs and life's changes without resistance.
+Both are [mutable signs](/glossary#M), creating natural adaptability. Neither needs rigid routines or unchanging dynamics. They flow together, adjusting to each other's needs and life's changes without resistance.
 
 The service orientation they share creates deeply caring relationships. Pisces serves through emotional support and creative inspiration. Virgo serves through practical help and problem-solving. Both feel genuinely cared for through actions that match their needs.
 
@@ -167,7 +167,7 @@ Virgo's criticism is Pisces's kryptonite. Pisces takes feedback deeply personall
 
 ## What Makes These Matches Work: The Virgo Love Blueprint
 
-Successful Virgo relationships share key elements:
+Successful Virgo relationships share key [elements](/glossary#E):
 
 **Appreciation for practical devotion**: The best matches recognize that Virgo's helpful actions are love expressions. They don't take Virgo's support for granted or dismiss it as mere duty.
 

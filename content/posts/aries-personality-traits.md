@@ -19,7 +19,7 @@ faq:
 
 ## The Aries Archetype: Born Ready for Battle
 
-Let's cut through the astrology-speak: Aries is the zodiac's resident adrenaline junkie, the person who sees a "Caution" sign and takes it as a personal challenge. Ruled by Mars (the planet of war, sex, and getting shit done), Aries doesn't just enter a room—they explode into it, usually with an idea they're convinced will change everything.
+Let's cut through the astrology-speak: Aries is the [zodiac](/glossary#Z)'s resident adrenaline junkie, the person who sees a "Caution" sign and takes it as a personal challenge. Ruled by Mars (the planet of war, sex, and getting shit done), Aries doesn't just enter a room—they explode into it, usually with an idea they're convinced will change everything.
 
 This is the first sign of the zodiac, and that pioneering energy is real. Aries natives are hardwired to **initiate**. New projects, new relationships, new arguments—they're perpetually in launch mode. The issue? Maintenance isn't sexy. Once the novelty wears off, so does their attention span. You'll recognize an Aries by the trail of 80%-complete projects behind them and the absolute certainty that *this time* will be different.
 
@@ -107,7 +107,7 @@ Get weekly astrology insights delivered to your inbox every Monday.
 
 ---
 
-Want more compatibility insights? Check out our full [zodiac compatibility guide](/blog/zodiac-compatibility-real-way) and [fire sign dynamics](/blog/astrology-elements-explained).
+Want more compatibility insights? Check out our full [zodiac compatibility guide](/blog/zodiac-compatibility-real-way) and [fire sign dynamics](/blog/astrology-[elements](/glossary#E)-explained).
 
 ## Growing Up Aries: The Path to Evolved Warrior
 
@@ -128,5 +128,5 @@ That's where legends are made.
 
 **Related Articles:**
 - [Astrology Elements Explained](/blog/astrology-elements-explained)
-- [Astrology Modalities Explained](/blog/astrology-modalities-explained)
-- [12 Houses Explained](/blog/12-houses-explained)
+- [Astrology [modalities](/glossary#M) Explained](/blog/astrology-modalities-explained)
+- [12 [houses](/glossary#H) Explained](/blog/12-houses-explained)

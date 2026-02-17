@@ -19,13 +19,13 @@ faq:
 
 If astrology had a strict teacher, it would be Saturn. The planet of structure, discipline, karma, and time doesn't hand out participation trophies. It demands that you show up, do the work, and face reality—no shortcuts, no excuses.
 
-When Saturn transits a sensitive point in your chart (your Sun, Moon, Rising sign, or other personal planets), you're being enrolled in a cosmic masterclass. The curriculum? Maturity, responsibility, and building something real.
+When Saturn transits a sensitive point in your chart (your Sun, Moon, [rising sign](/glossary#A), or other personal planets), you're being enrolled in a cosmic masterclass. The curriculum? Maturity, responsibility, and building something real.
 
 Saturn transits aren't fun. But they're some of the most valuable periods of your life—if you understand what Saturn is actually asking for and stop resisting the lesson.
 
 ## What Saturn Represents in Astrology
 
-Saturn is known as the **Great Malefic** in traditional astrology, which sounds ominous but really just means it's the planet of hard truths and tough love. Saturn governs:
+Saturn is known as the **Great [malefic](/glossary#M)** in traditional astrology, which sounds ominous but really just means it's the planet of hard truths and tough love. Saturn governs:
 
 - **Structure and discipline** – building foundations that last
 - **Time and patience** – slow, steady progress over quick wins
@@ -41,13 +41,13 @@ Saturn's job is to show you where you've been avoiding responsibility, cutting c
 
 **Saturn Conjunct Your Sun, Moon, or Rising** – This is the heavyweight transit. Saturn directly confronting your core identity (Sun), emotional world (Moon), or how you show up in life (Rising). Expect a period of serious self-evaluation, increased pressure, and the need to mature in that area. It's intense but transformative.
 
-**Saturn Square Your Sun, Moon, or Rising** – Friction, obstacles, delays. Squares create tension that demands action. You're being pushed to solve problems you've been ignoring. This transit can feel like hitting a wall repeatedly until you find the right way through.
+**Saturn [square](/glossary#S) Your Sun, Moon, or Rising** – Friction, obstacles, delays. Squares create tension that demands action. You're being pushed to solve problems you've been ignoring. This transit can feel like hitting a wall repeatedly until you find the right way through.
 
 **Saturn Opposite Your Sun, Moon, or Rising** – External pressure, often through other people or circumstances beyond your control. Oppositions bring awareness through contrast. Saturn opposite your Sun might manifest as authority figures challenging you. Opposite your Moon, it could be emotional tests through relationships.
 
 **Saturn Return** (around ages 29-30, 58-60, 87-88) – Saturn returning to the exact position it occupied when you were born. This is the big one—a full life audit. Who are you really? What do you actually want? What structures in your life are working, and what needs to go? Your first Saturn return is notorious for quarter-life crises, career shifts, marriages, divorces, and major reality checks.
 
-**Saturn Transiting Your Houses** – Even without hitting personal planets, Saturn moving through a house in your chart restructures that area of life. Saturn in your 7th house? Relationships get serious. Saturn in your 10th? Career demands more responsibility. Saturn in your 4th? Time to deal with family, home, and emotional foundations.
+**Saturn Transiting Your [houses](/glossary#H)** – Even without hitting personal planets, Saturn moving through a house in your chart restructures that area of life. Saturn in your 7th house? Relationships get serious. Saturn in your 10th? Career demands more responsibility. Saturn in your 4th? Time to deal with family, home, and emotional foundations.
 
 ## What Saturn Transits Feel Like (The Hard Truth)
 
@@ -164,7 +164,7 @@ Saturn doesn't hand you success on a silver platter, but the success you build u
 - **Full Saturn cycle (return):** 29.5 years
 - **Saturn retrograde (annual):** ~4.5 months per year
 - **Typical Saturn transit to a natal planet:** 2-12 months (depending on retrogrades)
-- **Orb of influence:** Most astrologers use 3-5 degrees approaching and separating
+- **[orb](/glossary#O) of influence:** Most astrologers use 3-5 degrees approaching and separating
 
 When Saturn stations retrograde over a sensitive point in your chart, you get multiple passes—three total. The first pass introduces the theme, the retrograde pass deepens the work, and the final pass completes the lesson. Think of it as three chances to get it right.
 
@@ -182,5 +182,5 @@ So the next time Saturn comes knocking, don't run. Don't complain. Don't resist.
 
 **Related Articles:**
 - [12 Houses Explained](/blog/12-houses-explained)
-- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology [elements](/glossary#E) Explained](/blog/astrology-elements-explained)
 - [2026 Astrology Predictions](/blog/2026-astrology-predictions)

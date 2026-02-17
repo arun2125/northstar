@@ -19,7 +19,7 @@ faq:
 
 Let's get one thing straight: astrology isn't about predicting lottery numbers or finding out if your crush likes you back. It's a symbolic language that's been around for thousands of years, helping people understand themselves, their patterns, and the timing of their lives.
 
-If you've only seen horoscopes in magazines or scrolled past memes about Mercury retrograde, you're barely scratching the surface. Real astrology—the kind that makes people say "how did you know that about me?"—goes way deeper.
+If you've only seen horoscopes in magazines or scrolled past memes about Mercury [retrograde](/glossary#R), you're barely scratching the surface. Real astrology—the kind that makes people say "how did you know that about me?"—goes way deeper.
 
 ## What Astrology Actually Is
 
@@ -35,11 +35,11 @@ It's a language of archetypes and patterns, refined over thousands of years of o
 
 Before you can understand what astrology does, you need to know what it's made of. There are three main components that work together:
 
-**The Signs** are the twelve zodiac archetypes you probably know: Aries, Taurus, Gemini, and so on. Each sign represents a different style of expression, a different energy signature. Aries is direct and initiating; Cancer is nurturing and protective; Sagittarius is adventurous and philosophical. You have all twelve signs somewhere in your chart.
+**The Signs** are the twelve [zodiac](/glossary#Z) archetypes you probably know: Aries, Taurus, Gemini, and so on. Each sign represents a different style of expression, a different energy signature. Aries is direct and initiating; Cancer is nurturing and protective; Sagittarius is adventurous and philosophical. You have all twelve signs somewhere in your chart.
 
 **The Planets** represent different parts of your psyche and life. The Sun is your core identity and vitality. The Moon is your emotional nature and inner world. Mercury is how you think and communicate. Venus is how you love and what you value. Each planet plays a different role in your psychological makeup.
 
-**The Houses** are twelve life areas—career, relationships, home, communication, money, and so on. The houses show *where* the planetary energies play out in your actual life.
+**The [houses](/glossary#H)** are twelve life areas—career, relationships, home, communication, money, and so on. The houses show *where* the planetary energies play out in your actual life.
 
 When you put these together, you get sentences: "Venus in Scorpio in the 7th house" translates to "You love intensely and seek deep transformation through partnerships."
 
@@ -54,11 +54,11 @@ When you put these together, you get sentences: "Venus in Scorpio in the 7th hou
 ---
 
 
-Your birth chart (also called a natal chart) is a map of where all the planets were at the exact moment and location you were born. It's calculated using your birth date, time, and place.
+Your birth chart (also called a [natal chart](/glossary#B)) is a map of where all the planets were at the exact moment and location you were born. It's calculated using your birth date, time, and place.
 
-The most important point in your chart is your **rising sign** (also called the ascendant), which was rising on the eastern horizon when you were born. This changes every two hours, which is why birth time matters so much. Your rising sign shapes your overall approach to life and how others perceive you.
+The most important point in your chart is your **rising sign** (also called the [ascendant](/glossary#A)), which was rising on the eastern horizon when you were born. This changes every two hours, which is why birth time matters so much. Your rising sign shapes your overall approach to life and how others perceive you.
 
-Your **sun sign**—what you read in horoscopes—is just one piece. It represents your core essence, your ego, what you're here to express. But your moon sign describes your emotional world, your Venus sign shows how you love, your Mars sign reveals how you take action, and so on.
+Your **sun sign**—what you read in horoscopes—is just one piece. It represents your core essence, your ego, what you're here to express. But your [moon sign](/glossary#M) describes your emotional world, your Venus sign shows how you love, your Mars sign reveals how you take action, and so on.
 
 Most people discover astrology through their sun sign and think, "This is sort of accurate but also really generic." Then they get their full birth chart and realize, "Oh. *This* is why I don't totally vibe with my sun sign description—I have five planets in a completely different sign."
 

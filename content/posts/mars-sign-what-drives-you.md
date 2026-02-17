@@ -216,7 +216,7 @@ Mars compatibility affects how couples fight and pursue goals together.
 
 **Harmonious Mars combinations** (same element) tend to fight similarly and want the same things.
 
-**Challenging Mars combinations** (square or opposite) can create friction — but also heat.
+**Challenging Mars combinations** ([square](/glossary#S) or opposite) can create friction — but also heat.
 
 Mars in Fire with Mars in Water can create steam or extinguishing. It depends on awareness.
 
@@ -272,5 +272,5 @@ Look up your birth chart and find the Mars symbol (♂). The sign it's in is you
 
 **Related Articles:**
 - [12 Houses Explained](/blog/12-houses-explained)
-- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology [elements](/glossary#E) Explained](/blog/astrology-elements-explained)
 - [2026 Astrology Predictions](/blog/2026-astrology-predictions)

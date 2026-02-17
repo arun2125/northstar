@@ -33,13 +33,13 @@ Think of it this way:
 - **Sun sign** = your ego, your identity, how you shine
 - **Moon sign** = your soul, your emotions, how you feel safe
 - **[Venus sign](/blog/venus-sign-how-you-love)** = your love language, what you value, how you connect
-- **Rising sign** = your social mask, first impressions, how others see you
+- **[rising sign](/glossary#A)** = your social mask, first impressions, how others see you
 
 Your Sun might be confident Leo, but if your Moon is in sensitive Cancer, you need way more emotional reassurance than people expect. Your Sun might be independent Aquarius, but if your Moon is in possessive Scorpio, you feel things way more intensely than you let on.
 
 In long-term relationships, Moon sign compatibility matters more than almost anything else. Because attraction fades, conversations run out, but emotional needs? Those are constant.
 
-## The Four Elements: Your Emotional Language
+## The Four [elements](/glossary#E): Your Emotional Language
 
 Moon signs are grouped into four elements, and understanding these is key to compatibility:
 
@@ -150,7 +150,7 @@ Aries Moon needs freedom, excitement, and a partner who doesn't take their emoti
 
 Taurus Moon needs stability, physical affection, and reliability. They process emotions slowly and need time to feel secure enough to open up.
 
-**Challenging but possible**: Scorpio Moon (opposite—intense attraction but power struggles), Aquarius Moon (Taurus finds Aquarius too detached), Leo Moon (both are stubborn fixed signs)
+**Challenging but possible**: Scorpio Moon (opposite—intense attraction but power struggles), Aquarius Moon (Taurus finds Aquarius too detached), Leo Moon (both are stubborn [fixed signs](/glossary#F))
 
 ### Gemini Moon
 

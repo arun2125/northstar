@@ -19,7 +19,7 @@ faq:
 
 # Your Expression Number: Discover Your Natural Talents and Destiny
 
-While your Life Path Number reveals the journey your soul chose for this lifetime, your Expression Number shows the tools, talents, and abilities you brought along for the ride. Also called your Destiny Number, this is one of the most revealing numbers in your numerology chart.
+While your [life path number](/glossary#L) reveals the journey your soul chose for this lifetime, your Expression Number shows the tools, talents, and abilities you brought along for the ride. Also called your Destiny Number, this is one of the most revealing numbers in your numerology chart.
 
 Think of your Expression Number as your natural skill set—the abilities that come easily to you, the ways you naturally express yourself in the world, and the ultimate potential you're working toward. It's not what you must become, but rather what you naturally evolve into when you're being authentically yourself.
 
@@ -69,7 +69,7 @@ S=1  T=2  U=3  V=4  W=5  X=6  Y=7  Z=8
 - Use your birth certificate name, including middle names
 - Include Jr., Sr., or III if they're on your birth certificate
 - Ignore name changes (marriages, adoptions after birth, etc.)
-- Keep master numbers (11, 22, 33) without reducing further
+- Keep [master numbers](/glossary#M) (11, 22, 33) without reducing further
 
 **Example 1: Simple Calculation**
 

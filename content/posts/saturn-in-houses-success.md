@@ -124,7 +124,7 @@ This placement can create anxiety around adequacy—feeling you never do enough,
 
 Sixth house Saturn people often become exceptional in their crafts through sheer dedication. You understand that mastery requires daily practice. Your commitment to excellence becomes your hallmark, and your work quality speaks for itself.
 
-**The Success**: Your lasting achievement comes through becoming a true master craftsperson, developing healing modalities, or creating systems that improve daily life. You succeed in healthcare, skilled trades, service professions, or quality-focused work.
+**The Success**: Your lasting achievement comes through becoming a true master craftsperson, developing healing [modalities](/glossary#M), or creating systems that improve daily life. You succeed in healthcare, skilled trades, service professions, or quality-focused work.
 
 Your reputation is built on reliability and excellence. When people need something done right, they come to you. Your discipline creates opportunities because employers and clients know you deliver consistently high quality.
 
@@ -263,5 +263,5 @@ Your Saturn placement shows where life will test you—and where your greatest a
 
 **Related Articles:**
 - [12 Houses Explained](/blog/12-houses-explained)
-- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology [elements](/glossary#E) Explained](/blog/astrology-elements-explained)
 - [Astrology Modalities Explained](/blog/astrology-modalities-explained)

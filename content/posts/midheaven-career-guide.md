@@ -23,7 +23,7 @@ Think of it this way: Your Sun is who you are in private. Your Rising is how you
 
 ## What Exactly Is the Midheaven?
 
-Your Midheaven marks the cusp (beginning) of your 10th house—the sector of your chart associated with career, public standing, authority, and achievement. It's where the sky meets the meridian directly above you at the moment you were born.
+Your Midheaven marks the [cusp](/glossary#C) (beginning) of your 10th house—the sector of your chart associated with career, public standing, authority, and achievement. It's where the sky meets the meridian directly above you at the moment you were born.
 
 **Why it matters for career:**
 
@@ -324,5 +324,5 @@ If there's a mismatch, ask: "Am I living my Sun but neglecting my MC?" or "Am I 
 
 **Related Articles:**
 - [12 Houses Explained](/blog/12-houses-explained)
-- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology [elements](/glossary#E) Explained](/blog/astrology-elements-explained)
 - [2026 Astrology Predictions](/blog/2026-astrology-predictions)

@@ -39,7 +39,7 @@ The Moon represents:
 
 In Vedic thought, controlling the mind is the key to controlling life. An agitated, unstable mind creates suffering regardless of external circumstances. A peaceful, stable mind finds contentment even in simplicity. Since the Moon governs the mind, understanding your Moon sign becomes the foundation of self-knowledge.
 
-Additionally, the Moon moves quickly—spending only about 2.5 days in each sign—making it a precise timing indicator. Many Vedic predictions and timing techniques are calculated from the Moon sign rather than the ascendant or Sun sign.
+Additionally, the Moon moves quickly—spending only about 2.5 days in each sign—making it a precise timing indicator. Many Vedic predictions and timing techniques are calculated from the Moon sign rather than the [ascendant](/glossary#A) or Sun sign.
 
 ## Rashi vs. Nakshatra: Understanding Moon Placements
 
@@ -63,7 +63,7 @@ Your Rashi is the zodiac sign occupied by the Moon at your birth. The 12 Rashis 
 Your Rashi provides the broad stroke of your emotional nature and mental patterns.
 
 ### Nakshatra (Lunar Mansion)
-The 27 Nakshatras divide the zodiac into even finer sections—each spanning 13°20'. Your Nakshatra reveals very specific character traits, karmic themes, and life patterns. It's like zooming in from Moon sign (general neighborhood) to Nakshatra (specific street address).
+The 27 [nakshatras](/glossary#N) divide the zodiac into even finer sections—each spanning 13°20'. Your Nakshatra reveals very specific character traits, karmic themes, and life patterns. It's like zooming in from Moon sign (general neighborhood) to Nakshatra (specific street address).
 
 Each Nakshatra has its own:
 - Ruling deity
@@ -97,7 +97,7 @@ Use a **Vedic astrology calculator** or software—not Western. The key differen
 
 Because of precession (Earth's wobble), these two systems are now about 24° apart. This means your Vedic Moon sign may be different from your Western Moon sign—often by one full sign.
 
-Many free Vedic chart calculators are available online. Enter your birth data, generate your chart (called a Kundali), and look for the house where the Moon symbol appears. The sign of that house is your Rashi.
+Many free Vedic chart calculators are available online. Enter your birth data, generate your chart (called a [kundali](/glossary#K)), and look for the house where the Moon symbol appears. The sign of that house is your Rashi.
 
 ## The Twelve Moon Signs: A Brief Overview
 
@@ -183,7 +183,7 @@ The Moon's interactions with other planets create specific emotional and mental 
 - **Moon with Mars**: Passionate, reactive emotions; courage but also anger
 - **Moon with Mercury**: Quick, intellectual mind; excellent for communication
 - **Moon with Saturn**: Serious, disciplined, or depressed mind; [Sade Sati](/posts/sade-sati-meaning) considerations
-- **Moon with Rahu/Ketu**: Emotional confusion, intuition, or spiritual awakening; see [Rahu and Ketu](/posts/rahu-ketu-meaning)
+- **Moon with [rahu](/glossary#R)/[ketu](/glossary#K)**: Emotional confusion, intuition, or spiritual awakening; see [Rahu and Ketu](/posts/rahu-ketu-meaning)
 
 Certain combinations create special yogas (planetary combinations) that significantly enhance or challenge the Moon's expression.
 
@@ -255,5 +255,5 @@ Your Moon sign is where your journey begins. Explore it, honor it, and let it gu
 
 **Related Articles:**
 - [Nakshatras Explained](/blog/nakshatras-explained)
-- [Dasha System Explained](/blog/dasha-system-explained)
+- [[dasha](/glossary#D) System Explained](/blog/dasha-system-explained)
 - [Vedic Vs Western](/blog/vedic-vs-western)

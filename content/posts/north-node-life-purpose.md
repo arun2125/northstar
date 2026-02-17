@@ -203,9 +203,9 @@ Get weekly astrology insights delivered to your inbox every Monday.
 
 **You'll receive:**
 - Personalized horoscopes for all 12 signs
-- Planetary transit explanations
+- Planetary [transit](/glossary#T) explanations
 - Moon phase guidance & rituals
-- Mercury retrograde survival tips
+- Mercury [retrograde](/glossary#R) survival tips
 
 *Join 2,000+ cosmic seekers. Unsubscribe anytime.*
 
@@ -246,7 +246,7 @@ Pay attention to that pull. Follow it.
 
 ## Finding Your Nodes
 
-Your Nodes depend on your birth date (not time). They move backward through the zodiac and stay in each sign for about 18 months.
+Your Nodes depend on your birth date (not time). They move backward through the [zodiac](/glossary#Z) and stay in each sign for about 18 months.
 
 Look up your birth chart and find the symbols ☊ (North Node) and ☋ (South Node).
 

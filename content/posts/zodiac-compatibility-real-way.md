@@ -41,13 +41,13 @@ Sun sign compatibility is one piece of a very complex puzzle.
 
 ## What Actually Matters in Compatibility
 
-### 1. Moon Sign Compatibility
+### 1. [moon sign](/glossary#M) Compatibility
 
 If Sun is who you are, [Moon is who you live with](/blog/moon-sign-meaning) every day. Moon sign compatibility might matter more than Sun sign compatibility for long-term relationships.
 
 **Moon in the same element** (Fire-Fire, Earth-Earth, Air-Air, Water-Water) usually means you process emotions similarly. You get each other's needs.
 
-**Moon in compatible elements** (Fire-Air, Earth-Water) also works well. Fire and Air stimulate each other; Earth and Water nurture each other.
+**Moon in compatible [elements](/glossary#E)** (Fire-Air, Earth-Water) also works well. Fire and Air stimulate each other; Earth and Water nurture each other.
 
 **Moon in challenging elements** (Fire-Water, Earth-Air) creates friction. Not impossible — just requires work.
 
@@ -193,9 +193,9 @@ Get weekly astrology insights delivered to your inbox every Monday.
 
 **You'll receive:**
 - Personalized horoscopes for all 12 signs
-- Planetary transit explanations
+- Planetary [transit](/glossary#T) explanations
 - Moon phase guidance & rituals
-- Mercury retrograde survival tips
+- Mercury [retrograde](/glossary#R) survival tips
 
 *Join 2,000+ cosmic seekers. Unsubscribe anytime.*
 
@@ -248,6 +248,6 @@ Compatibility is one factor. It's not the only factor.
 *Want to see how your chart connects with someone else's? Get a free mini-reading at [northstarastro.com](/) — we'll show you the cosmic connections that matter.*
 
 **Related Articles:**
-- [12 Houses Explained](/blog/12-houses-explained)
+- [12 [houses](/glossary#H) Explained](/blog/12-houses-explained)
 - [Astrology Elements Explained](/blog/astrology-elements-explained)
-- [Astrology Modalities Explained](/blog/astrology-modalities-explained)
+- [Astrology [modalities](/glossary#M) Explained](/blog/astrology-modalities-explained)

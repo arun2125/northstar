@@ -132,7 +132,7 @@ Year 3 is when your garden starts blooming. After planting (Year 1) and watering
 
 **Challenges:** Scattering your energy across too many projects, superficiality, or avoiding deeper emotional work. Year 3 can feel like a party, but don't use it to escape necessary growth.
 
-**Astrological connection:** Year 3 resonates with [Mercury and Jupiter energy](/posts/mercury-retrograde-survival)—expansion, communication, and optimistic growth.
+**Astrological connection:** Year 3 resonates with [Mercury and Jupiter energy](/posts/mercury-[retrograde](/glossary#R)-survival)—expansion, communication, and optimistic growth.
 
 ## Personal Year 4: Building Foundations
 
@@ -156,7 +156,7 @@ The fun and games of Year 3 give way to Year 4's serious construction energy. Th
 
 **Challenges:** Feeling restricted, overwhelmed by responsibility, or burned out. Year 4 demands discipline, which can feel heavy. Remember: you're building something that will support you for years.
 
-**Astrological connection:** This mirrors [Saturn energy](/posts/saturn-return-guide)—structure, discipline, and karmic foundations. If you're in your Saturn Return, Year 4 amplifies that intensity.
+**Astrological connection:** This mirrors [Saturn energy](/posts/saturn-return-guide)—structure, discipline, and karmic foundations. If you're in your [saturn return](/glossary#S), Year 4 amplifies that intensity.
 
 ## Personal Year 5: Change and Freedom
 
@@ -220,7 +220,7 @@ Year 7 is your sabbatical year—a time to retreat inward, reflect deeply, and c
 - Breakthroughs through study and meditation
 
 **Action steps:**
-- Invest in spiritual practices (meditation, yoga, therapy)
+- Invest in spiritual practices (meditation, [yoga](/glossary#Y), therapy)
 - Study subjects that fascinate you
 - Spend time alone in nature
 - Journal, reflect, and process your life
@@ -295,7 +295,7 @@ Year 9 closes your nine-year cycle. It's time to complete unfinished business, r
 
 **Challenges:** Grief, loss, or resistance to change. Year 9 can feel like death before rebirth—because that's exactly what it is. Trust the process.
 
-**Astrological connection:** Year 9 resonates with the [South Node](/posts/nodes-of-destiny) and 12th house—karmic completion and spiritual surrender.
+**Astrological connection:** Year 9 resonates with the [South Node](/posts/[nodes](/glossary#N)-of-destiny) and 12th house—karmic completion and spiritual surrender.
 
 ## Working With Your Personal Year Energy
 
@@ -315,5 +315,5 @@ Calculate your Personal Year Number today, read its description, and notice how 
 
 **Related Articles:**
 - [12 Houses Explained](/blog/12-houses-explained)
-- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology [elements](/glossary#E) Explained](/blog/astrology-elements-explained)
 - [2026 Astrology Predictions](/blog/2026-astrology-predictions)

@@ -39,7 +39,7 @@ Venus retrograde isn't just the 40-day backward period. Like all retrogrades, it
 
 **Early Retrograde (first 2-3 weeks):** The review begins in earnest. Exes, old patterns, past situations resurface. You're being shown what's unfinished or unresolved. This phase can feel nostalgic, confusing, or regretful. Don't make permanent decisions yet—you're still gathering information.
 
-**Venus Inferior Conjunction (halfway point):** Venus passes between Earth and the Sun, creating a sort of "Venus New Moon." This is the turning point, the deepest part of the retrograde. Revelations happen here. You see relationships, money, or self-worth issues with brutal clarity. It's uncomfortable but necessary. This is where the real transformation begins.
+**Venus Inferior [conjunction](/glossary#C) (halfway point):** Venus passes between Earth and the Sun, creating a sort of "Venus New Moon." This is the turning point, the deepest part of the retrograde. Revelations happen here. You see relationships, money, or self-worth issues with brutal clarity. It's uncomfortable but necessary. This is where the real transformation begins.
 
 **Late Retrograde (last 2-3 weeks):** Integration phase. You've seen what needs to change—now you're figuring out how. Decisions start to feel clearer. You're less confused, more resolved. Relationships either begin to heal or you accept they're done. Your new values start to solidify.
 

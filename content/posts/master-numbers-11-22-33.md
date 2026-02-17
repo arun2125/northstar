@@ -323,7 +323,7 @@ This can be confusing! Use our calculator for accuracy.
 
 While Life Path master numbers get the most attention, master numbers can appear elsewhere in your chart:
 
-**Expression Number 11, 22, or 33**: Indicates master-level talents and gifts to express in the world.
+**[expression number](/glossary#E) 11, 22, or 33**: Indicates master-level talents and gifts to express in the world.
 
 **Soul Urge Number 11, 22, or 33**: Shows spiritually evolved desires and motivations.
 

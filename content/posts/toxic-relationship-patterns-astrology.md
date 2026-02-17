@@ -17,7 +17,7 @@ faq:
     answer: "While any combination can be healthy or toxic depending on individual maturity, certain pairings trigger each other's shadow sides more easily. Fixed signs (Taurus, Leo, Scorpio, Aquarius) can create stubborn standoffs. Fire signs together can become mutually destructive. Water signs can drown in codependency."
 ---
 
-Let's be honest: every zodiac sign has relationship patterns that can turn toxic when taken to extremes. Your Sun sign doesn't doom you to repeat destructive cycles, but it does highlight tendencies that, left unchecked, can sabotage even the best connections.
+Let's be honest: every zodiac sign has relationship patterns that can turn toxic when taken to extremes. Your [sun sign](/glossary#S) doesn't doom you to repeat destructive cycles, but it does highlight tendencies that, left unchecked, can sabotage even the best connections.
 
 Understanding your sign's shadow side isn't about judgment—it's about awareness. When you recognize the patterns, you can interrupt them before they destroy another relationship. This isn't pop astrology telling you your sign is "bad" at relationships. This is real insight into how planetary influences can manifest as self-sabotage when we're not conscious.
 
@@ -261,5 +261,5 @@ Your Sun sign shows tendencies, not destiny. You can choose to grow beyond your 
 
 **Related Articles:**
 - [12 Houses Explained](/blog/12-houses-explained)
-- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology [elements](/glossary#E) Explained](/blog/astrology-elements-explained)
 - [2026 Astrology Predictions](/blog/2026-astrology-predictions)

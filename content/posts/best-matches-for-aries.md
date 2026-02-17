@@ -23,7 +23,7 @@ If you're an Aries looking for your match (or someone trying to figure out if th
 
 ## Why Aries Compatibility Isn't One-Size-Fits-All
 
-Before we dive into specific signs, let's get real about compatibility. Your Sun sign is just one piece of the puzzle. Your [Venus sign](/blog/venus-sign-how-you-love) determines how you love, your [Moon sign](/blog/moon-signs-explained) governs your emotional needs, and Mars dictates your passion and drive.
+Before we dive into specific signs, let's get real about compatibility. Your [sun sign](/glossary#S) is just one piece of the puzzle. Your [Venus sign](/blog/venus-sign-how-you-love) determines how you love, your [Moon sign](/blog/moon-signs-explained) governs your emotional needs, and Mars dictates your passion and drive.
 
 That said, your Sun sign represents your core identity—your ego, your life force, what makes you *you*. For Aries, that means:
 
@@ -171,7 +171,7 @@ The best match for Aries isn't necessarily another fire sign—it's someone who 
 
 ## The Bottom Line
 
-The "best" match for any Aries depends on what you value most. Want passion and adventure? Go for Sagittarius. Want power couple energy? Choose Leo. Want intellectual stimulation? Pick Gemini or Aquarius. Want to grow through opposition? Try Libra.
+The "best" match for any Aries depends on what you value most. Want passion and adventure? Go for Sagittarius. Want power couple energy? Choose Leo. Want intellectual stimulation? Pick Gemini or Aquarius. Want to grow through [opposition](/glossary#O)? Try Libra.
 
 But here's the real secret: compatibility isn't about finding someone exactly like you or completely different from you. It's about finding someone who respects who you are, challenges you to grow, and chooses you even when it's hard.
 

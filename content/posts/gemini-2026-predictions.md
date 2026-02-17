@@ -13,7 +13,7 @@ imageAlt: "Cosmic illustration of the Gemini twins constellation with 2026 plane
 
 # Gemini 2026 Horoscope: The Year Your Mind Becomes Your Greatest Asset
 
-**Meta Description Suggestion:** *Discover your complete Gemini 2026 horoscope with in-depth predictions for love, career, and health. Learn how Neptune in Aries transforms your social world, navigate three Mercury retrogrades like a pro, and use the eclipse energy to revolutionize your thinking.*
+**Meta Description Suggestion:** *Discover your complete Gemini 2026 horoscope with in-depth predictions for love, career, and health. Learn how Neptune in Aries transforms your social world, navigate three Mercury retrogrades like a pro, and use the [eclipse](/glossary#E) energy to revolutionize your thinking.*
 
 ---
 
@@ -37,7 +37,7 @@ Welcome to your Gemini 2026 horoscope. Let's break down exactly what the cosmos 
 
 ### Neptune Enters Aries: Your 11th House Awakens (January 26, 2026)
 
-This is the transit that changes everything.
+This is the [transit](/glossary#T) that changes everything.
 
 Neptune hasn't been in Aries since 1862. Nobody alive has experienced this energy. And for Gemini, Neptune moving from your 10th house (career, public image) into your 11th house (friends, communities, hopes, and dreams) marks a profound shift in where you seek meaning.
 
@@ -132,7 +132,7 @@ Don't fight these cycles. Flow with them. They're designed for minds like yours.
 
 ### The Eclipse Axis Shift: New Downloads Coming Through
 
-2026 brings a major shift in the eclipse axis from Aries-Libra to Aquarius-Leo. For Gemini, this is significant because the new axis activates two of your most compatible elements: air (Aquarius) and fire (Leo).
+2026 brings a major shift in the eclipse axis from Aries-Libra to Aquarius-Leo. For Gemini, this is significant because the new axis activates two of your most compatible [elements](/glossary#E): air (Aquarius) and fire (Leo).
 
 **2026 Eclipse Dates for Gemini:**
 
@@ -177,7 +177,7 @@ If you've been holding back on a communication project, the August eclipse gives
 ---
 
 > 💫 **Want Your Personal 2026 Forecast?**  
-> Chat with Tara, our AI astrologer, for a free reading combining Western, Vedic, and Numerology insights tailored to your birth chart.  
+> Chat with Tara, our AI astrologer, for a free reading combining Western, Vedic, and Numerology insights tailored to your [birth chart](/glossary#B).  
 > [Start Free Reading →](/chat)
 
 ---

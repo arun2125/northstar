@@ -34,7 +34,7 @@ You've spent years watching other signs take the cosmic stage while you observed
 
 2026 is also bringing:
 - **Neptune in Aries sextiling your sign**—spiritual downloads and visionary clarity
-- **Three Mercury retrogrades** hitting your money, health, and career houses
+- **Three Mercury retrogrades** hitting your money, health, and career [houses](/glossary#H)
 - **Jupiter entering Leo**—your partnership sector explodes with opportunity
 - **Venus retrograde** reshaping your relationship values in early spring
 
@@ -111,7 +111,7 @@ If you've been staying in relationships because they're comfortable rather than 
 
 ### The Vision Enhancement You've Been Waiting For
 
-Neptune entered Aries on January 26, 2026—the first ingress since 1862. Nobody alive has experienced this energy before. For Aquarius, Neptune in fellow air-and-fire-friendly Aries creates a **sextile aspect**—harmonious, supportive, opportunity-rich.
+Neptune entered Aries on January 26, 2026—the first ingress since 1862. Nobody alive has experienced this energy before. For Aquarius, Neptune in fellow air-and-fire-friendly Aries creates a **sextile [aspect](/glossary#A)**—harmonious, supportive, opportunity-rich.
 
 Unlike the intensity of eclipses, Neptune's sextile works subtly. It doesn't grab you—it whispers. It doesn't force transformation—it offers doorways.
 
@@ -383,4 +383,4 @@ Welcome to your year, Aquarius. The water bearer is about to pour.
 **Related Articles:**
 - [2026 Astrology Predictions: Complete Year Guide](/blog/2026-astrology-predictions)
 - [Aquarius Personality Traits & Characteristics](/blog/aquarius-personality-traits)
-- [Understanding the Air Element in Astrology](/blog/astrology-elements-explained)
+- [Understanding the Air Element in Astrology](/blog/astrology-[elements](/glossary#E)-explained)

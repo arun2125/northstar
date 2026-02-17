@@ -23,7 +23,7 @@ If you've ever felt an inexplicable obsession, an unshakeable dissatisfaction de
 
 ## What Are Rahu and Ketu?
 
-From an astronomical perspective, Rahu and Ketu are the North and South lunar nodes—the two points where the Moon's orbit around Earth intersects with the Sun's apparent path (the ecliptic). Eclipses occur when the Sun or Moon aligns with these nodes, which is why Rahu and Ketu are intimately connected with eclipse phenomena.
+From an astronomical perspective, Rahu and Ketu are the North and South lunar nodes—the two points where the Moon's orbit around Earth intersects with the Sun's apparent path (the ecliptic). Eclipses occur when the Sun or Moon aligns with these nodes, which is why Rahu and Ketu are intimately connected with [eclipse](/glossary#E) phenomena.
 
 But Vedic astrology goes deeper than astronomy. The ancient texts describe Rahu and Ketu not as mere mathematical points but as actual entities with consciousness, intention, and mythological significance.
 
@@ -51,7 +51,7 @@ Rahu represents where you're going in this lifetime—your karmic destination. I
 
 Rahu is neither inherently good nor bad—it's intensifying. Whatever it touches becomes amplified, exaggerated, and extreme. In a strong chart with good discipline, Rahu can bring extraordinary success. In a weak chart with poor boundaries, it creates chaos, addiction, and delusion.
 
-### Rahu in Different Houses
+### Rahu in Different [houses](/glossary#H)
 
 The house placement of Rahu in your [Vedic birth chart](/posts/vedic-moon-sign) shows where you're meant to grow and expand in this lifetime, though the path will involve confusion and trial-and-error:
 
@@ -129,7 +129,7 @@ The key to working with the Rahu-Ketu axis is balance: don't completely abandon 
 
 ## Rahu and Ketu Dashas: Life-Changing Periods
 
-In Vimshottari dasha (the most common Vedic timing system), everyone experiences:
+In [vimshottari dasha](/glossary#V) (the most common Vedic timing system), everyone experiences:
 - **Rahu dasha**: 18 years of intense worldly activity, ambition, and material pursuit
 - **Ketu dasha**: 7 years of spiritual awakening, detachment, and inner exploration
 
@@ -181,7 +181,7 @@ Get weekly astrology insights delivered to your inbox every Monday.
 - Serve society through unconventional methods
 
 **For Ketu:**
-- Develop your spiritual practice—meditation, yoga, or prayer
+- Develop your spiritual practice—meditation, [yoga](/glossary#Y), or prayer
 - Trust your intuition and inner knowing
 - Let go of what no longer serves you
 - Use your natural talents to serve others
@@ -216,5 +216,5 @@ Embrace the journey from Ketu to Rahu—from what was to what will be. That's wh
 
 **Related Articles:**
 - [12 Houses Explained](/blog/12-houses-explained)
-- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology [elements](/glossary#E) Explained](/blog/astrology-elements-explained)
 - [2026 Astrology Predictions](/blog/2026-astrology-predictions)

@@ -123,7 +123,7 @@ Mercury goes retrograde 3-4 times a year, for about three weeks each time. If re
 
 Life goes on during retrograde. People sign contracts, start jobs, travel, and communicate just fine. The energy just asks for more attention.
 
-### It's Not the Only Transit That Matters
+### It's Not the Only [transit](/glossary#T) That Matters
 
 There's so much more happening in the sky than Mercury Retrograde. While everyone's panicking about Mercury, Saturn might be squaring your Moon and that's actually what's making your life hard.
 
@@ -155,7 +155,7 @@ You'll feel retrogrades more intensely. This is your ruling planet acting up.
 **If retrograde happens in your sign**
 That particular retrograde affects you more. Mercury retrograde in Aries? Aries placements feel it.
 
-**If Mercury is prominent in your birth chart**
+**If Mercury is prominent in your [birth chart](/glossary#B)**
 Strong Mercury aspects, Mercury in the 1st house, Mercury conjunct the Sun — these folks are more sensitive to all Mercury transits.
 
 **If retrograde aspects your natal planets**
@@ -257,6 +257,6 @@ Think of it as the universe's way of forcing a review period. Everything's movin
 *Want to know how Mercury Retrograde specifically affects YOUR chart? Get a free mini-reading at [northstarastro.com](/) and we'll show you where Mercury sits in your birth chart.*
 
 **Related Articles:**
-- [12 Houses Explained](/blog/12-houses-explained)
-- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [12 [houses](/glossary#H) Explained](/blog/12-houses-explained)
+- [Astrology [elements](/glossary#E) Explained](/blog/astrology-elements-explained)
 - [2026 Astrology Predictions](/blog/2026-astrology-predictions)

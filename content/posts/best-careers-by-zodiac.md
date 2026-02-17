@@ -27,7 +27,7 @@ Your Sun sign represents your core identity and ego needs. But here's what most 
 
 - **Midheaven (MC):** The career mask you wear, how you're known publicly
 - **10th House planets:** Direct career influencers—these often override Sun sign traits
-- **Moon sign:** What actually fulfills you day-to-day (you can be professionally successful but emotionally drained if this is ignored)
+- **[moon sign](/glossary#M):** What actually fulfills you day-to-day (you can be professionally successful but emotionally drained if this is ignored)
 - **Rising sign:** How you approach opportunities and navigate work environments
 
 Think of it like this: Your Sun is the engine, your Midheaven is the vehicle's exterior, your Moon is the comfort of the interior, and your Rising is how you drive.
@@ -255,5 +255,5 @@ Check your full chart. The answer is already there.
 
 **Related Articles:**
 - [12 Houses Explained](/blog/12-houses-explained)
-- [Astrology Elements Explained](/blog/astrology-elements-explained)
-- [Astrology Modalities Explained](/blog/astrology-modalities-explained)
+- [Astrology [elements](/glossary#E) Explained](/blog/astrology-elements-explained)
+- [Astrology [modalities](/glossary#M) Explained](/blog/astrology-modalities-explained)

@@ -17,7 +17,7 @@ faq:
     answer: "Absolutely. Each system stands on its own. However, using both together provides richer insight than either alone. They're like two different languages describing the same truth."
 ---
 
-You've heard about [astrology's birth charts](/posts/birth-chart-basics) with their complex planetary positions, houses, and aspects. You've also discovered [numerology's elegant simplicity](/posts/life-path-number)—calculating your core numbers from your birthdate and name. But which system should you use? And how do they relate to each other?
+You've heard about [astrology's birth charts](/posts/birth-chart-basics) with their complex planetary positions, [houses](/glossary#H), and aspects. You've also discovered [numerology's elegant simplicity](/posts/life-path-number)—calculating your core numbers from your birthdate and name. But which system should you use? And how do they relate to each other?
 
 The truth is, **numerology and astrology aren't competitors—they're complementary systems** that reveal different dimensions of the same truth about you. Astrology is like a detailed map showing terrain, weather patterns, and optimal routes. Numerology is like a compass showing your true north and core direction.
 
@@ -29,7 +29,7 @@ Let's explore how these two ancient systems differ, where they overlap, and how 
 
 **Astrology examines:**
 - The positions of planets at your birth moment
-- How those planets aspect each other
+- How those planets [aspect](/glossary#A) each other
 - Which houses (life areas) they occupy
 - Current planetary transits and their timing
 - Cycles of growth and challenge
@@ -40,13 +40,13 @@ Let's explore how these two ancient systems differ, where they overlap, and how 
 An [astrological birth chart](/posts/birth-chart-basics) has dozens of data points: Sun, Moon, Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto in various signs and houses, all forming aspects to each other. This creates a highly specific, individualized portrait.
 
 Astrology excels at:
-- **Timing:** When will something happen? [Saturn Returns](/posts/saturn-return-guide) at age 29-30, [Jupiter transits](/posts/jupiter-transits) bring expansion, [eclipses](/posts/eclipse-guide) trigger destiny moments
+- **Timing:** When will something happen? [Saturn Returns](/posts/saturn-return-guide) at age 29-30, [Jupiter transits](/posts/jupiter-transits) bring expansion, [eclipses](/posts/[eclipse](/glossary#E)-guide) trigger destiny moments
 - **Emotional patterns:** Your [Moon sign](/posts/moon-signs-emotions) reveals emotional needs and reactions
-- **Communication style:** [Mercury sign](/posts/mercury-retrograde-survival) shows how you think and communicate
+- **Communication style:** [Mercury sign](/posts/mercury-[retrograde](/glossary#R)-survival) shows how you think and communicate
 - **Love language:** [Venus sign](/posts/venus-retrograde) reveals how you give and receive love
 - **Specific life areas:** 12 houses show different domains (career, home, relationships, etc.)
 
-**Example:** Astrology can tell you that next month's Mars transit will energize your career sector, making it an ideal time to ask for a promotion—that's specific, timed guidance.
+**Example:** Astrology can tell you that next month's Mars [transit](/glossary#T) will energize your career sector, making it an ideal time to ask for a promotion—that's specific, timed guidance.
 
 ### Numerology: Essential Truth and Core Patterns
 
@@ -62,7 +62,7 @@ Astrology excels at:
 A [numerology chart](/posts/life-path-number) has fewer core numbers: Life Path, [Expression](/posts/name-numerology), [Soul Urge](/posts/name-numerology), [Personality](/posts/name-numerology), and [Personal Year](/posts/personal-year-number). This creates a clear, focused portrait of essence.
 
 Numerology excels at:
-- **Life purpose:** Your Life Path Number reveals your core journey and purpose
+- **Life purpose:** Your [life path number](/glossary#L) reveals your core journey and purpose
 - **Personality essence:** Core traits distilled to their simplest form
 - **Natural gifts:** [Birthday Number](/posts/birthday-number-meaning) reveals innate talents
 - **Annual themes:** [Personal Year Numbers](/posts/personal-year-number) show nine-year cycles
@@ -137,7 +137,7 @@ Despite their differences, both systems often point to the same truths through d
 
 ### Life Purpose and Direction
 
-- **Astrology:** Sun sign, North Node, Midheaven reveal life purpose and direction
+- **Astrology:** Sun sign, North Node, [midheaven](/glossary#M) reveal life purpose and direction
 - **Numerology:** Life Path Number reveals core purpose and journey
 
 **Example:** A Life Path 1 (pioneer, leader) often correlates with strong Aries or Mars placements, or a North Node in Aries—all indicating leadership and independence.
@@ -165,7 +165,7 @@ Despite their differences, both systems often point to the same truths through d
 
 ### Karmic Lessons
 
-- **Astrology:** [Saturn](/posts/saturn-return-guide), [South Node](/posts/nodes-of-destiny), Pluto show karmic lessons
+- **Astrology:** [Saturn](/posts/saturn-return-guide), [South Node](/posts/[nodes](/glossary#N)-of-destiny), Pluto show karmic lessons
 - **Numerology:** [Karmic Debt Numbers](/posts/karmic-debt-numbers) (13, 14, 16, 19) show karmic lessons
 
 **Example:** Karmic Debt 16/7 (ego transformation) often appears with challenging Saturn or Pluto aspects—both indicating intense personal transformation.
@@ -369,5 +369,5 @@ Calculate your numbers. Read your chart. Then live your truth.
 
 **Related Articles:**
 - [12 Houses Explained](/blog/12-houses-explained)
-- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology [elements](/glossary#E) Explained](/blog/astrology-elements-explained)
 - [2026 Astrology Predictions](/blog/2026-astrology-predictions)

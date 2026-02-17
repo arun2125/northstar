@@ -57,7 +57,7 @@ The sequence is always the same: Ketu → Venus → Sun → Moon → Mars → Ra
 
 ### How Your Starting Dasha Is Determined
 
-Each of the 27 Nakshatras is ruled by one of the nine planets in a repeating pattern. When you're born, your Moon occupies a specific Nakshatra, and you begin life in that Nakshatra's planetary dasha.
+Each of the 27 [nakshatras](/glossary#N) is ruled by one of the nine planets in a repeating pattern. When you're born, your Moon occupies a specific Nakshatra, and you begin life in that Nakshatra's planetary dasha.
 
 For example:
 - If your Moon is in **Ashwini Nakshatra** (ruled by Ketu), you're born into **Ketu Dasha**
@@ -146,15 +146,15 @@ Where the dasha planet sits in your chart matters enormously:
 
 - **What sign is it in?** Is the planet strong (exalted, own sign) or weak (debilitated, enemy sign)? A strong planet's dasha brings favorable results more easily; a weak planet's dasha may bring challenges.
 
-- **What aspects does it receive?** Benefic aspects from Jupiter or Venus help; malefic aspects from Mars or Saturn create challenges.
+- **What aspects does it receive?** Benefic aspects from Jupiter or Venus help; [malefic](/glossary#M) aspects from Mars or Saturn create challenges.
 
 ### 4. Yogas and Combinations
 
 Special planetary combinations (yogas) in your chart get activated during the dashas of planets involved in those yogas.
 
-If you have a **Raj Yoga** (a royal combination indicating success and status) involving Jupiter and Venus, then during Jupiter or Venus Dashas, that yoga's results manifest—career success, recognition, wealth.
+If you have a **Raj [yoga](/glossary#Y)** (a royal combination indicating success and status) involving Jupiter and Venus, then during Jupiter or Venus Dashas, that yoga's results manifest—career success, recognition, wealth.
 
-If you have a **Graha Yuddha** (planetary war) or difficult combination, those challenging themes activate during involved planets' dashas.
+If you have a **[graha](/glossary#G) Yuddha** (planetary war) or difficult combination, those challenging themes activate during involved planets' dashas.
 
 ### 5. Antar Dasha Planet's Influence
 
@@ -174,9 +174,9 @@ The sub-period planet significantly modifies the major period's expression. Some
 
 Dashas don't work in isolation. The current transits of planets (especially Saturn, Jupiter, and Rahu/Ketu) overlay the dasha periods, triggering or delaying dasha results.
 
-A favorable dasha might not manifest fully if heavy Saturn is transiting your ascendant. Conversely, a challenging dasha might be eased by beneficial Jupiter transiting key houses.
+A favorable dasha might not manifest fully if heavy Saturn is transiting your [ascendant](/glossary#A). Conversely, a challenging dasha might be eased by beneficial Jupiter transiting key houses.
 
-The most powerful predictive accuracy comes from combining dasha analysis with transit analysis.
+The most powerful predictive accuracy comes from combining dasha analysis with [transit](/glossary#T) analysis.
 
 ## Dasha Examples: Real-Life Applications
 

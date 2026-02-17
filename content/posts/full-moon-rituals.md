@@ -35,7 +35,7 @@ Everything else? Optional.
 
 Full moons happen when the Sun and Moon are in opposite zodiac signs—perfectly opposed across the sky. This creates tension, a cosmic tug-of-war between two different energies. The Sun illuminates what the Moon is holding, and suddenly you see what's been lurking in your emotional shadows.
 
-This opposition is why full moons feel so intense. You're pulled between two extremes: the rational and the emotional, the self and the other, the conscious and the unconscious. Whatever's out of balance becomes glaringly obvious.
+This [opposition](/glossary#O) is why full moons feel so intense. You're pulled between two extremes: the rational and the emotional, the self and the other, the conscious and the unconscious. Whatever's out of balance becomes glaringly obvious.
 
 **Emotionally:** People cry more, fight more, feel more during full moons. Hospitals and police stations report higher activity. This isn't superstition—it's energetic sensitivity. The same way the moon's gravity pulls the tides, it pulls on the water in our bodies (we're 60% water, after all). You're literally more emotionally fluid during the full moon.
 
@@ -181,7 +181,7 @@ Get weekly astrology insights delivered to your inbox every Monday.
 
 ## When the Full Moon Hits Your Personal Chart
 
-Full moons affect everyone, but they hit harder when they aspect (touch) personal planets or points in your birth chart. If you know your chart, check whether the full moon is conjunct, opposite, or square any of these:
+Full moons affect everyone, but they hit harder when they [aspect](/glossary#A) (touch) personal planets or points in your [birth chart](/glossary#B). If you know your chart, check whether the full moon is conjunct, opposite, or [square](/glossary#S) any of these:
 
 **Sun:** Identity and ego are under review. Who are you versus who you've been performing? Time to release outdated versions of yourself.
 
@@ -193,9 +193,9 @@ Full moons affect everyone, but they hit harder when they aspect (touch) persona
 
 **Mercury:** Communication patterns, mental loops, unspoken truths. Time to say what needs to be said or release thoughts that keep you stuck.
 
-**Ascendant (Rising Sign):** Your self-image and how you present to the world. Full moons on your rising can bring personal revelations or shift how others see you.
+**[ascendant](/glossary#A) ([rising sign](/glossary#A)):** Your self-image and how you present to the world. Full moons on your rising can bring personal revelations or shift how others see you.
 
-**Descendant (7th House Cusp):** Partnerships. Relationship dynamics peak. What's out of balance becomes obvious. Time to release unhealthy relationship patterns.
+**[descendant](/glossary#D) (7th House [cusp](/glossary#C)):** Partnerships. Relationship dynamics peak. What's out of balance becomes obvious. Time to release unhealthy relationship patterns.
 
 If the full moon is hitting your chart directly, the ritual becomes even more potent. You're not just working with the general energy—you're working with *your* specific growth edge.
 

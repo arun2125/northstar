@@ -106,7 +106,7 @@ The gift: Spiritual or philosophical questions you thought you'd answered reveal
 ---
 
 > 💫 **Want Your Personal 2026 Forecast?**  
-> Chat with Tara, our AI astrologer, for a free reading combining Western, Vedic, and Numerology insights tailored to your birth chart.  
+> Chat with Tara, our AI astrologer, for a free reading combining Western, Vedic, and Numerology insights tailored to your [birth chart](/glossary#B).  
 > [Start Free Reading →](/chat)
 
 ---
@@ -322,4 +322,4 @@ Welcome to the next chapter, Pisces. The dream is ending, and you're waking up�
 **Related Articles:**
 - [2026 Astrology Predictions: Complete Year Guide](/blog/2026-astrology-predictions)
 - [Pisces Personality Traits & Characteristics](/blog/pisces-personality-traits)
-- [Understanding the Water Element in Astrology](/blog/astrology-elements-explained)
+- [Understanding the Water Element in Astrology](/blog/astrology-[elements](/glossary#E)-explained)

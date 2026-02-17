@@ -21,7 +21,7 @@ faq:
 
 Let's cut through the Instagram astrology nonsense: Jupiter transits aren't cosmic slot machines that drop luck into your lap while you sit on the couch manifesting. They're windows of opportunity—emphasis on *window*, because they open and close whether you use them or not.
 
-Jupiter takes about 12 years to circle the entire zodiac, spending roughly a year in each sign. When it crosses over important points in your birth chart—your Sun, Moon, Venus, or the angles of your chart—that's when things get interesting. Think of Jupiter as a cosmic spotlight that temporarily illuminates parts of your life, making it easier to see possibilities you'd normally miss.
+Jupiter takes about 12 years to circle the entire zodiac, spending roughly a year in each sign. When it crosses over important points in your [birth chart](/glossary#B)—your Sun, Moon, Venus, or the angles of your chart—that's when things get interesting. Think of Jupiter as a cosmic spotlight that temporarily illuminates parts of your life, making it easier to see possibilities you'd normally miss.
 
 But here's the catch: Jupiter doesn't *do* things for you. It expands, opens, and enhances what's already there. If you're putting in effort, Jupiter amplifies your results. If you're doing nothing, Jupiter might just make you more comfortably stuck. It's like someone turning up the volume on your life—whatever's playing gets louder.
 
@@ -29,7 +29,7 @@ The most misunderstood thing about Jupiter transits? They're not just about luck
 
 ## The Jupiter Transit Timeline: What to Expect and When
 
-Jupiter transits work in phases, and knowing where you are in the cycle changes everything. Most people only notice the peak moment—when Jupiter hits an exact aspect—but the real magic (and the real work) happens in the lead-up and follow-through.
+Jupiter transits work in phases, and knowing where you are in the cycle changes everything. Most people only notice the peak moment—when Jupiter hits an exact [aspect](/glossary#A)—but the real magic (and the real work) happens in the lead-up and follow-through.
 
 **The Approach (2-3 months before exact):** This is when you start feeling restless. Something's changing, but you can't quite name it. You might get unusual ideas, meet interesting people, or suddenly care about things that seemed irrelevant before. Pay attention to what sparks your curiosity during this phase—Jupiter is planting seeds.
 
@@ -43,7 +43,7 @@ Jupiter transits work in phases, and knowing where you are in the cycle changes 
 
 Understanding this timeline means you won't panic when the retrograde happens or miss the window during the approach phase. Jupiter transits reward patience and awareness.
 
-## Jupiter Through the Houses: Where Luck Shows Up
+## Jupiter Through the [houses](/glossary#H): Where Luck Shows Up
 
 ---
 
@@ -84,7 +84,7 @@ Where Jupiter transits in your chart tells you *where* the expansion happens. An
 
 When Jupiter transits *over* your natal planets, that's when you feel it personally. Not everyone will experience every type of aspect, but here's what each major hit tends to bring:
 
-**Jupiter conjunct Sun:** This is your "main character" year. Confidence surges. Authority figures notice you. You're clear about your purpose and ready to pursue it. Some call this a "Jupiter return to the Sun"—it's your moment to shine. Take up space.
+**Jupiter conjunct Sun:** This is your "main character" year. Confidence surges. Authority figures notice you. You're clear about your purpose and ready to pursue it. Some call this a "[jupiter return](/glossary#J) to the Sun"—it's your moment to shine. Take up space.
 
 **Jupiter conjunct Moon:** Emotional expansion. You feel more, connect more deeply, need more comfort. [Your Moon sign](/blog/moon-sign-meaning) determines how this plays out—water moons get more intuitive, fire moons more passionate, earth moons more secure, air moons more socially connected. Family can grow (literally or figuratively).
 
@@ -96,9 +96,9 @@ When Jupiter transits *over* your natal planets, that's when you feel it persona
 
 **Jupiter opposite natal planets:** Oppositions aren't bad—they're about balance. Jupiter opposite your Sun might bring relationship opportunities that challenge your ego. Opposite Venus, you're learning about give and take in love or money. The lesson is integration, not domination.
 
-**Jupiter square natal planets:** Squares create friction that forces growth. Uncomfortable but productive. Jupiter square your Moon might mean your emotional needs clash with your expansion goals. Square your Saturn, you're reworking your relationship with discipline and limits. Growth happens, but you'll work for it.
+**Jupiter [square](/glossary#S) natal planets:** Squares create friction that forces growth. Uncomfortable but productive. Jupiter square your Moon might mean your emotional needs clash with your expansion goals. Square your Saturn, you're reworking your relationship with discipline and limits. Growth happens, but you'll work for it.
 
-**Jupiter trine or sextile natal planets:** Easy flow. Opportunities come naturally. Things just work out. These are the "lucky break" transits everyone talks about. The catch? They're so easy you might not notice or use them. Don't let opportunity pass because it didn't come with drama.
+**Jupiter [trine](/glossary#T) or [sextile](/glossary#S) natal planets:** Easy flow. Opportunities come naturally. Things just work out. These are the "lucky break" transits everyone talks about. The catch? They're so easy you might not notice or use them. Don't let opportunity pass because it didn't come with drama.
 
 Track which planets Jupiter is hitting in your chart, and you'll know exactly where to focus your energy during the transit.
 

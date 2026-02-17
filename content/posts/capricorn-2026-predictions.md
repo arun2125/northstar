@@ -21,7 +21,7 @@ faq:
 
 Capricorn, we need to have an honest conversation about 2026. This isn't going to be your easiest year—but it might be one of your most important.
 
-The headline is Neptune. On January 26, Neptune enters Aries for the first time since the 1860s, and Aries forms a challenging square aspect to your sign. This isn't a gentle transit asking you to grow. It's a disruptive one demanding you surrender some of the control that defines you.
+The headline is Neptune. On January 26, Neptune enters Aries for the first time since the 1860s, and Aries forms a challenging square [aspect](/glossary#A) to your sign. This isn't a gentle transit asking you to grow. It's a disruptive one demanding you surrender some of the control that defines you.
 
 Here's what that actually means: the carefully constructed life you've been building? Some parts of it will feel less solid than you thought. Certainties will dissolve. Plans will require revision. Your famous Capricorn determination will sometimes feel like pushing against fog.
 
@@ -94,7 +94,7 @@ A square from Neptune to your Sun sign is like having your internal GPS scramble
 ---
 
 > 💫 **Want Your Personal 2026 Forecast?**  
-> Chat with Tara, our AI astrologer, for a free reading combining Western, Vedic, and Numerology insights tailored to your birth chart.  
+> Chat with Tara, our AI astrologer, for a free reading combining Western, Vedic, and Numerology insights tailored to your [birth chart](/glossary#B).  
 > [Start Free Reading →](/chat)
 
 ---
@@ -132,9 +132,9 @@ This hits your 11th house of friendships, community, and future visions. Social 
 
 ## Eclipses: Your Expansion Axis Activated
 
-2026's eclipses fall on the Virgo-Pisces axis, which activates Capricorn's 3rd and 9th houses—the axis of learning, communication, and expansion.
+2026's eclipses fall on the Virgo-Pisces axis, which activates Capricorn's 3rd and 9th [houses](/glossary#H)—the axis of learning, communication, and expansion.
 
-**Lunar Eclipse in Virgo (March 3)**
+**Lunar [eclipse](/glossary#E) in Virgo (March 3)**
 
 This full moon eclipse lands in your 9th house of higher learning, travel, philosophy, and expansion beyond your familiar world. Something completes or releases in these areas. A course of study might conclude. Long-held beliefs might shift. Travel plans could reach culmination or require release.
 
@@ -303,7 +303,7 @@ Eclipse season arrives. The Lunar Eclipse in Virgo (March 3) affects your belief
 Post-eclipse integration. New understandings settle into place. The Sun in Aries activates your home and family sector intensely, bringing Neptune themes into focus. Home renovations, family conversations, or living situation decisions emerge. An important month for relationship clarity as well.
 
 ### May
-A stabilizing month. Saturn sextile your sign supports practical achievements. Work on communication projects initiated in March. Family matters may require continued attention. Mid-month brings opportunity for creative or romantic expression as Venus moves favorably.
+A stabilizing month. Saturn [sextile](/glossary#S) your sign supports practical achievements. Work on communication projects initiated in March. Family matters may require continued attention. Mid-month brings opportunity for creative or romantic expression as Venus moves favorably.
 
 ### June
 Venus enters Cancer, activating your partnership sector. This is your strongest period for relationship beginnings or deepening. Summer romance is possible, but aim for early June before Mercury retrograde begins in July. Career requires balancing ambition with emotional needs.
@@ -350,4 +350,4 @@ You've got this, Capricorn. Not because it's easy, but because you're built for 
 - [2026 Astrology Predictions: Complete Year Guide](/blog/2026-astrology-predictions)
 - [Capricorn Personality Traits & Characteristics](/blog/capricorn-personality-traits)
 - [Best Matches for Capricorn](/blog/best-matches-for-capricorn)
-- [Understanding the Earth Element in Astrology](/blog/astrology-elements-explained)
+- [Understanding the Earth Element in Astrology](/blog/astrology-[elements](/glossary#E)-explained)

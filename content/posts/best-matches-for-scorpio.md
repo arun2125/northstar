@@ -168,11 +168,11 @@ Get weekly astrology insights delivered to your inbox every Monday.
 
 **When it works**: When Scorpio has secure attachments elsewhere (friends, family, passions) and doesn't need Aquarius to fulfill all emotional needs. When Aquarius is willing to show up emotionally, even if it's not their natural mode.
 
-**Real talk**: This is the pairing that works better as friends or creative collaborators than romantic partners, unless both have significant placements in each other's elements.
+**Real talk**: This is the pairing that works better as friends or creative collaborators than romantic partners, unless both have significant placements in each other's [elements](/glossary#E).
 
 ## What Scorpio Actually Needs (Beyond Sun Signs)
 
-Your Sun sign is your ego and identity, but compatibility goes deeper. Here's what actually makes or breaks relationships for Scorpio:
+Your [sun sign](/glossary#S) is your ego and identity, but compatibility goes deeper. Here's what actually makes or breaks relationships for Scorpio:
 
 1. **Emotional safety to be vulnerable**: Scorpio needs to feel safe enough to show their soft underbelly
 2. **Loyalty that's proven, not just promised**: Words mean nothing without consistent action

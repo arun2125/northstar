@@ -74,7 +74,7 @@ Most Vedic astrology software uses the **Lahiri ayanamsa**, which is also offici
 
 What this means in practice: If your tropical Sun is at 10° Leo, subtracting the Lahiri ayanamsa (~24°) places your sidereal Sun at approximately 16° Cancer. You go from Leo to Cancer—a completely different archetype.
 
-## What This Means for Your Birth Chart
+## What This Means for Your [birth chart](/glossary#B)
 
 ---
 
@@ -89,9 +89,9 @@ The ayanamsa affects every point in your chart, not just your Sun sign:
 
 **Sun Sign**: Most people born in the past century will find their sidereal Sun is one sign earlier than their tropical Sun. If you were born when the Sun was near the beginning of a tropical sign, you might shift back two signs.
 
-**Moon Sign**: Your Moon sign will also shift, which is especially significant in Vedic astrology since the Moon is considered more important than the Sun.
+**[moon sign](/glossary#M)**: Your Moon sign will also shift, which is especially significant in Vedic astrology since the Moon is considered more important than the Sun.
 
-**Rising Sign (Ascendant)**: Your ascendant will shift, changing your entire house system since houses are calculated from the ascendant.
+**[rising sign](/glossary#A) ([ascendant](/glossary#A))**: Your ascendant will shift, changing your entire house system since [houses](/glossary#H) are calculated from the ascendant.
 
 **Planetary Positions**: All planets shift backward by the same ~24 degrees, potentially changing signs.
 
@@ -138,9 +138,9 @@ Sidereal astrology argues that the actual astronomical positions of celestial bo
 
 If you're born when the Sun is astronomically in the constellation Gemini, how can you be called a Cancer just because it's a certain time in the seasonal cycle? Sidereal astrologers find this counterintuitive.
 
-Furthermore, Vedic astrology has its own 5,000-year track record of accuracy, particularly in predictive techniques. Millions of people in India have relied on Jyotish for life decisions, and its timing methods (like the dasha system) often demonstrate remarkable precision.
+Furthermore, Vedic astrology has its own 5,000-year track record of accuracy, particularly in predictive techniques. Millions of people in India have relied on [jyotish](/glossary#J) for life decisions, and its timing methods (like the [dasha](/glossary#D) system) often demonstrate remarkable precision.
 
-The Nakshatras—27 lunar mansions that are central to Vedic astrology—only make sense in a sidereal framework because they're explicitly tied to specific fixed stars.
+The [nakshatras](/glossary#N)—27 lunar mansions that are central to Vedic astrology—only make sense in a sidereal framework because they're explicitly tied to specific fixed stars.
 
 ### Both Are Valid
 
@@ -232,5 +232,5 @@ For a broader comparison of how these systems differ beyond just the zodiac, rea
 
 **Related Articles:**
 - [12 Houses Explained](/blog/12-houses-explained)
-- [Astrology Elements Explained](/blog/astrology-elements-explained)
-- [Astrology Modalities Explained](/blog/astrology-modalities-explained)
+- [Astrology [elements](/glossary#E) Explained](/blog/astrology-elements-explained)
+- [Astrology [modalities](/glossary#M) Explained](/blog/astrology-modalities-explained)

@@ -148,17 +148,17 @@ You'll be shocked at how the threads connect. Eclipses are part of a longer stor
 
 ## Personal Eclipses: When It's Happening TO You
 
-Most eclipses affect everyone to some degree, but **personal eclipses**—when an eclipse directly aspects a planet or point in your birth chart—are life-changing.
+Most eclipses affect everyone to some degree, but **personal eclipses**—when an eclipse directly aspects a planet or point in your [birth chart](/glossary#B)—are life-changing.
 
 **How to know if it's a personal eclipse:**
 
 Check if the eclipse degree is within **5 degrees** of your:
 - Sun
 - Moon
-- Ascendant (rising sign)
-- Descendant (7th house cusp)
-- Midheaven (10th house cusp)
-- IC (4th house cusp)
+- [ascendant](/glossary#A) (rising sign)
+- [descendant](/glossary#D) (7th house [cusp](/glossary#C))
+- [midheaven](/glossary#M) (10th house cusp)
+- [ic](/glossary#I) (4th house cusp)
 - Or personal planets (Mercury, Venus, Mars)
 
 If yes, buckle up. This eclipse is FOR you. It's bringing major, unavoidable change to the area of life that point represents.

@@ -41,7 +41,7 @@ Let's map your complete journey through 2026.
 
 ---
 
-## Neptune Enters Aries: The Transit That Redefines You (January 26, 2026 – March 2039)
+## Neptune Enters Aries: The [transit](/glossary#T) That Redefines You (January 26, 2026 – March 2039)
 
 ### What Neptune in Your Sign Actually Means
 
@@ -98,7 +98,7 @@ Neptune isn't all transcendence and divine inspiration. In Aries, its shadow man
 ---
 
 > 💫 **Want Your Personal 2026 Forecast?**  
-> Chat with Tara, our AI astrologer, for a free reading combining Western, Vedic, and Numerology insights tailored to your birth chart.  
+> Chat with Tara, our AI astrologer, for a free reading combining Western, Vedic, and Numerology insights tailored to your [birth chart](/glossary#B).  
 > [Start Free Reading →](/chat)
 
 ---
@@ -477,8 +477,8 @@ Neptune entering your sign affects your physical body, not just your identity. Y
 - **Increased sensitivity** to foods, substances, environments
 - **Changes in sleep patterns** and dream intensity
 - **Fluctuating energy levels** that don't follow logical patterns
-- **A pull toward gentler forms of exercise** (yoga, swimming, dance vs. high-intensity training)
-- **Stronger response to healing modalities** (acupuncture, energy work, massage)
+- **A pull toward gentler forms of exercise** ([yoga](/glossary#Y), swimming, dance vs. high-intensity training)
+- **Stronger response to healing [modalities](/glossary#M)** (acupuncture, energy work, massage)
 
 This isn't weakness—it's Neptune dissolving the rigid boundaries between your physical body and the energetic world around you.
 

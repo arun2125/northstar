@@ -21,7 +21,7 @@ faq:
 
 If you've ever heard this, your Rising sign is why.
 
-Your Rising sign (also called the Ascendant) is the zodiac sign that was rising on the eastern horizon at the exact moment you were born. It changes every 2 hours, which is why birth time matters so much in astrology.
+Your Rising sign (also called the Ascendant) is the [zodiac](/glossary#Z) sign that was rising on the eastern horizon at the exact moment you were born. It changes every 2 hours, which is why birth time matters so much in astrology.
 
 And it might be more important than your Sun sign for how you actually move through the world.
 
@@ -59,7 +59,7 @@ It's not absolute, but it's noticeable once you know what to look for.
 
 ### 3. Your Entire House System
 
-This is technical but important: your Rising sign determines which houses all the other signs rule in your chart.
+This is technical but important: your Rising sign determines which [houses](/glossary#H) all the other signs rule in your chart.
 
 If you're Aries Rising, Aries rules your 1st house (self), Taurus rules your 2nd house (money), Gemini rules your 3rd house (communication), and so on.
 

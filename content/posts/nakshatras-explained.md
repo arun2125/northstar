@@ -19,7 +19,7 @@ faq:
 
 If you think knowing your Sun, Moon, and rising signs gives you the complete astrological picture, Vedic astrology has a surprise for you: the **Nakshatras**. These 27 lunar mansions form the backbone of Vedic astrology's predictive power and psychological depth, revealing layers of your personality and karma that zodiac signs alone can't touch.
 
-While Western astrology largely abandoned the lunar mansions (though they were known to ancient Greek astrologers), Vedic astrology has preserved and developed them into a sophisticated system that's essential to every chart interpretation. Your birth Nakshatra—the lunar mansion where your Moon was positioned at birth—says as much about you as your Sun sign, if not more.
+While Western astrology largely abandoned the lunar mansions (though they were known to ancient Greek astrologers), Vedic astrology has preserved and developed them into a sophisticated system that's essential to every chart interpretation. Your birth Nakshatra—the lunar mansion where your Moon was positioned at birth—says as much about you as your [sun sign](/glossary#S), if not more.
 
 Let's explore this uniquely Vedic concept that bridges astronomy, mythology, and psychology into a profound tool for self-understanding.
 
@@ -49,7 +49,7 @@ Let's look at all 27 Nakshatras in order as they appear along the zodiac:
 
 ### Aries (0° - 30°)
 **1. Ashwini** (0°00' - 13°20' Aries)
-- **Ruler**: Ketu
+- **Ruler**: [ketu](/glossary#K)
 - **Deity**: Ashwini Kumaras (divine twin physicians)
 - **Symbol**: Horse's head
 - **Quality**: Swift, healing, pioneering, impulsive
@@ -86,7 +86,7 @@ Let's look at all 27 Nakshatras in order as they appear along the zodiac:
 
 ### Gemini (0° - 30°)
 **6. Ardra** (6°40' - 20°00' Gemini)
-- **Ruler**: Rahu
+- **Ruler**: [rahu](/glossary#R)
 - **Deity**: Rudra (storm god, fierce form of Shiva)
 - **Symbol**: Teardrop, diamond
 - **Quality**: Intense, transformative, destructive, penetrating
@@ -139,7 +139,7 @@ Let's look at all 27 Nakshatras in order as they appear along the zodiac:
 ### Virgo (0° - 30°)
 **13. Hasta** (10°00' - 23°20' Virgo)
 - **Ruler**: Moon
-- **Deity**: Savitar (sun god, creative aspect)
+- **Deity**: Savitar (sun god, creative [aspect](/glossary#A))
 - **Symbol**: Hand, fist
 - **Quality**: Skillful, crafty, clever, dexterous
 - **Theme**: Skill, craft, manifestation, sleight of hand
@@ -209,7 +209,7 @@ Let's look at all 27 Nakshatras in order as they appear along the zodiac:
 - **Deity**: Vishnu (preserver god)
 - **Symbol**: Ear, three footprints
 - **Quality**: Listening, learning, connecting, pervasive
-- **Theme**: Listening, learning, connecting disparate elements
+- **Theme**: Listening, learning, connecting disparate [elements](/glossary#E)
 
 **23. Dhanishta** (23°20' Capricorn - 6°40' Aquarius)
 - **Ruler**: Mars
@@ -287,7 +287,7 @@ This system provides much more nuanced compatibility assessment than comparing S
 
 Nakshatras are crucial for **muhurta**—selecting auspicious timing for important events like weddings, business launches, surgeries, or travel.
 
-Certain Nakshatras are considered generally auspicious (like Rohini, Uttara Phalguni, Uttara Ashadha, Uttara Bhadrapada, Revati), while others are challenging (like Ardra, Ashlesha, Jyeshtha, Mula). The Moon's transit through Nakshatras is carefully tracked to time activities appropriately.
+Certain Nakshatras are considered generally auspicious (like Rohini, Uttara Phalguni, Uttara Ashadha, Uttara Bhadrapada, Revati), while others are challenging (like Ardra, Ashlesha, Jyeshtha, Mula). The Moon's [transit](/glossary#T) through Nakshatras is carefully tracked to time activities appropriately.
 
 This practical application shows how Nakshatras bridge cosmic patterns with daily life decisions.
 
@@ -335,7 +335,7 @@ While your Moon's Nakshatra is most emphasized (it's called your **Janma Nakshat
 
 **Sun's Nakshatra**: Your soul purpose and life direction themes
 
-**Ascendant Nakshatra**: Physical characteristics and life approach
+**[ascendant](/glossary#A) Nakshatra**: Physical characteristics and life approach
 
 **Other planetary Nakshatras**: Each planet's Nakshatra adds flavor to how that planet expresses
 

@@ -75,7 +75,7 @@ For Taurus:
 - **Leo = 4th house** (home, family, roots, emotional foundation)
 - **Aquarius = 10th house** (career, public reputation, legacy)
 
-These are your private vs. public life houses. The eclipses are asking: *Can you have both? What are you sacrificing?*
+These are your private vs. public life [houses](/glossary#H). The eclipses are asking: *Can you have both? What are you sacrificing?*
 
 #### Key Eclipse Dates for Taurus 2026
 
@@ -88,7 +88,7 @@ These are your private vs. public life houses. The eclipses are asking: *Can you
 
 **The August 12 Leo Solar Eclipse at 19° is your big one.** This eclipse plants seeds in your 4th house that will grow for the next six months. Home changes, family developments, moves, renovations, or deep emotional shifts around where you belong.
 
-If you have natal planets near 19° of fixed signs (Taurus, Leo, Scorpio, Aquarius), expect this eclipse to trigger significant events.
+If you have natal planets near 19° of [fixed signs](/glossary#F) (Taurus, Leo, Scorpio, Aquarius), expect this eclipse to trigger significant events.
 
 ---
 
@@ -376,7 +376,7 @@ Now you learn that the most important foundation is internal.
 **Related Articles:**
 - [2026 Astrology Predictions: Complete Year Guide](/blog/2026-astrology-predictions)
 - [Taurus Personality Traits & Characteristics](/blog/taurus-personality-traits)
-- [Understanding the Earth Element in Astrology](/blog/astrology-elements-explained)
+- [Understanding the Earth Element in Astrology](/blog/astrology-[elements](/glossary#E)-explained)
 
 ---
 

@@ -123,7 +123,7 @@ But Aquarius at work can struggle with:
 - Collaboration when others slow them down
 - Dealing with emotional coworkers
 
-Aquarius can be the brilliant loner who alienates their team by being dismissive, aloof, or insensitive. They're so focused on ideas and solutions that they forget about the human elements of work. They'll propose a brilliant strategy that ignores how people actually function.
+Aquarius can be the brilliant loner who alienates their team by being dismissive, aloof, or insensitive. They're so focused on ideas and solutions that they forget about the human [elements](/glossary#E) of work. They'll propose a brilliant strategy that ignores how people actually function.
 
 They can also be inconsistent—intensely focused on what interests them, completely checked out on what doesn't. They need work that keeps their mind engaged, or they'll be physically present but mentally on Mars.
 
@@ -190,5 +190,5 @@ Because the real revolution? It's learning to stay.
 
 **Related Articles:**
 - [Astrology Elements Explained](/blog/astrology-elements-explained)
-- [Astrology Modalities Explained](/blog/astrology-modalities-explained)
-- [12 Houses Explained](/blog/12-houses-explained)
+- [Astrology [modalities](/glossary#M) Explained](/blog/astrology-modalities-explained)
+- [12 [houses](/glossary#H) Explained](/blog/12-houses-explained)

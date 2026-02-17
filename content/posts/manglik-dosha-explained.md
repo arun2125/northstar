@@ -25,7 +25,7 @@ Let's cut through the fear and misinformation to understand what Manglik Dosha r
 
 ## What Is Manglik Dosha?
 
-Manglik Dosha occurs when **Mars (Mangal/Kuja)** is positioned in certain houses of your birth chart, specifically:
+Manglik Dosha occurs when **Mars (Mangal/Kuja)** is positioned in certain [houses](/glossary#H) of your birth chart, specifically:
 - **1st house** (Ascendant/Lagna)
 - **4th house** (home, mother, emotional security)
 - **7th house** (marriage, partnerships)
@@ -36,7 +36,7 @@ Some astrologers also include:
 - **2nd house** (family, wealth)
 
 The dosha is calculated from three reference points:
-1. **Ascendant (Lagna)**: Your rising sign
+1. **Ascendant (Lagna)**: Your [rising sign](/glossary#A)
 2. **Moon (Chandra)**: Your [Moon sign](/posts/vedic-moon-sign)
 3. **Venus (Shukra)**: The planet of love and marriage
 
@@ -89,7 +89,7 @@ Modern Vedic astrology recognizes that Manglik Dosha indicates **potential areas
 Manglik Dosha is **most significant** when:
 
 ### 1. Mars is Strongly Placed
-If Mars is in its own signs (Aries, Scorpio), exaltation (Capricorn), or receives aspects from malefic planets, its aggressive nature is amplified. This creates real intensity that needs conscious management.
+If Mars is in its own signs (Aries, Scorpio), [exaltation](/glossary#E) (Capricorn), or receives aspects from [malefic](/glossary#M) planets, its aggressive nature is amplified. This creates real intensity that needs conscious management.
 
 ### 2. The Overall Chart Is Weak
 If the chart has multiple afflictions—weak Venus, afflicted 7th house lord, malefic aspects to marriage houses—then Mars' challenging placement adds fuel to the fire.
@@ -125,7 +125,7 @@ Manglik effects are believed to diminish significantly after age 28. By this age
 ### 6. Specific Planetary Combinations
 Various yogas (planetary combinations) in the chart can completely override Manglik Dosha:
 - **Rajayoga** (combinations for success and prosperity)
-- **Dhana yoga** (wealth combinations)
+- **Dhana [yoga](/glossary#Y)** (wealth combinations)
 - **Strong combinations in the 7th house**
 
 ### 7. Mars in Houses from Venus
@@ -205,7 +205,7 @@ In traditional Vedic compatibility analysis, Manglik Dosha is checked early in t
 - **Strong charts overall**: Even with one Manglik partner, strong compatibility in other areas can override concerns
 - **Cancelled dosha**: If exceptions apply, it's treated as if the dosha isn't present
 
-The key point: Manglik Dosha is **one factor among many**. It should never be the sole reason to reject a match. A complete compatibility analysis considers planetary friendships, nakshatra compatibility, guna matching, dasha periods, and dozens of other factors.
+The key point: Manglik Dosha is **one factor among many**. It should never be the sole reason to reject a match. A complete compatibility analysis considers planetary friendships, [nakshatra](/glossary#N) compatibility, guna matching, [dasha](/glossary#D) periods, and dozens of other factors.
 
 ## Modern Perspective on Manglik Dosha
 
@@ -273,11 +273,11 @@ Mars energy, when conscious and channeled positively, brings passion, courage, p
 
 If you're concerned about Manglik Dosha—whether your own or a potential partner's—the single best step is getting a complete [Vedic compatibility analysis](/posts/kundali-matching-explained) from an experienced, modern-minded astrologer. They can assess the actual situation rather than applying blanket fears.
 
-Your [Moon sign](/posts/vedic-moon-sign), overall chart strength, current [dashas and transits like Sade Sati](/posts/sade-sati-meaning), and [Rahu-Ketu placements](/posts/rahu-ketu-meaning) all matter as much or more than Mars placement alone.
+Your [Moon sign](/posts/vedic-moon-sign), overall chart strength, current [dashas and transits like [sade sati](/glossary#S)](/posts/sade-sati-meaning), and [[rahu](/glossary#R)-[ketu](/glossary#K) placements](/posts/rahu-ketu-meaning) all matter as much or more than Mars placement alone.
 
 Marriage is challenging for everyone. Understanding your chart—including Mars—helps you navigate those challenges with wisdom. That's the true purpose of Vedic astrology: guidance, not fear.
 
 **Related Articles:**
 - [12 Houses Explained](/blog/12-houses-explained)
-- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology [elements](/glossary#E) Explained](/blog/astrology-elements-explained)
 - [2026 Astrology Predictions](/blog/2026-astrology-predictions)

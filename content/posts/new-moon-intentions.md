@@ -62,7 +62,7 @@ The universe can't do your work for you, but it absolutely will meet you halfway
 
 **Step 1: Check the New Moon's Sign and House**
 
-Look up where the New Moon is happening this month. What sign? What house in your birth chart (if you know it)? This tells you what themes are being activated. For example:
+Look up where the New Moon is happening this month. What sign? What house in your [birth chart](/glossary#B) (if you know it)? This tells you what themes are being activated. For example:
 
 - New Moon in **Taurus** = intentions around stability, finances, pleasure, values
 - New Moon in **Gemini** = intentions around communication, learning, connections
@@ -174,5 +174,5 @@ So next New Moon, grab a pen. Get clear. Write it down. Take one step. And watch
 
 **Related Articles:**
 - [12 Houses Explained](/blog/12-houses-explained)
-- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology [elements](/glossary#E) Explained](/blog/astrology-elements-explained)
 - [2026 Astrology Predictions](/blog/2026-astrology-predictions)

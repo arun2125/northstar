@@ -31,7 +31,7 @@ When you integrate all three, you don't just understand your purpose—you under
 
 ## The North Node: Your Soul's Growth Direction
 
-In Western astrology, your North Node (Rahu in Vedic terms, but measured differently) represents the uncomfortable, challenging direction your soul needs to grow toward. It's not where you're naturally good—that's the South Node, your past-life comfort zone. The North Node is where you're *meant* to become good through conscious effort.
+In Western astrology, your North Node ([rahu](/glossary#R) in Vedic terms, but measured differently) represents the uncomfortable, challenging direction your soul needs to grow toward. It's not where you're naturally good—that's the South Node, your past-life comfort zone. The North Node is where you're *meant* to become good through conscious effort.
 
 **The North Node polarity:**
 
@@ -71,7 +71,7 @@ Vedic astrology doesn't have a single "purpose indicator"—it reveals dharma th
 
 **Key Dharma indicators:**
 
-**1. The 10th House and 10th Lord (Karma Bhava):**
+**1. The 10th House and 10th Lord (Karma [bhava](/glossary#B)):**
 The 10th house represents your actions in the world, career, and public reputation. The sign on the 10th, planets in the 10th, and especially the 10th house lord reveal how you're meant to act in the world.
 
 - 10th lord in 1st house: Dharma expressed through personal identity and self-directed action
@@ -86,7 +86,7 @@ The 9th house is literally called the "house of dharma." It shows your higher pu
 - Afflicted 9th house: Challenges finding purpose, conflicts with teachers/belief systems
 - Planets in 9th: Jupiter—spiritual teaching; Venus—teaching arts/beauty; Mars—dharma warrior
 
-**3. Atmakaraka Planet:**
+**3. [atmakaraka](/glossary#A) Planet:**
 In Jaimini astrology, the Atmakaraka (AK) is the planet with the highest degree in your chart. It represents your soul's deepest desire and primary karmic lesson.
 
 - Sun as AK: Soul seeks authority, leadership, and self-realization
@@ -97,10 +97,10 @@ In Jaimini astrology, the Atmakaraka (AK) is the planet with the highest degree 
 - Venus as AK: Soul seeks beauty, relationships, and creative expression
 - Saturn as AK: Soul seeks service, discipline, and mastery through hardship
 
-**4. Moon Nakshatra:**
-Your Moon's nakshatra (lunar mansion) reveals your mental and emotional purpose. There are 27 nakshatras, each with distinct dharmic qualities.
+**4. Moon [nakshatra](/glossary#N):**
+Your Moon's nakshatra (lunar mansion) reveals your mental and emotional purpose. There are 27 [nakshatras](/glossary#N), each with distinct dharmic qualities.
 
-Example: Rohini nakshatra (Moon's exaltation) indicates dharma through material creativity and beauty. Vishakha nakshatra indicates dharma through achieving goals despite obstacles.
+Example: Rohini nakshatra (Moon's [exaltation](/glossary#E)) indicates dharma through material creativity and beauty. Vishakha nakshatra indicates dharma through achieving goals despite obstacles.
 
 **5. Dasamsa Chart (D-10):**
 The 10th divisional chart shows career and dharma in detail. The condition of planets here, especially the 10th lord in D-10, reveals how successfully you'll fulfill your dharmic duty.
@@ -149,7 +149,7 @@ Life Path: 1
 
 **Life Path 9 - The Humanitarian:** You're here to develop compassion, wisdom, and global consciousness. Purpose involves serving humanity, teaching universal principles, and letting go. Challenge: completing cycles and not clinging to the past.
 
-**Master Numbers (don't reduce):**
+**[master numbers](/glossary#M) (don't reduce):**
 
 **Life Path 11 - The Illuminator:** High-vibration spiritual teacher and inspirational leader. Purpose involves channeling higher wisdom and inspiring collective evolution. Challenge: managing intense sensitivity and high expectations.
 
@@ -217,7 +217,7 @@ Her soul journey (Jyeshtha nakshatra) involves overcoming personal crises that g
 Ready to discover your complete life purpose? Follow this process:
 
 **Step 1: Gather your three core indicators**
-- Calculate your Western birth chart and identify North Node sign and house
+- Calculate your Western [birth chart](/glossary#B) and identify North Node sign and house
 - Calculate your Vedic birth chart and identify 10th lord placement, 9th house condition, and Atmakaraka planet
 - Calculate your Life Path number
 
@@ -294,7 +294,7 @@ Your purpose doesn't activate all at once—it unfolds through phases:
 You're developing skills, often living more from South Node comfort and doing what's expected. The Life Path begins expressing but you might resist it.
 
 **Phase 2 (Ages 29-35): Awakening**
-First Saturn Return forces you to get real about purpose. North Node direction becomes clearer. You begin actively pursuing Life Path lessons.
+First [saturn return](/glossary#S) forces you to get real about purpose. North Node direction becomes clearer. You begin actively pursuing Life Path lessons.
 
 **Phase 3 (Ages 36-50): Expression**
 You're actively living your purpose. North Node qualities are developed. Vedic dharma is being fulfilled. Life Path mastery is in progress.
@@ -340,5 +340,5 @@ Your purpose has been waiting for you to speak all three cosmic languages. Now y
 
 **Related Articles:**
 - [12 Houses Explained](/blog/12-houses-explained)
-- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology [elements](/glossary#E) Explained](/blog/astrology-elements-explained)
 - [2026 Astrology Predictions](/blog/2026-astrology-predictions)

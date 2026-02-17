@@ -13,7 +13,7 @@ imageAlt: "Cosmic illustration representing 2026 astrology predictions with Nept
 
 # 2026 Astrology Predictions: The Year Everything Changes
 
-**Meta Description Suggestion:** *Explore comprehensive 2026 astrology predictions including Neptune's historic move into Aries, the Aquarius-Leo eclipse axis, Mercury retrograde cycles, and month-by-month forecasts for every zodiac sign.*
+**Meta Description Suggestion:** *Explore comprehensive 2026 astrology predictions including Neptune's historic move into Aries, the Aquarius-Leo eclipse axis, Mercury [retrograde](/glossary#R) cycles, and month-by-month forecasts for every zodiac sign.*
 
 ---
 
@@ -114,7 +114,7 @@ In **July 2026**, the eclipse axis shifts from Aries-Libra to **Aquarius-Leo**. 
 | **July 18, 2026** | Penumbral Lunar Eclipse | Aquarius | 26° |
 | **August 12, 2026** | Annular Solar Eclipse | Leo | 19° |
 
-The **August 12 Solar Eclipse at 19° Leo** is particularly powerful. If you have planets or points near this degree (especially in fixed signs: Taurus, Leo, Scorpio, Aquarius), expect significant life events around this time.
+The **August 12 Solar Eclipse at 19° Leo** is particularly powerful. If you have planets or points near this degree (especially in [fixed signs](/glossary#F): Taurus, Leo, Scorpio, Aquarius), expect significant life events around this time.
 
 **Practical Advice:** Eclipse seasons aren't for forcing outcomes. Let go of control. Pay attention to what life is trying to show you. Doors will close. Other doors will open. Trust the process.
 
@@ -350,9 +350,9 @@ Neptune leaves your sign after 14 years. The March Solar Eclipse at 27° Pisces 
 
 ### 1. Know Your Chart
 
-Generic sun sign forecasts only tell part of the story. To understand how 2026's transits affect YOU specifically, you need to know:
+Generic [sun sign](/glossary#S) forecasts only tell part of the story. To understand how 2026's transits affect YOU specifically, you need to know:
 
-- Your **Rising Sign** (determines which houses are activated)
+- Your **[rising sign](/glossary#A)** (determines which [houses](/glossary#H) are activated)
 - Planets or points near **19° Leo** (August eclipse point)
 - Planets or points near **0° Aries** (Neptune ingress point)
 - Your **natal Neptune and Venus** positions

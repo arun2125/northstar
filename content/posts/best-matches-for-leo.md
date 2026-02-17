@@ -159,11 +159,11 @@ The challenge is emotional expression. Leo needs regular affection and verbal af
 
 Leo's need for attention can also clash with Aquarius's independent nature. Aquarius values freedom and might resist Leo's expectations for togetherness. Finding balance—scheduled quality time plus respected space—prevents resentment.
 
-Both are fixed signs, creating potential stubbornness. When they disagree, neither wants to back down. They must learn that relationships aren't about winning arguments but finding solutions where both feel respected.
+Both are [fixed signs](/glossary#F), creating potential stubbornness. When they disagree, neither wants to back down. They must learn that relationships aren't about winning arguments but finding solutions where both feel respected.
 
 ## What Makes These Matches Work: The Leo Love Formula
 
-Across these compatible pairings, successful Leo relationships share key elements:
+Across these compatible pairings, successful Leo relationships share key [elements](/glossary#E):
 
 **Genuine admiration**: The best matches truly admire Leo—not just their surface qualities but their generous hearts, creative spirits, and loyal natures. This admiration is authentic, not flattery.
 

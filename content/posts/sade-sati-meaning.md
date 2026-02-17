@@ -76,11 +76,11 @@ By this phase, you're emerging from the darkness. The lessons have been learned,
 
 The effects of Sade Sati vary greatly based on several factors:
 
-**Your natal chart strength**: If your Moon is well-placed, in a friendly sign, or supported by benefic planets, Sade Sati will be much easier. Conversely, an afflicted Moon will intensify difficulties.
+**Your [natal chart](/glossary#B) strength**: If your Moon is well-placed, in a friendly sign, or supported by benefic planets, Sade Sati will be much easier. Conversely, an afflicted Moon will intensify difficulties.
 
-**Saturn's condition**: If Saturn is your yogakaraka (beneficial planet) or placed well in your birth chart, Sade Sati may actually bring positive structural changes, career advancement, or spiritual breakthroughs.
+**Saturn's condition**: If Saturn is your yogakaraka (beneficial planet) or placed well in your [birth chart](/glossary#B), Sade Sati may actually bring positive structural changes, career advancement, or spiritual breakthroughs.
 
-**Current dashas (planetary periods)**: If you're running a strong dasha of a benefic planet during Sade Sati, its effects will be cushioned. A difficult dasha will amplify struggles.
+**Current dashas (planetary periods)**: If you're running a strong [dasha](/glossary#D) of a benefic planet during Sade Sati, its effects will be cushioned. A difficult dasha will amplify struggles.
 
 **Your karma and maturity**: Sade Sati rewards those who accept responsibility, work hard, and practice patience. Resistance creates suffering.
 
@@ -91,7 +91,7 @@ Common themes across all Sade Sati experiences include:
 - **Isolation and introspection**: Social life may diminish as you turn inward.
 - **Loss and letting go**: Relationships, jobs, or identities you've outgrown may fall away.
 - **Building foundations**: Anything you build during this time—if built properly—will last.
-- **Spiritual growth**: Many people discover meditation, yoga, or spiritual practices during Sade Sati.
+- **Spiritual growth**: Many people discover meditation, [yoga](/glossary#Y), or spiritual practices during Sade Sati.
 
 It's crucial to understand that Sade Sati is not a punishment—it's a maturation process. The difficulties you face are designed to strengthen you, not break you.
 
@@ -194,11 +194,11 @@ Sade Sati is one of the most important astrological transits in Vedic astrology�
 
 If you're currently in Sade Sati, remember: millions have walked this path before you and emerged stronger. This is not about punishment; it's about evolution. Stay patient, do your inner work, fulfill your responsibilities, and trust the process.
 
-Understanding your complete [Vedic birth chart](/posts/kundali-matching-explained) can provide deeper insight into how Sade Sati will affect you personally. Consulting with an experienced Vedic astrologer can help you navigate this period with greater clarity and confidence.
+Understanding your complete [Vedic birth chart](/posts/[kundali](/glossary#K)-matching-explained) can provide deeper insight into how Sade Sati will affect you personally. Consulting with an experienced Vedic astrologer can help you navigate this period with greater clarity and confidence.
 
 The darkness of Sade Sati always gives way to light. Trust the journey.
 
 **Related Articles:**
 - [12 Houses Explained](/blog/12-houses-explained)
-- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology [elements](/glossary#E) Explained](/blog/astrology-elements-explained)
 - [2026 Astrology Predictions](/blog/2026-astrology-predictions)

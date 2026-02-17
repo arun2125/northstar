@@ -19,7 +19,7 @@ faq:
 
 ## The Cancer Archetype: The Emotional Fortress
 
-Cancer is the zodiac's **caretaker, protector, and emotional archaeologist**. Ruled by the Moon (which governs emotions, memory, and the subconscious), Cancer feels everything—not just their own emotions, but yours, their neighbor's, the collective anxiety of everyone in the room. This is the sign that remembers your coffee order, notices when you're off before you do, and creates safe spaces just by existing. They're built to nurture, but don't mistake that softness for weakness.
+Cancer is the [zodiac](/glossary#Z)'s **caretaker, protector, and emotional archaeologist**. Ruled by the Moon (which governs emotions, memory, and the subconscious), Cancer feels everything—not just their own emotions, but yours, their neighbor's, the collective anxiety of everyone in the room. This is the sign that remembers your coffee order, notices when you're off before you do, and creates safe spaces just by existing. They're built to nurture, but don't mistake that softness for weakness.
 
 The crab symbolism is perfect: hard protective shell on the outside, soft vulnerable core within. Cancer doesn't show you their real self until they trust you completely. Until then, you get the defensive version—the jokes, the deflection, the emotional unavailability masked as independence. But once you're in their inner circle? You've got a fiercely loyal protector who will defend you to the death and remember your birthday for the next 40 years.
 
@@ -155,5 +155,5 @@ Be that for yourself first. The rest will follow.
 
 **Related Articles:**
 - [Astrology Elements Explained](/blog/astrology-elements-explained)
-- [Astrology Modalities Explained](/blog/astrology-modalities-explained)
-- [12 Houses Explained](/blog/12-houses-explained)
+- [Astrology [modalities](/glossary#M) Explained](/blog/astrology-modalities-explained)
+- [12 [houses](/glossary#H) Explained](/blog/12-houses-explained)

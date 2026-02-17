@@ -161,9 +161,9 @@ Get weekly astrology insights delivered to your inbox every Monday.
 
 **You'll receive:**
 - Personalized horoscopes for all 12 signs
-- Planetary transit explanations
+- Planetary [transit](/glossary#T) explanations
 - Moon phase guidance & rituals
-- Mercury retrograde survival tips
+- Mercury [retrograde](/glossary#R) survival tips
 
 *Join 2,000+ cosmic seekers. Unsubscribe anytime.*
 
@@ -209,5 +209,5 @@ Your chart is a whole system. Learn it.
 
 **Related Articles:**
 - [12 Houses Explained](/blog/12-houses-explained)
-- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology [elements](/glossary#E) Explained](/blog/astrology-elements-explained)
 - [2026 Astrology Predictions](/blog/2026-astrology-predictions)

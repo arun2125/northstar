@@ -151,7 +151,7 @@ Get weekly astrology insights delivered to your inbox every Monday.
 
 ---
 
-Evolved Gemini learns to use their multiplicity as a strength rather than a liability. They don't become narrow or rigid—they learn to integrate their various interests into a coherent whole. The writer who brings in philosophy, psychology, and pop culture. The teacher who uses multiple modalities. The entrepreneur who sees connections between industries.
+Evolved Gemini learns to use their multiplicity as a strength rather than a liability. They don't become narrow or rigid—they learn to integrate their various interests into a coherent whole. The writer who brings in philosophy, psychology, and pop culture. The teacher who uses multiple [modalities](/glossary#M). The entrepreneur who sees connections between industries.
 
 They learn to finish what they start, not by suppressing their curious nature but by choosing commitments that allow for continued growth and exploration within them. They discover that true freedom isn't having unlimited options—it's knowing yourself well enough to choose the right ones.
 
@@ -180,4 +180,4 @@ The world needs Gemini energy—the connections you make, the ideas you spread, 
 **Related Articles:**
 - [Astrology Elements Explained](/blog/astrology-elements-explained)
 - [Astrology Modalities Explained](/blog/astrology-modalities-explained)
-- [12 Houses Explained](/blog/12-houses-explained)
+- [12 [houses](/glossary#H) Explained](/blog/12-houses-explained)

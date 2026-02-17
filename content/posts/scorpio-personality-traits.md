@@ -88,7 +88,7 @@ The key for Scorpio at work: **find environments that value depth over performan
 
 **Scorpio + Virgo**: Surprisingly compatible. Virgo's analysis matches Scorpio's investigation. Both are perfectionists who value privacy. Virgo organizes Scorpio's chaos; Scorpio encourages Virgo to feel deeply. The risk? Mutual criticism can spiral into toxicity.
 
-**Scorpio + Taurus** (opposite signs): Magnetic, stubborn, sensual. Both are possessive and value loyalty. Sexual chemistry is insane. But both are fixed signs—neither backs down. Power struggles are inevitable. Requires massive maturity from both sides.
+**Scorpio + Taurus** (opposite signs): Magnetic, stubborn, sensual. Both are possessive and value loyalty. Sexual chemistry is insane. But both are [fixed signs](/glossary#F)—neither backs down. Power struggles are inevitable. Requires massive maturity from both sides.
 
 **Scorpio + Leo**: Battle for dominance. Leo needs attention and praise; Scorpio finds that exhausting and shallow. Leo's openness threatens Scorpio's need for privacy. Leo's pride clashes with Scorpio's need for emotional truth. Can work if Leo is secure and Scorpio is evolved, but it's uphill.
 
@@ -129,7 +129,7 @@ The difference between a young Scorpio and an evolved one is **where they direct
 
 **If you're a Scorpio working on yourself**: Get into therapy yesterday. Not coaching, not self-help books—actual therapy with someone who can handle your intensity. Learn to name your emotions before acting on them (pause is your superpower). Practice vulnerability in low-stakes situations before major relationships. Study [Aries' directness](/blog/aries-personality-traits) to balance your tendency toward manipulation, and [Leo's openheartedness](/blog/leo-personality-traits) to counteract your suspicious nature.
 
-Your gift is seeing truth beneath the surface, feeling deeply, and facilitating transformation. You're the zodiac's psychologist, shaman, and phoenix. But you can't heal others if you're still bleeding from wounds you refuse to acknowledge. Do the work. Face your shadows. Stop treating vulnerability like weakness.
+Your gift is seeing truth beneath the surface, feeling deeply, and facilitating transformation. You're the [zodiac](/glossary#Z)'s psychologist, shaman, and phoenix. But you can't heal others if you're still bleeding from wounds you refuse to acknowledge. Do the work. Face your shadows. Stop treating vulnerability like weakness.
 
 The world needs Scorpio's intensity—but the healed version, not the wounded one. You're capable of profound love, spiritual depth, and psychological insight that changes lives. You're also capable of devastating cruelty. Choose wisely.
 
@@ -137,5 +137,5 @@ Your power is real. Use it to build, not destroy.
 
 **Related Articles:**
 - [Astrology Elements Explained](/blog/astrology-elements-explained)
-- [Astrology Modalities Explained](/blog/astrology-modalities-explained)
-- [12 Houses Explained](/blog/12-houses-explained)
+- [Astrology [modalities](/glossary#M) Explained](/blog/astrology-modalities-explained)
+- [12 [houses](/glossary#H) Explained](/blog/12-houses-explained)

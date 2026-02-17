@@ -21,7 +21,7 @@ If you've ever wondered why some zodiac signs just *get* you while others feel l
 
 Fire, Earth, Air, and Water—these aren't just poetic labels. They're the foundation of how astrology organizes energy and personality. Understanding the elements is like getting the master key to the zodiac. Once you know them, everything else starts clicking into place.
 
-Let's break down what each element actually means, how they show up in real life, and why your elemental balance matters way more than your sun sign alone.
+Let's break down what each element actually means, how they show up in real life, and why your elemental balance matters way more than your [sun sign](/glossary#S) alone.
 
 ## What the Elements Actually Represent
 
@@ -138,14 +138,14 @@ If you're Water-dominant, you need emotional safety and depth. Superficiality an
 
 ## Your Elemental Balance Matters More Than Your Sun Sign
 
-Here's what most people miss: your sun sign is just one planet. You have ten main celestial bodies in your chart (Sun, Moon, Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto), plus your rising sign. Each one is in a sign, and each sign has an element.
+Here's what most people miss: your sun sign is just one planet. You have ten main celestial bodies in your chart (Sun, Moon, Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto), plus your [rising sign](/glossary#A). Each one is in a sign, and each sign has an element.
 
 When you add it all up, your **elemental balance** often explains you better than your sun sign alone.
 
 For example, you might be a Gemini sun (Air) but have your Moon, Venus, Mars, and Mercury all in Cancer, Scorpio, or Pisces. That makes you Water-dominant despite being a "Gemini." You'll relate more to Water sign descriptions—emotional, intuitive, depth-seeking—than the typical "chatty, detached Gemini" stereotype.
 
 To find your elemental balance:
-1. Get your birth chart (you'll need your birth time)
+1. Get your [birth chart](/glossary#B) (you'll need your birth time)
 2. Count how many planets you have in each element
 3. Notice which elements dominate and which are weak or missing
 
@@ -208,7 +208,7 @@ The four elements are astrology's foundation. They explain why you naturally exc
 
 Fire needs passion and freedom. Earth needs stability and tangible results. Air needs ideas and connection. Water needs depth and emotional truth.
 
-You're not just your sun sign—you're a unique blend of all four elements, distributed across your planets and houses. Understanding your elemental balance gives you the blueprint for your natural energy and the roadmap for your growth.
+You're not just your sun sign—you're a unique blend of all four elements, distributed across your planets and [houses](/glossary#H). Understanding your elemental balance gives you the blueprint for your natural energy and the roadmap for your growth.
 
 Want to go deeper? Learn about [the modalities](/blog/astrology-modalities-explained) (Cardinal, Fixed, Mutable) to understand how each element expresses through different styles of action. Or explore [how to read your birth chart](/blog/how-to-read-your-birth-chart) to see your personal elemental balance.
 

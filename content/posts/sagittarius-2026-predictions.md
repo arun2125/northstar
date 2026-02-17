@@ -19,7 +19,7 @@ faq:
 
 Sagittarius, 2026 is your year to catch fire—in the best possible way.
 
-The headline you need to know: Neptune enters Aries on January 26, forming a harmonious trine to your Sun sign that hasn't happened in over 160 years. When the planet of dreams, creativity, and spiritual expansion forms a perfect flowing aspect to the sign of the optimistic explorer? Magic becomes possible.
+The headline you need to know: Neptune enters Aries on January 26, forming a harmonious trine to your [sun sign](/glossary#S) that hasn't happened in over 160 years. When the planet of dreams, creativity, and spiritual expansion forms a perfect flowing [aspect](/glossary#A) to the sign of the optimistic explorer? Magic becomes possible.
 
 But that's not all. Mercury retrogrades through water signs all year, touching your most intimate houses. Eclipses shake up your home and career axis. And Uranus—after seven years of revolutionizing your daily work and health—finally moves into your relationship sector, promising the most exciting developments in partnerships you've experienced in nearly a decade.
 
@@ -67,7 +67,7 @@ Neptune trining your Sun means:
 
 **The shadow side (yes, even trines have one):** Escapism becomes tempting because escaping feels so good. Substances, fantasy, avoidance of practical matters—Neptune can support unhealthy escapism as easily as healthy transcendence. The trine makes these tendencies pleasurable rather than obviously destructive, which is its own danger.
 
-The key: Use Neptune's gifts consciously. Create. Explore. Dream. But stay tethered to the reality checks Saturn in your 4th house provides. The combination of Neptune's vision and Saturn's structure is actually ideal—don't let one eclipse the other.
+The key: Use Neptune's gifts consciously. Create. Explore. Dream. But stay tethered to the reality checks Saturn in your 4th house provides. The combination of Neptune's vision and Saturn's structure is actually ideal—don't let one [eclipse](/glossary#E) the other.
 
 ---
 
@@ -76,7 +76,7 @@ The key: Use Neptune's gifts consciously. Create. Explore. Dream. But stay tethe
 ---
 
 > 💫 **Want Your Personal 2026 Forecast?**  
-> Chat with Tara, our AI astrologer, for a free reading combining Western, Vedic, and Numerology insights tailored to your birth chart.  
+> Chat with Tara, our AI astrologer, for a free reading combining Western, Vedic, and Numerology insights tailored to your [birth chart](/glossary#B).  
 > [Start Free Reading →](/chat)
 
 ---

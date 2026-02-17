@@ -82,7 +82,7 @@ The gift: Passion projects you'd abandoned reveal new potential. Creative blocks
 ---
 
 > 💫 **Want Your Personal 2026 Forecast?**  
-> Chat with Tara, our AI astrologer, for a free reading combining Western, Vedic, and Numerology insights tailored to your birth chart.  
+> Chat with Tara, our AI astrologer, for a free reading combining Western, Vedic, and Numerology insights tailored to your [birth chart](/glossary#B).  
 > [Start Free Reading →](/chat)
 
 ---
@@ -303,4 +303,4 @@ It's time.
 - [2026 Astrology Predictions: Complete Year Guide](/blog/2026-astrology-predictions)
 - [Cancer Personality Traits & Characteristics](/blog/cancer-personality-traits)
 - [Best Matches for Cancer](/blog/best-matches-for-cancer)
-- [Understanding the Water Element in Astrology](/blog/astrology-elements-explained)
+- [Understanding the Water Element in Astrology](/blog/astrology-[elements](/glossary#E)-explained)

@@ -17,7 +17,7 @@ faq:
     answer: "The sign shows your general approach to money and values. Planets are active forces—they dominate your earning style and often override the sign. A Taurus 2nd with Uranus in it will earn more like Uranus (unstable, innovative) than Taurus (steady, traditional)."
 ---
 
-The 2nd house in your birth chart is your financial blueprint. Not in a "you'll be rich or poor" fortune-telling way, but in showing **how you naturally make money, what you value, how you spend, and what makes you feel secure.**
+The 2nd house in your [birth chart](/glossary#B) is your financial blueprint. Not in a "you'll be rich or poor" fortune-telling way, but in showing **how you naturally make money, what you value, how you spend, and what makes you feel secure.**
 
 Most people think about money backward. They chase high salaries in careers that don't match their 2nd house, then wonder why money feels like a constant struggle. Or they make good money but can't keep it because they don't understand their spending patterns.
 
@@ -312,9 +312,9 @@ Get weekly astrology insights delivered to your inbox every Monday.
 
 **You'll receive:**
 - Personalized horoscopes for all 12 signs
-- Planetary transit explanations
+- Planetary [transit](/glossary#T) explanations
 - Moon phase guidance & rituals
-- Mercury retrograde survival tips
+- Mercury [retrograde](/glossary#R) survival tips
 
 *Join 2,000+ cosmic seekers. Unsubscribe anytime.*
 
@@ -348,8 +348,8 @@ Where is Mercury in your chart? That house/sign shows HOW you make money.
 These override the sign. A Taurus 2nd with Uranus behaves more like Uranus (unstable, innovative) than Taurus (steady).
 
 **Step 3: Look at aspects to 2nd house planets or the 2nd house ruler**
-- Harmonious aspects (trine, sextile) = easier money flow
-- Challenging aspects (square, opposition) = lessons around earning/spending
+- Harmonious aspects ([trine](/glossary#T), [sextile](/glossary#S)) = easier money flow
+- Challenging aspects ([square](/glossary#S), [opposition](/glossary#O)) = lessons around earning/spending
 
 **Step 4: Compare to your 10th house (career) and 6th house (daily work)**
 Do they align? A creative 10th house with a structured 2nd house means: creative career, but monetize through systems/products, not just artistic output.
@@ -384,5 +384,5 @@ Your 2nd house is your money blueprint. Work with it, not against it, and money 
 
 **Related Articles:**
 - [12 Houses Explained](/blog/12-houses-explained)
-- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology [elements](/glossary#E) Explained](/blog/astrology-elements-explained)
 - [2026 Astrology Predictions](/blog/2026-astrology-predictions)

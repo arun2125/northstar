@@ -35,7 +35,7 @@ When this happens, that sign or house becomes supercharged. It's like turning up
 
 **Types of stelliums:**
 
-1. **Sign stellium:** Multiple planets in the same zodiac sign, regardless of house. For example, Sun, Mercury, Venus, and Mars all in Scorpio—even if they're in different houses.
+1. **Sign stellium:** Multiple planets in the same [zodiac](/glossary#Z) sign, regardless of house. For example, Sun, Mercury, Venus, and Mars all in Scorpio—even if they're in different houses.
 
 2. **House stellium:** Multiple planets in the same house, regardless of sign. For example, three planets in your 7th house—even if they're in different signs that span the house cusps.
 
@@ -66,7 +66,7 @@ This creates focus and intensity, but also potential for burnout in that one are
 ---
 
 
-A **sign stellium** means multiple planets are in the same zodiac sign. This intensifies that sign's qualities in your personality—often more than your sun sign.
+A **sign stellium** means multiple planets are in the same zodiac sign. This intensifies that sign's qualities in your personality—often more than your [sun sign](/glossary#S).
 
 For example, if you're a Cancer sun but you have five planets in Virgo, you'll probably relate more to Virgo descriptions than Cancer. Your Virgo stellium dominates your expression.
 
@@ -219,5 +219,5 @@ Ready to explore more? Learn [how to read your full birth chart](/blog/how-to-re
 
 **Related Articles:**
 - [12 Houses Explained](/blog/12-houses-explained)
-- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology [elements](/glossary#E) Explained](/blog/astrology-elements-explained)
 - [2026 Astrology Predictions](/blog/2026-astrology-predictions)

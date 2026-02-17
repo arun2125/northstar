@@ -284,4 +284,4 @@ Busy houses (multiple planets) get more action. Empty houses run on autopilot.
 
 **Related Articles:**
 - [Astrology Elements Explained](/blog/astrology-elements-explained)
-- [Astrology Modalities Explained](/blog/astrology-modalities-explained)
+- [Astrology [modalities](/glossary#M) Explained](/blog/astrology-modalities-explained)

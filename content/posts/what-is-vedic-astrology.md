@@ -70,9 +70,9 @@ Vedic philosophy recognizes four legitimate aims of human life, called the **Pur
 3. **Kama**: Pleasure, desires, enjoyment
 4. **Moksha**: Spiritual liberation, freedom from rebirth cycle
 
-A Vedic astrology chart is analyzed through all four dimensions. Different houses and planets relate to different purusharthas, and a balanced life requires attention to all four areas.
+A Vedic astrology chart is analyzed through all four dimensions. Different [houses](/glossary#H) and planets relate to different purusharthas, and a balanced life requires attention to all four areas.
 
-## The Sidereal Zodiac: Astronomy Meets Astrology
+## The [sidereal zodiac](/glossary#S)c](/glossary#Z): Astronomy Meets Astrology
 
 ---
 
@@ -83,11 +83,11 @@ A Vedic astrology chart is analyzed through all four dimensions. Different house
 ---
 
 
-The most tangible difference between Vedic and Western astrology is the zodiac system. Western astrology uses the **tropical zodiac**, based on seasonal equinoxes. Vedic astrology uses the **sidereal zodiac**, based on the fixed positions of constellations relative to distant stars.
+The most tangible difference between Vedic and Western astrology is the zodiac system. Western astrology uses the **[tropical zodiac](/glossary#T)**, based on seasonal equinoxes. Vedic astrology uses the **sidereal zodiac**, based on the fixed positions of constellations relative to distant stars.
 
-Due to a phenomenon called **precession of the equinoxes**—a slow wobble in Earth's axis completing every 26,000 years—these two zodiacs have drifted apart by approximately 24 degrees (the exact amount, called the **ayanamsa**, varies by calculation method).
+Due to a phenomenon called **precession of the equinoxes**—a slow wobble in Earth's axis completing every 26,000 years—these two zodiacs have drifted apart by approximately 24 degrees (the exact amount, called the **[ayanamsa](/glossary#A)**, varies by calculation method).
 
-This means that if you were born with the Sun at 10° Virgo in the tropical zodiac, the sidereal position would be approximately 16° Leo. Most people discover their Vedic Sun sign is one sign "earlier" than their Western Sun sign.
+This means that if you were born with the Sun at 10° Virgo in the tropical zodiac, the sidereal position would be approximately 16° Leo. Most people discover their Vedic [sun sign](/glossary#S) is one sign "earlier" than their Western Sun sign.
 
 But this isn't because one system is wrong. They're measuring different things: Western astrology tracks the Sun's relationship to Earth's seasons, while Vedic astrology tracks the Sun's position against the backdrop of fixed stars. Both are astronomically valid but yield different interpretations.
 
@@ -114,17 +114,17 @@ Get weekly astrology insights delivered to your inbox every Monday.
 
 ## Key Components of a Vedic Chart
 
-A Vedic birth chart (called a **Kundali** or **Janma Kundali**) looks different from Western charts. Instead of a circular wheel, it's usually drawn as a square divided into twelve houses (though South Indian and North Indian chart styles differ in appearance).
+A Vedic birth chart (called a **[kundali](/glossary#K)** or **Janma Kundali**) looks different from Western charts. Instead of a circular wheel, it's usually drawn as a [square](/glossary#S) divided into twelve houses (though South Indian and North Indian chart styles differ in appearance).
 
-### The Ascendant (Lagna)
+### The [ascendant](/glossary#A) (Lagna)
 
 Your **Lagna** or ascendant—the zodiac sign rising on the eastern horizon at your birth moment—is crucial in Vedic astrology. It represents your physical body, personality, and how you approach life. The ruler of your ascendant (lagna lord) is one of the most important planets in your chart.
 
-### The Moon and Nakshatras
+### The Moon and [nakshatras](/glossary#N)
 
-While Western astrology prioritizes the Sun, Vedic astrology gives equal or greater importance to the **Moon**. Your Moon sign (Rashi or Janma Rashi) represents your mind, emotions, and inner life—how you actually experience the world day-to-day.
+While Western astrology prioritizes the Sun, Vedic astrology gives equal or greater importance to the **Moon**. Your [moon sign](/glossary#M) ([rashi](/glossary#R) or Janma Rashi) represents your mind, emotions, and inner life—how you actually experience the world day-to-day.
 
-Beyond the twelve zodiac signs, Vedic astrology divides the 360° circle into 27 **Nakshatras** (lunar mansions), each spanning 13°20'. Your birth Nakshatra—where the Moon was positioned—reveals deep psychological patterns, karmic themes, and even physical characteristics.
+Beyond the twelve zodiac signs, Vedic astrology divides the 360° circle into 27 **Nakshatras** (lunar mansions), each spanning 13°20'. Your birth [nakshatra](/glossary#N)—where the Moon was positioned—reveals deep psychological patterns, karmic themes, and even physical characteristics.
 
 Each Nakshatra has its own:
 - Ruling deity and mythology
@@ -147,9 +147,9 @@ Vedic astrology uses **nine grahas** (celestial influencers):
 - Jupiter (Guru) - wisdom, expansion, fortune
 - Saturn (Shani) - discipline, karma, limitation
 
-**The lunar nodes:**
-- Rahu (North Node) - obsession, ambition, foreign matters
-- Ketu (South Node) - spirituality, detachment, past life karma
+**The [lunar nodes](/glossary#L)s](/glossary#N):**
+- [rahu](/glossary#R) (North Node) - obsession, ambition, foreign matters
+- [ketu](/glossary#K) (South Node) - spirituality, detachment, past life karma
 
 Unlike Western astrology, Vedic tradition doesn't typically use Uranus, Neptune, or Pluto, as they weren't visible to ancient astronomers and aren't part of the classical system. However, some modern Vedic astrologers experiment with incorporating them.
 
@@ -178,7 +178,7 @@ One of Vedic astrology's greatest strengths is precise **life event timing**. Wh
 
 ### The Dasha System
 
-The crown jewel of Vedic predictive astrology is the **Vimshottari Dasha** system—a 120-year planetary period cycle that divides your life into major periods (Mahadashas) and sub-periods (Antardashas).
+The crown jewel of Vedic predictive astrology is the **[vimshottari dasha](/glossary#V)** system—a 120-year planetary period cycle that divides your life into major periods (Mahadashas) and sub-periods (Antardashas).
 
 Each person is born into a specific planetary period based on their birth Moon's Nakshatra position. These periods unfold in a specific sequence:
 
@@ -219,7 +219,7 @@ These divisional charts are analyzed alongside the birth chart to get detailed i
 
 ## Remedial Measures: Working with Karma
 
-A unique aspect of Vedic astrology is its integration with **remedial measures** (upayas)—practices designed to strengthen beneficial planets or mitigate challenging ones:
+A unique [aspect](/glossary#A) of Vedic astrology is its integration with **remedial measures** (upayas)—practices designed to strengthen beneficial planets or mitigate challenging ones:
 
 **Gemstone therapy**: Wearing specific gemstones (ruby for Sun, pearl for Moon, red coral for Mars, etc.) to strengthen planets
 

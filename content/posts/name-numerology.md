@@ -30,7 +30,7 @@ Let's explore how to calculate these numbers and what they reveal about your aut
 
 ## The Three Core Name Numbers
 
-Your name contains multiple layers of meaning, each revealing a different aspect of your identity:
+Your name contains multiple layers of meaning, each revealing a different [aspect](/glossary#A) of your identity:
 
 **Expression Number (Destiny Number):** Calculated from ALL letters in your full birth name. This reveals your natural talents, abilities, and how you express yourself in the world. It's your destiny in terms of what you're naturally equipped to do.
 
@@ -396,7 +396,7 @@ Get weekly astrology insights delivered to your inbox every Monday.
 
 **You'll receive:**
 - Personalized horoscopes for all 12 signs
-- Planetary transit explanations
+- Planetary [transit](/glossary#T) explanations
 - Moon phase guidance & rituals
 - Mercury retrograde survival tips
 

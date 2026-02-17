@@ -175,7 +175,7 @@ Capricorn's criticism wounds Pisces deeply. Pisces takes feedback personally, fe
 
 ## What Makes These Matches Work: The Capricorn Love Formula
 
-Successful Capricorn relationships share key elements:
+Successful Capricorn relationships share key [elements](/glossary#E):
 
 **Respect for ambition**: The best matches understand that Capricorn's work ethic isn't neglect—it's how they build security for the relationship. They support rather than resent Capricorn's dedication.
 

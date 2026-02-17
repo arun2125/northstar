@@ -61,7 +61,7 @@ When these energies clash? You might find each other attractive but fundamentall
 
 ## Venus-Mars Compatibility by Element
 
-Like [Moon signs](/blog/moon-signs-explained), Venus and Mars are grouped into elements. Understanding these gives you the foundation for compatibility:
+Like [Moon signs](/blog/moon-signs-explained), Venus and Mars are grouped into [elements](/glossary#E). Understanding these gives you the foundation for compatibility:
 
 ### Fire Venus or Mars (Aries, Leo, Sagittarius)
 
@@ -124,7 +124,7 @@ Water Venus wants emotional intimacy, vulnerability, and soul-deep connection. T
 
 In synastry (compatibility astrology), aspects are the angles between planets in two charts. These aspects determine how Venus and Mars interact:
 
-### Conjunction (Same Sign): Instant Magnetic Pull
+### [conjunction](/glossary#C) (Same Sign): Instant Magnetic Pull
 
 When someone's Mars is in the same sign as your Venus (or vice versa), the attraction is immediate and intense. Their pursuit style matches your receptivity perfectly.
 
@@ -144,7 +144,7 @@ When someone's Mars trines your Venus—same element, different sign—the chemi
 
 **The challenge**: Like conjunction, sometimes the ease means you don't push each other to grow. Can become complacent.
 
-### Sextile (60°): Complementary Attraction
+### [sextile](/glossary#S) (60°): Complementary Attraction
 
 When someone's Mars sextiles your Venus—complementary elements (fire/air or earth/water)—you enhance each other.
 
@@ -160,13 +160,13 @@ When someone's Mars squares your Venus—conflicting elements—you create frict
 
 **Example**: Your Venus in Libra (air) + Their Mars in Capricorn (earth)
 
-**The magic**: The tension is exciting. You frustrate each other in ways that create passion. This is the "can't live with you, can't live without you" aspect. The sex is often incredible because you're constantly trying to bridge the gap.
+**The magic**: The tension is exciting. You frustrate each other in ways that create passion. This is the "can't live with you, can't live without you" [aspect](/glossary#A). The sex is often incredible because you're constantly trying to bridge the gap.
 
 **The challenge**: The frustration is real. What you want doesn't match how they give. How they pursue doesn't match your receptivity. This requires maturity and communication to work long-term.
 
 ### Opposition (180°, Opposite Signs): Magnetic Attraction
 
-When someone's Mars opposes your Venus—opposite signs on the zodiac wheel—you create powerful magnetic attraction through polarity.
+When someone's Mars opposes your Venus—opposite signs on the [zodiac](/glossary#Z) wheel—you create powerful magnetic attraction through polarity.
 
 **Example**: Your Venus in Aries (fire) + Their Mars in Libra (air)
 

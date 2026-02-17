@@ -56,7 +56,7 @@ Each phase has distinct themes:
 
 **Rising Phase (12th from Moon):** Saturn transits the sign before your Moon, affecting your subconscious, expenses, foreign connections, and sleep. This phase often brings hidden anxiety, increased expenses, or a feeling that life is harder than it should be. You're preparing for the intensity to come.
 
-**Peak Phase (Over the Moon):** Saturn directly transits your Moon sign. This is the most intense phase—mental pressure, emotional tests, increased responsibility, and often challenges related to mother, home, or emotional security. Your mind is being restructured. Many people experience depression, anxiety, or mental fog during this phase, but also profound growth in emotional maturity.
+**Peak Phase (Over the Moon):** Saturn directly transits your [moon sign](/glossary#M). This is the most intense phase—mental pressure, emotional tests, increased responsibility, and often challenges related to mother, home, or emotional security. Your mind is being restructured. Many people experience depression, anxiety, or mental fog during this phase, but also profound growth in emotional maturity.
 
 **Setting Phase (2nd from Moon):** Saturn transits the sign after your Moon, affecting family, wealth, speech, and self-worth. Financial pressure often increases, family responsibilities intensify, and you're learning to communicate with greater maturity and restraint. The intensity is decreasing, but Saturn is still demanding authenticity.
 
@@ -73,7 +73,7 @@ Each phase has distinct themes:
 ---
 
 
-Here's where it gets fascinating: Your first Saturn Return (ages 27-30 in Western) often overlaps with or occurs near a Sade Sati cycle. Why? Because Saturn takes about 2.5 years to transit one sign in both systems. If your Western Saturn and Vedic Moon are in similar positions (or compatible signs), you may experience both simultaneously.
+Here's where it gets fascinating: Your first Saturn Return (ages 27-30 in Western) often overlaps with or occurs near a Sade Sati cycle. Why? Because Saturn takes about 2.5 years to [transit](/glossary#T) one sign in both systems. If your Western Saturn and Vedic Moon are in similar positions (or compatible signs), you may experience both simultaneously.
 
 **When both hit at once:** This is Saturn's masterclass. You're experiencing:
 - Western: Saturn returning to restructure your identity and life direction
@@ -201,5 +201,5 @@ Welcome to Saturn's classroom. The tuition is high, but the education is pricele
 
 **Related Articles:**
 - [Nakshatras Explained](/blog/nakshatras-explained)
-- [Dasha System Explained](/blog/dasha-system-explained)
+- [[dasha](/glossary#D) System Explained](/blog/dasha-system-explained)
 - [Vedic Vs Western](/blog/vedic-vs-western)

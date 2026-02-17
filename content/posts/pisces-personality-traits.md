@@ -106,7 +106,7 @@ In their careers, Pisces needs meaning, creativity, and work that serves somethi
 You'll find Pisces excelling in:
 - Healing professions (therapy, nursing, energy work)
 - Creative arts (music, visual art, writing, film)
-- Spiritual work (ministry, coaching, yoga, meditation)
+- Spiritual work (ministry, coaching, [yoga](/glossary#Y), meditation)
 - Nonprofit and service work (helping the vulnerable)
 - Psychology and counseling (understanding the psyche)
 - Veterinary work and animal care (boundless compassion)
@@ -125,7 +125,7 @@ But Pisces at work struggles with:
 
 Pisces can burn out hard because they give too much and take on too much emotional weight. They need to learn that they can care without absorbing, help without depleting themselves, serve without martyring themselves.
 
-They also struggle with the business side of creative work. Pisces just wants to make art or help people—dealing with money, marketing, contracts feels gross and hard. They need support systems, collaborators who handle the practical elements.
+They also struggle with the business side of creative work. Pisces just wants to make art or help people—dealing with money, marketing, contracts feels gross and hard. They need support systems, collaborators who handle the practical [elements](/glossary#E).
 
 Evolved Pisces learns to protect their energy, set boundaries around their time and empathy, and develop enough practical skills to sustain their work. They find ways to serve without sacrificing themselves.
 
@@ -192,5 +192,5 @@ Because you can save the world, but you have to save yourself first.
 
 **Related Articles:**
 - [Astrology Elements Explained](/blog/astrology-elements-explained)
-- [Astrology Modalities Explained](/blog/astrology-modalities-explained)
-- [12 Houses Explained](/blog/12-houses-explained)
+- [Astrology [modalities](/glossary#M) Explained](/blog/astrology-modalities-explained)
+- [12 [houses](/glossary#H) Explained](/blog/12-houses-explained)

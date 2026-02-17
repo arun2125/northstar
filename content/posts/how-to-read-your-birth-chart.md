@@ -44,7 +44,7 @@ Before you dive into the deep end, start here. These three placements make up ro
 
 ### ☀️ Your Sun Sign
 
-**What it is:** The zodiac sign the Sun was in when you were born.
+**What it is:** The [zodiac](/glossary#Z) sign the Sun was in when you were born.
 
 **What it means:** Your core identity. Your ego. The "you" that you're growing into throughout your life.
 
@@ -179,7 +179,7 @@ Translation: This person probably has a deeply emotional, possibly complicated r
 See those lines connecting planets in your chart? Those are aspects — geometric relationships between planets.
 
 The main ones:
-- **Conjunction (0°):** Planets are fused together. Intense, for better or worse.
+- **[conjunction](/glossary#C) (0°):** Planets are fused together. Intense, for better or worse.
 
 ---
 
@@ -199,10 +199,10 @@ Get weekly astrology insights delivered to your inbox every Monday.
 
 ---
 
-- **Sextile (60°):** Easy, supportive energy. Opportunities.
-- **Square (90°):** Tension, friction, growth through challenge.
-- **Trine (120°):** Natural flow, talent, sometimes too easy.
-- **Opposition (180°):** Push-pull dynamic, awareness through contrast.
+- **[sextile](/glossary#S) (60°):** Easy, supportive energy. Opportunities.
+- **[square](/glossary#S) (90°):** Tension, friction, growth through challenge.
+- **[trine](/glossary#T) (120°):** Natural flow, talent, sometimes too easy.
+- **[opposition](/glossary#O) (180°):** Push-pull dynamic, awareness through contrast.
 
 Squares aren't "bad" and trines aren't "good." Squares force growth. Trines can make you lazy. It's more nuanced than that.
 

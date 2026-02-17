@@ -21,7 +21,7 @@ faq:
 
 Beneath your outer personality and life path lies something deeper—your true desires, your authentic motivations, the things that make your soul sing. This is the domain of your Soul Urge Number, also known as your Heart's Desire Number.
 
-While your Life Path Number reveals the journey you're meant to walk and your Expression Number shows the talents you'll use, your Soul Urge Number answers a more intimate question: What does your heart truly want? What fulfills you at the deepest level? What would you pursue if no one was watching and nothing was stopping you?
+While your [life path number](/glossary#L) reveals the journey you're meant to walk and your [expression number](/glossary#E) shows the talents you'll use, your Soul Urge Number answers a more intimate question: What does your heart truly want? What fulfills you at the deepest level? What would you pursue if no one was watching and nothing was stopping you?
 
 Your Soul Urge Number is the voice of your authentic self—the you that exists beneath all the conditioning, expectations, and roles you play. It's calculated from the vowels in your birth name, as vowels represent the inner sound, the breath, the soul's expression.
 

@@ -36,7 +36,7 @@ Kundali matching is the process of comparing two birth charts (Kundalis) to asse
 5. **Longevity and Health**: Compatibility for long life together
 6. **Mutual Planetary Relationships**: How the planets in each chart interact
 
-The most widely used system is **Ashtakoot**, which assigns points across eight compatibility categories based on the couple's [Moon signs (Rashis)](/posts/vedic-moon-sign) and Nakshatras (lunar mansions).
+The most widely used system is **Ashtakoot**, which assigns points across eight compatibility categories based on the couple's [Moon signs (Rashis)](/posts/vedic-moon-sign) and [nakshatras](/glossary#N) (lunar mansions).
 
 ## The Ashtakoot System: Eight Categories of Compatibility
 
@@ -73,7 +73,7 @@ Compatible Vashya types create natural mutual attraction; incompatible types may
 
 This compares the Nakshatras (lunar mansions) of both partners across nine Taras (stars), assessing whether the relationship will support or harm each person's health and vitality.
 
-Certain Nakshatra combinations are considered health-supporting; others are believed to drain energy or create illness.
+Certain [nakshatra](/glossary#N) combinations are considered health-supporting; others are believed to drain energy or create illness.
 
 **Modern interpretation**: Does the relationship energize you or exhaust you? Do you feel healthier together or depleted?
 
@@ -87,10 +87,10 @@ Natural friends (like elephant-elephant or horse-horse) score well. Natural enem
 
 **Modern interpretation**: Sexual chemistry, physical compatibility, and whether your basic temperaments harmonize or clash.
 
-### 5. Graha Maitri (Graha Maitri Koot) – 5 Points
+### 5. [graha](/glossary#G) Maitri (Graha Maitri Koot) – 5 Points
 **What it measures**: Mental and intellectual compatibility
 
-This examines the relationship between the Moon sign lords (the ruling planets of each person's Rashi). If the planets are natural friends, the couple will think similarly and understand each other mentally.
+This examines the relationship between the [moon sign](/glossary#M) lords (the ruling planets of each person's [rashi](/glossary#R)). If the planets are natural friends, the couple will think similarly and understand each other mentally.
 
 High Graha Maitri means:
 - Easy communication
@@ -165,7 +165,7 @@ Experienced Vedic astrologers know that the 36-point Ashtakoot system is just th
 [Manglik Dosha](/posts/manglik-dosha-explained) is checked independently. If one partner is strongly Manglik and the other isn't (with no cancellations), this can override even a high guna score.
 
 ### 2. Planetary Periods (Dashas)
-You might be perfectly compatible as people, but if you're entering a terrible dasha period (like a malefic planet's 18-year cycle), the marriage will face external pressures. Timing matters enormously.
+You might be perfectly compatible as people, but if you're entering a terrible [dasha](/glossary#D) period (like a [malefic](/glossary#M) planet's 18-year cycle), the marriage will face external pressures. Timing matters enormously.
 
 Astrologers check:
 - What dashas are running for each partner at marriage?
@@ -178,7 +178,7 @@ Even highly compatible charts can struggle if both partners enter difficult dash
 The 7th house governs marriage. Astrologers examine:
 - Is the 7th house strong or afflicted in each chart?
 - Where is the 7th house lord placed?
-- What planets aspect the 7th house?
+- What planets [aspect](/glossary#A) the 7th house?
 - Is Venus (marriage significator) well-placed?
 
 A person with a severely afflicted 7th house may struggle in **any** marriage, regardless of partner compatibility.
@@ -196,7 +196,7 @@ Do both charts indicate similar financial capacity? A huge discrepancy in wealth
 Do both charts support children? If one person's chart indicates difficulty with children and the other expects a large family, this matters.
 
 ### 8. Current Transits
-Major transits like [Sade Sati](/posts/sade-sati-meaning) or [Rahu-Ketu transits](/posts/rahu-ketu-meaning) over sensitive points can create challenging periods, even in otherwise compatible matches.
+Major transits like [Sade Sati](/posts/sade-sati-meaning) or [[rahu](/glossary#R)-[ketu](/glossary#K) transits](/posts/rahu-ketu-meaning) over sensitive points can create challenging periods, even in otherwise compatible matches.
 
 ## When Kundali Matching Works Well
 

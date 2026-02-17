@@ -145,7 +145,7 @@ Get weekly astrology insights delivered to your inbox every Monday.
 
 Study [Cancer's emotional openness](/blog/cancer-personality-traits) to balance your tendency toward repression. Read about [Aries' play and spontaneity](/blog/aries-personality-traits) to soften your rigid planning. Understand that life isn't just about the summit—the climb itself has value, and sometimes you need to stop and enjoy the view.
 
-Your gift is **structure, wisdom, endurance, and the ability to build lasting legacies**. You understand how to turn vision into reality through disciplined action. You're the zodiac's architect, elder, and mountain—solid, reliable, enduring.
+Your gift is **structure, wisdom, endurance, and the ability to build lasting legacies**. You understand how to turn vision into reality through disciplined action. You're the [zodiac](/glossary#Z)'s architect, elder, and mountain—solid, reliable, enduring.
 
 But you're not here to be a monument. You're here to be human. That means rest, play, mess, emotion, and connection—not just achievement.
 
@@ -161,5 +161,5 @@ It just requires coming home to yourself.
 
 **Related Articles:**
 - [Astrology Elements Explained](/blog/astrology-elements-explained)
-- [Astrology Modalities Explained](/blog/astrology-modalities-explained)
-- [12 Houses Explained](/blog/12-houses-explained)
+- [Astrology [modalities](/glossary#M) Explained](/blog/astrology-modalities-explained)
+- [12 [houses](/glossary#H) Explained](/blog/12-houses-explained)
