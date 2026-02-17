@@ -26,7 +26,7 @@ export default function ChatInterface() {
     time: '',
     location: '',
   });
-  const [phone, setPhone] = useState('');
+  const [email, setEmail] = useState('');
   const messagesEndRef = useRef<HTMLDivElement>(null);
   const [hasAutoSubmitted, setHasAutoSubmitted] = useState(false);
 
@@ -86,21 +86,44 @@ Please calculate my birth chart using astro-calc and give me a full chart readin
   const handleBirthSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     
-    if (!birthDetails.name || !birthDetails.date || !birthDetails.time || !birthDetails.location) {
-      alert('Please fill all birth details');
+    if (!birthDetails.name || !birthDetails.date || !birthDetails.time || !birthDetails.location || !email) {
+      alert('Please fill all required fields');
       return;
     }
 
-    setShowBirthForm(false);
-    
-    const birthMessage = `Hi! I'm ${birthDetails.name}. Here are my birth details:
+    try {
+      // Submit to waitlist API first
+      const waitlistResponse = await fetch('/api/waitlist', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          email: email,
+          name: birthDetails.name,
+          birthDate: birthDetails.date,
+          birthTime: birthDetails.time || null,
+          birthLocation: birthDetails.location,
+          source: 'direct-chat',
+        }),
+      });
+
+      if (!waitlistResponse.ok) {
+        throw new Error('Failed to save details');
+      }
+
+      setShowBirthForm(false);
+      
+      const birthMessage = `Hi! I'm ${birthDetails.name}. Here are my birth details:
 Date: ${birthDetails.date}
 Time: ${birthDetails.time}
 Location: ${birthDetails.location}
 
 Please calculate my birth chart using astro-calc and give me a full chart reading!`;
 
-    await sendMessage(birthMessage);
+      await sendMessage(birthMessage);
+    } catch (error) {
+      console.error('Submission error:', error);
+      alert('Something went wrong. Please try again.');
+    }
   };
 
   const sendMessage = async (messageText: string) => {
@@ -122,7 +145,6 @@ Please calculate my birth chart using astro-calc and give me a full chart readin
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           message: messageText,
-          phone: phone || undefined,
         }),
       });
 
@@ -227,15 +249,19 @@ Please calculate my birth chart using astro-calc and give me a full chart readin
 
           <div>
             <label className="block text-sm font-medium text-gray-700 mb-1">
-              Phone (Optional - for saving your profile)
+              Email Address *
             </label>
             <input
-              type="tel"
-              value={phone}
-              onChange={(e) => setPhone(e.target.value)}
+              type="email"
+              required
+              value={email}
+              onChange={(e) => setEmail(e.target.value)}
               className="w-full px-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-purple-500 focus:border-transparent"
-              placeholder="+91 9876543210"
+              placeholder="you@example.com"
             />
+            <p className="text-xs text-gray-500 mt-1">
+              We'll send your reading here (never spam)
+            </p>
           </div>
 
           <button

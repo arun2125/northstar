@@ -8,6 +8,7 @@ export default function FreeBirthChartClient() {
   const router = useRouter();
   const [formData, setFormData] = useState({
     name: '',
+    email: '',
     date: '',
     time: '',
     location: '',
@@ -18,12 +19,36 @@ export default function FreeBirthChartClient() {
     e.preventDefault();
     setIsSubmitting(true);
 
-    // Store data in sessionStorage for chat page to use
-    sessionStorage.setItem('birthData', JSON.stringify(formData));
-    
-    // Redirect to chat with pre-filled message
-    const message = `I'd like my free birth chart. My details: ${formData.name}, born ${formData.date} at ${formData.time} in ${formData.location}`;
-    router.push(`/chat?message=${encodeURIComponent(message)}`);
+    try {
+      // Submit to waitlist API first
+      const waitlistResponse = await fetch('/api/waitlist', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          email: formData.email,
+          name: formData.name,
+          birthDate: formData.date,
+          birthTime: formData.time || null,
+          birthLocation: formData.location,
+          source: 'free-birth-chart',
+        }),
+      });
+
+      if (!waitlistResponse.ok) {
+        throw new Error('Failed to save details');
+      }
+
+      // Store data in sessionStorage for chat page to use
+      sessionStorage.setItem('birthData', JSON.stringify(formData));
+      
+      // Redirect to chat with pre-filled message
+      const message = `I'd like my free birth chart. My details: ${formData.name}, born ${formData.date} at ${formData.time || 'unknown time'} in ${formData.location}`;
+      router.push(`/chat?message=${encodeURIComponent(message)}`);
+    } catch (error) {
+      console.error('Submission error:', error);
+      alert('Something went wrong. Please try again.');
+      setIsSubmitting(false);
+    }
   };
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -88,6 +113,25 @@ export default function FreeBirthChartClient() {
                   placeholder="e.g., Sarah Johnson"
                   className="w-full px-4 py-3 bg-white/10 border border-purple-500/30 rounded-lg text-white placeholder-purple-300/40 focus:outline-none focus:ring-2 focus:ring-purple-500 focus:border-transparent"
                 />
+              </div>
+
+              <div>
+                <label htmlFor="email" className="block text-sm font-medium text-purple-200 mb-2">
+                  Email Address
+                </label>
+                <input
+                  type="email"
+                  id="email"
+                  name="email"
+                  value={formData.email}
+                  onChange={handleChange}
+                  required
+                  placeholder="you@example.com"
+                  className="w-full px-4 py-3 bg-white/10 border border-purple-500/30 rounded-lg text-white placeholder-purple-300/40 focus:outline-none focus:ring-2 focus:ring-purple-500 focus:border-transparent"
+                />
+                <p className="text-xs text-purple-400/60 mt-1">
+                  We'll send your birth chart here (and never spam you)
+                </p>
               </div>
 
               <div>

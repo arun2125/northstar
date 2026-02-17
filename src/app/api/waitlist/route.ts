@@ -13,7 +13,7 @@ export async function POST(request: Request) {
     }
 
     const body = await request.json();
-    const { email } = body;
+    const { email, name, birthDate, birthTime, birthLocation, source } = body;
 
     if (!email) {
       return NextResponse.json({ error: 'Email is required' }, { status: 400 });
@@ -29,13 +29,32 @@ export async function POST(request: Request) {
       .single();
 
     if (existing) {
-      return NextResponse.json({ error: 'You\'re already on the waitlist!' }, { status: 400 });
+      // Update existing entry with new data if provided
+      const updates: any = {};
+      if (name) updates.name = name;
+      if (birthDate) updates.birth_date = birthDate;
+      if (birthTime) updates.birth_time = birthTime;
+      if (birthLocation) updates.birth_place = birthLocation;
+      if (source) updates.source = source;
+
+      if (Object.keys(updates).length > 0) {
+        await supabase
+          .from('waitlist')
+          .update(updates)
+          .eq('email', email.toLowerCase());
+      }
+
+      return NextResponse.json({ success: true, message: 'Details updated!' });
     }
 
-    // Insert new signup with email + birth date
+    // Insert new signup with all available data
     const { error } = await supabase.from('waitlist').insert({
       email: email.toLowerCase(),
-      birth_date: body.birthDate || null,
+      name: name || null,
+      birth_date: birthDate || null,
+      birth_time: birthTime || null,
+      birth_place: birthLocation || null,
+      source: source || 'unknown',
       created_at: new Date().toISOString(),
     });
 
