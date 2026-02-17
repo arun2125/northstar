@@ -52,7 +52,7 @@ Date: ${birthDetails.date}
 Time: ${birthDetails.time}
 Location: ${birthDetails.location}
 
-I'd love to learn about my chart!`;
+Please calculate my birth chart using astro-calc and give me a full chart reading!`;
 
     await sendMessage(birthMessage);
   };
