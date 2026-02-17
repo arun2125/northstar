@@ -51,6 +51,15 @@ And let's talk about indulgence. Taurus's connection to pleasure is beautiful un
 
 ## Taurus in Relationships: The Loyal Builder
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 In love, Taurus is the long game. They're not interested in drama, games, or intensity that burns out in three months. They want the kind of love that ages like wine—deepening, maturing, becoming more valuable with time.
 
 When Taurus commits, they mean it. This is the partner who remembers how you like your coffee, who shows up when they say they will, who's still there when everyone else has gotten bored and wandered off. They express love through consistent action, physical affection, and creating a life together that feels abundant and secure.
@@ -105,6 +114,25 @@ Get weekly astrology insights delivered to your inbox every Monday.
 - Mercury retrograde survival tips
 
 *Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
 
 [Get Free Weekly Horoscope →](/#waitlist)
 

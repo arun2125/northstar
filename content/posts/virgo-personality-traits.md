@@ -61,6 +61,15 @@ Virgo can also fall into martyrdom disguised as service. "Look how much I do for
 
 ## Virgo in Relationships: The Loyal Improver
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 In love, Virgo expresses care through practical service. They won't give you flowery speeches, but they'll notice you're stressed and meal-prep for your week. They remember your doctor's appointment and follow up to ask how it went. They help you move, edit your resume, figure out your budget. This is how they say "I love you."
 
 The challenge is that not everyone speaks this love language, and Virgo can feel unseen when their acts of service go unappreciated. Meanwhile, their partner is starving for words of affirmation or quality time and wondering why Virgo seems more interested in optimizing their morning routine than connecting emotionally.
@@ -131,6 +140,25 @@ Get weekly astrology insights delivered to your inbox every Monday.
 *Join 2,000+ cosmic seekers. Unsubscribe anytime.*
 
 [Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 
 ---
 

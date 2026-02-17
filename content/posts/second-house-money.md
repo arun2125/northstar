@@ -303,6 +303,25 @@ If you have planets in your 2nd house, they're **more important than the sign.**
 
 ---
 
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 ## 📬 Never Miss Your Cosmic Weather
 
 Get weekly astrology insights delivered to your inbox every Monday.

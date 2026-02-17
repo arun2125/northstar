@@ -61,6 +61,15 @@ And let's talk about the superficiality accusation. Libra cares about appearance
 
 ## Libra in Relationships: The Professional Partner
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 In love, Libra is the sign that was literally made for partnership. They don't just want a relationship—they need it to feel complete. This is both their gift and their curse.
 
 When Libra loves, they're all in. They're romantic, attentive, devoted. They remember anniversaries, plan thoughtful dates, work to keep the spark alive. They're genuinely interested in their partner's thoughts, feelings, needs. They want to build a beautiful life together, and they'll put in the work to make it happen.
@@ -132,6 +141,25 @@ Get weekly astrology insights delivered to your inbox every Monday.
 - Mercury retrograde survival tips
 
 *Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
 
 [Get Free Weekly Horoscope →](/#waitlist)
 

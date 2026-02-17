@@ -57,6 +57,15 @@ And let's talk about follow-through. Gemini is brilliant at starting things—th
 
 ## Gemini in Relationships: The Paradox of Intimate Distance
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 Gemini in love is... complicated. They crave connection but fear being trapped. They want intimacy but need space. They're romantic but terrified of routine. It's a delicate dance, and not everyone has the rhythm for it.
 
 When Gemini falls, they fall intellectually first. They're attracted to interesting minds, people who can match their verbal pace, who introduce them to new ideas and perspectives. Physical chemistry matters, but if you can't hold a fascinating conversation, it won't last.
@@ -118,6 +127,25 @@ Get weekly astrology insights delivered to your inbox every Monday.
 - Mercury retrograde survival tips
 
 *Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
 
 [Get Free Weekly Horoscope →](/#waitlist)
 

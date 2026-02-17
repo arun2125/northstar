@@ -225,6 +225,25 @@ Mars in Fire with Mars in Water can create steam or extinguishing. It depends on
 
 ---
 
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 ## 📬 Never Miss Your Cosmic Weather
 
 Get weekly astrology insights delivered to your inbox every Monday.

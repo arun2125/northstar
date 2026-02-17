@@ -64,6 +64,15 @@ Each phase has distinct themes:
 
 ## The Integration: When Both Cycles Align
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 Here's where it gets fascinating: Your first Saturn Return (ages 27-30 in Western) often overlaps with or occurs near a Sade Sati cycle. Why? Because Saturn takes about 2.5 years to transit one sign in both systems. If your Western Saturn and Vedic Moon are in similar positions (or compatible signs), you may experience both simultaneously.
 
 **When both hit at once:** This is Saturn's masterclass. You're experiencing:
@@ -136,6 +145,25 @@ Get weekly astrology insights delivered to your inbox every Monday.
 - Mercury retrograde survival tips
 
 *Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
 
 [Get Free Weekly Horoscope →](/#waitlist)
 

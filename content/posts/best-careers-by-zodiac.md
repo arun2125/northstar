@@ -187,6 +187,25 @@ Get weekly astrology insights delivered to your inbox every Monday.
 
 *Join 2,000+ cosmic seekers. Unsubscribe anytime.*
 
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 [Get Free Weekly Horoscope →](/#waitlist)
 
 ---
