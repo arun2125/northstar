@@ -22,9 +22,39 @@ export const metadata: Metadata = {
   },
 };
 
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'AboutPage',
+  name: 'About North Star Astro',
+  description: 'Learn about North Star Astro — combining ancient astrological wisdom with modern AI to deliver personalized, insightful readings.',
+  url: 'https://northstarastro.com/about',
+  breadcrumb: {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: 'https://northstarastro.com',
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: 'About',
+        item: 'https://northstarastro.com/about',
+      },
+    ],
+  },
+};
+
 export default function AboutPage() {
   return (
-    <main className="min-h-screen star-bg">
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+      />
+      <main className="min-h-screen star-bg">
       {/* Header */}
       <header className="px-6 py-4 border-b border-purple-500/10">
         <div className="max-w-5xl mx-auto flex justify-between items-center">
@@ -182,5 +212,6 @@ export default function AboutPage() {
         </div>
       </footer>
     </main>
+    </>
   );
 }

@@ -27,6 +27,43 @@ export const metadata: Metadata = {
   },
 };
 
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: '2026 Astrology Predictions: Major Transits & What They Mean for You',
+  description: 'Complete guide to 2026 astrology: Neptune in Aries, Mercury retrograde cycles, eclipses, and predictions for all 12 zodiac signs.',
+  url: 'https://northstarastro.com/2026-astrology-predictions',
+  datePublished: '2026-01-01',
+  dateModified: '2026-02-17',
+  author: {
+    '@type': 'Organization',
+    name: 'North Star Astro',
+    url: 'https://northstarastro.com',
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: 'North Star Astro',
+    url: 'https://northstarastro.com',
+  },
+  breadcrumb: {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: 'https://northstarastro.com',
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: '2026 Astrology Predictions',
+        item: 'https://northstarastro.com/2026-astrology-predictions',
+      },
+    ],
+  },
+};
+
 export default function Predictions2026Page() {
   const post = getPostBySlug('2026-astrology-predictions');
   
@@ -35,7 +72,12 @@ export default function Predictions2026Page() {
   }
 
   return (
-    <article className="max-w-4xl mx-auto px-4 py-12">
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+      />
+      <article className="max-w-4xl mx-auto px-4 py-12">
       {/* Hero Section */}
       <header className="mb-12 text-center">
         <h1 className="text-4xl md:text-5xl font-bold mb-4 bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
@@ -116,5 +158,6 @@ export default function Predictions2026Page() {
         }}
       />
     </article>
+    </>
   );
 }

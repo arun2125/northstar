@@ -32,11 +32,41 @@ function formatDate(dateString: string): string {
   });
 }
 
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: 'Astrology Blog',
+  description: 'Learn astrology with our in-depth guides, tutorials, and cosmic insights. From birth charts to planetary transits.',
+  url: 'https://northstarastro.com/blog',
+  breadcrumb: {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: 'https://northstarastro.com',
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: 'Blog',
+        item: 'https://northstarastro.com/blog',
+      },
+    ],
+  },
+};
+
 export default function BlogPage() {
   const posts = getAllPosts();
 
   return (
-    <main className="min-h-screen star-bg">
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+      />
+      <main className="min-h-screen star-bg">
       {/* Header */}
       <header className="px-6 py-4 border-b border-purple-500/10">
         <div className="max-w-5xl mx-auto flex justify-between items-center">
@@ -148,5 +178,6 @@ export default function BlogPage() {
         </div>
       </footer>
     </main>
+    </>
   );
 }

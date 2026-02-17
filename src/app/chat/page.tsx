@@ -22,27 +22,47 @@ export const metadata: Metadata = {
   },
 };
 
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebApplication',
+  name: 'Chat with Tara',
+  description: 'AI-powered astrology assistant combining Vedic astrology and numerology insights.',
+  url: 'https://northstarastro.com/chat',
+  applicationCategory: 'LifestyleApplication',
+  offers: {
+    '@type': 'Offer',
+    price: '0',
+    priceCurrency: 'USD',
+  },
+};
+
 export default function ChatPage() {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-purple-50 via-white to-pink-50 py-12 px-4">
-      <div className="max-w-4xl mx-auto">
-        <div className="text-center mb-8">
-          <h1 className="text-4xl md:text-5xl font-bold mb-3 bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
-            Talk to Tara
-          </h1>
-          <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            Your personal astrology guide combining ancient Vedic wisdom and numerology insights
-          </p>
-        </div>
-        
-        <ChatInterface />
-        
-        <div className="mt-8 text-center text-sm text-gray-500">
-          <p>
-            Powered by AI • Vedic Astrology • Numerology
-          </p>
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+      />
+      <div className="min-h-screen bg-gradient-to-br from-purple-50 via-white to-pink-50 py-12 px-4">
+        <div className="max-w-4xl mx-auto">
+          <div className="text-center mb-8">
+            <h1 className="text-4xl md:text-5xl font-bold mb-3 bg-gradient-to-r from-purple-600 to-pink-600 bg-clip-text text-transparent">
+              Talk to Tara
+            </h1>
+            <p className="text-lg text-gray-600 max-w-2xl mx-auto">
+              Your personal astrology guide combining ancient Vedic wisdom and numerology insights
+            </p>
+          </div>
+          
+          <ChatInterface />
+          
+          <div className="mt-8 text-center text-sm text-gray-500">
+            <p>
+              Powered by AI • Vedic Astrology • Numerology
+            </p>
+          </div>
         </div>
       </div>
-    </div>
+    </>
   );
 }

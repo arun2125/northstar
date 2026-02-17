@@ -24,6 +24,31 @@ export const metadata: Metadata = {
   },
 };
 
+const schema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: 'Vedic Astrology Guide',
+  description: 'Complete guide to Vedic astrology (Jyotish) including nakshatras, dashas, Sade Sati, and kundali matching.',
+  url: 'https://northstarastro.com/vedic-astrology',
+  breadcrumb: {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: 'https://northstarastro.com',
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: 'Vedic Astrology',
+        item: 'https://northstarastro.com/vedic-astrology',
+      },
+    ],
+  },
+};
+
 export default function VedicAstrologyPage() {
   const allPosts = getAllPosts();
   const vedicPosts = allPosts.filter(post => 
@@ -31,7 +56,12 @@ export default function VedicAstrologyPage() {
   );
 
   return (
-    <main className="min-h-screen star-bg">
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+      />
+      <main className="min-h-screen star-bg">
       {/* Header */}
       <header className="px-4 md:px-6 py-4 border-b border-purple-500/10">
         <div className="max-w-5xl mx-auto flex justify-between items-center">
@@ -197,5 +227,6 @@ export default function VedicAstrologyPage() {
         </div>
       </footer>
     </main>
+    </>
   );
 }
