@@ -107,7 +107,7 @@ Get weekly astrology insights delivered to your inbox every Monday.
 
 ---
 
-Want more compatibility insights? Check out our full [zodiac compatibility guide](#) and [fire sign dynamics](#).
+Want more compatibility insights? Check out our full [zodiac compatibility guide](/blog/zodiac-compatibility-real-way) and [fire sign dynamics](/blog/astrology-elements-explained).
 
 ## Growing Up Aries: The Path to Evolved Warrior
 
@@ -120,7 +120,7 @@ The difference between a young Aries and a mature one is **strategic patience**.
 - They've learned to sit with discomfort instead of creating chaos to feel alive
 - They use their courage to protect the vulnerable, not dominate the weak
 
-**If you're an Aries working on yourself**: practice the pause. Before you quit, fight, or leap—take 24 hours. Learn a discipline that requires repetition (martial arts, meditation, distance running). Find mentors who've mastered what you're trying to build. Read about [Scorpio's intensity](#) and [Capricorn's endurance](#)—there's wisdom in signs that move differently than you.
+**If you're an Aries working on yourself**: practice the pause. Before you quit, fight, or leap—take 24 hours. Learn a discipline that requires repetition (martial arts, meditation, distance running). Find mentors who've mastered what you're trying to build. Read about [Scorpio's intensity](/blog/scorpio-personality-traits) and [Capricorn's endurance](/blog/capricorn-personality-traits)—there's wisdom in signs that move differently than you.
 
 You're not here to fit in. You're here to break trails, start movements, and show others what's possible. But the world needs you *sustained*, not just spectacular. The real challenge isn't the fight—it's the day after, and the day after that, when you have to show up without the adrenaline.
 

@@ -61,7 +61,7 @@ Here, the planet of dreams, imagination, and transcendence meets the sign of act
 
 *Practical Advice:* The period between January and October 2026 is a preview. Don't commit to new visions too quickly—use this time to experiment with who you're becoming.
 
-[Link to Neptune in Aries Complete Guide]
+[Neptune in Aries: Complete Guide](/blog/aries-2026-predictions)
 
 ---
 
@@ -90,7 +90,7 @@ Unlike the chaotic, scattered energy of air or fire sign retrogrades, water sign
 
 **Practical Advice:** Don't fear these retrogrades—embrace them. Schedule therapy sessions, journaling time, and solo retreats during these windows. The inner work you do will be profound.
 
-[Link to Mercury Retrograde 2026 Survival Guide]
+[Mercury Retrograde 2026: Survival Guide](/blog/venus-retrograde-meaning)
 
 ---
 
@@ -118,7 +118,7 @@ The **August 12 Solar Eclipse at 19° Leo** is particularly powerful. If you hav
 
 **Practical Advice:** Eclipse seasons aren't for forcing outcomes. Let go of control. Pay attention to what life is trying to show you. Doors will close. Other doors will open. Trust the process.
 
-[Link to 2026 Eclipse Guide]
+[2026 Eclipse Guide](/blog/eclipse-season-meaning)
 
 ---
 
@@ -143,7 +143,7 @@ Venus retrograde occurs every 18 months, and in 2026, she traces her backward da
 - Revisit creative projects that stalled
 - Process any lingering grief around past love
 
-[Link to Venus Retrograde 2026 Guide]
+[Venus Retrograde 2026 Guide](/blog/venus-retrograde-meaning)
 
 ---
 
@@ -167,7 +167,7 @@ Jupiter in Leo is warm, generous, and theatrical. This transit favors:
 
 **Practical Advice:** The first five months of Jupiter in Leo (July-November 2026) are prime time for launching creative projects, stepping into leadership, or simply having more fun. Use this window before the retrograde period slows things down.
 
-[Link to Jupiter in Leo 2026 Horoscope]
+[Jupiter in Leo 2026](/blog/leo-2026-predictions)
 
 ---
 
@@ -260,13 +260,13 @@ Jupiter in Leo is warm, generous, and theatrical. This transit favors:
 
 Fire signs, 2026 is YOUR year. With Neptune entering Aries, Jupiter moving through Leo, and Saturn continuing its journey through fire, the cosmic spotlight is firmly on you.
 
-**Aries:** [Link to Aries 2026 Horoscope]
+**Aries:** [Aries 2026 Horoscope](/blog/aries-2026-predictions)
 Neptune entering your sign is the defining transit of your decade. Your identity is being reimagined at the most fundamental level. Embrace the confusion—it's the precursor to a completely new you.
 
-**Leo:** [Link to Leo 2026 Horoscope]
+**Leo:** [Leo 2026 Horoscope](/blog/leo-2026-predictions)
 Jupiter in your sign starting June 30 opens doors you didn't know existed. Creative projects flourish. Romance heats up. Your natural magnetism is amplified tenfold.
 
-**Sagittarius:** [Link to Sagittarius 2026 Horoscope]
+**Sagittarius:** [Sagittarius 2026 Horoscope](/blog/sagittarius-2026-predictions)
 With Jupiter in a fellow fire sign and your ruling planet making harmonious aspects, adventure calls. Travel, education, and publishing are all favored.
 
 **Your 2026 Action Plan:**
@@ -283,13 +283,13 @@ With Jupiter in a fellow fire sign and your ruling planet making harmonious aspe
 
 Earth signs, the eclipses and outer planet transits ask you to rebuild your relationship with security, resources, and long-term goals.
 
-**Taurus:** [Link to Taurus 2026 Horoscope]
+**Taurus:** [Taurus 2026 Horoscope](/blog/taurus-2026-predictions)
 The July-August eclipses activate your axis of self vs. others. Relationships undergo fated changes. The August eclipse may bring a significant partnership milestone.
 
-**Virgo:** [Link to Virgo 2026 Horoscope]
+**Virgo:** [Virgo 2026 Horoscope](/blog/virgo-2026-predictions)
 The March 3 Lunar Eclipse in your sign is a personal watershed moment. Health routines, daily habits, and service orientation all come into focus for transformation.
 
-**Capricorn:** [Link to Capricorn 2026 Horoscope]
+**Capricorn:** [Capricorn 2026 Horoscope](/blog/capricorn-2026-predictions)
 Pluto continues its transformation of your sign's themes of authority and structure. You're being asked to redefine success on your own terms.
 
 **Your 2026 Action Plan:**
@@ -306,13 +306,13 @@ Pluto continues its transformation of your sign's themes of authority and struct
 
 Air signs, the Aquarius-Leo eclipse axis directly impacts you, especially Aquarius and Leo. Your concepts of community, friendship, and individual contribution are being rewritten.
 
-**Gemini:** [Link to Gemini 2026 Horoscope]
+**Gemini:** [Gemini 2026 Horoscope](/blog/gemini-2026-predictions)
 All three Mercury retrogrades are in water signs—your natural element's opposite. This year asks you to balance intellect with emotion, logic with intuition.
 
-**Libra:** [Link to Libra 2026 Horoscope]
+**Libra:** [Libra 2026 Horoscope](/blog/libra-2026-predictions)
 Venus retrograde in your sign (October-November) brings relationship reckonings you can't avoid. Past partnerships resurface. Self-worth is reconsidered.
 
-**Aquarius:** [Link to Aquarius 2026 Horoscope]
+**Aquarius:** [Aquarius 2026 Horoscope](/blog/aquarius-2026-predictions)
 The July eclipse in your sign is a personal reset button. Group affiliations shift. Your role in the collective is being redefined.
 
 **Your 2026 Action Plan:**
@@ -329,13 +329,13 @@ The July eclipse in your sign is a personal reset button. Group affiliations shi
 
 Water signs, with all three Mercury retrogrades in water and Neptune completing its Pisces journey, this is your year for emotional mastery and spiritual integration.
 
-**Cancer:** [Link to Cancer 2026 Horoscope]
+**Cancer:** [Cancer 2026 Horoscope](/blog/cancer-2026-predictions)
 July's Mercury retrograde in your sign plus Jupiter's final months in Cancer (until June 30) makes the first half of 2026 pivotal for family and security matters.
 
-**Scorpio:** [Link to Scorpio 2026 Horoscope]
+**Scorpio:** [Scorpio 2026 Horoscope](/blog/scorpio-2026-predictions)
 Venus AND Mercury retrograde in your sign during October-November creates an intense portal for relationship transformation. What needs to die? What wants to be reborn?
 
-**Pisces:** [Link to Pisces 2026 Horoscope]
+**Pisces:** [Pisces 2026 Horoscope](/blog/pisces-2026-predictions)
 Neptune leaves your sign after 14 years. The March Solar Eclipse at 27° Pisces is a culmination point for everything you've been spiritually developing since 2012.
 
 **Your 2026 Action Plan:**
@@ -357,7 +357,7 @@ Generic sun sign forecasts only tell part of the story. To understand how 2026's
 - Planets or points near **0° Aries** (Neptune ingress point)
 - Your **natal Neptune and Venus** positions
 
-[Link to Free Birth Chart Calculator]
+[Free Birth Chart Calculator](/free-birth-chart)
 
 ### 2. Create Ritual Around Key Dates
 

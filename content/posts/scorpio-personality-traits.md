@@ -127,7 +127,7 @@ The difference between a young Scorpio and an evolved one is **where they direct
 - They use their investigative skills to help others, not surveil partners
 - They've learned that control is an illusion and surrender is power
 
-**If you're a Scorpio working on yourself**: Get into therapy yesterday. Not coaching, not self-help books—actual therapy with someone who can handle your intensity. Learn to name your emotions before acting on them (pause is your superpower). Practice vulnerability in low-stakes situations before major relationships. Study [Aries' directness](#) to balance your tendency toward manipulation, and [Leo's openheartedness](#) to counteract your suspicious nature.
+**If you're a Scorpio working on yourself**: Get into therapy yesterday. Not coaching, not self-help books—actual therapy with someone who can handle your intensity. Learn to name your emotions before acting on them (pause is your superpower). Practice vulnerability in low-stakes situations before major relationships. Study [Aries' directness](/blog/aries-personality-traits) to balance your tendency toward manipulation, and [Leo's openheartedness](#) to counteract your suspicious nature.
 
 Your gift is seeing truth beneath the surface, feeling deeply, and facilitating transformation. You're the zodiac's psychologist, shaman, and phoenix. But you can't heal others if you're still bleeding from wounds you refuse to acknowledge. Do the work. Face your shadows. Stop treating vulnerability like weakness.
 

@@ -86,7 +86,7 @@ Cancer at work thrives when they **feel emotionally connected to the mission and
 
 **As employees**, Cancer is reliable, detail-oriented, and deeply invested in quality. They'll go above and beyond for managers who appreciate them and create safe environments. But they need recognition and emotional support. A boss who only points out mistakes without acknowledging effort will lose their loyalty fast.
 
-The key for Cancer at work: **Find environments that value care, quality, and people—not just profit**. And learn to separate professional feedback from personal worth. Your work is not your identity, even when you pour your heart into it. Study [Capricorn's professional boundaries](#) for balance.
+The key for Cancer at work: **Find environments that value care, quality, and people—not just profit**. And learn to separate professional feedback from personal worth. Your work is not your identity, even when you pour your heart into it. Study [Capricorn's professional boundaries](/blog/capricorn-personality-traits) for balance.
 
 ## Cancer Compatibility: Who Can Hold the Depth?
 
@@ -104,7 +104,7 @@ The key for Cancer at work: **Find environments that value care, quality, and pe
 
 **Cancer + Libra**: Awkward energy. Libra's social butterfly nature threatens Cancer's need for intimate connection. Cancer's moodiness disrupts Libra's pursuit of harmony. Libra finds Cancer clingy; Cancer finds Libra superficial. Requires significant compromise.
 
-For more water sign insights, check out [Scorpio's intensity](#) and [Pisces' compassion](#).
+For more water sign insights, check out [Scorpio's intensity](/blog/scorpio-personality-traits) and [Pisces' compassion](/blog/pisces-personality-traits).
 
 ## Growing Up Cancer: From Protection to True Security
 
@@ -139,7 +139,7 @@ Get weekly astrology insights delivered to your inbox every Monday.
 
 **If you're a Cancer working on yourself**: Get into therapy to address attachment wounds (most Cancers have them). Learn to name your emotions and needs explicitly—"I'm feeling insecure and need reassurance" is clearer than sulking and hoping someone notices. Practice tolerating discomfort instead of immediately seeking comfort. Build your own emotional resilience instead of outsourcing it to partners.
 
-Study [Capricorn's self-sufficiency](#) to balance your tendency toward dependence. Read about [Aries' directness](#) to improve your conflict communication. Learn that vulnerability without manipulation is possible—people can hold your emotions without you having to guilt them into caring.
+Study [Capricorn's self-sufficiency](/blog/capricorn-personality-traits) to balance your tendency toward dependence. Read about [Aries' directness](/blog/aries-personality-traits) to improve your conflict communication. Learn that vulnerability without manipulation is possible—people can hold your emotions without you having to guilt them into caring.
 
 Your gift is **emotional depth, intuitive understanding, and the ability to create true sanctuary for others**. You can read a room, hold space for pain, and nurture growth in ways that genuinely transform lives. You're the zodiac's healer, historian, and home-builder.
 

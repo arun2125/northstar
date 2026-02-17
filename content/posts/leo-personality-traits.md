@@ -84,7 +84,7 @@ Leo at work is a fascinating study in confidence and capability—sometimes thos
 
 **Feedback** is tough for Leo. They hear "here's something to improve" as "you're not good enough," which triggers their deepest insecurity. Managers need to lead with genuine strengths, then frame growth areas as "leveling up" rather than "fixing what's broken." Leo thrives under mentors who believe in their potential and push them without diminishing them.
 
-The key for Leo at work: **find roles where your strengths are genuinely needed, not just tolerated**. And learn that real leadership is measured by the team's success, not just your individual shine. Check out [Capricorn's work ethic](#) for a useful contrast to your style.
+The key for Leo at work: **find roles where your strengths are genuinely needed, not just tolerated**. And learn that real leadership is measured by the team's success, not just your individual shine. Check out [Capricorn's work ethic](/blog/capricorn-personality-traits) for a useful contrast to your style.
 
 ## Leo Compatibility: Who Can Handle the Main Character?
 
@@ -139,7 +139,7 @@ The difference between a young Leo and a mature one is **where they find their w
 
 **If you're a Leo working on yourself**: Do something anonymously. Volunteer, create art, help someone—with zero credit or recognition. Notice how uncomfortable that feels. That's your growth edge. Learn to sit with being ordinary. Not every moment needs to be monumental. Practice genuine humility (not performative humility, which is just another way to get praise for being "so humble").
 
-Study [Cancer's emotional intelligence](#) to develop depth beyond charisma. Read about [Capricorn's quiet authority](#)—real power doesn't always need an audience. Get therapy to unpack where the need for external validation comes from (usually childhood, always worth exploring).
+Study [Cancer's emotional intelligence](/blog/cancer-personality-traits) to develop depth beyond charisma. Read about [Capricorn's quiet authority](#)—real power doesn't always need an audience. Get therapy to unpack where the need for external validation comes from (usually childhood, always worth exploring).
 
 Your gift is **inspiration, leadership, and the ability to make people feel special**. You have courage, creativity, and a genuine warmth that draws people in. But you're here to be the Sun that helps others grow, not the Sun that burns everything in orbit around you.
 

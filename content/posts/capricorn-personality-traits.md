@@ -72,7 +72,7 @@ The challenge? **Capricorn struggles with emotional intimacy**. They'll share th
 
 **The loyalty** is absolute. Capricorn doesn't quit relationships at the first sign of difficulty. They're in it for the long haul, willing to work through problems, compromise, and build together. Betray that commitment, though—cheating, lying, financial betrayal—and they're done. Not dramatically, just... done. They'll walk away with their dignity intact and never look back.
 
-Healthiest Capricorn partners are the ones who've learned **emotional expression doesn't weaken their strength**. Who can balance work and relationship. Who've discovered that being vulnerable with safe people deepens intimacy rather than destroys it. Check out [Cancer's emotional intelligence](#) for what you're missing.
+Healthiest Capricorn partners are the ones who've learned **emotional expression doesn't weaken their strength**. Who can balance work and relationship. Who've discovered that being vulnerable with safe people deepens intimacy rather than destroys it. Check out [Cancer's emotional intelligence](/blog/cancer-personality-traits) for what you're missing.
 
 ## Capricorn at Work: Born to Build Empires
 
@@ -90,7 +90,7 @@ This is where Capricorn shines. Put them in a role with **clear hierarchy, measu
 
 **Recognition** matters more than Capricorn admits. They act like they don't need praise, but they do—they just need it to be specific and merit-based. Generic "good job" means nothing. "Your proposal saved us $50K and impressed the board" hits different.
 
-The key for Capricorn at work: **Success without sacrifice is possible**. You don't have to destroy yourself to build something great. And your worth isn't measured solely by your job title. Study [Leo's work-life celebration](#) and [Aries' efficient intensity](#) for balance.
+The key for Capricorn at work: **Success without sacrifice is possible**. You don't have to destroy yourself to build something great. And your worth isn't measured solely by your job title. Study [Leo's work-life celebration](/blog/leo-personality-traits) and [Aries' efficient intensity](/blog/aries-personality-traits) for balance.
 
 ## Capricorn Compatibility: Who Can Climb Alongside?
 
@@ -108,7 +108,7 @@ The key for Capricorn at work: **Success without sacrifice is possible**. You do
 
 **Capricorn + Libra**: Awkward energy. Libra's indecision drives Capricorn insane. Capricorn's intensity overwhelms Libra's need for lightness. Libra wants romance and aesthetics; Capricorn wants functionality. Different values, different pacing. Challenging without significant compromise.
 
-For more earth sign dynamics, read our [Taurus compatibility guide](#) and [Virgo personality breakdown](#).
+For more earth sign dynamics, read our [Taurus compatibility guide](/blog/best-matches-for-taurus) and [Virgo personality breakdown](/blog/virgo-personality-traits).
 
 ## Growing Up Capricorn: From Achievement to Wholeness
 
@@ -143,7 +143,7 @@ Get weekly astrology insights delivered to your inbox every Monday.
 
 **If you're a Capricorn working on yourself**: Schedule rest like you schedule meetings—make it non-negotiable. Get into therapy to address the origin of your "not good enough" wound (it's usually early childhood stuff). Practice emotional expression in safe spaces. Learn that productivity doesn't equal worth—you're valuable simply for existing.
 
-Study [Cancer's emotional openness](#) to balance your tendency toward repression. Read about [Aries' play and spontaneity](#) to soften your rigid planning. Understand that life isn't just about the summit—the climb itself has value, and sometimes you need to stop and enjoy the view.
+Study [Cancer's emotional openness](/blog/cancer-personality-traits) to balance your tendency toward repression. Read about [Aries' play and spontaneity](/blog/aries-personality-traits) to soften your rigid planning. Understand that life isn't just about the summit—the climb itself has value, and sometimes you need to stop and enjoy the view.
 
 Your gift is **structure, wisdom, endurance, and the ability to build lasting legacies**. You understand how to turn vision into reality through disciplined action. You're the zodiac's architect, elder, and mountain—solid, reliable, enduring.
 
