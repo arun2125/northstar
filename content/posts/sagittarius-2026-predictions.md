@@ -73,6 +73,15 @@ The key: Use Neptune's gifts consciously. Create. Explore. Dream. But stay tethe
 
 ## Mercury Retrograde in Water Signs: The Inner Journey
 
+---
+
+> 💫 **Want Your Personal 2026 Forecast?**  
+> Chat with Tara, our AI astrologer, for a free reading combining Western, Vedic, and Numerology insights tailored to your birth chart.  
+> [Start Free Reading →](/chat)
+
+---
+
+
 All three Mercury retrograde periods in 2026 occur in water signs (Pisces, Cancer, Scorpio), touching the most emotionally intimate areas of Sagittarius' chart.
 
 For a fire sign that prefers action to introspection, these retrogrades are invitations (or requirements) to slow down and feel. You might resist. Do it anyway—the emotional processing these periods facilitate is exactly what you need.
@@ -305,6 +314,25 @@ Venus enters Scorpio, activating your 12th house of solitude and spirituality. T
 
 ### December
 The year concludes with Jupiter firmly in your 9th house—your home territory. Travel possibilities expand. Educational opportunities appear. Your philosophy of life feels refreshed after a transformative year. Take time to appreciate how much you've grown. The Neptune trine continues inspiring your creative and romantic life. Set intentions for 2027, when these themes deepen further.
+
+---
+
+
+---
+
+## 📬 Get Your Weekly Cosmic Weather Report
+
+Join 2,000+ readers getting personalized astrology insights every Monday.
+
+**What you'll get:**
+- Weekly planetary transits explained
+- Your personal horoscope (all 12 signs)
+- Moon phase guidance
+- Mercury retrograde alerts
+
+*No spam. Unsubscribe anytime.*
+
+[Join the Waitlist →](/#waitlist)
 
 ---
 

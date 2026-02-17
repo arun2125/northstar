@@ -89,6 +89,15 @@ Vedic astrology approaches compatibility differently—it's less about whether y
 
 ## Numerology Compatibility: The Life Cycle Layer
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 Numerology analyzes compatibility through Life Path numbers, Expression numbers, and Soul Urge numbers derived from birth dates and names. It reveals whether your life paths align, your life cycles sync, and your soul-level desires complement each other.
 
 **Life Path compatibility:**
@@ -215,6 +224,25 @@ Ready to analyze compatibility using all three systems? Here's your step-by-step
 
 Where do all three systems agree?
 - All three show strong compatibility → This is a powerful match
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 - All three show challenges → This requires significant work or may not be meant for the long term
 - Systems are mixed → Most relationships; requires integrating different truths
 

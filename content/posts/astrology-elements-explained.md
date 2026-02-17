@@ -63,6 +63,15 @@ If you're Fire-dominant, you need outlets for your energy and causes that excite
 
 ## Earth Signs: Taurus, Virgo, Capricorn
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 Earth is the element of **matter, stability, and practicality**. If you're Earth-heavy, you're grounded, reliable, and focused on what's tangible and real.
 
 **Taurus** (Fixed Earth) is about stability, pleasure, and resources. Taurus energy builds security—financially, physically, sensually. It's patient, persistent, and values quality. Taurus says, "I want something real I can see, touch, and enjoy."
@@ -147,6 +156,25 @@ People with a dominant element often need to consciously develop the qualities o
 In general, signs of the same element understand each other instinctively. Fire signs get other Fire signs. Water signs feel at home with Water. But same-element relationships can also amplify weaknesses—two Fire signs might burn out together, two Water signs might get lost in emotional storms.
 
 **Traditionally compatible combinations:**
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 - **Fire + Air:** Fire needs Air to spread (ideas fuel action). Air needs Fire to manifest ideas. This is often a dynamic, exciting combination.
 - **Earth + Water:** Earth gives Water a container (stability for emotions). Water nourishes Earth (brings feeling to practicality). This often creates mutual support.
 

@@ -51,6 +51,15 @@ The beauty of numerology lies in its simplicity. You don't need special psychic 
 
 ## The Core Numbers in Your Numerology Chart
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 Your complete numerology profile consists of several core numbers, each revealing different aspects of who you are:
 
 **Life Path Number**: Calculated from your birth date, this is your most important number. It reveals your life's purpose, natural talents, and the path you're meant to walk. Think of it as your soul's GPS. You can calculate yours at our [free Life Path calculator](/life-path-calculator).
@@ -118,6 +127,25 @@ Let's address some myths that might be holding you back from exploring numerolog
 **"It's anti-religious"**: Many people combine numerology with their religious or spiritual practices. It's a tool for self-reflection, not a replacement for faith.
 
 **"You need to be psychic"**: Anyone can learn numerology. It's based on calculation and interpretation, not supernatural abilities.
+
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
 
 **"One number defines you completely"**: Your complete chart includes multiple numbers that all contribute to who you are. Context matters.
 

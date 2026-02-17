@@ -103,6 +103,15 @@ Barack Obama, Michelle Obama, Bill Clinton, Ronald Reagan, Orlando Bloom, Tony R
 
 ## Master Number 22: The Master Builder
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 **Base Number**: 4 (2+2=4)
 **Keywords**: Manifestation, Building, Vision + Practicality, Achievement, Legacy
 **Vibration**: Most powerful manifesting number
@@ -254,6 +263,25 @@ Don't compare yourself to famous master numbers who achieved great things. Every
 Trust your unique timing. Focus on growth, service, and authenticity rather than impressive achievements.
 
 ## Calculating Master Numbers
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 
 Master numbers only count when they appear in the final calculation, not in intermediate steps. Here's how to know if you have one:
 

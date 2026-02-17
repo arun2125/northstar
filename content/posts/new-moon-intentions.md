@@ -51,6 +51,15 @@ The universe can't do your work for you, but it absolutely will meet you halfway
 
 ## How to Set New Moon Intentions (Step by Step)
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 **Step 1: Check the New Moon's Sign and House**
 
 Look up where the New Moon is happening this month. What sign? What house in your birth chart (if you know it)? This tells you what themes are being activated. For example:
@@ -115,6 +124,25 @@ At the Full Moon, you'll get a checkpoint: What's come to light? What's ready to
 **Mistake #1: Setting too many intentions.** Your energy gets scattered. Pick what truly matters and give it your full focus.
 
 **Mistake #2: Being too vague.** "I want to be healthier" doesn't tell your brain or the universe what to actually do. Get specific: what does healthier look like? What actions will you take?
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 
 **Mistake #3: Forgetting about them.** You set intentions, feel inspired for two days, then forget they exist. Write them somewhere visible. Review them weekly. Keep them alive in your awareness.
 

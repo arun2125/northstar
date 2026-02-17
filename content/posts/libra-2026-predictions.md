@@ -208,6 +208,15 @@ After Jupiter's nurturing transit through Cancer (your 10th house of career), th
 
 ## Libra 2026: Month-by-Month Predictions
 
+---
+
+> 💫 **Want Your Personal 2026 Forecast?**  
+> Chat with Tara, our AI astrologer, for a free reading combining Western, Vedic, and Numerology insights tailored to your birth chart.  
+> [Start Free Reading →](/chat)
+
+---
+
+
 ### January 2026
 **Theme: Recalibration Begins**
 
@@ -464,6 +473,25 @@ Mark these in your calendar:
 | **Oct 13** | Neptune back to Pisces | Temporary relationship clarity |
 | **Oct 18** | Venus enters Libra Rx | Deep personal review |
 | **Nov 15** | Venus stations direct | Clarity returns |
+
+---
+
+
+---
+
+## 📬 Get Your Weekly Cosmic Weather Report
+
+Join 2,000+ readers getting personalized astrology insights every Monday.
+
+**What you'll get:**
+- Weekly planetary transits explained
+- Your personal horoscope (all 12 signs)
+- Moon phase guidance
+- Mercury retrograde alerts
+
+*No spam. Unsubscribe anytime.*
+
+[Join the Waitlist →](/#waitlist)
 
 ---
 

@@ -57,6 +57,15 @@ This creates focus and intensity, but also potential for burnout in that one are
 
 ## Sign Stelliums: Concentrated Personality Expression
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 A **sign stellium** means multiple planets are in the same zodiac sign. This intensifies that sign's qualities in your personality—often more than your sun sign.
 
 For example, if you're a Cancer sun but you have five planets in Virgo, you'll probably relate more to Virgo descriptions than Cancer. Your Virgo stellium dominates your expression.
@@ -150,6 +159,25 @@ If you have a stellium, here's how to harness it:
 **Step 1: Identify it.** Look at your birth chart and find where planets cluster. Note the sign and/or house.
 
 **Step 2: Study that sign/house.** Really understand what that area represents. Read about the sign's qualities and the house's themes until you deeply get it.
+
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
 
 **Step 3: Accept your focus.** Stop fighting the fact that this area dominates your life. Lean into it. It's not a flaw—it's your design.
 

@@ -60,6 +60,15 @@ Your Birthday Number doesn't change your core purpose, but it flavors how you ex
 
 ## Birthday Numbers 1-9: Your Core Gifts
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 ### Birthday Number 1: The Original Thinker
 
 **Days: 1st, 10th, 19th, 28th**
@@ -257,6 +266,25 @@ If you were born on the 11th or 29th, you carry a master number. You operate at 
 **Days: 22nd**
 
 You carry the master builder vibration—you operate at both the 4 level (practical building) and the elevated 22 level.
+
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
 
 **Additional gifts beyond Number 4:**
 - **Grand vision** combined with practical ability

@@ -45,6 +45,15 @@ When you put these together, you get sentences: "Venus in Scorpio in the 7th hou
 
 ## How Your Birth Chart Works
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 Your birth chart (also called a natal chart) is a map of where all the planets were at the exact moment and location you were born. It's calculated using your birth date, time, and place.
 
 The most important point in your chart is your **rising sign** (also called the ascendant), which was rising on the eastern horizon when you were born. This changes every two hours, which is why birth time matters so much. Your rising sign shapes your overall approach to life and how others perceive you.
@@ -89,6 +98,25 @@ For many people, astrology becomes a tool for self-compassion. Instead of "Why a
 There's also the practical side. People use astrology for timing—when to launch a business, when to have difficult conversations, when to lay low and reflect. These cycles (especially from [transits and progressions](/blog/astrology-transits-explained)) provide structure and rhythm to life.
 
 ## How to Actually Use Astrology
+
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
 
 If you're new to astrology and want to explore it seriously, here's where to start:
 

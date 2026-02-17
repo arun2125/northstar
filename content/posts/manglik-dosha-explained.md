@@ -77,6 +77,15 @@ Modern Vedic astrology recognizes that Manglik Dosha indicates **potential areas
 
 ## When Manglik Dosha Actually Matters
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 Manglik Dosha is **most significant** when:
 
 ### 1. Mars is Strongly Placed
@@ -199,6 +208,25 @@ In traditional Vedic compatibility analysis, Manglik Dosha is checked early in t
 The key point: Manglik Dosha is **one factor among many**. It should never be the sole reason to reject a match. A complete compatibility analysis considers planetary friendships, nakshatra compatibility, guna matching, dasha periods, and dozens of other factors.
 
 ## Modern Perspective on Manglik Dosha
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 
 Contemporary Vedic astrologers increasingly recognize that:
 

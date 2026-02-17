@@ -103,6 +103,15 @@ The gift: Spiritual or philosophical questions you thought you'd answered reveal
 
 ## Eclipses: The Turning Points
 
+---
+
+> 💫 **Want Your Personal 2026 Forecast?**  
+> Chat with Tara, our AI astrologer, for a free reading combining Western, Vedic, and Numerology insights tailored to your birth chart.  
+> [Start Free Reading →](/chat)
+
+---
+
+
 This is where 2026 becomes undeniably transformative for Pisces. The eclipses fall on the Virgo-Pisces axis, directly activating your sign.
 
 **Lunar Eclipse in Virgo (March 3)**

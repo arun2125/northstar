@@ -51,6 +51,15 @@ Understanding the full timeline means you won't panic during the retrograde or w
 
 ## Love and Relationships: The Real Venus Retrograde Story
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 Let's talk about what everyone actually cares about: relationships. Venus retrograde has a reputation as the cosmic breakup bringer, but that's only half the story—and not even the interesting half.
 
 **The Ex Factor:** Yes, exes come back during Venus retrograde. Sometimes it's a text, sometimes it's a random encounter, sometimes they just haunt your dreams. But here's the thing: they're not coming back because Venus retrograde magically rekindled the flame. They're coming back because there's unfinished business—either emotional closure you both need, or a genuine second chance that wouldn't have been possible before.
@@ -122,6 +131,25 @@ Venus retrograde doesn't have to be miserable. If you work *with* the energy ins
 ## Venus Retrograde in Your Chart: Where the Reckoning Happens
 
 Where Venus retrogrades in *your* chart determines what area of life gets the review. Check which house Venus is transiting, and you'll know what to focus on:
+
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
 
 **1st House:** Your self-image, appearance, and identity are under review. How you present yourself to the world might shift. Great time to work on self-worth from the inside out.
 

@@ -95,6 +95,15 @@ Neptune isn't all transcendence and divine inspiration. In Aries, its shadow man
 
 ## Mercury Retrograde 2026: What Aries Actually Needs to Know
 
+---
+
+> 💫 **Want Your Personal 2026 Forecast?**  
+> Chat with Tara, our AI astrologer, for a free reading combining Western, Vedic, and Numerology insights tailored to your birth chart.  
+> [Start Free Reading →](/chat)
+
+---
+
+
 ### The Three Cycles and Your Houses
 
 Mercury retrogrades get overhyped in generic astrology. For Aries specifically, 2026's three retrogrades activate your *water houses*—the most internal, emotional, and hidden areas of your chart.
@@ -518,6 +527,25 @@ Given Neptune's influence, incorporate these practices:
 - **June 30:** Jupiter enters Leo — Creative expansion activates
 - **August 12:** Solar Eclipse in Leo — MAJOR destiny activation
 - **October 13:** Neptune retrogrades to Pisces — Integration period begins
+
+---
+
+
+---
+
+## 📬 Get Your Weekly Cosmic Weather Report
+
+Join 2,000+ readers getting personalized astrology insights every Monday.
+
+**What you'll get:**
+- Weekly planetary transits explained
+- Your personal horoscope (all 12 signs)
+- Moon phase guidance
+- Mercury retrograde alerts
+
+*No spam. Unsubscribe anytime.*
+
+[Join the Waitlist →](/#waitlist)
 
 ---
 

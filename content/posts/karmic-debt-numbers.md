@@ -74,6 +74,15 @@ Now let's explore what each one means.
 
 ## Karmic Debt 13/4: The Weight of Laziness
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 **Core lesson:** Discipline, hard work, focus, perseverance
 
 ### The Past Pattern
@@ -259,6 +268,25 @@ The first step is recognizing the karmic pattern in your life. Look back at repe
 ### 2. Stop Fighting It
 
 Resistance multiplies suffering. Accept that this is your path. You have this debt for a reason—there's wisdom you need to develop. Embrace the challenge.
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 
 ### 3. Work Consciously
 

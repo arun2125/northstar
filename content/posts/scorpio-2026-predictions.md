@@ -248,6 +248,15 @@ Jupiter retrograde continues, so career expansion is internal (skill-building, p
 
 ## Scorpio 2026 Love Horoscope
 
+---
+
+> 💫 **Want Your Personal 2026 Forecast?**  
+> Chat with Tara, our AI astrologer, for a free reading combining Western, Vedic, and Numerology insights tailored to your birth chart.  
+> [Start Free Reading →](/chat)
+
+---
+
+
 ### Single Scorpios
 
 **Best periods for meeting someone:** February (Venus in Aries brings unexpected workplace connections), May-August (Jupiter transitioning brings optimistic expansion energy), and late November-December (post-retrograde clarity).
@@ -300,6 +309,25 @@ Jupiter retrograde continues, so career expansion is internal (skill-building, p
 **October-November:** Your body will manifest emotional stress. Venus retrograde intensity often appears as skin issues, reproductive system disruptions, or mysterious symptoms that are really trapped grief. Get bodywork. Move the energy. Don't suppress emotions and expect your physical form to be fine.
 
 **The gift:** Water sign Mercury retrogrades all year support intuitive health decisions. Your body is trying to communicate. Listen. That recurring ache, the food that suddenly bothers you, the exercise you're craving—these are signals. Follow them.
+
+---
+
+
+---
+
+## 📬 Get Your Weekly Cosmic Weather Report
+
+Join 2,000+ readers getting personalized astrology insights every Monday.
+
+**What you'll get:**
+- Weekly planetary transits explained
+- Your personal horoscope (all 12 signs)
+- Moon phase guidance
+- Mercury retrograde alerts
+
+*No spam. Unsubscribe anytime.*
+
+[Join the Waitlist →](/#waitlist)
 
 ---
 

@@ -49,6 +49,15 @@ So having Jupiter, Saturn, Uranus, Neptune, or Pluto retrograde in your chart is
 
 ## Mercury Retrograde in Your Natal Chart
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 If you were born with **Mercury retrograde**, your thinking process is naturally introspective and revisionist.
 
 **What it means:**
@@ -166,6 +175,25 @@ People with many retrogrades often:
 - Have rich inner lives
 - Question everything
 - Take longer to develop but go deeper
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 
 The challenge is living in a world that values speed, external achievement, and quick decisions. Your gift is that when you finally act, speak, or commit, it comes from a place of deep consideration.
 

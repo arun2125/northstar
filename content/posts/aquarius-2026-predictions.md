@@ -147,6 +147,15 @@ Ground the visions through practical action. Neptune without earth becomes fanta
 
 ## Mercury Retrograde 2026: The Communication Rewiring
 
+---
+
+> 💫 **Want Your Personal 2026 Forecast?**  
+> Chat with Tara, our AI astrologer, for a free reading combining Western, Vedic, and Numerology insights tailored to your birth chart.  
+> [Start Free Reading →](/chat)
+
+---
+
+
 ### The Three Cycles and Your Houses
 
 2026's Mercury retrogrades hit fire and water signs, activating different areas of your chart each time. For Aquarius, these retrogrades require attention to money, health, and career—the practical foundations that support your visionary life.

@@ -45,6 +45,15 @@ The growth work for Leo is **learning that true confidence doesn't require exter
 
 ## Leo in Relationships: Love Me Like I'm Famous
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 Dating a Leo is being cast in their personal romantic epic. The courtship is **grand gestures, public declarations, expensive dates** that feel like movie scenes. They'll write you poetry (or at least very dramatic texts), show you off to everyone they know, and make you feel like the most attractive, special person alive. Leo loves by putting you on a pedestal—which is intoxicating until you realize you're not allowed to step down from it.
 
 **Attention is the love language**. Leo doesn't just want quality time—they want your undivided, enthusiastic, actively admiring attention. Scrolling your phone while they talk? Disrespectful. Not complimenting their outfit? Hurtful. Forgetting to acknowledge their accomplishments? Basically betrayal. They're not being high-maintenance (okay, they are)—they're testing whether you see them, value them, celebrate them. That's how they know you love them.
@@ -94,6 +103,25 @@ The key for Leo at work: **find roles where your strengths are genuinely needed,
 **Leo + Taurus**: Stubborn meets stubborn. Both love luxury and loyalty, but both refuse to back down. Taurus finds Leo exhausting; Leo finds Taurus boring. Can work if they respect each other's strengths, but usually ends in a stalemate.
 
 **Leo + Cancer**: Leo's fire evaporates Cancer's water. Cancer needs emotional security and softness; Leo needs admiration and independence. Cancer takes Leo's bluntness personally; Leo finds Cancer's moods exhausting. Requires massive compromise.
+
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
 
 For more fire sign dynamics, read our [Aries personality guide](#) and [Sagittarius compatibility breakdown](#).
 

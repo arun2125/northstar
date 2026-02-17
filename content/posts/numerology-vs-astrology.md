@@ -124,6 +124,15 @@ Numerology excels at:
 
 ## Where Numerology and Astrology Overlap
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 Despite their differences, both systems often point to the same truths through different languages:
 
 ### Life Purpose and Direction
@@ -271,6 +280,25 @@ See how the systems layer? Numerology provides the annual theme and essential pe
 - You need specific timing for actions or decisions
 - You're planning events (weddings, business launches, travel)
 - You want to understand emotional patterns and needs deeply
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 - You're analyzing a specific relationship's dynamics in detail
 - You're ready for complex, multifaceted self-knowledge
 - You appreciate symbolic, archetypal systems

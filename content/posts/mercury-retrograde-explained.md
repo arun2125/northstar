@@ -57,6 +57,15 @@ When Mercury goes retrograde, these areas get... weird. Not catastrophic. Just w
 
 ## What Actually Happens During Retrograde
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 ### Communication Gets Crossed
 
 Messages get misunderstood. Emails go to spam. You say one thing, people hear another. That text you thought was clear? Not so much.
@@ -183,6 +192,25 @@ When old things come back — people, opportunities, issues — don't immediatel
 Not everything can wait, but if you have flexibility:
 - Delay major purchases (especially electronics)
 - Push back big launches or announcements
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 - Don't start new relationships or jobs (but don't panic if you have to)
 - Wait to sign contracts
 

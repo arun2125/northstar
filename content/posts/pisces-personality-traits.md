@@ -65,6 +65,15 @@ And the confusion is constant. Pisces struggles with practical reality—time, m
 
 ## Pisces in Relationships: The Oceanic Lover
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 In love, Pisces is all in—sometimes too much. They merge with partners, lose boundaries, become we instead of I. They love unconditionally, which is beautiful until it becomes self-erasure.
 
 When Pisces falls in love, it's transcendent. You become their muse, their deity, their reason for being. They'll write you poetry, intuit your needs, love you through your darkness, see your potential even when you can't. Being loved by Pisces is being seen as divine.
@@ -129,6 +138,25 @@ Early-stage Pisces believes that having no boundaries is spiritual, that sufferi
 Mid-stage Pisces starts to notice the cost. The burnout from constant empathy. The relationships where they gave everything and got nothing back. The way they've disappeared into others and don't know who they are anymore. The substances or behaviors they're using to escape the overwhelm.
 
 This is when Pisces faces their crisis: **boundaries**. The recognition that you can't pour from an empty cup. That compassion includes self-compassion. That boundaries aren't walls—they're the container that allows sustainable giving.
+
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
 
 This is terrifying for Pisces. Boundaries feel harsh, selfish, unspiritual. Won't people be hurt? Won't they be abandoned? Won't Pisces lose their essential nature if they stop being available to everyone?
 

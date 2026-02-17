@@ -119,6 +119,25 @@ Mid-stage Libra starts to feel the cost. The exhaustion of constantly calibratin
 
 This is when Libra faces their crisis: **selfhood**. The terrifying question: who am I when no one is watching? What do I want when I stop asking what everyone else wants? Can I tolerate someone being upset with me? Can I risk conflict in service of authenticity?
 
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
+
 This phase is deeply uncomfortable for Libra. Learning to say no, to have boundaries, to express disagreement, to sit with others' disappointment—it feels like violence against their nature. But it's necessary. Because you can't have real intimacy without a self to be intimate from.
 
 Evolved Libra discovers that true partnership requires two whole people, not one person and their reflection. That real harmony can hold discord. That authentic relationship is stronger than false peace.

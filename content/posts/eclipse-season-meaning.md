@@ -53,6 +53,15 @@ The chaos isn't random. It's recalibration. The universe is course-correcting, a
 
 ## The Lunar Nodes: The Backbone of Eclipse Season
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 To understand eclipses, you have to understand the **lunar nodes**—the invisible points that determine where eclipses happen and what they're about.
 
 The nodes are always in two opposite signs, and they shift signs roughly every 18 months. Eclipses follow the nodes, so for the 18 months the nodes are in a particular axis (like Aries-Libra or Taurus-Scorpio), all eclipses will happen in those signs.
@@ -175,6 +184,25 @@ Personal eclipses don't mess around. They're the universe saying, "This area of 
 ## Eclipse Seasons Through the Years: The Saros Cycle
 
 Here's something most people don't know: **eclipses repeat in 18-19 year cycles** called Saros cycles. An eclipse happening now is connected to an eclipse that happened roughly 19 years ago—and will connect to one 19 years in the future.
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 
 **How to use this:**
 

@@ -41,6 +41,15 @@ Where Western astrology often asks "Who am I?" and "How can I grow?", Vedic astr
 
 ## Predictive Techniques: Dashas vs Transits
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 One of Vedic astrology's most distinctive and powerful features is the **dasha system**—a complex timing technique that divides your life into planetary periods and sub-periods. Each dasha is ruled by a specific planet and lasts for a predetermined number of years. The sequence and timing of these periods are calculated from your Moon's position at birth.
 
 During a planet's dasha, that planet's themes, house positions, and aspects become especially active in your life. For instance, during a Venus dasha (which lasts 20 years), relationships, beauty, luxury, and the areas of life Venus rules in your chart take center stage. The dasha system provides remarkably specific timing for major life events—marriages, career changes, relocations, health issues, and spiritual awakenings.
@@ -98,6 +107,25 @@ Modern Western astrology, especially since the psychological revolution of the 1
 Vedic astrology, while certainly capable of character analysis, traditionally excels at **concrete prediction**. A Vedic astrologer is more likely to tell you when you'll get married, what career field will bring success, or whether you should buy property this year. The readings tend to be more directive, sometimes prescriptive, rooted in the belief that certain karmic patterns will unfold.
 
 This isn't absolute—there are psychologically-oriented Vedic astrologers and predictive Western astrologers—but it reflects each tradition's historical emphasis and strength.
+
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
 
 ## Choosing Your Path
 

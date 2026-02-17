@@ -79,6 +79,15 @@ Mercury in the same element usually communicates well. Mercury in challenging as
 
 ## The Aspects That Matter
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 In synastry, astrologers look at how planets from one chart aspect (connect to) planets in the other chart.
 
 ### Conjunctions (0°)
@@ -174,6 +183,25 @@ Good relationships aren't about perfect compatibility. They're about two people 
 ### 2. Challenging Aspects Create Growth
 
 Easy aspects feel nice but can become boring. Squares and oppositions create friction — which also creates passion and growth.
+
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
 
 Some of the most powerful relationships have significant challenges in the synastry. The question is whether both people are willing to grow.
 

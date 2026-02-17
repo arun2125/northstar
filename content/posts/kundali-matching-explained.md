@@ -236,6 +236,25 @@ However, there are significant limitations:
 
 Here's how to use Kundali matching wisely in contemporary contexts:
 
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 ### For Arranged Marriages
 - Use Kundali matching as one factor among many (family compatibility, education, values, life goals, personal connection)
 - Insist on meeting and spending time with potential matches before deciding

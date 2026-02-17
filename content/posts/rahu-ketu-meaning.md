@@ -70,6 +70,15 @@ The house placement of Rahu in your [Vedic birth chart](/posts/vedic-moon-sign) 
 
 ## Ketu: The South Node—Detachment, Spirituality, and Liberation
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 If Rahu is where you're going, Ketu is where you've been—your karmic past. Ketu represents what you've already mastered in previous lifetimes, what feels familiar but ultimately unsatisfying. Ketu's energy is:
 
 **Spiritual liberation**: Ketu grants moksha (liberation). It represents the ultimate freedom from material attachment.
@@ -149,6 +158,25 @@ Both periods are powerful teachers. Rahu teaches through experience and expansio
 - Practice mindfulness to cut through illusion
 - Use technology and innovation for positive purposes
 - Embrace foreign cultures and new perspectives, but stay grounded
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 - Satisfy desires consciously rather than compulsively
 - Serve society through unconventional methods
 

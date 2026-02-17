@@ -131,6 +131,15 @@ Total: 3 + 7 + 9 = 19 = 1+9 = 10 = 1+0 = 1
 
 ## Expression Number Meanings: 1-9 and Master Numbers
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 Now let's explore what each Expression Number means for your natural talents and destiny:
 
 ### Expression Number 1: The Pioneer Leader
@@ -278,6 +287,25 @@ Now let's explore what each Expression Number means for your natural talents and
 **When Fulfilled**: You teach and heal beautifully, embodying unconditional love and compassionate service while maintaining your own well-being.
 
 ## How Your Expression Number Influences Your Life
+
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
 
 Understanding your Expression Number has practical applications:
 

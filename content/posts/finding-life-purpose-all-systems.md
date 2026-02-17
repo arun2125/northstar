@@ -111,6 +111,15 @@ The 10th divisional chart shows career and dharma in detail. The condition of pl
 
 ## Life Path Number: Your Vibrational Journey
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 Numerology's Life Path number is calculated from your birth date and represents the vibrational energy you'll embody and the journey you'll walk in this lifetime. It's not what you *do* (career), but *how* you move through life.
 
 **Calculating Life Path:**
@@ -247,6 +256,25 @@ When systems seem to disagree:
 The "conflict" shows the *how* of your purpose—you're integrating seemingly opposite qualities.
 
 **Step 5: Translate to practical action**
+
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
 
 Your integrated purpose should answer:
 - **What**: Type of work or service (teaching, healing, creating, building, leading, etc.)

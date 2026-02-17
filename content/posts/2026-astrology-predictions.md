@@ -173,6 +173,15 @@ Jupiter in Leo is warm, generous, and theatrical. This transit favors:
 
 ## 2026 Astrology: Month-by-Month Key Dates
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 ### January 2026
 - **Jan 8:** Mars stations direct (Cancer) — Forward momentum returns
 - **Jan 13:** Full Moon in Cancer — Emotional release, home matters
@@ -358,6 +367,25 @@ Mark these dates in your calendar NOW:
 - ⭐ **June 30:** Jupiter enters Leo — Launch something bold
 - ⭐ **August 12:** Leo Solar Eclipse — Destiny point activation
 - ⭐ **October 3:** Venus retrograde begins — Go inward on relationships
+
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
 
 ### 3. Build Emotional Resilience
 

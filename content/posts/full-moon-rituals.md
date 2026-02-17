@@ -47,6 +47,15 @@ Understanding this energy means you stop fighting it and start using it. You don
 
 ## Full Moon Rituals That Actually Work
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 Forget the 47-step TikTok rituals with ingredient lists longer than a spell from Hogwarts. Here's what works, stripped down to what matters:
 
 ### 1. The Release List (The Core Practice)
@@ -150,6 +159,25 @@ Every full moon happens in a different zodiac sign, and that sign colors what's 
 **Pisces Full Moon:** Release: victim mentality, escapism, blurred boundaries, fantasy over reality. Embrace: compassion with discernment, spiritual practice that grounds you. Feel without drowning.
 
 Knowing the sign helps you target your release ritual to what's actually surfacing.
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 
 ## When the Full Moon Hits Your Personal Chart
 

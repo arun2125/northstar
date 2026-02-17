@@ -64,6 +64,15 @@ Saturn doesn't destroy to hurt you. It destroys what was never meant to last.
 
 ## The Three Phases of Saturn Return
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 ### Phase 1: The Cracks Appear (Age 27-28)
 
 Things start feeling off. You can't pinpoint it at first. A general unease. The job that was "fine" starts feeling suffocating. The relationship that was "good enough" starts feeling like a prison.
@@ -161,6 +170,25 @@ Yes, it's uncomfortable. Renovations always are.
 Saturn rewards effort, discipline, and responsibility. This is not the time to escape into distractions. This is the time to:
 - Have the hard conversations
 - Make the scary decisions
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 - Do the work you've been avoiding
 - Set the boundaries you've been too afraid to set
 

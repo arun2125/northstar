@@ -117,6 +117,25 @@ Leo and Scorpio are both fixed signs with strong personalities. The attraction i
 
 Scorpio and Aquarius are both intense in different ways. Scorpio is emotionally intense; Aquarius is intellectually intense. Scorpio is private; Aquarius is communal. This creates friction.
 
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 **Why it's hard**: Aquarius's emotional detachment frustrates Scorpio's need for depth and intimacy. Scorpio's possessiveness frustrates Aquarius's need for freedom and independence. You process completely differently.
 
 **When it works**: When Scorpio has secure attachments elsewhere (friends, family, passions) and doesn't need Aquarius to fulfill all emotional needs. When Aquarius is willing to show up emotionally, even if it's not their natural mode.

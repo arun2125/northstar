@@ -57,6 +57,15 @@ Taurus needs to recognize that real stability comes from healthy relationships, 
 
 ## Gemini: The Emotionally Unavailable Escape Artist
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 **The Pattern**: Gemini is brilliant at connection—until things get heavy. Surface-level fun? Amazing. Deep emotional intimacy? Suddenly they're "busy" or "need space" or have deflected into humor.
 
 When conversations get serious, Gemini changes the subject. When emotions get intense, they intellectualize. When commitment looms, they find reasons to maintain distance. They're masters of being present without being truly available.
@@ -184,6 +193,25 @@ Capricorn's emotional unavailability also prevents real intimacy. Partners can't
 Capricorn needs to understand that their worth isn't determined by achievement. Being loved for who you are rather than what you accomplish is profoundly healing—but requires showing up emotionally, not just practically.
 
 ## Aquarius: The Emotionally Detached Intellectual
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 
 **The Pattern**: Aquarius lives in their head, intellectualizing emotions rather than feeling them. In relationships, they analyze rather than connect, creating emotional distance even while physically present.
 

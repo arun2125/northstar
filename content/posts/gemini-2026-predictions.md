@@ -174,6 +174,15 @@ If you've been holding back on a communication project, the August eclipse gives
 
 ## Gemini 2026: Month-by-Month Forecast
 
+---
+
+> 💫 **Want Your Personal 2026 Forecast?**  
+> Chat with Tara, our AI astrologer, for a free reading combining Western, Vedic, and Numerology insights tailored to your birth chart.  
+> [Start Free Reading →](/chat)
+
+---
+
+
 ### January 2026: The Fog Lifts
 
 **Key Dates:**
@@ -429,6 +438,25 @@ Gemini's health is primarily mental. Your nervous system needs care.
 4. **Take the Venus retrograde seriously.** October-November asks you to examine how you relate, what you value in relationships, and what patterns keep repeating. The insight is worth the discomfort.
 
 5. **Invest in learning.** Jupiter in your 3rd house rewards intellectual growth. Take the course. Read the books. Start the writing project. Your mind is your greatest asset in 2026.
+
+---
+
+
+---
+
+## 📬 Get Your Weekly Cosmic Weather Report
+
+Join 2,000+ readers getting personalized astrology insights every Monday.
+
+**What you'll get:**
+- Weekly planetary transits explained
+- Your personal horoscope (all 12 signs)
+- Moon phase guidance
+- Mercury retrograde alerts
+
+*No spam. Unsubscribe anytime.*
+
+[Join the Waitlist →](/#waitlist)
 
 ---
 

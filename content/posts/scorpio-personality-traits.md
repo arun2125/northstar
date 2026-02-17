@@ -41,6 +41,15 @@ The growth work for Scorpio is **learning that not everyone is an enemy**. That 
 
 ## Scorpio in Relationships: Ride or Die (Emphasis on Die)
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 When Scorpio loves you, you'll know. It's not casual, it's not light, it's not "let's see where this goes." It's **all-consuming, transformative, probably a little scary**. They don't want a partner—they want a co-conspirator, a soul merge, someone who's down to explore the psychological depths with them. Weekend plans include deep conversations about childhood trauma, not brunch.
 
 The courtship phase is fascinating. Scorpio moves slow because they're assessing *everything*. Can you handle their intensity? Will you run when things get real? Are you capable of the loyalty they demand? They're also testing your honesty—lie once, even about something small, and you're mentally filed under "untrustworthy" forever. If you pass the tests (and you won't know how many there are), you'll experience devotion like no other sign offers.
@@ -86,6 +95,25 @@ The key for Scorpio at work: **find environments that value depth over performan
 **Scorpio + Aquarius**: Philosophically fascinating, emotionally exhausting. Aquarius' detachment triggers Scorpio's abandonment fears. Scorpio's intensity overwhelms Aquarius' need for space. Aquarius won't play Scorpio's emotional games. Usually ends badly unless both have compatible moons.
 
 For more on water sign dynamics, check out our [Cancer personality guide](#) and [Pisces compatibility breakdown](#).
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 
 ## Growing Up Scorpio: From Destruction to Transformation
 

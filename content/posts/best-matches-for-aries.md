@@ -106,6 +106,25 @@ This is a tough one. Cancer wants emotional security and nurturing; Aries wants 
 
 **Why it *can* work**: When Aries learns to appreciate Cancer's emotional intelligence and Cancer learns to respect Aries' need for independence, there's potential for balance. Aries protects; Cancer nurtures. It's a classic dynamic.
 
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
+
 **The challenge**: Pretty much everything about how you operate. Cancer takes things personally that Aries says without thinking. Aries feels suffocated by Cancer's need for emotional connection and reassurance.
 
 **Real talk**: This requires both people to fundamentally appreciate and respect someone who operates completely differently. It's possible, but it's not easy.

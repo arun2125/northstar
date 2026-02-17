@@ -57,6 +57,15 @@ Always reduce to a single digit (1-9) by adding the digits together. Let's walk 
 
 ## Personal Year 1: New Beginnings and Fresh Starts
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 **Theme:** Initiation, independence, planting seeds
 
 Year 1 is your cosmic New Year, regardless of the calendar. This is when you begin a brand new nine-year cycle, making it the most powerful year for starting fresh projects, relationships, or life directions. The universe is handing you a blank canvas and fresh paint.
@@ -228,6 +237,25 @@ Year 7 is your sabbatical year—a time to retreat inward, reflect deeply, and c
 Year 8 is harvest time. All the work from previous years culminates in tangible success, financial growth, and recognition. This is when you step into your power.
 
 **What to expect:**
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 - Career advancement and recognition
 - Financial opportunities and increase
 - Positions of authority and leadership

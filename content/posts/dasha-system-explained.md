@@ -72,6 +72,15 @@ To understand Nakshatras in detail, see our comprehensive guide: [The 27 Nakshat
 
 ## Levels of Dashas: Maha, Antar, and Beyond
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 The genius of the Vimshottari system is its nested structure. Each major period (Maha Dasha) is subdivided into nine sub-periods (Antar Dasha), and these can be further subdivided into even smaller micro-periods.
 
 ### Maha Dasha: The Major Period
@@ -274,6 +283,25 @@ Vedic astrology offers **remedial measures** (upayas) to navigate challenging da
 - Avoiding conflicts and aggressive behavior
 
 These remedies can't eliminate karma but can modify its expression, making difficult periods more manageable.
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 
 ## Other Dasha Systems
 

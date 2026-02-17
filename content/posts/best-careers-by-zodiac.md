@@ -173,6 +173,25 @@ Here's the actual method:
 
 Most charts aren't neat. You might have a creative Pisces Sun but Capricorn Midheaven and Mars in Virgo. That's not conflicting—it's dimension.
 
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
+
 **The integration approach:**
 - **Your Sun** = What fuels you internally
 - **Your Midheaven** = The professional container for that fuel

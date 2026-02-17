@@ -122,6 +122,25 @@ These cycles age you emotionally and psychologically. That's the point. You're s
 
 - **Numerology Personal Year:** Align your Saturn work with your current life cycle. If you're in a 1 year, focus on new beginnings. In a 4 year, build foundations. In a 7 year, go inward. In an 8 year, step into power.
 
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 ## Real-World Example: A Complete Saturn Cycle Integration
 
 **Meet James:** Born March 15, 1995. Now 31 years old (2026).

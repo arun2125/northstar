@@ -291,6 +291,25 @@ Certain Nakshatras are considered generally auspicious (like Rohini, Uttara Phal
 
 This practical application shows how Nakshatras bridge cosmic patterns with daily life decisions.
 
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 ## Beyond the Birth Nakshatra
 
 While your Moon's Nakshatra is most emphasized (it's called your **Janma Nakshatra** or birth star), Vedic astrology also considers:

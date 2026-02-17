@@ -76,6 +76,15 @@ What this means in practice: If your tropical Sun is at 10° Leo, subtracting th
 
 ## What This Means for Your Birth Chart
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 The ayanamsa affects every point in your chart, not just your Sun sign:
 
 **Sun Sign**: Most people born in the past century will find their sidereal Sun is one sign earlier than their tropical Sun. If you were born when the Sun was near the beginning of a tropical sign, you might shift back two signs.
@@ -162,6 +171,25 @@ Every few years, a news story claims there's a "13th zodiac sign" called Ophiuch
 This is nonsense. Astrological signs are 30-degree divisions of the ecliptic, not literal constellations. The constellations are irregular in size—some take up more than 30 degrees, others less. There happen to be thirteen constellations along the ecliptic, but this is irrelevant to astrological signs.
 
 Neither tropical nor sidereal astrology uses Ophiuchus because both systems use twelve 30-degree divisions, not the astronomical constellations themselves.
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 
 ### "Your 'Real' Sign Is the Sidereal One"
 

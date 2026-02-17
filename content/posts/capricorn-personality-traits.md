@@ -49,6 +49,15 @@ The growth work for Capricorn is **learning that you are valuable beyond what yo
 
 ## Capricorn in Relationships: Slow Burn to Devotion
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 Dating a Capricorn requires **patience, maturity, and the ability to read between the lines**. They don't fall fast. They don't trust easily. The courtship phase is them assessing whether you're serious, stable, and worth the risk. Can you handle responsibility? Do you have your life together? Are you in this for the long haul, or are you going to waste their time? Because Capricorn doesn't do casual. If they're dating you, they're auditioning you for a permanent role.
 
 **Emotionally**, Capricorn shows love through action, not words. They won't write you poetry, but they'll make sure your car is maintained. They won't have long emotional talks, but they'll research solutions to your problems. They won't say "I love you" often, but they'll show up every single time. Learning to recognize their language is key—if you need verbal affirmation, you'll feel unloved. If you value consistency and reliability, you'll feel cherished.
@@ -104,6 +113,25 @@ For more earth sign dynamics, read our [Taurus compatibility guide](#) and [Virg
 ## Growing Up Capricorn: From Achievement to Wholeness
 
 The difference between a young Capricorn and a mature one is **where they find their worth**. Immature Capricorn believes worth equals achievement—the title, the salary, the external markers of success. Mature Capricorn has learned that **real success includes joy, connection, and internal peace**. That building a life is more important than building a resume.
+
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
 
 **Signs you're dealing with an evolved Capricorn**:
 - They can relax without guilt

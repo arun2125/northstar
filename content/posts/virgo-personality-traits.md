@@ -116,6 +116,25 @@ Early-stage Virgo believes that if they can just be good enough—organized enou
 
 Mid-stage Virgo starts to notice the cost. The burnout from constant self-improvement. The loneliness of never being vulnerable. The resentment from all the service they give without replenishment. They realize that perfectionism isn't making them better—it's making them smaller.
 
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
+
 This is when Virgo faces their crisis: **acceptance**. Not acceptance of mediocrity, but acceptance of humanity. The understanding that imperfection isn't something to fix—it's the condition of being alive. That wholeness includes the messy parts, the flawed parts, the parts that will never be optimized.
 
 Evolved Virgo keeps their analytical gifts but softens their application. They still see what could be better, but they also see what's working. They still serve, but from fullness rather than depletion. They still have standards, but they're no longer at war with reality.

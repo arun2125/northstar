@@ -59,6 +59,15 @@ Routine can become rut if they're not careful. Both value predictability, but to
 
 ## Capricorn: The Power Couple That Builds Empires
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 When Virgo meets Capricorn, it's not just a relationship—it's a strategic partnership. Both earth signs are ambitious, practical, and oriented toward long-term success. Together, they don't just dream—they build.
 
 Capricorn's cardinal leadership complements Virgo's mutable support perfectly. Capricorn sets ambitious goals; Virgo creates detailed plans to achieve them. Capricorn provides vision; Virgo handles execution. They become unstoppable teams in both personal and professional realms.
@@ -122,6 +131,25 @@ Criticism hits Scorpio harder than Virgo realizes. Scorpio's tough exterior hide
 Virgo and Pisces sit opposite on the zodiac wheel, creating powerful attraction and growth potential. What Virgo analyzes, Pisces feels. What Pisces dreams, Virgo builds. Together, they become more complete than either could alone.
 
 Pisces's imagination expands Virgo's sometimes rigid worldview. Virgo can get stuck in practical limitations, but Pisces shows them possibilities beyond current reality. Pisces teaches Virgo that not everything needs analyzing—some things just need experiencing.
+
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
 
 In turn, Virgo gives Pisces's dreams concrete form. Pisces has beautiful visions but struggles with execution. Virgo's practical skills transform Pisces's creativity into reality. Together, they create art, businesses, or simply lives that blend inspiration with implementation.
 

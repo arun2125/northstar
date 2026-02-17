@@ -104,6 +104,25 @@ Mid-stage Gemini starts to notice the cost of their scattered approach. Relation
 
 This is when Gemini faces their crisis: **commitment**. Not just in relationships, but in everything. Committing to going deep on something means saying no to ten thousand other interesting things. It means pushing through boredom, difficulty, repetition. It means discovering that depth has its own kind of richness that breadth can never provide.
 
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 Evolved Gemini learns to use their multiplicity as a strength rather than a liability. They don't become narrow or rigid—they learn to integrate their various interests into a coherent whole. The writer who brings in philosophy, psychology, and pop culture. The teacher who uses multiple modalities. The entrepreneur who sees connections between industries.
 
 They learn to finish what they start, not by suppressing their curious nature but by choosing commitments that allow for continued growth and exploration within them. They discover that true freedom isn't having unlimited options—it's knowing yourself well enough to choose the right ones.

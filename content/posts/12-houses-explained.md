@@ -229,6 +229,25 @@ This is what's hidden — your subconscious, your karma, and the things you do b
 
 ---
 
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 ## What If a House Is Empty?
 
 Empty houses are normal — you only have 10 planets to spread across 12 houses.

@@ -78,6 +78,15 @@ See how it gets interesting?
 
 ## The Planets: Different Parts of You
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 Each planet represents a different aspect of your psyche. Think of them as characters in the movie of your life.
 
 | Planet | What It Rules | The Question It Answers |
@@ -171,6 +180,25 @@ See those lines connecting planets in your chart? Those are aspects — geometri
 
 The main ones:
 - **Conjunction (0°):** Planets are fused together. Intense, for better or worse.
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 - **Sextile (60°):** Easy, supportive energy. Opportunities.
 - **Square (90°):** Tension, friction, growth through challenge.
 - **Trine (120°):** Natural flow, talent, sometimes too easy.

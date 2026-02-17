@@ -39,6 +39,15 @@ The growth work for Aries is learning that **pause is not defeat**. That finishi
 
 ## Aries in Relationships: All In or All Out
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 Dating an Aries is like getting recruited into their personal action movie. The courtship phase is *chef's kiss*—grand gestures, intense eye contact, texts at 2 AM about how you're different from everyone else. They pursue hard, love dramatically, and make you feel like the most important person on the planet. Then you get together, and three months later they're picking fights because you "changed" (you didn't—they just got comfortable).
 
 Here's the pattern: **Aries loves the chase more than the catch**. Not because they're shallow, but because pursuit gives them purpose and structure. Once you're "won," the question becomes "now what?" and Aries *hates* that question. They need a partner who remains a mystery, who pushes back, who has their own life. Codependency makes Aries mean. They'll resent you for needing them, even if they asked for that devotion.
@@ -78,6 +87,25 @@ If you're managing an Aries: give them autonomy, clear targets, and frequent fee
 **Aries + Capricorn**: The unstoppable force meets the immovable object. Both are cardinal (leadership) signs, so power struggles are inevitable. Capricorn's caution frustrates Aries; Aries' impulsivity terrifies Capricorn. If they respect each other's approach, they can build empires together. If not, constant friction.
 
 **Aries + Scorpio**: Intense, sexual, volatile. Mars rules Aries; Mars co-rules Scorpio (with Pluto). Lots of passion, lots of arguments, lots of makeup sex. Both are possessive and stubborn. Either they build something profound or destroy each other—depends on the day.
+
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
 
 Want more compatibility insights? Check out our full [zodiac compatibility guide](#) and [fire sign dynamics](#).
 

@@ -89,6 +89,15 @@ Neptune briefly retrogrades back into Pisces from October 13, 2026, to January 2
 
 ## Jupiter Enters Leo: Your Expansion Year Begins
 
+---
+
+> 💫 **Want Your Personal 2026 Forecast?**  
+> Chat with Tara, our AI astrologer, for a free reading combining Western, Vedic, and Numerology insights tailored to your birth chart.  
+> [Start Free Reading →](/chat)
+
+---
+
+
 Mark this date: **June 30, 2026**. Jupiter enters Leo, launching your most fortunate transit in 12 years.
 
 ### What Jupiter in Leo Brings

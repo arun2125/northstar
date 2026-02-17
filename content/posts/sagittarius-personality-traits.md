@@ -61,6 +61,15 @@ The restlessness never stops. Sagittarius is always looking at what's next, what
 
 ## Sagittarius in Relationships: The Inspiring Escapist
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 In love, Sagittarius wants a partner, not a prison. They're looking for someone who wants to explore life with them—intellectually, physically, spiritually. Someone who gets excited about growth, adventure, new experiences. Someone who doesn't need them to be home every night or committed to a five-year plan.
 
 When Sagittarius falls in love, it's big and optimistic and full of possibility. They see the best in their partner, the potential for an amazing shared adventure. They're generous, enthusiastic, fun. They'll take you on spontaneous trips, introduce you to new ideas, expand your world. Life with Sagittarius is never boring.
@@ -125,6 +134,25 @@ Early-stage Sagittarius believes that freedom means no commitments, no limits, n
 Mid-stage Sagittarius starts to notice the cost. The relationships that never deepened because they left too soon. The skills they never mastered because they moved on too quickly. The pattern of promising big and delivering small. The exhaustion of being in constant motion without ever arriving.
 
 This is when Sagittarius faces their crisis: **commitment**. Not in the settling, soul-deadening sense they've always feared—but in the choosing-your-adventure sense. The recognition that depth requires staying put. That mastery requires sustained effort. That real freedom comes from discipline, not from avoiding it.
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 
 This is terrifying for Sagittarius. What if they choose wrong? What if they commit and then discover there was something better out there? What if staying means missing out?
 

@@ -61,6 +61,15 @@ Emotional expression can be limited. Both tend toward stoicism, potentially crea
 
 ## Virgo: The Power Couple That Optimizes Everything
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 When Capricorn meets Virgo, it's not just romance—it's strategic partnership. Both earth signs are ambitious, practical, and oriented toward continuous improvement. Together, they build lives that work beautifully on every level.
 
 Virgo's mutable nature adapts perfectly to Capricorn's cardinal leadership. Capricorn sets ambitious visions; Virgo creates detailed plans to achieve them. Capricorn says "we're doing this"; Virgo figures out how. They become unstoppable in both personal and professional realms.
@@ -130,6 +139,25 @@ Capricorn and Pisces create unexpected magic. Earth meets water, practicality me
 Pisces softens Capricorn's hard edges. Capricorn can be rigid, stuck in practical limitations and conventional thinking. Pisces shows them possibilities beyond current reality, teaching that not everything needs planning—some things just need faith.
 
 Capricorn gives Pisces's dreams concrete form. Pisces has beautiful visions but struggles with execution. Capricorn's practical skills and determination transform Pisces's creativity into reality. Together, they create art, businesses, or simply lives that blend inspiration with implementation.
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 
 Emotionally, Pisces teaches Capricorn to feel. Capricorn suppresses emotions to maintain control, but Pisces creates safety for vulnerability. Pisces doesn't judge Capricorn's feelings or require them to justify emotions logically. This acceptance allows Capricorn to access emotional depths they typically avoid.
 

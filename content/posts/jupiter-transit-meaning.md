@@ -45,6 +45,15 @@ Understanding this timeline means you won't panic when the retrograde happens or
 
 ## Jupiter Through the Houses: Where Luck Shows Up
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 Where Jupiter transits in your chart tells you *where* the expansion happens. And no, you can't just Google "Jupiter in 7th house" and get the full story—context matters. But here's a no-BS breakdown of what each house activation tends to bring.
 
 **1st House:** You feel more confident, visible, magnetic. People notice you differently. This is a glow-up transit—physical, mental, spiritual, all of it. Great time to rebrand, try new looks, put yourself out there. The risk? Getting cocky or overpromising.
@@ -106,6 +115,25 @@ Here's the truth: most people waste their Jupiter transits. They wait for luck t
 **Learn something new:** Jupiter loves learning. Take a course, read widely, explore philosophies or cultures outside your bubble. The more you expand your mind during Jupiter transits, the more you expand your life.
 
 **Connect generously:** Jupiter is the most social of the benefic planets. Build relationships, help people, be generous with your time and knowledge. What you give during Jupiter transits often comes back multiplied.
+
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
 
 **Watch for overextension:** The Jupiter trap is doing too much—overspending, overcommitting, overestimating your capacity. Yes, expand, but don't explode. If you're saying yes to everything, you're probably diluting your energy.
 

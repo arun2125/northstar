@@ -47,6 +47,15 @@ The growth work for Cancer is **learning that vulnerability is not the same as b
 
 ## Cancer in Relationships: Love as Sanctuary
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 When Cancer loves you, they **build you a home**—not just physically (though they probably will create a cozy space), but emotionally. You become their safe person, and they'll do everything to make you feel protected, nurtured, and understood. They remember your stories, anticipate your needs, and create rituals that make the relationship feel sacred. Dating a Cancer is being wrapped in warmth and care.
 
 The courtship is slow. Cancer doesn't trust easily, so they watch, assess, and test you (usually without you knowing). Can you handle their emotions? Will you run when they're vulnerable? Are you safe? Do you respect boundaries while also pursuing them? It's a complex equation, and you won't know if you've passed until they suddenly let you all the way in.
@@ -100,6 +109,25 @@ For more water sign insights, check out [Scorpio's intensity](#) and [Pisces' co
 ## Growing Up Cancer: From Protection to True Security
 
 The difference between a young Cancer and a mature one is **where they find security**. Immature Cancer seeks security externally—through people, places, possessions. They cling, control, and manipulate to create the safety they desperately need. Mature Cancer has discovered that **real security is internal**—built through self-trust, healthy boundaries, and emotional resilience.
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 
 **Signs you're dealing with an evolved Cancer**:
 - They communicate their needs directly instead of expecting you to guess

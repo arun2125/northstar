@@ -81,6 +81,15 @@ Water Moons process emotions through feeling them fully. They're psychic sponges
 
 ## Moon Sign Compatibility: The Breakdown
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 ### Same Element = Speaking the Same Language
 
 When your Moon signs are in the same element, you instinctively understand each other's emotional needs. You process feelings the same way, seek comfort in similar things, and rarely have to explain why you're upset.
@@ -198,6 +207,25 @@ Scorpio Moon needs loyalty, emotional depth, and complete trust. They feel every
 Sagittarius Moon needs freedom, adventure, and philosophical connection. They process emotions by finding the bigger meaning and need partners who won't cage them.
 
 **Challenging but possible**: Virgo Moon (Virgo finds Sag careless), Pisces Moon (opposite—different types of idealism), Gemini Moon (both commitment-phobic)
+
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
 
 ### Capricorn Moon
 

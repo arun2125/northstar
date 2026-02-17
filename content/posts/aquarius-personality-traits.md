@@ -61,6 +61,15 @@ And the commitment issues are real. Aquarius needs so much independence and free
 
 ## Aquarius in Relationships: The Distant Revolutionary
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 In love, Aquarius wants a partner who's also a friend, intellectual companion, and fellow traveler. They're not looking for a traditional romantic merger—they want connection that preserves autonomy.
 
 When Aquarius commits (which takes a while), they're loyal in their own way. They'll support your growth, respect your independence, engage your mind, share their vision. They're the partner who treats you like an equal, never tries to control you, and genuinely wants you to be fully yourself.
@@ -127,6 +136,25 @@ Aquarius's evolution is about learning to embody their ideals—to bring their r
 Early-stage Aquarius believes that emotions are messy distractions from rational clarity. They think detachment is wisdom, that being affected is weakness, that true understanding comes from objective distance. They're the smartest person in the room and everyone knows it (because they make sure they know it).
 
 Mid-stage Aquarius starts noticing what they're missing. The relationships that never deepened because they couldn't access vulnerability. The loneliness that comes from always being the outside observer. The way their brilliant ideas don't land because they can't connect with people emotionally.
+
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
 
 This is when Aquarius faces their crisis: **emotional embodiment**. The recognition that ideas without feeling are sterile. That revolution without intimate connection is just more abstraction. That you can't change the world from outside the human experience.
 

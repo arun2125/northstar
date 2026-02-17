@@ -46,6 +46,15 @@ Here's what this means in practice:
 
 ## Saturn in Aries: Structure in Your Transformation Zone
 
+---
+
+> 💫 **Want Your Personal 2026 Forecast?**  
+> Chat with Tara, our AI astrologer, for a free reading combining Western, Vedic, and Numerology insights tailored to your birth chart.  
+> [Start Free Reading →](/chat)
+
+---
+
+
 **Saturn enters Aries mid-February 2026 and stays until April 2028.**
 
 Saturn joining Neptune in your 8th house doubles down on the transformation theme. But where Neptune dissolves, **Saturn builds structure.** This is actually good news—it means the transformation isn't just chaos. It has a purpose, a plan, and an endpoint.

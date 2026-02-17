@@ -56,6 +56,15 @@ See the pattern? Your Sun is the engine; your MC is what people see on the road.
 
 ## Midheaven Through All 12 Signs
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 Let's break down what each Midheaven actually means for your career—not generic keywords, but the real mechanics of how you build reputation.
 
 ### Aries Midheaven: The Pioneer's Path
@@ -237,6 +246,25 @@ Let's break down what each Midheaven actually means for your career—not generi
 **Pitfall:** Boundary issues or escapism. Pisces MC can be seen as flaky. Ground your inspiration in consistent output.
 
 **10th house in Pisces needs:** Meaning, beauty, spiritual connection
+
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
 
 ## Planets in Your 10th House: The Game-Changers
 

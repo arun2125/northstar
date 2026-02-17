@@ -77,6 +77,15 @@ For deep astrological work, both your Rashi and Nakshatra are essential. Many tr
 
 ## Finding Your Vedic Moon Sign
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 To determine your Vedic Moon sign, you'll need:
 1. **Exact birth date**
 2. **Exact birth time** (as precise as possible—even 10 minutes can matter)
@@ -179,6 +188,25 @@ The Moon's interactions with other planets create specific emotional and mental 
 Certain combinations create special yogas (planetary combinations) that significantly enhance or challenge the Moon's expression.
 
 ## Why Your Moon Sign Matters for Compatibility
+
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
 
 In Vedic astrology, relationship compatibility analysis (called [Kundali matching](/posts/kundali-matching-explained)) places enormous emphasis on Moon sign compatibility. The Moon governs your emotional needs, mental compatibility, and daily living habits—all crucial for long-term partnership success.
 

@@ -47,6 +47,15 @@ Challenges arise when Taurus's stubbornness clashes with Cancer's mood swings. T
 
 ## Scorpio: Intensity That Matches Cancer's Depth
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 When Cancer meets Scorpio, it's not a relationship—it's a soul merger. Both water signs understand that emotions aren't weaknesses to manage but forces to honor. They create relationships where vulnerability isn't just accepted; it's required.
 
 Scorpio's intensity perfectly matches Cancer's depth. While other signs might find Cancer's emotional nature "too much," Scorpio wants more. They crave the raw, unfiltered connection that Cancer offers when they feel truly safe.
@@ -100,6 +109,25 @@ Cancer and Virgo create relationships built on daily acts of love. Both are serv
 Virgo's earth energy grounds Cancer's water in practical ways. When Cancer's emotions spiral, Virgo offers practical solutions—not dismissing the feelings but helping create actionable plans. This combination of emotional validation and practical support makes Cancer feel truly supported.
 
 Both value health, home, and routine. They enjoy creating healthy meals together, establishing morning rituals, and building lives that support their wellbeing. Neither needs constant excitement—they find fulfillment in simple, quality moments together.
+
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
 
 Communication flows well here because Virgo helps Cancer articulate emotions that might otherwise remain vague. Virgo's analytical nature gives structure to Cancer's feelings, helping them understand themselves better. Cancer, in turn, teaches Virgo that not everything needs solving—sometimes feelings just need acknowledgment.
 

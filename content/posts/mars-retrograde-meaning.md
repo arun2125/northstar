@@ -66,6 +66,15 @@ It's like the universe installed a speed governor on your life. You want to go f
 
 ## What Mars Retrograde is Actually Asking You to Do
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 Mars retrograde isn't punishment—it's recalibration. It's asking you to pause, reflect, and refine how you use your energy. Here's what this transit wants from you:
 
 **Review your actions:** Have you been spinning your wheels? Pushing in the wrong direction? Mars retrograde gives you time to assess whether your efforts are actually getting you where you want to go.
@@ -141,6 +150,25 @@ Check which sign Mars is retrograding in during your current or upcoming retrogr
 Full cycle from start of pre-shadow to end of post-shadow? About **6-7 months.** Mars retrograde is a marathon, not a sprint.
 
 ## How to Tell if Mars Retrograde is Hitting You Hard
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 
 Not everyone feels Mars retrograde equally. You'll feel it most if:
 

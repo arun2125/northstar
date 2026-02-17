@@ -84,6 +84,15 @@ Think of it this way: Your Moon sign is your emotional operating system. Your at
 
 ## Moon Signs and Attachment Styles
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 ### Water Moons: Natural Anxious Tendency
 
 **Cancer Moon, Scorpio Moon, Pisces Moon**
@@ -258,6 +267,25 @@ When two avoidant people get together, the relationship can feel more like roomm
 Secure attachment is "contagious." When a secure person partners with an insecure person, the secure person's consistency and healthy communication often helps the insecure person develop more security.
 
 **How it works**:
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 - **Secure + Anxious**: Secure partner provides consistent reassurance and doesn't punish anxiety, helping anxious partner build trust
 - **Secure + Avoidant**: Secure partner respects independence while gently inviting intimacy, helping avoidant partner feel safe to open up
 

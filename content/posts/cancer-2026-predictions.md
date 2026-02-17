@@ -79,6 +79,15 @@ The gift: Passion projects you'd abandoned reveal new potential. Creative blocks
 
 ## Eclipses: The Turning Points
 
+---
+
+> 💫 **Want Your Personal 2026 Forecast?**  
+> Chat with Tara, our AI astrologer, for a free reading combining Western, Vedic, and Numerology insights tailored to your birth chart.  
+> [Start Free Reading →](/chat)
+
+---
+
+
 2026's eclipses fall on the Virgo-Pisces axis, directly touching Cancer's chart:
 
 **Lunar Eclipse in Virgo (March 3)**
@@ -242,6 +251,25 @@ Venus enters Scorpio, intensifying your romantic and creative sectors. Connectio
 
 ### December
 The year concludes with integration. Mercury direct, holiday gatherings, the sense of a full cycle completing. What did Neptune's first year in your 10th house teach you? What did the water sign retrogrades help you understand about yourself? What did the eclipses transform? Give yourself space to appreciate how much you've grown. Set intentions for 2027, when these themes continue developing.
+
+---
+
+
+---
+
+## 📬 Get Your Weekly Cosmic Weather Report
+
+Join 2,000+ readers getting personalized astrology insights every Monday.
+
+**What you'll get:**
+- Weekly planetary transits explained
+- Your personal horoscope (all 12 signs)
+- Moon phase guidance
+- Mercury retrograde alerts
+
+*No spam. Unsubscribe anytime.*
+
+[Join the Waitlist →](/#waitlist)
 
 ---
 

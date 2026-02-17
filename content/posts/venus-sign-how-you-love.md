@@ -218,6 +218,25 @@ But any combination can work with awareness.
 
 ---
 
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 ## Finding Your Venus Sign
 
 Venus stays in each sign for about 3-4 weeks, so you need your birth date (not time) to find it.

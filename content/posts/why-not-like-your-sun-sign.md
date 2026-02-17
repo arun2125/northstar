@@ -65,6 +65,15 @@ Your Sun is important, but it's one voice in a crowded room.
 
 ## Why You Don't Relate to Your Sun Sign
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 Here are the most common reasons:
 
 ### 1. Your Moon Sign Overpowers It
@@ -143,6 +152,25 @@ If you have 4 planets in Scorpio and only your Sun in Aries, you're probably goi
 Instead of just your Sun sign, learn your "Big Three":
 
 1. **Sun Sign** — Your core identity
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 2. **Moon Sign** — Your emotional nature
 3. **Rising Sign** — Your outward personality
 

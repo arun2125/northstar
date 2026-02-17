@@ -53,6 +53,15 @@ The lesson? You don't need another PhD. You need to become a beginner again.
 
 ## The North Node Signs
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 ### North Node in Aries / South Node in Libra
 **Coming from:** Partnership, people-pleasing, harmony at all costs, defining yourself through others.
 
@@ -182,6 +191,25 @@ The lesson? You don't need another PhD. You need to become a beginner again.
 **The lesson:** You can't think your way to peace. Sometimes you have to let go.
 
 **Challenge:** Feeling lazy when you surrender. Surrender is not laziness.
+
+---
+
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
 
 ---
 

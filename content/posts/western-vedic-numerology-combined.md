@@ -123,6 +123,25 @@ Ready to start reading all three systems together? Here's your roadmap:
 - Calculate your Vedic birth chart (sidereal zodiac)
 - Calculate your Life Path, Expression, and Soul Urge numbers
 
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 **Step 2: Find the common themes**
 Look for repeating patterns across all three systems. If you see:
 - Fire emphasis in Western + Mars influence in Vedic + Life Path 1, 3, or 9: You're here to initiate, create, and express

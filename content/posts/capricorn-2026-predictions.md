@@ -91,6 +91,15 @@ A square from Neptune to your Sun sign is like having your internal GPS scramble
 
 ## Mercury Retrograde in Water Signs: Emotional Processing Required
 
+---
+
+> 💫 **Want Your Personal 2026 Forecast?**  
+> Chat with Tara, our AI astrologer, for a free reading combining Western, Vedic, and Numerology insights tailored to your birth chart.  
+> [Start Free Reading →](/chat)
+
+---
+
+
 All three Mercury retrogrades in 2026 occur in water signs, which hits Capricorn in relationship and social sectors. This isn't comfortable territory for a sign that prefers dealing with practical matters over emotional ones.
 
 **Mercury Retrograde #1: March 1-23 in Pisces**

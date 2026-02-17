@@ -85,6 +85,15 @@ However, you must guard against losing yourself in relationships or staying in u
 
 ## Life Path Number 3: The Creative Communicator
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 **Keywords**: Creativity, Expression, Communication, Joy, Optimism
 
 **Core Purpose**: Life Path 3 is here to create, express, and bring joy to the world. You're the artist, the communicator, the entertainer. Your journey involves developing your creative talents, learning to express yourself authentically, and sharing your gifts with others.
@@ -247,6 +256,25 @@ You can be distant and hard to read, which frustrates more emotional partners. Y
 **Core Purpose**: Life Path 8 is here to master the material world, achieve success, and use power wisely. You're the executive, the authority figure, the achiever. Your journey involves developing your considerable power while learning to balance material success with spiritual growth.
 
 **Personality Traits**:
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 As a Life Path 8, you're naturally ambitious, authoritative, and success-oriented. You think big and have the drive to achieve your grand visions. You're excellent with money, business, and material matters. You understand power dynamics and how to navigate them.
 
 You're confident, commanding, and often intimidating to others. You have natural executive abilities and can organize large-scale projects or businesses. You're efficient, strategic, and results-oriented.

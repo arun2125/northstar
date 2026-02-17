@@ -55,6 +55,15 @@ Another potential issue is ego clashes. When both are upset, their combined fire
 
 ## Sagittarius: The Adventure That Never Gets Old
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 Leo and Sagittarius create relationships that feel like permanent vacations. Both fire signs value freedom, adventure, and living life at full volume. They're the couple booking spontaneous trips, trying new restaurants, and collecting stories rather than things.
 
 Sagittarius's philosophical nature fascinates Leo. Where Leo focuses on personal expression, Sagittarius explores life's bigger questions. Their late-night conversations range from silly to profound, keeping intellectual stimulation high throughout the relationship.
@@ -120,6 +129,25 @@ Leo and Aquarius sit opposite each other on the zodiac wheel, creating immediate
 Aquarius's cool detachment fascinates Leo. While others chase Leo's attention, Aquarius remains mysteriously independent. This challenge is irresistible to Leo, who wants to win over the one person who seems immune to their charms.
 
 In turn, Leo's warmth draws out Aquarius's hidden emotions. Aquarius intellectualizes feelings, but Leo's genuine affection creates safety for emotional vulnerability. Leo doesn't judge Aquarius's quirks—they celebrate them, making Aquarius feel truly accepted.
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 
 Both are natural leaders, though in different ways. Leo leads through charisma and personal magnetism; Aquarius leads through vision and innovation. Together, they can inspire movements, build communities, or simply create fascinating lives that others want to emulate.
 

@@ -129,6 +129,25 @@ Traditional Vedic astrology offers several remedies to ease the difficulties of 
 
 **Charity and service**: Donating to the poor, feeding the hungry, or helping the elderly—especially on Saturdays—creates positive karma. Black lentils (urad dal), black sesame seeds, iron items, and black cloth are traditional Saturn donations.
 
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
+
 **Gemstone therapy**: Blue sapphire (Neelam) is Saturn's gemstone, but it must only be worn after consultation with an experienced astrologer. It can amplify Saturn's energy—for better or worse—so caution is essential.
 
 **Mantras**: Chanting Saturn mantras like "Om Sham Shanicharaya Namah" or the Shani Stotra can help create a respectful relationship with Saturn's energy.

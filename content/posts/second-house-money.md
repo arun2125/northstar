@@ -300,6 +300,25 @@ If you have planets in your 2nd house, they're **more important than the sign.**
 
 **Strategy:** Learn investing and resource management—you have a gift. Face money fears directly. Therapy around money might unlock your earning power.
 
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 ## How to Actually Use Your 2nd House
 
 **Step 1: Identify your 2nd house sign and ruling planet**

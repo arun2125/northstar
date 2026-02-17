@@ -143,6 +143,25 @@ Understanding your Life Path Number isn't just interesting—it's practical. Her
 
 **Decision Making**: When facing major decisions, your Life Path Number serves as a compass. Does this choice align with your core purpose? Will it let you express your natural gifts?
 
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 ## Living in Alignment with Your Life Path
 
 Knowing your Life Path Number is just the beginning. The real magic happens when you consciously align your life with its energy:

@@ -113,6 +113,15 @@ Water Venus wants emotional intimacy, vulnerability, and soul-deep connection. T
 
 ## The Major Venus-Mars Aspects
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 In synastry (compatibility astrology), aspects are the angles between planets in two charts. These aspects determine how Venus and Mars interact:
 
 ### Conjunction (Same Sign): Instant Magnetic Pull
@@ -282,6 +291,25 @@ When someone's Mars opposes your Venus—opposite signs on the zodiac wheel—yo
 
 **Challenging but hot**: 
 - Gemini (opposite—intellectually stimulating)
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 - Virgo or Pisces (square—different values and approaches)
 
 ### Capricorn Venus or Mars

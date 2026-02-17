@@ -173,6 +173,15 @@ Your relationship life in 2026 operates on two tracks: the gradual spiritual dee
 
 ## Taurus 2026 Career and Money
 
+---
+
+> 💫 **Want Your Personal 2026 Forecast?**  
+> Chat with Tara, our AI astrologer, for a free reading combining Western, Vedic, and Numerology insights tailored to your birth chart.  
+> [Start Free Reading →](/chat)
+
+---
+
+
 ### Career Overview
 
 Your career life in 2026 is influenced by:

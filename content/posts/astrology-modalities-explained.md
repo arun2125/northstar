@@ -77,6 +77,15 @@ If you're Cardinal-dominant (many planets in these signs), you probably have a l
 
 ## Fixed Signs: The Sustainers (Taurus, Leo, Scorpio, Aquarius)
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 Fixed signs are the **stabilizers and maintainers** of the zodiac. They're the ones who keep things going, who commit deeply, who refuse to give up.
 
 Fixed signs occur in the middle of each season, when that season's energy is most stable and established. They resist the change that's coming.
@@ -159,6 +168,25 @@ The interesting thing about modalities is that same-modality relationships can b
 **Mixed modality relationships** can be incredibly complementary:
 
 - **Cardinal + Fixed:** Cardinal initiates, Fixed sustains. Great for building things together if Cardinal respects Fixed's need for stability and Fixed appreciates Cardinal's drive for progress.
+
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
 
 - **Cardinal + Mutable:** Cardinal directs, Mutable adapts. Works well if Cardinal gives clear direction and Mutable provides flexibility and feedback.
 

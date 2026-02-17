@@ -51,6 +51,15 @@ Saturn's job is to show you where you've been avoiding responsibility, cutting c
 
 ## What Saturn Transits Feel Like (The Hard Truth)
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 Let's be honest: Saturn transits often feel heavy. You might experience:
 
 - **Increased responsibilities** you didn't ask for
@@ -121,6 +130,25 @@ This is the core lesson of every Saturn transit: **You are responsible for your 
 Saturn strips away excuses and forces you to own your choices, your patterns, and your outcomes. It's uncomfortable but liberating. When you accept full responsibility, you reclaim full power.
 
 ## The Gifts on the Other Side
+
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
 
 Here's what most people don't tell you about Saturn transits: **the other side is worth it.**
 

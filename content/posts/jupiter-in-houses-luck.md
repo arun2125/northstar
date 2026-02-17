@@ -47,6 +47,15 @@ You have a knack for attracting financial opportunities and resources. Money ten
 
 ## Jupiter in the 3rd House: Luck Through Communication and Learning
 
+---
+
+> ✨ **Discover Your Complete Cosmic Blueprint**  
+> Get a free AI-powered reading combining Western astrology, Vedic wisdom, and Numerology. Chat with Tara to unlock insights about your personality, life path, and destiny.  
+> [Start Your Free Reading →](/chat)
+
+---
+
+
 **Where your luck lives:** In communication, learning, writing, teaching, siblings, and local connections.
 
 You're naturally gifted with words—whether writing, speaking, teaching, or connecting people. Opportunities come through conversations, networking, and your local community. You're a lifelong learner, and education expands your world.
@@ -142,6 +151,25 @@ You're lucky through your friends and networks. Opportunities come from who you 
 Your luck is hidden, spiritual, and often invisible to others. You're protected in mysterious ways. Opportunities come through quiet work, spiritual practice, healing, or helping those who can't help you back. You're blessed when you retreat.
 
 **How to activate it:** Meditate. Do spiritual work. Spend time alone. Help anonymously. Trust in unseen forces. Your luck grows in silence and surrender, not striving.
+
+---
+
+## 📬 Never Miss Your Cosmic Weather
+
+Get weekly astrology insights delivered to your inbox every Monday.
+
+**You'll receive:**
+- Personalized horoscopes for all 12 signs
+- Planetary transit explanations
+- Moon phase guidance & rituals
+- Mercury retrograde survival tips
+
+*Join 2,000+ cosmic seekers. Unsubscribe anytime.*
+
+[Get Free Weekly Horoscope →](/#waitlist)
+
+---
+
 
 **Watch out for:** Isolation or escapism. Jupiter here can lead to avoiding the material world entirely or giving up practical effort in favor of "letting the universe handle it."
 
