@@ -381,3 +381,8 @@ The 2nd house rules self-worth AND money because they're linked. If you don't va
 **Value yourself:** The 2nd house is about worth—material AND self. If you struggle financially, ask: "Do I believe I deserve wealth?" Your outer finances reflect inner worth.
 
 Your 2nd house is your money blueprint. Work with it, not against it, and money becomes easier.
+
+**Related Articles:**
+- [12 Houses Explained](/blog/12-houses-explained)
+- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [2026 Astrology Predictions](/blog/2026-astrology-predictions)

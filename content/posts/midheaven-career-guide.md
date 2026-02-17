@@ -321,3 +321,8 @@ Your Midheaven shows the reputation that will *stick*. Fighting it is like swimm
 If there's a mismatch, ask: "Am I living my Sun but neglecting my MC?" or "Am I building a career my family wanted but that doesn't fit my chart?"
 
 **Your Midheaven is your legacy.** It's what people will say about you when you're gone. Build it intentionally.
+
+**Related Articles:**
+- [12 Houses Explained](/blog/12-houses-explained)
+- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [2026 Astrology Predictions](/blog/2026-astrology-predictions)

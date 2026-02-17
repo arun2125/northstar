@@ -211,3 +211,7 @@ Fire needs passion and freedom. Earth needs stability and tangible results. Air 
 You're not just your sun sign—you're a unique blend of all four elements, distributed across your planets and houses. Understanding your elemental balance gives you the blueprint for your natural energy and the roadmap for your growth.
 
 Want to go deeper? Learn about [the modalities](/blog/astrology-modalities-explained) (Cardinal, Fixed, Mutable) to understand how each element expresses through different styles of action. Or explore [how to read your birth chart](/blog/how-to-read-your-birth-chart) to see your personal elemental balance.
+
+**Related Articles:**
+- [12 Houses Explained](/blog/12-houses-explained)
+- [Astrology Modalities Explained](/blog/astrology-modalities-explained)

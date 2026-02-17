@@ -146,3 +146,8 @@ Your gift is **inspiration, leadership, and the ability to make people feel spec
 The world needs your light. Just make sure it's lighting the way for others, not just spotlighting yourself.
 
 Shine, Leo. But let others shine too.
+
+**Related Articles:**
+- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology Modalities Explained](/blog/astrology-modalities-explained)
+- [12 Houses Explained](/blog/12-houses-explained)

@@ -351,3 +351,8 @@ If you have karmic debt in your chart, honor it. Work with it consciously. Be pa
 Check your numerology chart for 13, 14, 16, or 19. If you find them, you've just discovered why certain life areas have been so challenging—and you now have a roadmap for transforming those challenges into your greatest strengths.
 
 Your karmic debt is not your burden—it's your path to mastery. Walk it consciously, and you'll emerge wiser, stronger, and more whole than you ever imagined possible.
+
+**Related Articles:**
+- [12 Houses Explained](/blog/12-houses-explained)
+- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [2026 Astrology Predictions](/blog/2026-astrology-predictions)

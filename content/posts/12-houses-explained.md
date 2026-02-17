@@ -281,3 +281,7 @@ Busy houses (multiple planets) get more action. Empty houses run on autopilot.
 ---
 
 *Want to see which houses are most active in your chart? Get a free mini-reading at [northstarastro.com](/) — we'll show you where your planets fall and what it means for your life.*
+
+**Related Articles:**
+- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology Modalities Explained](/blog/astrology-modalities-explained)

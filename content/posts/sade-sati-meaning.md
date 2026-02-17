@@ -197,3 +197,8 @@ If you're currently in Sade Sati, remember: millions have walked this path befor
 Understanding your complete [Vedic birth chart](/posts/kundali-matching-explained) can provide deeper insight into how Sade Sati will affect you personally. Consulting with an experienced Vedic astrologer can help you navigate this period with greater clarity and confidence.
 
 The darkness of Sade Sati always gives way to light. Trust the journey.
+
+**Related Articles:**
+- [12 Houses Explained](/blog/12-houses-explained)
+- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [2026 Astrology Predictions](/blog/2026-astrology-predictions)

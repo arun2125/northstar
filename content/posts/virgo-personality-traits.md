@@ -190,3 +190,8 @@ If you're a Virgo (or have heavy Virgo placements), here's your work:
 **See what's right:** Your brain is trained to spot what's wrong. Retrain it to also notice what's working, what's beautiful, what's enough.
 
 The world needs Virgo energy—the healers, the analysts, the people who care enough to make things better. Just make sure you include yourself in that care.
+
+**Related Articles:**
+- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology Modalities Explained](/blog/astrology-modalities-explained)
+- [12 Houses Explained](/blog/12-houses-explained)

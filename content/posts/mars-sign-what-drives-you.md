@@ -269,3 +269,8 @@ Look up your birth chart and find the Mars symbol (♂). The sign it's in is you
 ---
 
 *Want to understand your Mars sign and what drives you? Get a free mini-reading at [northstarastro.com](/) — we'll show you exactly how Mars shapes your motivation, anger, and action.*
+
+**Related Articles:**
+- [12 Houses Explained](/blog/12-houses-explained)
+- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [2026 Astrology Predictions](/blog/2026-astrology-predictions)

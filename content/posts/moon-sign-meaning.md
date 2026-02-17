@@ -227,3 +227,8 @@ For many people, the Moon sign hits closer to home.
 ---
 
 *Want to know your Moon sign and what it means for your emotional life? Get a free mini-reading at [northstarastro.com](/) — just enter your birth details and we'll tell you exactly how your Moon shapes your inner world.*
+
+**Related Articles:**
+- [12 Houses Explained](/blog/12-houses-explained)
+- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [2026 Astrology Predictions](/blog/2026-astrology-predictions)

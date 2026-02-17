@@ -178,3 +178,7 @@ But here's the real secret: compatibility isn't about finding someone exactly li
 Check your full chart—especially your [Venus and Mars signs](/blog/venus-mars-compatibility)—for a complete picture. And remember: astrology shows potential, but you still have to do the work.
 
 Your perfect match is out there. And knowing yourself—your needs, your patterns, your non-negotiables—is the first step to finding them.
+
+**Related Articles:**
+- [Compatibility All Systems](/blog/compatibility-all-systems)
+- [Attachment Styles Astrology](/blog/attachment-styles-astrology)

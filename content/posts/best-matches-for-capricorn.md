@@ -190,3 +190,7 @@ Successful Capricorn relationships share key elements:
 For Capricorn, the right relationship doesn't require choosing between success and love—it enhances both. The best partners understand that Capricorn's dedication to building security is itself a love language, that their measured approach to relationships means their commitment is genuine, and that beneath their reserved exterior beats a heart capable of profound, lasting devotion.
 
 Success for Capricorn means finding someone who appreciates that they're building something together—not just a relationship, but a life, a legacy, a partnership that will stand the test of time.
+
+**Related Articles:**
+- [Compatibility All Systems](/blog/compatibility-all-systems)
+- [Attachment Styles Astrology](/blog/attachment-styles-astrology)

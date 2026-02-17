@@ -134,3 +134,8 @@ Your gift is seeing truth beneath the surface, feeling deeply, and facilitating 
 The world needs Scorpio's intensity—but the healed version, not the wounded one. You're capable of profound love, spiritual depth, and psychological insight that changes lives. You're also capable of devastating cruelty. Choose wisely.
 
 Your power is real. Use it to build, not destroy.
+
+**Related Articles:**
+- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology Modalities Explained](/blog/astrology-modalities-explained)
+- [12 Houses Explained](/blog/12-houses-explained)

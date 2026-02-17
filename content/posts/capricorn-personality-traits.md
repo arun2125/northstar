@@ -158,3 +158,8 @@ You've spent your whole life proving your worth through what you accomplish. Wha
 That's the real summit, Capricorn. And it doesn't require climbing.
 
 It just requires coming home to yourself.
+
+**Related Articles:**
+- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology Modalities Explained](/blog/astrology-modalities-explained)
+- [12 Houses Explained](/blog/12-houses-explained)

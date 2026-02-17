@@ -369,3 +369,7 @@ Whether you're in an expansive Jupiter period, a disciplined Saturn period, or a
 The dasha system doesn't negate free will—it shows when certain karmic potentials become especially ripe. What you do with those moments, how consciously you navigate them, and what spiritual practices you employ to transform karma—these remain in your hands.
 
 To understand the broader context of Vedic astrology and how dashas fit into the complete system, explore our [introduction to Vedic astrology](/posts/what-is-vedic-astrology). And to see how Vedic timing techniques differ from Western predictive methods, read our comparison: [Vedic vs Western Astrology](/posts/vedic-vs-western-astrology).
+
+**Related Articles:**
+- [Nakshatras Explained](/blog/nakshatras-explained)
+- [Vedic Vs Western](/blog/vedic-vs-western)

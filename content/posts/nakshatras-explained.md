@@ -397,3 +397,7 @@ Whether you're exploring Vedic astrology for the first time or deepening your ex
 Your birth Nakshatra is a cosmic address more specific than your zodiac sign—it's the particular star mansion where your Moon resided when you took your first breath, linking you to specific deities, themes, and karmic patterns that will unfold throughout your life.
 
 To understand the complete context of Vedic astrology and how Nakshatras fit into the larger system, explore our [introduction to Vedic astrology](/posts/what-is-vedic-astrology). And to see how Vedic astrology's approach differs from Western astrology, read our comparison article on [Vedic vs Western astrology](/posts/vedic-vs-western-astrology).
+
+**Related Articles:**
+- [Dasha System Explained](/blog/dasha-system-explained)
+- [Vedic Vs Western](/blog/vedic-vs-western)

@@ -187,3 +187,8 @@ If you're an Aquarius (or have heavy Aquarius placements), here's your work:
 The world needs Aquarius energy—the innovators, the questioners, the ones who refuse to accept that things have to stay as they are. Just make sure you're building the future from connected presence, not distant idealism. That you're revolutionizing through embodied relationship, not just brilliant theory.
 
 Because the real revolution? It's learning to stay.
+
+**Related Articles:**
+- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology Modalities Explained](/blog/astrology-modalities-explained)
+- [12 Houses Explained](/blog/12-houses-explained)

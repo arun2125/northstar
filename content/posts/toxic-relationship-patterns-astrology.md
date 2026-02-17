@@ -258,3 +258,8 @@ Regardless of your sign, breaking toxic patterns requires:
 5. **Choose differently**: Breaking patterns means acting against your comfort zone. Do the uncomfortable thing until it becomes comfortable.
 
 Your Sun sign shows tendencies, not destiny. You can choose to grow beyond your patterns. The question is: will you?
+
+**Related Articles:**
+- [12 Houses Explained](/blog/12-houses-explained)
+- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [2026 Astrology Predictions](/blog/2026-astrology-predictions)

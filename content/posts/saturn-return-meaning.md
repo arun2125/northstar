@@ -228,3 +228,8 @@ That clarity is worth every moment of the chaos.
 ---
 
 *Going through your Saturn Return right now? Get a free mini-reading at [northstarastro.com](/) — we'll show you exactly where Saturn sits in your chart and what it's asking you to learn.*
+
+**Related Articles:**
+- [12 Houses Explained](/blog/12-houses-explained)
+- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [2026 Astrology Predictions](/blog/2026-astrology-predictions)

@@ -176,3 +176,8 @@ If you're a Gemini (or have heavy Gemini placements), here's your work:
 **Find your authentic voice:** Underneath all the adaptations, who are you? What do you actually believe when no one's around to impress? Do the work of figuring that out.
 
 The world needs Gemini energy—the connections you make, the ideas you spread, the flexibility you bring, the perspective you offer. Just make sure you're building bridges, not just hopping from stone to stone across a river you never actually cross.
+
+**Related Articles:**
+- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology Modalities Explained](/blog/astrology-modalities-explained)
+- [12 Houses Explained](/blog/12-houses-explained)

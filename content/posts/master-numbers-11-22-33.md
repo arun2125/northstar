@@ -344,3 +344,8 @@ If you don't have a master number, you're not missing out. Every Life Path carri
 Whether you're an 11, 22, 33, or any other number, your value lies in being authentically yourself and serving in the way that's uniquely yours.
 
 Ready to explore your complete numerology chart? Check your [Life Path Number](/life-path-calculator), then dive into your [Expression Number](/expression-number-meaning) and [Soul Urge Number](/soul-urge-number-meaning) for the full picture.
+
+**Related Articles:**
+- [Life Path Number Meaning](/blog/life-path-number-meaning)
+- [Expression Number Meaning](/blog/expression-number-meaning)
+- [Birthday Number Meaning](/blog/birthday-number-meaning)

@@ -183,3 +183,8 @@ If you're a Sagittarius (or have heavy Sagittarius placements), here's your work
 The world needs Sagittarius energy—the vision, the optimism, the expansion, the truth-telling. Just make sure you're building a life, not just collecting experiences. That you're going deep, not just wide. That you're creating meaning, not just seeking it.
 
 Because the ultimate freedom isn't being able to leave—it's being able to stay.
+
+**Related Articles:**
+- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology Modalities Explained](/blog/astrology-modalities-explained)
+- [12 Houses Explained](/blog/12-houses-explained)

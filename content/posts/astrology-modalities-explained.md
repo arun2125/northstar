@@ -227,3 +227,7 @@ Cardinal signs create change and momentum. Fixed signs create stability and comm
 Your modality balance—how many planets you have in Cardinal, Fixed, and Mutable signs—shapes how you approach action, change, and commitment. Understanding it helps you work with your natural rhythms instead of against them.
 
 Want to go deeper? Explore [how the elements and modalities combine](/blog/astrology-elements-explained) to create the unique expression of each zodiac sign. Or learn [how to read your birth chart](/blog/how-to-read-your-birth-chart) to discover your personal modality balance.
+
+**Related Articles:**
+- [12 Houses Explained](/blog/12-houses-explained)
+- [Astrology Elements Explained](/blog/astrology-elements-explained)

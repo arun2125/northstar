@@ -234,3 +234,8 @@ If you have retrograde planets, you're here to develop those energies from the i
 Stop seeing them as problems to fix. Start seeing them as invitations to depth.
 
 Want to understand more about your birth chart? Learn [how to read your natal chart](/blog/how-to-read-your-birth-chart) or explore [what planets in different houses mean](/blog/astrology-houses-explained) for your life.
+
+**Related Articles:**
+- [12 Houses Explained](/blog/12-houses-explained)
+- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology Modalities Explained](/blog/astrology-modalities-explained)

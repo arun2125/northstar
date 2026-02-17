@@ -206,3 +206,8 @@ Your chart is a whole system. Learn it.
 ---
 
 *Ready to see your full picture? Get a free mini-reading at [northstarastro.com](/) — enter your birth details and we'll show you why your Sun sign is just the beginning.*
+
+**Related Articles:**
+- [12 Houses Explained](/blog/12-houses-explained)
+- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [2026 Astrology Predictions](/blog/2026-astrology-predictions)

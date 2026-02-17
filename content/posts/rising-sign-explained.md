@@ -246,3 +246,8 @@ Once you know your Rising:
 ---
 
 *Don't know your Rising sign? Get a free mini-reading at [northstarastro.com](/) — enter your birth details and we'll show you exactly how your Rising sign shapes the way the world sees you.*
+
+**Related Articles:**
+- [12 Houses Explained](/blog/12-houses-explained)
+- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [2026 Astrology Predictions](/blog/2026-astrology-predictions)

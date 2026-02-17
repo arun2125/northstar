@@ -189,3 +189,8 @@ If you're a Pisces (or have heavy Pisces placements), here's your work:
 The world needs Pisces energy—the artists, the healers, the mystics, the ones who remind us that there's more to life than what we can see and measure. Just make sure you're swimming in the ocean, not drowning in it. That you're channeling the depths, not lost in them.
 
 Because you can save the world, but you have to save yourself first.
+
+**Related Articles:**
+- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology Modalities Explained](/blog/astrology-modalities-explained)
+- [12 Houses Explained](/blog/12-houses-explained)

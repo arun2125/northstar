@@ -193,3 +193,8 @@ If you're a Libra (or have heavy Libra placements), here's your work:
 **Notice when you disappear:** In relationships, friendships, work—when do you abandon yourself? What's the pattern? Can you stay present to yourself while staying connected to others?
 
 The world needs Libra energy—the bridge-builders, the beauty-makers, the people who believe connection is possible even across difference. Just make sure you're building bridges from solid ground, not disappearing into them.
+
+**Related Articles:**
+- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology Modalities Explained](/blog/astrology-modalities-explained)
+- [12 Houses Explained](/blog/12-houses-explained)

@@ -253,3 +253,8 @@ Look up your birth chart and find the symbols ☊ (North Node) and ☋ (South No
 ---
 
 *Want to understand your life purpose according to the stars? Get a free mini-reading at [northstarastro.com](/) — we'll show you exactly where your Nodes point and what you're here to learn.*
+
+**Related Articles:**
+- [12 Houses Explained](/blog/12-houses-explained)
+- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [2026 Astrology Predictions](/blog/2026-astrology-predictions)

@@ -276,3 +276,8 @@ If you're concerned about Manglik Dosha—whether your own or a potential partne
 Your [Moon sign](/posts/vedic-moon-sign), overall chart strength, current [dashas and transits like Sade Sati](/posts/sade-sati-meaning), and [Rahu-Ketu placements](/posts/rahu-ketu-meaning) all matter as much or more than Mars placement alone.
 
 Marriage is challenging for everyone. Understanding your chart—including Mars—helps you navigate those challenges with wisdom. That's the true purpose of Vedic astrology: guidance, not fear.
+
+**Related Articles:**
+- [12 Houses Explained](/blog/12-houses-explained)
+- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [2026 Astrology Predictions](/blog/2026-astrology-predictions)

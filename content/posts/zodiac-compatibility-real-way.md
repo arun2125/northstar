@@ -246,3 +246,8 @@ Compatibility is one factor. It's not the only factor.
 ---
 
 *Want to see how your chart connects with someone else's? Get a free mini-reading at [northstarastro.com](/) — we'll show you the cosmic connections that matter.*
+
+**Related Articles:**
+- [12 Houses Explained](/blog/12-houses-explained)
+- [Astrology Elements Explained](/blog/astrology-elements-explained)
+- [Astrology Modalities Explained](/blog/astrology-modalities-explained)
