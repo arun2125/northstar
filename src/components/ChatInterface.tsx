@@ -28,6 +28,7 @@ export default function ChatInterface() {
   });
   const [phone, setPhone] = useState('');
   const messagesEndRef = useRef<HTMLDivElement>(null);
+  const [hasAutoSubmitted, setHasAutoSubmitted] = useState(false);
 
   const scrollToBottom = () => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
@@ -36,6 +37,51 @@ export default function ChatInterface() {
   useEffect(() => {
     scrollToBottom();
   }, [messages]);
+
+  // Auto-submit if data passed from free birth chart page
+  useEffect(() => {
+    if (hasAutoSubmitted) return;
+
+    // Check URL params first
+    const urlParams = new URLSearchParams(window.location.search);
+    const urlMessage = urlParams.get('message');
+    
+    // Check sessionStorage for birth data
+    const birthDataStr = sessionStorage.getItem('birthData');
+    
+    if (urlMessage) {
+      // Direct message from URL
+      setHasAutoSubmitted(true);
+      setShowBirthForm(false);
+      sendMessage(urlMessage);
+      // Clear URL params
+      window.history.replaceState({}, '', '/chat');
+    } else if (birthDataStr) {
+      // Birth data from form
+      try {
+        const birthData = JSON.parse(birthDataStr);
+        if (birthData.name && birthData.date && birthData.location) {
+          setHasAutoSubmitted(true);
+          setShowBirthForm(false);
+          setBirthDetails(birthData);
+          
+          const birthMessage = `Hi! I'm ${birthData.name}. Here are my birth details:
+Date: ${birthData.date}
+Time: ${birthData.time || 'unknown'}
+Location: ${birthData.location}
+
+Please calculate my birth chart using astro-calc and give me a full chart reading!`;
+          
+          sendMessage(birthMessage);
+          // Clear sessionStorage
+          sessionStorage.removeItem('birthData');
+        }
+      } catch (e) {
+        console.error('Failed to parse birth data:', e);
+      }
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [hasAutoSubmitted]);
 
   const handleBirthSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
