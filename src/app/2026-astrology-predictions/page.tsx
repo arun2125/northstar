@@ -2,8 +2,8 @@ import { Metadata } from 'next';
 import Markdown from '@/components/Markdown';
 import TableOfContents from '@/components/TableOfContents';
 import AuthorBio from '@/components/AuthorBio';
-import { readFileSync } from 'fs';
-import { join } from 'path';
+import { getPostBySlug } from '@/lib/blog';
+import { notFound } from 'next/navigation';
 
 export const metadata: Metadata = {
   title: '2026 Astrology Predictions: Major Transits & What They Mean for You',
@@ -17,11 +17,11 @@ export const metadata: Metadata = {
 };
 
 export default function Predictions2026Page() {
-  const contentPath = join(process.cwd(), 'content', '2026-astrology-predictions.md');
-  const content = readFileSync(contentPath, 'utf-8');
+  const post = getPostBySlug('2026-astrology-predictions');
   
-  // Extract content after frontmatter
-  const contentWithoutFrontmatter = content.split('---').slice(2).join('---').trim();
+  if (!post) {
+    notFound();
+  }
 
   return (
     <article className="max-w-4xl mx-auto px-4 py-12">
@@ -52,11 +52,11 @@ export default function Predictions2026Page() {
       </div>
 
       {/* Table of Contents */}
-      <TableOfContents content={contentWithoutFrontmatter} />
+      <TableOfContents content={post.content} />
 
       {/* Main Content */}
       <div className="prose prose-lg max-w-none mt-8">
-        <Markdown content={contentWithoutFrontmatter} />
+        <Markdown content={post.content} />
       </div>
 
       {/* Author Bio */}
@@ -85,8 +85,8 @@ export default function Predictions2026Page() {
           __html: JSON.stringify({
             '@context': 'https://schema.org',
             '@type': 'Article',
-            headline: '2026 Astrology Predictions: Major Transits & What They Mean for You',
-            description: 'Complete guide to 2026 astrology: Neptune in Aries, Mercury retrograde cycles, eclipses, and predictions for all 12 zodiac signs.',
+            headline: post.title,
+            description: post.description,
             author: {
               '@type': 'Organization',
               name: 'North Star Astro',
@@ -99,8 +99,8 @@ export default function Predictions2026Page() {
                 url: 'https://northstarastro.com/logo.png',
               },
             },
-            datePublished: '2026-02-17',
-            dateModified: '2026-02-17',
+            datePublished: post.date,
+            dateModified: post.date,
           }),
         }}
       />
