@@ -8,14 +8,14 @@ const ogImage = "https://northstarastro.com/api/og?title=Your%20Personal%20AI%20
 
 export const metadata: Metadata = {
   title: "North Star Astro — Your Personal AI Astrologer",
-  description: "AI-powered readings based on your complete birth chart. Not generic horoscopes. Actual guidance for your stars.",
-  keywords: "astrology, birth chart, horoscope, AI astrology, personalized astrology, zodiac, moon sign, rising sign, saturn return",
+  description: "North Star Astro combines Western, Vedic, and Numerology for comprehensive birth chart readings. Get your free personalized astrology prediction.",
+  keywords: "astrology, birth chart, horoscope, AI astrology, personalized astrology, zodiac, moon sign, rising sign, saturn return, vedic astrology, numerology",
   alternates: {
     canonical: 'https://northstarastro.com',
   },
   openGraph: {
     title: "North Star Astro — Your Personal AI Astrologer",
-    description: "AI-powered readings based on your complete birth chart. Not generic horoscopes. Actual guidance for your stars.",
+    description: "North Star Astro combines Western, Vedic, and Numerology for comprehensive birth chart readings. Get your free personalized astrology prediction.",
     url: "https://northstarastro.com",
     siteName: "North Star Astro",
     type: "website",
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "North Star Astro — Your Personal AI Astrologer",
-    description: "AI-powered readings based on your complete birth chart.",
+    description: "North Star Astro combines Western, Vedic, and Numerology for comprehensive birth chart readings. Get your free personalized astrology prediction.",
     images: [ogImage],
   },
 };

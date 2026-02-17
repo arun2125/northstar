@@ -4,6 +4,22 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'About North Star Astro | AI-Powered Astrology',
   description: 'Learn about North Star Astro — combining ancient astrological wisdom with modern AI to deliver personalized, insightful readings based on your complete birth chart.',
+  alternates: {
+    canonical: 'https://northstarastro.com/about',
+  },
+  openGraph: {
+    title: 'About North Star Astro',
+    description: 'Combining ancient astrological wisdom with modern AI to deliver personalized, insightful readings based on your complete birth chart.',
+    url: 'https://northstarastro.com/about',
+    siteName: 'North Star Astro',
+    type: 'website',
+    images: [{
+      url: 'https://northstarastro.com/api/og?title=About%20North%20Star%20Astro',
+      width: 1200,
+      height: 630,
+      alt: 'About North Star Astro',
+    }],
+  },
 };
 
 export default function AboutPage() {

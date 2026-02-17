@@ -6,6 +6,22 @@ export const metadata: Metadata = {
   title: 'Numerology Guide: Life Path, Expression & More | North Star Astro',
   description: 'Learn numerology from basics to advanced. Calculate your Life Path number, Expression number, Soul Urge, and Personal Year. Free numerology guides.',
   keywords: 'numerology, life path number, expression number, soul urge, personal year, master numbers, numerology calculator',
+  alternates: {
+    canonical: 'https://northstarastro.com/numerology',
+  },
+  openGraph: {
+    title: 'Numerology Guide: Life Path, Expression & More',
+    description: 'Learn numerology from basics to advanced. Calculate your Life Path number, Expression number, Soul Urge, and Personal Year.',
+    url: 'https://northstarastro.com/numerology',
+    siteName: 'North Star Astro',
+    type: 'website',
+    images: [{
+      url: 'https://northstarastro.com/api/og?title=Numerology%20Guide',
+      width: 1200,
+      height: 630,
+      alt: 'Numerology Guide - North Star Astro',
+    }],
+  },
 };
 
 export default function NumerologyPage() {

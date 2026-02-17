@@ -6,6 +6,22 @@ export const metadata: Metadata = {
   title: 'Vedic Astrology (Jyotish) Guide | North Star Astro',
   description: 'Learn Vedic astrology from scratch. Understand nakshatras, dashas, Sade Sati, kundali matching, and how Jyotish differs from Western astrology.',
   keywords: 'vedic astrology, jyotish, nakshatras, dasha, sade sati, kundali, indian astrology, hindu astrology',
+  alternates: {
+    canonical: 'https://northstarastro.com/vedic-astrology',
+  },
+  openGraph: {
+    title: 'Vedic Astrology (Jyotish) Guide',
+    description: 'Learn Vedic astrology from scratch. Understand nakshatras, dashas, Sade Sati, kundali matching, and how Jyotish differs from Western astrology.',
+    url: 'https://northstarastro.com/vedic-astrology',
+    siteName: 'North Star Astro',
+    type: 'website',
+    images: [{
+      url: 'https://northstarastro.com/api/og?title=Vedic%20Astrology%20Guide',
+      width: 1200,
+      height: 630,
+      alt: 'Vedic Astrology Guide - North Star Astro',
+    }],
+  },
 };
 
 export default function VedicAstrologyPage() {

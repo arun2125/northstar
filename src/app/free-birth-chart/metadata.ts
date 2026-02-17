@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 
 const title = "Free Birth Chart Calculator (Western + Vedic + Numerology) | North Star Astro";
-const description = "Get your complete birth chart free. Combines Western, Vedic, and Numerology for the most comprehensive reading available. Instant AI-powered results. No credit card required.";
+const description = "Free birth chart calculator combining Western tropical, Vedic sidereal, and Numerology. Get instant AI-powered analysis of your natal chart.";
 const url = "https://northstarastro.com/free-birth-chart";
 const ogImage = `https://northstarastro.com/api/og?title=${encodeURIComponent('Free Birth Chart Calculator')}&description=${encodeURIComponent('Western + Vedic + Numerology Combined')}`;
 

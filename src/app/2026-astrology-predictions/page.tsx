@@ -9,10 +9,21 @@ export const metadata: Metadata = {
   title: '2026 Astrology Predictions: Major Transits & What They Mean for You',
   description: 'Complete guide to 2026 astrology: Neptune in Aries, Mercury retrograde cycles, eclipses, and predictions for all 12 zodiac signs.',
   keywords: 'astrology 2026, 2026 predictions, Neptune in Aries, Mercury retrograde 2026, 2026 eclipses, horoscope 2026',
+  alternates: {
+    canonical: 'https://northstarastro.com/2026-astrology-predictions',
+  },
   openGraph: {
     title: '2026 Astrology Predictions: Major Transits & What They Mean for You',
     description: 'Complete guide to 2026 astrology: Neptune in Aries, Mercury retrograde cycles, eclipses, and predictions for all 12 zodiac signs.',
+    url: 'https://northstarastro.com/2026-astrology-predictions',
+    siteName: 'North Star Astro',
     type: 'article',
+    images: [{
+      url: 'https://northstarastro.com/api/og?title=2026%20Astrology%20Predictions',
+      width: 1200,
+      height: 630,
+      alt: '2026 Astrology Predictions',
+    }],
   },
 };
 

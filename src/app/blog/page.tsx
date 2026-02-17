@@ -5,6 +5,22 @@ import { getAllPosts, getPostImage } from '@/lib/blog';
 export const metadata = {
   title: 'Blog | North Star Astro',
   description: 'Learn astrology with our in-depth guides, tutorials, and cosmic insights. From birth charts to planetary transits, we break it down in plain language.',
+  alternates: {
+    canonical: 'https://northstarastro.com/blog',
+  },
+  openGraph: {
+    title: 'Blog - North Star Astro',
+    description: 'Learn astrology with our in-depth guides, tutorials, and cosmic insights. From birth charts to planetary transits, we break it down in plain language.',
+    url: 'https://northstarastro.com/blog',
+    siteName: 'North Star Astro',
+    type: 'website',
+    images: [{
+      url: 'https://northstarastro.com/api/og?title=Astrology%20Blog',
+      width: 1200,
+      height: 630,
+      alt: 'North Star Astro Blog',
+    }],
+  },
 };
 
 function formatDate(dateString: string): string {

@@ -4,9 +4,21 @@ import type { Metadata } from 'next';
 export const metadata: Metadata = {
   title: 'Chat with Tara - North Star Astro',
   description: 'Get personalized astrology insights combining Vedic wisdom and numerology. Chat with Tara, your AI astrology guide.',
+  alternates: {
+    canonical: 'https://northstarastro.com/chat',
+  },
   openGraph: {
     title: 'Chat with Tara - North Star Astro',
     description: 'Get personalized astrology insights combining Vedic wisdom and numerology.',
+    url: 'https://northstarastro.com/chat',
+    siteName: 'North Star Astro',
+    type: 'website',
+    images: [{
+      url: 'https://northstarastro.com/api/og?title=Chat%20with%20Tara',
+      width: 1200,
+      height: 630,
+      alt: 'Chat with Tara - AI Astrology Guide',
+    }],
   },
 };
 
