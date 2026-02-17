@@ -468,10 +468,10 @@ Neptune is about to show you that anything is possible. Jupiter is about to show
 *Want personalized insights for YOUR 2026? [Book a Reading] or [Get Your 2026 Transit Report]*
 
 **Related Articles:**
-- [Link to Aries 2026 Horoscope]
-- [Link to Complete Eclipse Guide 2026]
-- [Link to Neptune in Aries: What It Means for Your Generation]
-- [Link to Mercury Retrograde 2026 Survival Guide]
+- [Aries 2026 Horoscope: Neptune Enters Your Sign](/blog/aries-2026-predictions)
+- [Leo 2026 Predictions: Jupiter in Your Sign](/blog/leo-2026-predictions)
+- [Aquarius 2026 Horoscope: Eclipses on Your Axis](/blog/aquarius-2026-predictions)
+- [Understanding the 12 Houses in Astrology](/blog/12-houses-explained)
 
 ---
 
