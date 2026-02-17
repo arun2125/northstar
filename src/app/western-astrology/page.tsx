@@ -173,7 +173,7 @@ export default function WesternAstrologyPage() {
             {ZODIAC_SIGNS.map((sign) => (
               <Link
                 key={sign.name}
-                href={`/blog/${sign.name.toLowerCase()}-traits`}
+                href={`/blog/${sign.name.toLowerCase()}-personality-traits`}
                 className="bg-white/5 rounded-xl border border-purple-500/20 p-4 hover:bg-white/10 hover:border-purple-500/40 transition text-center group"
               >
                 <div className="text-3xl mb-2">{sign.symbol}</div>
