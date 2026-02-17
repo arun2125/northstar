@@ -1,8 +1,8 @@
 // Tara chat API - connects to OpenClaw gateway via Cloudflare Tunnel
 import { NextRequest, NextResponse } from 'next/server';
 
-// Cloudflare Tunnel URL (update if tunnel restarts)
-const OPENCLAW_ENDPOINT = process.env.OPENCLAW_ENDPOINT || 'https://consortium-permissions-admissions-winston.trycloudflare.com';
+// Cloudflare Tunnel URL (permanent, auto-starts on boot)
+const OPENCLAW_ENDPOINT = process.env.OPENCLAW_ENDPOINT || 'https://api.northstarastro.com';
 const OPENCLAW_TOKEN = process.env.OPENCLAW_TOKEN || 'afa81a6209f36d3a6e352bd88cca60c8f9756ed68edbf055';
 const TARA_AGENT_ID = 'astro';
 
