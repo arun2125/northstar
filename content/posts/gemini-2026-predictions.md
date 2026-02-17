@@ -474,7 +474,7 @@ By December, when the Full Moon in Gemini illuminates your progress, you'll real
 
 ---
 
-*Want personalized insights for YOUR chart? [Book a Reading] or [Get Your 2026 Transit Report]*
+*Want personalized insights for YOUR chart? [Chat with Tara →](/chat) or [Get Your Free Reading →](/chat)*
 
 **Related Articles:**
 - [2026 Astrology Predictions: Complete Year Guide](/blog/2026-astrology-predictions)

@@ -465,7 +465,7 @@ Neptune is about to show you that anything is possible. Jupiter is about to show
 
 ---
 
-*Want personalized insights for YOUR 2026? [Book a Reading] or [Get Your 2026 Transit Report]*
+*Want personalized insights for YOUR 2026? [Chat with Tara →](/chat) or [Get Your Free Reading →](/chat)*
 
 **Related Articles:**
 - [Aries 2026 Horoscope: Neptune Enters Your Sign](/blog/aries-2026-predictions)

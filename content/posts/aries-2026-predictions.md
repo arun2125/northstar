@@ -599,7 +599,7 @@ Welcome to the most important year of your decade, Aries. The stars are dissolvi
 
 ---
 
-*Want personalized guidance for your Aries 2026? [Book a Reading] or [Get Your Personal 2026 Transit Report]*
+*Want personalized guidance for your Aries 2026? [Chat with Tara →](/chat) or [Get Your Free Reading →](/chat)*
 
 **Related Articles:**
 - [2026 Astrology Predictions: Complete Year Guide](/blog/2026-astrology-predictions)

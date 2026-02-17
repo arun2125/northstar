@@ -430,7 +430,7 @@ You will, Leo. You were born for this.
 
 ---
 
-*Want personalized insights for your specific Leo chart? [Book a Reading] or [Get Your 2026 Transit Report]*
+*Want personalized insights for your specific Leo chart? [Chat with Tara →](/chat) or [Get Your Free Reading →](/chat)*
 
 **Related Articles:**
 - [2026 Astrology Predictions: Complete Year Guide](/blog/2026-astrology-predictions)
