@@ -123,7 +123,7 @@ Get weekly astrology insights delivered to your inbox every Monday.
 
 ---
 
-For more fire sign dynamics, read our [Aries personality guide](#) and [Sagittarius compatibility breakdown](#).
+For more fire sign dynamics, read our [Aries personality guide](/blog/aries-personality-traits) and [Sagittarius compatibility breakdown](/blog/sagittarius-personality-traits).
 
 ## Growing Up Leo: From Performer to Leader
 
@@ -139,7 +139,7 @@ The difference between a young Leo and a mature one is **where they find their w
 
 **If you're a Leo working on yourself**: Do something anonymously. Volunteer, create art, help someone—with zero credit or recognition. Notice how uncomfortable that feels. That's your growth edge. Learn to sit with being ordinary. Not every moment needs to be monumental. Practice genuine humility (not performative humility, which is just another way to get praise for being "so humble").
 
-Study [Cancer's emotional intelligence](/blog/cancer-personality-traits) to develop depth beyond charisma. Read about [Capricorn's quiet authority](#)—real power doesn't always need an audience. Get therapy to unpack where the need for external validation comes from (usually childhood, always worth exploring).
+Study [Cancer's emotional intelligence](/blog/cancer-personality-traits) to develop depth beyond charisma. Read about [Capricorn's quiet authority](/blog/capricorn-personality-traits)—real power doesn't always need an audience. Get therapy to unpack where the need for external validation comes from (usually childhood, always worth exploring).
 
 Your gift is **inspiration, leadership, and the ability to make people feel special**. You have courage, creativity, and a genuine warmth that draws people in. But you're here to be the Sun that helps others grow, not the Sun that burns everything in orbit around you.
 
