@@ -15,7 +15,15 @@ export const metadata: Metadata = {
   },
 }
 
-const glossaryTerms = {
+type GlossaryTerm = {
+  term: string
+  definition: string
+  link?: string
+  vedic?: boolean
+  numerology?: boolean
+}
+
+const glossaryTerms: Record<string, GlossaryTerm[]> = {
   A: [
     { term: 'Ascendant (Rising Sign)', definition: 'The zodiac sign rising on the eastern horizon at your birth moment; represents how you present yourself to the world and your physical appearance.', link: '/blog/how-to-read-your-birth-chart' },
     { term: 'Aspect', definition: 'Angular relationship between planets in a birth chart (conjunction, square, trine, opposition, sextile); indicates how planetary energies interact.' },
