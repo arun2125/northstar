@@ -433,7 +433,7 @@ You will, Leo. You were born for this.
 *Want personalized insights for your specific Leo chart? [Book a Reading] or [Get Your 2026 Transit Report]*
 
 **Related Articles:**
-- [2026 Astrology Predictions: The Year Everything Changes]
-- [Jupiter in Leo 2026-2027: Complete Guide]
-- [Eclipse Guide 2026: Dates, Signs, and What to Expect]
-- [Neptune in Aries: The Generational Shift Begins]
+- [2026 Astrology Predictions: Complete Year Guide](/blog/2026-astrology-predictions)
+- [Leo Personality Traits & Characteristics](/blog/leo-personality-traits)
+- [Best Matches for Leo](/blog/best-matches-for-leo)
+- [Understanding the Fire Element in Astrology](/blog/astrology-elements-explained)

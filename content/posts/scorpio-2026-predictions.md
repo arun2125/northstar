@@ -381,7 +381,7 @@ Let the transformation begin.
 *Want personalized insights for YOUR Scorpio 2026? [Book a Reading] or [Get Your 2026 Transit Report]*
 
 **Related Articles:**
-- [Scorpio Personality: The Complete Guide](/posts/scorpio-personality-traits)
-- [Venus Retrograde 2026 Complete Guide](/posts/venus-retrograde-2026)
-- [2026 Astrology Predictions Overview](/posts/2026-astrology-predictions)
-- [Best Matches for Scorpio](/posts/best-matches-for-scorpio)
+- [2026 Astrology Predictions: Complete Year Guide](/blog/2026-astrology-predictions)
+- [Scorpio Personality Traits & Characteristics](/blog/scorpio-personality-traits)
+- [Best Matches for Scorpio](/blog/best-matches-for-scorpio)
+- [Understanding the Water Element in Astrology](/blog/astrology-elements-explained)

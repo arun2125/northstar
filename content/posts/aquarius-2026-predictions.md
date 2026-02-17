@@ -379,3 +379,8 @@ This can feel uncomfortable for a sign that finds safety in intellectual distanc
 By December 2026, the person reading this horoscope may be barely recognizable to the person who started the year. Not because you became someone new, but because you finally became yourself.
 
 Welcome to your year, Aquarius. The water bearer is about to pour.
+
+**Related Articles:**
+- [2026 Astrology Predictions: Complete Year Guide](/blog/2026-astrology-predictions)
+- [Aquarius Personality Traits & Characteristics](/blog/aquarius-personality-traits)
+- [Understanding the Air Element in Astrology](/blog/astrology-elements-explained)

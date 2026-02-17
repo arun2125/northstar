@@ -602,10 +602,10 @@ Welcome to the most important year of your decade, Aries. The stars are dissolvi
 *Want personalized guidance for your Aries 2026? [Book a Reading] or [Get Your Personal 2026 Transit Report]*
 
 **Related Articles:**
-- [2026 Astrology Predictions: Complete Year Guide](/2026-astrology-predictions)
-- [Neptune in Aries: What It Means for Your Generation]
-- [Leo Eclipse 2026: Your Complete Guide]
-- [Mercury Retrograde 2026: All Three Cycles Explained]
+- [2026 Astrology Predictions: Complete Year Guide](/blog/2026-astrology-predictions)
+- [Aries Personality Traits & Characteristics](/blog/aries-personality-traits)
+- [Best Matches for Aries](/blog/best-matches-for-aries)
+- [Understanding the Fire Element in Astrology](/blog/astrology-elements-explained)
 
 ---
 

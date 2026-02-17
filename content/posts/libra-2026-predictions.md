@@ -520,10 +520,9 @@ Trust the process. You were made for this.
 *Want personalized insights for YOUR 2026? [Book a Reading] or [Get Your Personal 2026 Transit Report]*
 
 **Related Articles:**
-- [2026 Astrology Predictions: Complete Guide](/2026-astrology-predictions)
-- [Venus Retrograde 2026: What Every Sign Needs to Know]
-- [Neptune in Aries: The Generational Shift Begins]
-- [Eclipses 2026: Complete Guide]
+- [2026 Astrology Predictions: Complete Year Guide](/blog/2026-astrology-predictions)
+- [Libra Personality Traits & Characteristics](/blog/libra-personality-traits)
+- [Understanding the Air Element in Astrology](/blog/astrology-elements-explained)
 
 ---
 

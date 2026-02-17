@@ -477,10 +477,9 @@ By December, when the Full Moon in Gemini illuminates your progress, you'll real
 *Want personalized insights for YOUR chart? [Book a Reading] or [Get Your 2026 Transit Report]*
 
 **Related Articles:**
-- [2026 Astrology Predictions: Complete Guide](/blog/2026-astrology-predictions)
-- [Neptune in Aries: Generational Shift Guide](/blog/neptune-in-aries)
-- [Mercury Retrograde 2026 Survival Guide](/blog/mercury-retrograde-2026)
-- [2026 Eclipse Guide](/blog/2026-eclipses)
+- [2026 Astrology Predictions: Complete Year Guide](/blog/2026-astrology-predictions)
+- [Gemini Personality Traits & Characteristics](/blog/gemini-personality-traits)
+- [Understanding the Air Element in Astrology](/blog/astrology-elements-explained)
 
 ---
 
