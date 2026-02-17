@@ -8,7 +8,7 @@ export default async function sitemap() {
   
   const blogUrls = posts.map((post) => ({
     url: `${baseUrl}/blog/${post.slug}`,
-    lastModified: new Date(post.date),
+    lastModified: new Date('2026-02-17'), // Updated: glossary links added to all posts
     changeFrequency: 'monthly' as const,
     priority: 0.8,
   }));
@@ -20,6 +20,11 @@ export default async function sitemap() {
     { url: `${baseUrl}/numerology`, priority: 0.9 },
     { url: `${baseUrl}/life-path-calculator`, priority: 0.8 },
     { url: `${baseUrl}/about`, priority: 0.6 },
+    { url: `${baseUrl}/glossary`, priority: 0.8 },
+    { url: `${baseUrl}/chat`, priority: 0.7 },
+    { url: `${baseUrl}/free-birth-chart`, priority: 0.8 },
+    { url: `${baseUrl}/2026-astrology-predictions`, priority: 0.7 },
+    { url: `${baseUrl}/sitemap-visual`, priority: 0.5 },
   ].map(page => ({
     ...page,
     lastModified: new Date(),
