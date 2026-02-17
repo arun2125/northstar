@@ -78,6 +78,7 @@ export default function RootLayout({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteJsonLd) }}
         />
+        <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "7c8945fd5a7a476a8138a43f26ecae64"}'></script>
       </head>
       <body className={inter.className}>{children}</body>
     </html>
