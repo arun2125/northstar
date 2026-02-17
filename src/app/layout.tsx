@@ -10,6 +10,9 @@ export const metadata: Metadata = {
   title: "North Star Astro — Your Personal AI Astrologer",
   description: "AI-powered readings based on your complete birth chart. Not generic horoscopes. Actual guidance for your stars.",
   keywords: "astrology, birth chart, horoscope, AI astrology, personalized astrology, zodiac, moon sign, rising sign, saturn return",
+  alternates: {
+    canonical: 'https://northstarastro.com',
+  },
   openGraph: {
     title: "North Star Astro — Your Personal AI Astrologer",
     description: "AI-powered readings based on your complete birth chart. Not generic horoscopes. Actual guidance for your stars.",
