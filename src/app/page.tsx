@@ -198,6 +198,9 @@ export default function Home() {
             <Link href="/numerology" className="hidden md:block text-purple-300/70 hover:text-white transition">
               Numerology
             </Link>
+            <Link href="/chinese-zodiac" className="hidden md:block text-purple-300/70 hover:text-white transition">
+              Chinese
+            </Link>
             <Link href="/blog" className="text-purple-300/70 hover:text-white transition">
               Blog
             </Link>
