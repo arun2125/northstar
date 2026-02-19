@@ -215,7 +215,7 @@ export default function Home() {
         </div>
         
         <h1 className="text-4xl md:text-6xl font-bold mb-6 leading-tight">
-          <span className="gradient-text">Western. Vedic. Numerology.</span>
+          <span className="gradient-text">Western. Vedic. Chinese.</span>
           <br />
           <span className="text-white/90">One Complete Reading.</span>
         </h1>
@@ -223,7 +223,7 @@ export default function Home() {
         <p className="text-xl md:text-2xl text-purple-200/80 mb-12 max-w-2xl mx-auto">
           {step === 1 
             ? "Other apps give you one system. We integrate three — for insights you can't find anywhere else."
-            : "Your birth chart analyzed through Western psychology, Vedic karma, and Numerology."}
+            : "Your birth chart analyzed through Western psychology, Vedic karma, and Chinese zodiac."}
         </p>
 
         {/* Multi-step Form */}

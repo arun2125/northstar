@@ -90,8 +90,8 @@ export default function AboutPage() {
           <h2 className="text-2xl font-bold text-white mt-12 mb-4">Our Philosophy: Three Systems, One Truth</h2>
           <p>
             Most astrology platforms pick one system and stick to it. Western astrology sites ignore 
-            Vedic wisdom. Vedic sites dismiss Western psychology. And numerology gets treated as a 
-            separate thing entirely.
+            Vedic wisdom. Vedic sites dismiss Western psychology. And Chinese zodiac gets treated as 
+            something separate entirely.
           </p>
           <p>
             We believe <strong>real insight comes from integration</strong>. That's why North Star Astro 
@@ -105,12 +105,12 @@ export default function AboutPage() {
               <strong>Vedic Astrology (Jyotish):</strong> Predictive power, nakshatras, dashas, karmic patterns
             </li>
             <li>
-              <strong>Numerology:</strong> Life path insights, personal year cycles, name vibrations
+              <strong>Chinese Zodiac:</strong> Yearly cycles, elemental energy, cultural wisdom spanning 5,000 years
             </li>
           </ul>
           <p>
             When you ask about your Saturn Return, we don't just give you the Western transit interpretation. 
-            We show you how it connects to your Sade Sati in Vedic, and what your Personal Year number says 
+            We show you how it connects to your Sade Sati in Vedic, and what your Chinese zodiac year energy says 
             about the timing. <strong>That depth doesn't exist anywhere else.</strong>
           </p>
 
@@ -139,7 +139,7 @@ export default function AboutPage() {
           <ul className="space-y-2">
             <li><strong>Western Astrology:</strong> Liz Greene, Stephen Arroyo, Robert Hand — psychological depth and transit analysis</li>
             <li><strong>Vedic Astrology:</strong> Classical Jyotish texts, Parashara, B.V. Raman — nakshatras, dashas, and predictive techniques</li>
-            <li><strong>Numerology:</strong> Pythagorean and Chaldean systems — life path, expression, and personal year calculations</li>
+            <li><strong>Chinese Zodiac:</strong> 12 animal signs, 5 elements, 60-year cycles — yearly energy patterns and cultural wisdom</li>
             <li><strong>Integration:</strong> Synthesizing all three systems for comprehensive readings</li>
           </ul>
           <p>

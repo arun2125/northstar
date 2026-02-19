@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 """
 Convert markdown blog posts to Medium-compatible format.
 
@@ -40,7 +41,7 @@ def convert_table_to_list(content):
             cells = [cell.strip() for cell in line.split('|')]
             # Format as bullet
             if len(cells) >= 2:
-                bullets.append(f"• {' — '.join(cells)}")
+                bullets.append("• " + " — ".join(cells))
         
         return '\n'.join(bullets)
     
@@ -52,12 +53,7 @@ def convert_table_to_list(content):
 
 def add_canonical_notice(content, canonical_url):
     """Add canonical URL notice at the end."""
-    notice = f"""
-
----
-
-*Originally published at [{canonical_url}]({canonical_url})*
-"""
+    notice = "\n\n---\n\n*Originally published at [" + canonical_url + "](" + canonical_url + ")*\n"
     return content + notice
 
 def clean_for_medium(content):
@@ -66,11 +62,18 @@ def clean_for_medium(content):
     # Remove meta description blocks
     content = re.sub(r'\*\*Meta Description.*?\*\*', '', content, flags=re.DOTALL)
     
+    # Remove CTA blocks (they render poorly on Medium)
+    # Pattern: blockquote with multiple lines including links
+    content = re.sub(r'^> .*?(?=\n\n|\n---)', '', content, flags=re.MULTILINE | re.DOTALL)
+    
+    # Remove standalone horizontal rules after blockquotes
+    content = re.sub(r'\n---\n\n---', '\n\n---', content)
+    
     # Convert internal links to full URLs
-    # This would need the actual domain
     content = re.sub(r'\]\(/blog/', '](https://northstarastro.com/blog/', content)
     content = re.sub(r'\]\(/chat', '](https://northstarastro.com/chat', content)
     content = re.sub(r'\]\(/free-birth-chart', '](https://northstarastro.com/free-birth-chart', content)
+    content = re.sub(r'\]\(/#waitlist', '](https://northstarastro.com/#waitlist', content)
     
     # Remove "Last updated" footer
     content = re.sub(r'\*Last updated:.*?\*', '', content)
@@ -100,29 +103,29 @@ def main():
         sys.exit(1)
     
     slug = sys.argv[1]
-    filepath = Path(f"content/posts/{slug}.md")
+    filepath = Path("content/posts/" + slug + ".md")
     
     if not filepath.exists():
-        print(f"Error: {filepath} not found")
+        print("Error: " + str(filepath) + " not found")
         sys.exit(1)
     
-    canonical_url = f"https://northstarastro.com/blog/{slug}"
+    canonical_url = "https://northstarastro.com/blog/" + slug
     
     converted = convert_post(filepath, canonical_url)
     
     # Save to clipboard-ready file
-    output_file = Path(f"medium-exports/{slug}-medium.md")
+    output_file = Path("medium-exports/" + slug + "-medium.md")
     output_file.parent.mkdir(exist_ok=True)
     
     with open(output_file, 'w', encoding='utf-8') as f:
         f.write(converted)
     
-    print(f"✅ Converted: {filepath}")
-    print(f"📄 Saved to: {output_file}")
-    print(f"\n📋 Copy this file and paste into Medium:")
-    print(f"   cat {output_file} | pbcopy")
-    print(f"\n🔗 Don't forget to set canonical URL in Medium:")
-    print(f"   {canonical_url}")
+    print("✅ Converted: " + str(filepath))
+    print("📄 Saved to: " + str(output_file))
+    print("\n📋 Copy this file and paste into Medium:")
+    print("   cat " + str(output_file) + " | pbcopy")
+    print("\n🔗 Don't forget to set canonical URL in Medium:")
+    print("   " + canonical_url)
 
 if __name__ == '__main__':
     main()
