@@ -17,7 +17,7 @@ export default async function sitemap() {
   const hubPages = [
     { url: `${baseUrl}/western-astrology`, priority: 0.9 },
     { url: `${baseUrl}/vedic-astrology`, priority: 0.9 },
-    { url: `${baseUrl}/numerology`, priority: 0.9 },
+    { url: `${baseUrl}/chinese-zodiac`, priority: 0.9 },
     { url: `${baseUrl}/life-path-calculator`, priority: 0.8 },
     { url: `${baseUrl}/about`, priority: 0.6 },
     { url: `${baseUrl}/glossary`, priority: 0.8 },
