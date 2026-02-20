@@ -1,6 +1,6 @@
 ---
-title: "Fire Horse 2026: Complete Guide to the Year Ahead"
-description: "Everything you need to know about the Fire Horse year 2026 - industries affected, lucky zodiac signs, monthly predictions, and how to harness this rare 60-year energy."
+title: "Fire Horse 2026: Why This 60-Year Event Changes Everything (Complete Guide)"
+description: "The Fire Horse gallops into 2026 on February 17, bringing intense transformation energy. Last seen in 1966, this rare event affects birth rates, careers, and relationships. Discover which zodiac signs thrive (and which struggle) + monthly predictions."
 publishedAt: "2026-02-19"
 tags: ["chinese-zodiac", "2026-predictions", "fire-horse"]
 ---

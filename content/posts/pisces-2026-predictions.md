@@ -1,5 +1,5 @@
 ---
-title: "Pisces 2026 Horoscope: Your Complete Year Ahead"
+title: "Pisces 2026: Neptune Leaves After 14 Years (The Fog Finally Lifts)"
 description: "Pisces 2026 predictions featuring Neptune leaving your sign after 14 years, Mercury retrograde in water signs, eclipses in your sign, and month-by-month forecasts for love, career, and health."
 date: "2026-02-17"
 author: "North Star Astro"

@@ -1,5 +1,5 @@
 ---
-title: "Aries 2026 Horoscope: Neptune Enters Your Sign & Everything Changes"
+title: "Aries 2026: Neptune Enters Your Sign for 13 Years (Everything Changes)"
 description: "Complete Aries 2026 predictions including Neptune's historic entry into your sign, Mercury retrograde impacts, eclipse forecasts, and month-by-month guidance for love, career, and transformation."
 publishedAt: "2025-02-17"
 updatedAt: "2026-02-17"

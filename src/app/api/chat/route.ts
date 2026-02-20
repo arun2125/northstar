@@ -1,10 +1,13 @@
 // Tara chat API - connects to OpenClaw gateway via Cloudflare Tunnel
 import { NextRequest, NextResponse } from 'next/server';
+import { cookies } from 'next/headers';
 
 // Cloudflare Tunnel URL (permanent, auto-starts on boot)
 const OPENCLAW_ENDPOINT = process.env.OPENCLAW_ENDPOINT || 'https://api.northstarastro.com';
 const OPENCLAW_TOKEN = process.env.OPENCLAW_TOKEN || 'afa81a6209f36d3a6e352bd88cca60c8f9756ed68edbf055';
 const TARA_AGENT_ID = 'astro';
+const SESSION_COOKIE_NAME = 'astro_session_id';
+const SESSION_TTL_HOURS = 2; // Session expires after 2 hours idle
 
 interface ChatRequest {
   message: string;
@@ -22,6 +25,17 @@ export async function POST(request: NextRequest) {
         { error: 'Message is required' },
         { status: 400 }
       );
+    }
+
+    // Get or create session ID for session pooling
+    const cookieStore = await cookies();
+    let sessionId = cookieStore.get(SESSION_COOKIE_NAME)?.value;
+    
+    if (!sessionId) {
+      // Create new session ID: use phone if available, otherwise generate unique ID
+      sessionId = phone 
+        ? `phone-${phone}` 
+        : `web-${Date.now()}-${Math.random().toString(36).substring(7)}`;
     }
 
     // Build OpenAI-compatible messages array
@@ -43,13 +57,15 @@ export async function POST(request: NextRequest) {
         'Content-Type': 'application/json',
         'Authorization': `Bearer ${OPENCLAW_TOKEN}`,
         'x-openclaw-agent-id': TARA_AGENT_ID,
+        // Pass session ID for session pooling
+        'x-openclaw-session-key': sessionId,
       },
       body: JSON.stringify({
         model: `openclaw:${TARA_AGENT_ID}`,
         messages: messages,
         max_tokens: 1024,
-        // Use phone number for session persistence if provided
-        ...(phone && { user: phone }),
+        // Use session ID as user identifier for session persistence
+        user: sessionId,
       }),
     });
 
@@ -62,7 +78,16 @@ export async function POST(request: NextRequest) {
     const data = await openclawResponse.json();
     const reply = data.choices?.[0]?.message?.content || 'Unable to generate response';
 
-    return NextResponse.json({ reply });
+    // Set session cookie for session pooling (2 hour expiry)
+    const response = NextResponse.json({ reply });
+    response.cookies.set(SESSION_COOKIE_NAME, sessionId, {
+      maxAge: SESSION_TTL_HOURS * 60 * 60, // 2 hours in seconds
+      httpOnly: true,
+      sameSite: 'lax',
+      secure: process.env.NODE_ENV === 'production',
+    });
+
+    return response;
 
   } catch (error: any) {
     console.error('Chat API error:', error);

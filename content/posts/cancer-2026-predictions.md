@@ -1,5 +1,5 @@
 ---
-title: "Cancer 2026 Horoscope: Your Complete Year Ahead"
+title: "Cancer 2026: Neptune Square + Jupiter Amplifies (Fog Clears, But Slowly)"
 description: "Cancer 2026 predictions covering Neptune in Aries, Mercury retrograde in water signs, eclipses, and month-by-month forecasts for love, career, and health."
 date: "2026-02-17"
 author: "North Star Astro"

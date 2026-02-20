@@ -1,5 +1,5 @@
 ---
-title: "Capricorn 2026 Horoscope: Your Complete Year Ahead"
+title: "Capricorn 2026: Neptune Square (Control Dissolves—And That's OK)"
 description: "Capricorn 2026 predictions covering the challenging Neptune in Aries square, Mercury retrograde periods, eclipses activating your expansion axis, and month-by-month forecasts for love, career, and health."
 date: "2026-02-17"
 author: "North Star Astro"

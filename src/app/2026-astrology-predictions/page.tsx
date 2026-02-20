@@ -6,15 +6,15 @@ import { getPostBySlug } from '@/lib/blog';
 import { notFound } from 'next/navigation';
 
 export const metadata: Metadata = {
-  title: '2026 Astrology Predictions: Major Transits & What They Mean for You',
-  description: 'Complete guide to 2026 astrology: Neptune in Aries, Mercury retrograde cycles, eclipses, and predictions for all 12 zodiac signs.',
+  title: '2026 Astrology: The Year Everything Changes (Fire Horse + Neptune in Aries)',
+  description: 'Neptune enters Aries for the first time in 165 years. The Fire Horse returns after 60 years. Eclipses shift to a new axis. Your complete guide to 2026\'s biggest astrological events + monthly predictions for all 12 signs.',
   keywords: 'astrology 2026, 2026 predictions, Neptune in Aries, Mercury retrograde 2026, 2026 eclipses, horoscope 2026',
   alternates: {
     canonical: 'https://northstarastro.com/2026-astrology-predictions',
   },
   openGraph: {
-    title: '2026 Astrology Predictions: Major Transits & What They Mean for You',
-    description: 'Complete guide to 2026 astrology: Neptune in Aries, Mercury retrograde cycles, eclipses, and predictions for all 12 zodiac signs.',
+    title: '2026 Astrology: The Year Everything Changes (Fire Horse + Neptune in Aries)',
+    description: 'Neptune enters Aries for the first time in 165 years. The Fire Horse returns after 60 years. Eclipses shift to a new axis. Your complete guide to 2026\'s biggest astrological events + monthly predictions for all 12 signs.',
     url: 'https://northstarastro.com/2026-astrology-predictions',
     siteName: 'North Star Astro',
     type: 'article',

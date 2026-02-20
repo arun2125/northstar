@@ -1,5 +1,5 @@
 ---
-title: "Sagittarius 2026 Horoscope: Your Complete Year Ahead"
+title: "Sagittarius 2026: Neptune Trine (Dreams Become Plans)"
 description: "Sagittarius 2026 predictions covering Neptune in Aries trine your sign, Mercury retrograde periods, eclipses, and month-by-month forecasts for love, career, and health."
 date: "2026-02-17"
 author: "North Star Astro"

@@ -1,5 +1,5 @@
 ---
-title: "Aquarius 2026 Horoscope: Eclipses Hit Your Sign & Everything Shifts"
+title: "Aquarius 2026: Eclipses on Your Axis + Neptune Sextile (Major Shifts)"
 description: "Complete Aquarius 2026 predictions featuring the Aquarius-Leo eclipse axis directly activating your sign, Neptune in Aries sextile, Mercury retrograde impacts, and month-by-month forecasts for love, career, and health."
 publishedAt: "2025-02-17"
 updatedAt: "2026-02-17"

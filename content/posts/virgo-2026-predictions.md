@@ -1,5 +1,5 @@
 ---
-title: "Virgo 2026 Horoscope: The Year of Deep Transformation"
+title: "Virgo 2026: Eclipses Hit Your Identity (Who Are You Becoming?)"
 description: "Complete Virgo 2026 predictions covering Neptune in Aries, Mercury retrograde in Virgo, eclipses on your axis, career breakthroughs, love, health, and month-by-month forecasts."
 date: "2026-02-17"
 author: "North Star Astro"

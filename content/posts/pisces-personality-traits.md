@@ -1,6 +1,6 @@
 ---
-title: "Pisces: The Complete Personality Guide"
-description: "Beyond the dreamy victim: Pisces's gift for compassion, imagination, and spiritual depth—plus where empathy becomes self-erasure."
+title: "Pisces Personality: Why You Feel Everything (And That's Your Superpower)"
+description: "Pisces doesn't just feel emotions—they become them. Discover why your empathy is both gift and curse, how to protect your energy without shutting down, and the hidden strength in being 'too sensitive.' Includes Pisces in love, career, and friendships."
 date: "2026-02-12"
 author: "North Star Astro"
 tags: ["pisces", "zodiac personality", "water signs"]

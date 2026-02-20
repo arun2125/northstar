@@ -1,5 +1,5 @@
 ---
-title: "Libra 2026 Horoscope: Your Complete Guide to Love, Career & Transformation"
+title: "Libra 2026: Neptune Opposition (Relationships Get Real)"
 description: "Discover what 2026 holds for Libra with our in-depth horoscope. Neptune opposes your sign, Venus retrogrades through Libra, eclipses shift axes, and more—month-by-month predictions for love, career, and health."
 publishedAt: "2026-02-17"
 updatedAt: "2026-02-17"

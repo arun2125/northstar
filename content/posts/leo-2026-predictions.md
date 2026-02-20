@@ -1,5 +1,5 @@
 ---
-title: "Leo 2026 Horoscope: Your Year of Destiny Arrives"
+title: "Leo 2026: Jupiter Enters Your Sign + Eclipses on Your Axis (Big Year)"
 description: "Complete Leo 2026 predictions covering Jupiter in Leo, the Aquarius-Leo eclipse axis, Neptune in Aries, Mercury retrograde cycles, and month-by-month forecasts for love, career, and health."
 date: "2026-02-17"
 author: "North Star Astro"

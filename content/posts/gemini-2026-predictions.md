@@ -1,5 +1,5 @@
 ---
-title: "Gemini 2026 Horoscope: Your Complete Year of Mental Revolution"
+title: "Gemini 2026: Uranus Arrives in July (Your Life Speeds Up)"
 description: "Your comprehensive Gemini 2026 predictions covering Neptune in Aries, all three Mercury retrogrades (yes, your ruler!), eclipses, and month-by-month forecasts for love, career, and health."
 publishedAt: "2026-02-17"
 updatedAt: "2026-02-17"

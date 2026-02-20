@@ -1,5 +1,5 @@
 ---
-title: "Scorpio 2026 Horoscope: Your Complete Year of Transformation"
+title: "Scorpio 2026: Uranus Trine (Transformation Without Chaos)"
 description: "Scorpio 2026 predictions: Venus retrograde in your sign (major!), Neptune in Aries shifts, Mercury Rx in water signs, eclipse impacts, plus month-by-month love, career, and health forecasts."
 publishedAt: "2026-02-17"
 author: "North Star Astrology"

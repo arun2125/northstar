@@ -1,5 +1,5 @@
 ---
-title: "Taurus 2026 Horoscope: Your Complete Yearly Predictions"
+title: "Taurus 2026: Uranus Finally Leaves After 7 Years (Chaos Ends)"
 description: "Your in-depth Taurus 2026 horoscope covering Neptune in Aries, eclipse impacts, Mercury retrograde cycles, and month-by-month predictions for love, career, and health."
 publishedAt: "2026-02-17"
 updatedAt: "2026-02-17"
