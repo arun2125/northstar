@@ -1,6 +1,6 @@
 ---
-title: "Sagittarius 2026: Neptune Trine (Dreams Become Plans)"
-description: "Sagittarius 2026 predictions covering Neptune in Aries trine your sign, Mercury retrograde periods, eclipses, and month-by-month forecasts for love, career, and health."
+title: "Sagittarius 2026: Neptune Trine Opens Creative Floodgates"
+description: "Neptune in Aries trines Sagittarius—easiest aspect of 2026. Creativity flows, spirituality deepens, inspiration strikes. Meanwhile Jupiter expands then grounds. This is your year to create without resistance →"
 date: "2026-02-17"
 author: "North Star Astro"
 tags: ["sagittarius 2026", "sagittarius horoscope 2026", "yearly horoscope", "sagittarius predictions"]

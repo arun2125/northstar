@@ -1,6 +1,6 @@
 ---
-title: "Scorpio 2026: Uranus Trine (Transformation Without Chaos)"
-description: "Scorpio 2026 predictions: Venus retrograde in your sign (major!), Neptune in Aries shifts, Mercury Rx in water signs, eclipse impacts, plus month-by-month love, career, and health forecasts."
+title: "Scorpio 2026: Uranus Trine Unlocks Power You Forgot You Had"
+description: "Uranus in Gemini trines Scorpio—harmonious transformation, sudden opportunities, creative breakthroughs. No chaos, just evolution. Plus Pluto stabilizes, eclipses support, Mercury retrogrades gift insights. Your power year →"
 publishedAt: "2026-02-17"
 author: "North Star Astrology"
 category: "yearly-forecasts"

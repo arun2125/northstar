@@ -1,6 +1,6 @@
 ---
-title: "Fire Horse 2026: Why This 60-Year Event Changes Everything (Complete Guide)"
-description: "The Fire Horse gallops into 2026 on February 17, bringing intense transformation energy. Last seen in 1966, this rare event affects birth rates, careers, and relationships. Discover which zodiac signs thrive (and which struggle) + monthly predictions."
+title: "Fire Horse 2026: What Last Happened in 1966 Returns Feb 17"
+description: "The Fire Horse returns February 17—first time since 1966. Industries will boom, birth rates spike, relationships transform. Which Chinese zodiac signs win big? (And which should be cautious.) Read your forecast →"
 publishedAt: "2026-02-19"
 tags: ["chinese-zodiac", "2026-predictions", "fire-horse"]
 ---

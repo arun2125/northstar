@@ -1,6 +1,6 @@
 ---
-title: "Virgo 2026: Eclipses Hit Your Identity (Who Are You Becoming?)"
-description: "Complete Virgo 2026 predictions covering Neptune in Aries, Mercury retrograde in Virgo, eclipses on your axis, career breakthroughs, love, health, and month-by-month forecasts."
+title: "Virgo 2026: Eclipses in Your Sign Force Identity Reinvention"
+description: "2 eclipses in Virgo (March 3 + September 7) demand you release outdated versions of yourself. Mercury retrograde 3x in your element. Saturn supports structure. This is the year you become who you were meant to be →"
 date: "2026-02-17"
 author: "North Star Astro"
 tags: ["virgo", "2026 horoscope", "yearly predictions", "virgo 2026"]

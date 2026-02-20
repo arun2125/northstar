@@ -1,6 +1,6 @@
 ---
-title: "Leo 2026: Jupiter Enters Your Sign + Eclipses on Your Axis (Big Year)"
-description: "Complete Leo 2026 predictions covering Jupiter in Leo, the Aquarius-Leo eclipse axis, Neptune in Aries, Mercury retrograde cycles, and month-by-month forecasts for love, career, and health."
+title: "Leo 2026: Jupiter in Your Sign H2 + Eclipses on Your Axis"
+description: "Jupiter enters Leo July 12, expanding confidence, visibility, and opportunities through year-end. Meanwhile, eclipses on the Leo-Aquarius axis rewrite relationships and identity. Your spotlight year begins mid-summer →"
 date: "2026-02-17"
 author: "North Star Astro"
 tags: ["leo 2026", "leo horoscope 2026", "leo predictions", "jupiter in leo", "leo eclipse 2026"]

@@ -6,15 +6,15 @@ import { getPostBySlug } from '@/lib/blog';
 import { notFound } from 'next/navigation';
 
 export const metadata: Metadata = {
-  title: '2026 Astrology: The Year Everything Changes (Fire Horse + Neptune in Aries)',
-  description: 'Neptune enters Aries for the first time in 165 years. The Fire Horse returns after 60 years. Eclipses shift to a new axis. Your complete guide to 2026\'s biggest astrological events + monthly predictions for all 12 signs.',
+  title: '2026 Astrology: The Year Everything Changes (Finally Revealed)',
+  description: 'Neptune in Aries for the first time in 165 years. Fire Horse returns after 60 years. Eclipses on a new axis. These 3 cosmic shifts will reshape your life in 2026. See how your sign is affected →',
   keywords: 'astrology 2026, 2026 predictions, Neptune in Aries, Mercury retrograde 2026, 2026 eclipses, horoscope 2026',
   alternates: {
     canonical: 'https://northstarastro.com/2026-astrology-predictions',
   },
   openGraph: {
-    title: '2026 Astrology: The Year Everything Changes (Fire Horse + Neptune in Aries)',
-    description: 'Neptune enters Aries for the first time in 165 years. The Fire Horse returns after 60 years. Eclipses shift to a new axis. Your complete guide to 2026\'s biggest astrological events + monthly predictions for all 12 signs.',
+    title: '2026 Astrology: The Year Everything Changes (Finally Revealed)',
+    description: 'Neptune in Aries for the first time in 165 years. Fire Horse returns after 60 years. Eclipses on a new axis. These 3 cosmic shifts will reshape your life in 2026. See how your sign is affected →',
     url: 'https://northstarastro.com/2026-astrology-predictions',
     siteName: 'North Star Astro',
     type: 'article',

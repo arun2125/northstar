@@ -1,6 +1,6 @@
 ---
-title: "Cancer 2026: Neptune Square + Jupiter Amplifies (Fog Clears, But Slowly)"
-description: "Cancer 2026 predictions covering Neptune in Aries, Mercury retrograde in water signs, eclipses, and month-by-month forecasts for love, career, and health."
+title: "Cancer 2026: Neptune Square Tests Everything You Believe"
+description: "Neptune in Aries squares your Cancer planets all year—dissolving old identities, revealing hidden truths, amplifying intuition. Jupiter expands emotions. Eclipses shift your axis. This is the year you grow through the fog →"
 date: "2026-02-17"
 author: "North Star Astro"
 tags: ["cancer 2026", "cancer horoscope 2026", "yearly horoscope", "cancer predictions"]

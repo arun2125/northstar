@@ -1,6 +1,6 @@
 ---
-title: "Gemini 2026: Uranus Arrives in July (Your Life Speeds Up)"
-description: "Your comprehensive Gemini 2026 predictions covering Neptune in Aries, all three Mercury retrogrades (yes, your ruler!), eclipses, and month-by-month forecasts for love, career, and health."
+title: "Gemini 2026: Uranus Enters Your Sign in July (Revolution Begins)"
+description: "July 7, Uranus storms into Gemini for 7 years of radical freedom and reinvention. Last time (1942-1949)? The world rebuilt after WWII. This time it's YOUR turn. Eclipse season, Mercury retrogrades, and monthly forecasts →"
 publishedAt: "2026-02-17"
 updatedAt: "2026-02-17"
 author: "North Star Astrology"

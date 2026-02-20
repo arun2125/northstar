@@ -1,6 +1,6 @@
 ---
-title: "Taurus 2026: Uranus Finally Leaves After 7 Years (Chaos Ends)"
-description: "Your in-depth Taurus 2026 horoscope covering Neptune in Aries, eclipse impacts, Mercury retrograde cycles, and month-by-month predictions for love, career, and health."
+title: "Taurus 2026: Uranus Exits After 7 Years—What Happens Next"
+description: "Uranus leaves Taurus July 7 after shaking your foundation since 2019. The chaos ends. But what replaces it? Saturn trines bring stability, Jupiter expands finances. Your post-revolution life begins in 6 months →"
 publishedAt: "2026-02-17"
 updatedAt: "2026-02-17"
 author: "North Star Astrology"
