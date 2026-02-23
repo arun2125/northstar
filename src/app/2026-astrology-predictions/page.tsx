@@ -147,10 +147,6 @@ export default function Predictions2026Page() {
             publisher: {
               '@type': 'Organization',
               name: 'North Star Astro',
-              logo: {
-                '@type': 'ImageObject',
-                url: 'https://northstarastro.com/logo.png',
-              },
             },
             datePublished: post.date,
             dateModified: post.date,
