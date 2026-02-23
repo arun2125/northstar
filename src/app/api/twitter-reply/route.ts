@@ -1,20 +1,31 @@
 // Twitter Reply Helper API - connects to OpenClaw gateway via Cloudflare Tunnel
 import { NextRequest, NextResponse } from 'next/server';
 
-// Same endpoint as Tara chat
 const OPENCLAW_ENDPOINT = process.env.OPENCLAW_ENDPOINT || 'https://api.northstarastro.com';
 const OPENCLAW_TOKEN = process.env.OPENCLAW_TOKEN || 'afa81a6209f36d3a6e352bd88cca60c8f9756ed68edbf055';
 
 interface TwitterReplyRequest {
   tweetText: string;
+  tone?: string;
+  model?: string; // 'tara', 'sonnet', 'opus'
   username?: string;
-  account?: string; // @northstar_astro or @angry_hanuman
+  account?: string;
 }
+
+const TONE_DESCRIPTIONS: Record<string, string> = {
+  witty: 'Clever and humorous, quick wit, playful banter that makes people smile',
+  educational: 'Informative and insightful, teaches something new, adds value',
+  balanced: 'Thoughtful and measured, considers multiple perspectives, diplomatic',
+  provoking: 'Bold and challenging, makes people think differently, spicy takes',
+  supportive: 'Encouraging and positive, uplifts the conversation, warm',
+  sarcastic: 'Sharp and ironic, subtle mockery with humor, deadpan delivery',
+  savage: 'Brutal roast, no mercy but clever, makes people say DAMN'
+};
 
 export async function POST(request: NextRequest) {
   try {
     const body: TwitterReplyRequest = await request.json();
-    const { tweetText, username, account } = body;
+    const { tweetText, tone = 'balanced', model = 'sonnet', username, account } = body;
 
     if (!tweetText || tweetText.trim().length === 0) {
       return NextResponse.json(
@@ -23,24 +34,35 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    // Build prompt for OpenClaw
-    const personality = account === '@angry_hanuman' ? 'spicy' : 'helpful';
+    const toneDescription = TONE_DESCRIPTIONS[tone] || TONE_DESCRIPTIONS.balanced;
+    const personality = account === '@angry_hanuman' ? 'spicy Hindu mythology enthusiast' : 'astrology expert';
+    
     const prompt = `Generate a Twitter reply to this tweet:
 
-Tweet by ${username || 'someone'}:
+Tweet${username ? ` by ${username}` : ''}:
 "${tweetText}"
 
+Tone: ${tone.toUpperCase()} (${toneDescription})
 Personality: ${personality} (${account || '@northstar_astro'})
-Style: Match ${account || '@northstar_astro'} brand voice
 
 Rules:
-- Max 280 characters
+- Max 280 characters (STRICT)
+- Match the ${tone} personality PERFECTLY
 - On-brand and contextual
-- Add value or humor
-- No links
-- Include emoji if appropriate
+- Add value, humor, or insight
+- NO links ever
+- Include emoji if it fits the tone
+- Be memorable
 
-Reply:`;
+Reply (just the tweet text, nothing else):`;
+
+    // Map model name to OpenClaw model
+    const modelMap: Record<string, string> = {
+      tara: 'sonnet', // Tara uses sonnet under the hood
+      sonnet: 'sonnet',
+      opus: 'opus'
+    };
+    const openclawModel = modelMap[model] || 'sonnet';
 
     // Call OpenClaw Gateway
     const response = await fetch(`${OPENCLAW_ENDPOINT}/api/v1/chat`, {
@@ -51,23 +73,26 @@ Reply:`;
       },
       body: JSON.stringify({
         message: prompt,
-        agentId: 'main', // Jarvis (main agent)
-        sessionKey: `twitter-reply-${Date.now()}`, // One-shot session
-        model: 'sonnet', // Fast model
-        timeout: 30000 // 30 second timeout
+        agentId: 'main',
+        sessionKey: `twitter-reply-${Date.now()}`,
+        model: openclawModel,
+        timeout: model === 'opus' ? 60000 : 30000 // Opus needs more time
       })
     });
 
     if (!response.ok) {
       console.error('OpenClaw API error:', response.status, response.statusText);
       return NextResponse.json(
-        { success: false, reply: null, error: `Failed to generate reply: ${response.statusText}` },
+        { success: false, reply: null, error: `API error: ${response.statusText}` },
         { status: response.status }
       );
     }
 
     const data = await response.json();
-    const reply = data.reply || data.message || '';
+    let reply = data.reply || data.message || '';
+
+    // Clean up reply - remove quotes if present
+    reply = reply.trim().replace(/^["']|["']$/g, '');
 
     if (!reply) {
       return NextResponse.json(
@@ -78,9 +103,9 @@ Reply:`;
 
     return NextResponse.json({
       success: true,
-      reply: reply.trim(),
-      model: 'sonnet',
-      tokens: reply.length * 0.25 // rough estimate
+      reply: reply,
+      model: model,
+      tone: tone
     });
 
   } catch (error) {
@@ -92,7 +117,6 @@ Reply:`;
   }
 }
 
-// Allow OPTIONS for CORS preflight
 export async function OPTIONS() {
   return new NextResponse(null, {
     status: 200,
