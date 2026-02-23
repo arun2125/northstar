@@ -1,0 +1,38 @@
+# robots.txt for northstarastro.com
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://northstarastro.com/sitemap.xml
+
+# Block AI scrapers (optional - you can remove these if you want AI training data)
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Omgilibot
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
