@@ -1,11 +1,11 @@
 ---
 title: "Venus Enters Aries 2026: Bold Love and Fast Money"
 description: "Venus enters Aries March 6, 2026 at 10:45 AM EST—igniting passion, impatience, and new beginnings in love and finances. Here's how to harness the fire without getting burned →"
-date: "2026-02-23"
-author: "North Star Astro"
+publishedAt: "2026-02-23"
+author: "North Star Astrology"
+category: "transits"
 tags: ["venus enters aries 2026", "venus in aries 2026", "love horoscope march 2026", "2026 transits", "venus transit"]
-image: "/images/venus-aries-2026.jpg"
-imageAlt: "Venus symbol blazing with Aries fire, representing passionate love and bold action"
+image: "/images/venus-transit.jpg"
 faq:
   - question: "When does Venus enter Aries in 2026?"
     answer: "Venus enters Aries on March 6, 2026 at 10:45 AM EST (3:45 PM GMT, 9:15 PM IST). It remains in Aries until March 30, 2026, when it moves into Taurus."

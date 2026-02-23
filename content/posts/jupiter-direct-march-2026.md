@@ -1,11 +1,11 @@
 ---
 title: "Jupiter Stations Direct March 2026: Your Green Light for Growth"
 description: "Jupiter stations direct March 11, 2026 at 3:30 AM EST in Cancer at 14°. After 4 months of inward expansion, your biggest opportunities finally move forward. Here's what unlocks for every zodiac sign →"
-date: "2026-02-23"
-author: "North Star Astro"
+publishedAt: "2026-02-23"
+author: "North Star Astrology"
+category: "transits"
 tags: ["jupiter stations direct march 2026", "jupiter direct 2026", "jupiter in cancer", "2026 transits", "astrology 2026"]
-image: "/images/jupiter-direct-march-2026.jpg"
-imageAlt: "Jupiter's glyph emerging from shadow with golden light in Cancer constellation"
+image: "/images/jupiter-transit.jpg"
 faq:
   - question: "When does Jupiter station direct in March 2026?"
     answer: "Jupiter stations direct on March 11, 2026 at 3:30 AM EST (8:30 AM GMT) at 14° Cancer. This marks the end of a retrograde period that began November 11, 2025."
