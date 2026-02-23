@@ -320,7 +320,7 @@ Yes, this is a real phenomenon:
 - **Goat years** historically see lower birth rates (due to superstitions about Goat-born children)
 - **Fire Horse years** (like 1966) saw dramatically reduced births in Japan due to beliefs about Fire Horse women being difficult
 
-**2026 is a Fire Horse year**—the first since 1966. Will modern parents in Asia still avoid it? [Read more about the Fire Horse phenomenon →](/posts/fire-horse-2026)
+**2026 is a Fire Horse year**—the first since 1966. Will modern parents in Asia still avoid it? [Read more about the Fire Horse phenomenon →](/blog/fire-horse-2026)
 
 ---
 
@@ -385,9 +385,9 @@ These opposing pairs may clash:
 
 Now that you know your sign, explore further:
 
-- **[Year of the Fire Horse 2026](/posts/fire-horse-2026)** — What the current year means for all 12 signs
-- **[The Five Elements Explained](/posts/chinese-zodiac-elements)** — How your element shapes your personality
-- **[Chinese Zodiac Compatibility Guide](/posts/chinese-zodiac-compatibility)** — Detailed relationship analysis for every pairing
+- **[Year of the Fire Horse 2026](/blog/fire-horse-2026)** — What the current year means for all 12 signs
+- **[The Five Elements Explained](/blog/chinese-zodiac-elements)** — How your element shapes your personality
+- **[Chinese Zodiac Compatibility Guide](/blog/chinese-zodiac-compatibility)** — Detailed relationship analysis for every pairing
 
 ---
 

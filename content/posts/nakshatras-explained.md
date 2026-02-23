@@ -258,7 +258,7 @@ Each Nakshatra is ruled by one of the nine planets in a repeating sequence (Ketu
 
 For example, if you're born with Moon at 5° Aries (Ashwini Nakshatra, ruled by Ketu), you'll begin life in Ketu dasha. The exact degree tells us how many of Ketu's 7-year period remains.
 
-This makes the Nakshatra absolutely central to predictive astrology. To learn more about how the dasha system works, read our guide on [Vedic Dasha systems](/posts/dasha-system-explained).
+This makes the Nakshatra absolutely central to predictive astrology. To learn more about how the dasha system works, read our guide on [Vedic Dasha systems](/blog/dasha-system-explained).
 
 ### Psychological and Karmic Insight
 
@@ -396,7 +396,7 @@ Whether you're exploring Vedic astrology for the first time or deepening your ex
 
 Your birth Nakshatra is a cosmic address more specific than your zodiac sign—it's the particular star mansion where your Moon resided when you took your first breath, linking you to specific deities, themes, and karmic patterns that will unfold throughout your life.
 
-To understand the complete context of Vedic astrology and how Nakshatras fit into the larger system, explore our [introduction to Vedic astrology](/posts/what-is-vedic-astrology). And to see how Vedic astrology's approach differs from Western astrology, read our comparison article on [Vedic vs Western astrology](/posts/vedic-vs-western-astrology).
+To understand the complete context of Vedic astrology and how Nakshatras fit into the larger system, explore our [introduction to Vedic astrology](/blog/what-is-vedic-astrology). And to see how Vedic astrology's approach differs from Western astrology, read our comparison article on [Vedic vs Western astrology](/blog/vedic-vs-western-astrology).
 
 **Related Articles:**
 - [Dasha System Explained](/blog/dasha-system-explained)

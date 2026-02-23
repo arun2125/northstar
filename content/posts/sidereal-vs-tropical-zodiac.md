@@ -228,7 +228,7 @@ The fact that two systems using different zodiacs can both yield meaningful insi
 
 Whether you align with the seasonal symbolism of the tropical zodiac or the stellar authenticity of the sidereal zodiac, what matters most is finding a system that illuminates your path, resonates with your experience, and helps you navigate life's complexities with greater awareness.
 
-For a broader comparison of how these systems differ beyond just the zodiac, read our article on [Vedic vs Western astrology](/posts/vedic-vs-western-astrology). And to understand the complete foundation of Vedic astrology, check out our [introduction to Jyotish](/posts/what-is-vedic-astrology).
+For a broader comparison of how these systems differ beyond just the zodiac, read our article on [Vedic vs Western astrology](/blog/vedic-vs-western-astrology). And to understand the complete foundation of Vedic astrology, check out our [introduction to Jyotish](/blog/what-is-vedic-astrology).
 
 **Related Articles:**
 - [12 Houses Explained](/blog/12-houses-explained)

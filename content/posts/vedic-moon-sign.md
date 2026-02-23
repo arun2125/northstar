@@ -182,8 +182,8 @@ The Moon's interactions with other planets create specific emotional and mental 
 - **Moon with Venus**: Emotional, artistic, comfort-loving nature
 - **Moon with Mars**: Passionate, reactive emotions; courage but also anger
 - **Moon with Mercury**: Quick, intellectual mind; excellent for communication
-- **Moon with Saturn**: Serious, disciplined, or depressed mind; [Sade Sati](/posts/sade-sati-meaning) considerations
-- **Moon with [rahu](/glossary#R)/[ketu](/glossary#K)**: Emotional confusion, intuition, or spiritual awakening; see [Rahu and Ketu](/posts/rahu-ketu-meaning)
+- **Moon with Saturn**: Serious, disciplined, or depressed mind; [Sade Sati](/blog/sade-sati-meaning) considerations
+- **Moon with [rahu](/glossary#R)/[ketu](/glossary#K)**: Emotional confusion, intuition, or spiritual awakening; see [Rahu and Ketu](/blog/rahu-ketu-meaning)
 
 Certain combinations create special yogas (planetary combinations) that significantly enhance or challenge the Moon's expression.
 
@@ -208,9 +208,9 @@ Get weekly astrology insights delivered to your inbox every Monday.
 
 ---
 
-In Vedic astrology, relationship compatibility analysis (called [Kundali matching](/posts/kundali-matching-explained)) places enormous emphasis on Moon sign compatibility. The Moon governs your emotional needs, mental compatibility, and daily living habits—all crucial for long-term partnership success.
+In Vedic astrology, relationship compatibility analysis (called [Kundali matching](/blog/kundali-matching-explained)) places enormous emphasis on Moon sign compatibility. The Moon governs your emotional needs, mental compatibility, and daily living habits—all crucial for long-term partnership success.
 
-[Manglik Dosha](/posts/manglik-dosha-explained), one of the most important compatibility factors, is also calculated primarily from the Moon sign.
+[Manglik Dosha](/blog/manglik-dosha-explained), one of the most important compatibility factors, is also calculated primarily from the Moon sign.
 
 When two people's Moon signs are compatible:
 - Emotional understanding comes naturally

@@ -269,11 +269,11 @@ Your zodiac animal is just the beginning. Your full Chinese astrology chart incl
 
 ### Related Guides
 
-- [Chinese Zodiac: Complete Guide to the 12 Animal Signs](/posts/chinese-zodiac-12-animals)
-- [Year of the Ox: Personality & Compatibility](/posts/year-of-the-ox)
-- [Year of the Dragon: Personality & Compatibility](/posts/year-of-the-dragon)
-- [Year of the Monkey: Personality & Compatibility](/posts/year-of-the-monkey)
-- [Chinese Zodiac Compatibility: Love & Relationship Guide](/posts/chinese-zodiac-compatibility)
+- [Chinese Zodiac: Complete Guide to the 12 Animal Signs](/blog/chinese-zodiac-12-animals)
+- [Year of the Ox: Personality & Compatibility](/blog/year-of-the-ox)
+- [Year of the Dragon: Personality & Compatibility](/blog/year-of-the-dragon)
+- [Year of the Monkey: Personality & Compatibility](/blog/year-of-the-monkey)
+- [Chinese Zodiac Compatibility: Love & Relationship Guide](/blog/chinese-zodiac-compatibility)
 
 ---
 

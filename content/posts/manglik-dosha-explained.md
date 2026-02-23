@@ -37,7 +37,7 @@ Some astrologers also include:
 
 The dosha is calculated from three reference points:
 1. **Ascendant (Lagna)**: Your [rising sign](/glossary#A)
-2. **Moon (Chandra)**: Your [Moon sign](/posts/vedic-moon-sign)
+2. **Moon (Chandra)**: Your [Moon sign](/blog/vedic-moon-sign)
 3. **Venus (Shukra)**: The planet of love and marriage
 
 If Mars occupies any of the specified houses from **any** of these three points, the person is traditionally considered Manglik.
@@ -196,7 +196,7 @@ These matter most:
 
 **Both Manglik**: Consider partners who are also Manglik if you're strongly afflicted. Mutual understanding makes a huge difference.
 
-## Manglik Dosha in [Kundali Matching](/posts/kundali-matching-explained)
+## Manglik Dosha in [Kundali Matching](/blog/kundali-matching-explained)
 
 In traditional Vedic compatibility analysis, Manglik Dosha is checked early in the process. The general guidelines:
 
@@ -271,9 +271,9 @@ The vast majority of Manglik concerns are overblown, based on incomplete analysi
 
 Mars energy, when conscious and channeled positively, brings passion, courage, protection, and dynamic vitality to relationships. The question isn't whether you have Manglik Dosha, but whether you've learned to work with your Mars nature skillfully.
 
-If you're concerned about Manglik Dosha—whether your own or a potential partner's—the single best step is getting a complete [Vedic compatibility analysis](/posts/kundali-matching-explained) from an experienced, modern-minded astrologer. They can assess the actual situation rather than applying blanket fears.
+If you're concerned about Manglik Dosha—whether your own or a potential partner's—the single best step is getting a complete [Vedic compatibility analysis](/blog/kundali-matching-explained) from an experienced, modern-minded astrologer. They can assess the actual situation rather than applying blanket fears.
 
-Your [Moon sign](/posts/vedic-moon-sign), overall chart strength, current [dashas and transits like [sade sati](/glossary#S)](/posts/sade-sati-meaning), and [[rahu](/glossary#R)-[ketu](/glossary#K) placements](/posts/rahu-ketu-meaning) all matter as much or more than Mars placement alone.
+Your [Moon sign](/blog/vedic-moon-sign), overall chart strength, current [dashas and transits like [sade sati](/glossary#S)](/blog/sade-sati-meaning), and [[rahu](/glossary#R)-[ketu](/glossary#K) placements](/blog/rahu-ketu-meaning) all matter as much or more than Mars placement alone.
 
 Marriage is challenging for everyone. Understanding your chart—including Mars—helps you navigate those challenges with wisdom. That's the true purpose of Vedic astrology: guidance, not fear.
 

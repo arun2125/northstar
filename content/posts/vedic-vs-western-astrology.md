@@ -29,7 +29,7 @@ Vedic astrology, on the other hand, uses the **sidereal zodiac**, which is based
 
 Due to a phenomenon called the **precession of the equinoxes**—a slow wobble in Earth's axis—these two zodiacs have drifted apart by approximately 24 degrees over the past 2,000 years. This difference, called the **[ayanamsa](/glossary#A)**, is why your Vedic sun sign is often one sign "earlier" than your Western sun sign.
 
-For example, if you were born on August 15th, Western astrology would place your Sun in Leo. But in Vedic astrology, accounting for the ayanamsa, your Sun would likely be in Cancer. This isn't because one system is "wrong"—they're simply measuring different things. To learn more about this fundamental difference, check out our detailed guide on the [sidereal vs tropical zodiac](/posts/sidereal-vs-tropical-zodiac).
+For example, if you were born on August 15th, Western astrology would place your Sun in Leo. But in Vedic astrology, accounting for the ayanamsa, your Sun would likely be in Cancer. This isn't because one system is "wrong"—they're simply measuring different things. To learn more about this fundamental difference, check out our detailed guide on the [sidereal vs tropical zodiac](/blog/sidereal-vs-tropical-zodiac).
 
 ## Philosophical Foundations
 
@@ -56,7 +56,7 @@ During a planet's dasha, that planet's themes, house positions, and aspects beco
 
 Western astrology primarily relies on **transits** (current planetary positions relative to your birth chart), **progressions** (symbolic advancement of planets over time), and **solar returns** (your chart for each birthday). While Vedic astrology also uses transits, the dasha system provides a more granular timeline that many practitioners find more precise for prediction.
 
-To understand how this timing system works in practice, see our comprehensive guide on the [Vedic dasha system](/posts/dasha-system-explained).
+To understand how this timing system works in practice, see our comprehensive guide on the [Vedic dasha system](/blog/dasha-system-explained).
 
 ## The Moon's Prominence
 
@@ -66,7 +66,7 @@ Vedic astrology flips this priority. The **Moon sign** (called your [rashi](/glo
 
 Furthermore, Vedic astrology divides the zodiac into 27 **[nakshatras](/glossary#N)** (lunar mansions), each spanning 13°20' of the zodiac. Your birth [nakshatra](/glossary#N)—where the Moon was positioned at your birth—reveals deep psychological patterns, karmic tendencies, and specific life themes. Each Nakshatra has its own deity, symbol, and planetary ruler, adding layers of meaning beyond the twelve zodiac signs.
 
-Western astrology has largely abandoned the use of Nakshatras (though they were known in ancient Greek astrology as "lunar mansions"). To explore this uniquely Vedic concept, read our guide to the [27 Nakshatras](/posts/nakshatras-explained).
+Western astrology has largely abandoned the use of Nakshatras (though they were known in ancient Greek astrology as "lunar mansions"). To explore this uniquely Vedic concept, read our guide to the [27 Nakshatras](/blog/nakshatras-explained).
 
 ## Chart Calculation and House Systems
 
@@ -149,7 +149,7 @@ Many astrology enthusiasts eventually explore both systems, finding that they of
 
 The key is to study each system on its own terms rather than trying to mix them haphazardly. Each is internally consistent and powerful when properly understood. Whether you choose the sidereal precision of Jyotish or the psychological depth of Western astrology—or embrace both as different lenses on the same cosmic truth—you're tapping into humanity's ancient quest to find meaning in the stars.
 
-If you're new to Vedic astrology and want to understand its foundations, start with our complete introduction: [What Is Vedic Astrology?](/posts/what-is-vedic-astrology)
+If you're new to Vedic astrology and want to understand its foundations, start with our complete introduction: [What Is Vedic Astrology?](/blog/what-is-vedic-astrology)
 
 **Related Articles:**
 - [Nakshatras Explained](/blog/nakshatras-explained)

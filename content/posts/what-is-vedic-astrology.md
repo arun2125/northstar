@@ -91,7 +91,7 @@ This means that if you were born with the Sun at 10° Virgo in the tropical zodi
 
 But this isn't because one system is wrong. They're measuring different things: Western astrology tracks the Sun's relationship to Earth's seasons, while Vedic astrology tracks the Sun's position against the backdrop of fixed stars. Both are astronomically valid but yield different interpretations.
 
-For a detailed explanation of this fundamental difference, see our article on [sidereal vs tropical zodiac systems](/posts/sidereal-vs-tropical-zodiac).
+For a detailed explanation of this fundamental difference, see our article on [sidereal vs tropical zodiac systems](/blog/sidereal-vs-tropical-zodiac).
 
 
 ---
@@ -132,7 +132,7 @@ Each Nakshatra has its own:
 - Symbol and qualities
 - Favorable and unfavorable attributes
 
-To learn more about this uniquely Vedic concept, read our comprehensive guide to [the 27 Nakshatras](/posts/nakshatras-explained).
+To learn more about this uniquely Vedic concept, read our comprehensive guide to [the 27 Nakshatras](/blog/nakshatras-explained).
 
 ### The Nine Planets (Grahas)
 
@@ -194,7 +194,7 @@ Each person is born into a specific planetary period based on their birth Moon's
 
 During each planet's dasha, that planet's house position, sign, aspects, and dignity become especially active in your life. A well-placed Jupiter dasha brings expansion, opportunity, and growth. A challenging Saturn dasha brings tests, restrictions, and maturation.
 
-The dasha system can pinpoint major life events—marriages, career changes, relocations, health issues, spiritual awakenings—with remarkable specificity. For a detailed explanation of how dashas work, see our article on the [Vedic dasha system](/posts/dasha-system-explained).
+The dasha system can pinpoint major life events—marriages, career changes, relocations, health issues, spiritual awakenings—with remarkable specificity. For a detailed explanation of how dashas work, see our article on the [Vedic dasha system](/blog/dasha-system-explained).
 
 ### Transits (Gocharas)
 
@@ -251,7 +251,7 @@ If you're intrigued and want to explore Vedic astrology:
 
 **Compare to lived experience**: The test of any astrological system is whether it accurately describes your life. See if Vedic astrology's timing and themes resonate with your actual experiences.
 
-For a comparison of how Vedic and Western astrology differ in their approaches and techniques, read our article on [Vedic vs Western astrology](/posts/vedic-vs-western-astrology).
+For a comparison of how Vedic and Western astrology differ in their approaches and techniques, read our article on [Vedic vs Western astrology](/blog/vedic-vs-western-astrology).
 
 ## The Light of Awareness
 

@@ -36,7 +36,7 @@ Kundali matching is the process of comparing two birth charts (Kundalis) to asse
 5. **Longevity and Health**: Compatibility for long life together
 6. **Mutual Planetary Relationships**: How the planets in each chart interact
 
-The most widely used system is **Ashtakoot**, which assigns points across eight compatibility categories based on the couple's [Moon signs (Rashis)](/posts/vedic-moon-sign) and [nakshatras](/glossary#N) (lunar mansions).
+The most widely used system is **Ashtakoot**, which assigns points across eight compatibility categories based on the couple's [Moon signs (Rashis)](/blog/vedic-moon-sign) and [nakshatras](/glossary#N) (lunar mansions).
 
 ## The Ashtakoot System: Eight Categories of Compatibility
 
@@ -162,7 +162,7 @@ After comparing all eight categories, the total score (out of 36) is interpreted
 Experienced Vedic astrologers know that the 36-point Ashtakoot system is just the **starting point**. Several other factors are equally or more important:
 
 ### 1. Manglik Dosha
-[Manglik Dosha](/posts/manglik-dosha-explained) is checked independently. If one partner is strongly Manglik and the other isn't (with no cancellations), this can override even a high guna score.
+[Manglik Dosha](/blog/manglik-dosha-explained) is checked independently. If one partner is strongly Manglik and the other isn't (with no cancellations), this can override even a high guna score.
 
 ### 2. Planetary Periods (Dashas)
 You might be perfectly compatible as people, but if you're entering a terrible [dasha](/glossary#D) period (like a [malefic](/glossary#M) planet's 18-year cycle), the marriage will face external pressures. Timing matters enormously.
@@ -196,7 +196,7 @@ Do both charts indicate similar financial capacity? A huge discrepancy in wealth
 Do both charts support children? If one person's chart indicates difficulty with children and the other expects a large family, this matters.
 
 ### 8. Current Transits
-Major transits like [Sade Sati](/posts/sade-sati-meaning) or [[rahu](/glossary#R)-[ketu](/glossary#K) transits](/posts/rahu-ketu-meaning) over sensitive points can create challenging periods, even in otherwise compatible matches.
+Major transits like [Sade Sati](/blog/sade-sati-meaning) or [[rahu](/glossary#R)-[ketu](/glossary#K) transits](/blog/rahu-ketu-meaning) over sensitive points can create challenging periods, even in otherwise compatible matches.
 
 ## When Kundali Matching Works Well
 
@@ -327,7 +327,7 @@ If you're considering marriage—whether arranged or love—getting a complete c
 
 But remember: astrology should **inform** your decision, not **make** your decision. You're not marrying a chart—you're marrying a person. Trust your intuition, observe their character, communicate deeply, and honor both your heart and your wisdom.
 
-Understanding your own [Moon sign](/posts/vedic-moon-sign), navigating major transits like [Sade Sati](/posts/sade-sati-meaning), working with your [Rahu-Ketu axis](/posts/rahu-ketu-meaning), and managing considerations like [Manglik Dosha](/posts/manglik-dosha-explained) all contribute to marriage success.
+Understanding your own [Moon sign](/blog/vedic-moon-sign), navigating major transits like [Sade Sati](/blog/sade-sati-meaning), working with your [Rahu-Ketu axis](/blog/rahu-ketu-meaning), and managing considerations like [Manglik Dosha](/blog/manglik-dosha-explained) all contribute to marriage success.
 
 Ultimately, the best marriage is one where two mature, self-aware individuals choose to grow together—with or without perfect gunas. Use Kundali matching as a tool for insight and preparation, not a rigid rule that overrides human connection and conscious choice.
 

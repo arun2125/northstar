@@ -301,4 +301,4 @@ Whether you're a Monkey seeking self-understanding or someone wanting to connect
 
 ---
 
-*Curious about other Chinese zodiac signs? Explore our complete guides to the [Year of the Rat](/posts/year-of-the-rat), [Year of the Dragon](/posts/year-of-the-dragon), and all twelve zodiac animals.*
+*Curious about other Chinese zodiac signs? Explore our complete guides to the [Year of the Rat](/blog/year-of-the-rat), [Year of the Dragon](/blog/year-of-the-dragon), and all twelve zodiac animals.*

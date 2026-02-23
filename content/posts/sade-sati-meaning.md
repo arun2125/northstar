@@ -24,7 +24,7 @@ If you've ever heard someone blame their struggles on "Sade Sati," or felt anxio
 ## What Is Sade Sati in Vedic Astrology?
 
 Sade Sati occurs when Saturn transits through:
-1. The zodiac sign immediately before your [Moon sign (Rashi)](/posts/vedic-moon-sign)
+1. The zodiac sign immediately before your [Moon sign (Rashi)](/blog/vedic-moon-sign)
 2. The sign where your Moon is placed
 3. The sign immediately after your Moon
 
@@ -194,7 +194,7 @@ Sade Sati is one of the most important astrological transits in Vedic astrologyâ
 
 If you're currently in Sade Sati, remember: millions have walked this path before you and emerged stronger. This is not about punishment; it's about evolution. Stay patient, do your inner work, fulfill your responsibilities, and trust the process.
 
-Understanding your complete [Vedic birth chart](/posts/[kundali](/glossary#K)-matching-explained) can provide deeper insight into how Sade Sati will affect you personally. Consulting with an experienced Vedic astrologer can help you navigate this period with greater clarity and confidence.
+Understanding your complete [Vedic birth chart](/blog/[kundali](/glossary#K)-matching-explained) can provide deeper insight into how Sade Sati will affect you personally. Consulting with an experienced Vedic astrologer can help you navigate this period with greater clarity and confidence.
 
 The darkness of Sade Sati always gives way to light. Trust the journey.
 

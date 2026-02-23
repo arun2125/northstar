@@ -533,4 +533,4 @@ The Fire Horse runs wild through 2026. The only question is: are you riding, or 
 
 ---
 
-*This article is part of our Fire Horse 2026 series. Read more: [Understanding Fire Horse Energy](/posts/fire-horse-2026-guide) | [Fire Horse Compatibility](/posts/fire-horse-love-compatibility)*
+*This article is part of our Fire Horse 2026 series. Read more: [Understanding Fire Horse Energy](/blog/fire-horse-2026-guide) | [Fire Horse Compatibility](/blog/fire-horse-love-compatibility)*

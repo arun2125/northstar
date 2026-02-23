@@ -19,7 +19,7 @@ faq:
 
 Life moves in cycles, and understanding where you are in yours can transform how you approach each year. Your **Personal Year Number** is numerology's gift to planning—a single digit that reveals the dominant energy, lessons, and opportunities waiting for you over the next 12 months.
 
-While your [birth chart](/posts/birth-chart-basics) shows the cosmic weather patterns, your Personal Year Number tells you what seeds to plant and when to harvest. Let's explore how to calculate yours and what each number means for your year ahead.
+While your [birth chart](/blog/birth-chart-basics) shows the cosmic weather patterns, your Personal Year Number tells you what seeds to plant and when to harvest. Let's explore how to calculate yours and what each number means for your year ahead.
 
 ## What Is a Personal Year Number?
 
@@ -29,7 +29,7 @@ This isn't fortune-telling—it's pattern recognition. Just as astrology tracks 
 
 The beauty of this system is its precision. Unlike vague predictions, each Personal Year has distinct characteristics, challenges, and gifts. When you know your number, you can align your actions with the natural flow of your life rather than swimming upstream.
 
-Understanding your Personal Year is especially powerful when combined with your [Life Path Number](/posts/life-path-number). Your Life Path is who you are; your Personal Year is what you're learning this year.
+Understanding your Personal Year is especially powerful when combined with your [Life Path Number](/blog/life-path-number). Your Life Path is who you are; your Personal Year is what you're learning this year.
 
 ## How to Calculate Your Personal Year Number
 
@@ -108,7 +108,7 @@ After the bold independence of Year 1, Year 2 asks you to slow down, collaborate
 
 **Challenges:** Indecision, oversensitivity, and feeling invisible. Year 2 doesn't give instant gratification. You're watering seeds, not harvesting crops. Trust the slow growth.
 
-**Astrological connection:** This energy mirrors [Venus and Moon transits](/posts/moon-phases-guide)—receptive, relational, and emotionally attuned.
+**Astrological connection:** This energy mirrors [Venus and Moon transits](/blog/moon-phases-guide)—receptive, relational, and emotionally attuned.
 
 ## Personal Year 3: Creative Expression and Joy
 
@@ -132,7 +132,7 @@ Year 3 is when your garden starts blooming. After planting (Year 1) and watering
 
 **Challenges:** Scattering your energy across too many projects, superficiality, or avoiding deeper emotional work. Year 3 can feel like a party, but don't use it to escape necessary growth.
 
-**Astrological connection:** Year 3 resonates with [Mercury and Jupiter energy](/posts/mercury-[retrograde](/glossary#R)-survival)—expansion, communication, and optimistic growth.
+**Astrological connection:** Year 3 resonates with [Mercury and Jupiter energy](/blog/mercury-[retrograde](/glossary#R)-survival)—expansion, communication, and optimistic growth.
 
 ## Personal Year 4: Building Foundations
 
@@ -156,7 +156,7 @@ The fun and games of Year 3 give way to Year 4's serious construction energy. Th
 
 **Challenges:** Feeling restricted, overwhelmed by responsibility, or burned out. Year 4 demands discipline, which can feel heavy. Remember: you're building something that will support you for years.
 
-**Astrological connection:** This mirrors [Saturn energy](/posts/saturn-return-guide)—structure, discipline, and karmic foundations. If you're in your [saturn return](/glossary#S), Year 4 amplifies that intensity.
+**Astrological connection:** This mirrors [Saturn energy](/blog/saturn-return-guide)—structure, discipline, and karmic foundations. If you're in your [saturn return](/glossary#S), Year 4 amplifies that intensity.
 
 ## Personal Year 5: Change and Freedom
 
@@ -180,7 +180,7 @@ After the structure of Year 4, Year 5 breaks everything open. This is the year o
 
 **Challenges:** Chaos, impulsiveness, or burning bridges unnecessarily. Year 5 can make you want to throw everything away. Be discerning—some structures should stay while others need to go.
 
-**Astrological connection:** Year 5 resonates with [Uranus energy](/posts/uranus-transits)—sudden changes, liberation, and breakthrough moments.
+**Astrological connection:** Year 5 resonates with [Uranus energy](/blog/uranus-transits)—sudden changes, liberation, and breakthrough moments.
 
 ## Personal Year 6: Love, Home, and Responsibility
 
@@ -204,7 +204,7 @@ Year 6 brings you back to what matters most: love, family, and home. After Year 
 
 **Challenges:** Over-giving, martyrdom, or neglecting your own needs. Year 6 asks you to care for others, but not at your expense. Boundaries matter.
 
-**Astrological connection:** This is pure [Venus energy](/posts/venus-retrograde)—love, beauty, harmony, and values.
+**Astrological connection:** This is pure [Venus energy](/blog/venus-retrograde)—love, beauty, harmony, and values.
 
 ## Personal Year 7: Reflection and Inner Growth
 
@@ -228,7 +228,7 @@ Year 7 is your sabbatical year—a time to retreat inward, reflect deeply, and c
 
 **Challenges:** Isolation, depression, or feeling disconnected from the world. Year 7 can be lonely, but it's purposeful solitude. You're shedding old skins to reveal your authentic self.
 
-**Astrological connection:** Year 7 mirrors [Neptune energy](/posts/neptune-transits) and the 12th house—dissolution, spirituality, and transcendence.
+**Astrological connection:** Year 7 mirrors [Neptune energy](/blog/neptune-transits) and the 12th house—dissolution, spirituality, and transcendence.
 
 ## Personal Year 8: Power, Success, and Abundance
 
@@ -271,7 +271,7 @@ Get weekly astrology insights delivered to your inbox every Monday.
 
 **Challenges:** Workaholism, materialism, or power struggles. Year 8 can make you obsessed with success. Remember that real power includes compassion and generosity.
 
-**Astrological connection:** This is [Pluto and 10th house energy](/posts/pluto-transits)—power, transformation, and public achievement.
+**Astrological connection:** This is [Pluto and 10th house energy](/blog/pluto-transits)—power, transformation, and public achievement.
 
 ## Personal Year 9: Completion and Release
 
@@ -295,7 +295,7 @@ Year 9 closes your nine-year cycle. It's time to complete unfinished business, r
 
 **Challenges:** Grief, loss, or resistance to change. Year 9 can feel like death before rebirth—because that's exactly what it is. Trust the process.
 
-**Astrological connection:** Year 9 resonates with the [South Node](/posts/[nodes](/glossary#N)-of-destiny) and 12th house—karmic completion and spiritual surrender.
+**Astrological connection:** Year 9 resonates with the [South Node](/blog/[nodes](/glossary#N)-of-destiny) and 12th house—karmic completion and spiritual surrender.
 
 ## Working With Your Personal Year Energy
 
@@ -307,7 +307,7 @@ Knowing your Personal Year Number is just the beginning. The real magic happens 
 
 **Year 9 is unique:** It's about completion and release—neither fully active nor passive, but rather surrendering to what needs to end.
 
-Combine your Personal Year with your current [solar return chart](/posts/solar-return) for a complete picture of your year ahead. Numerology shows the spiritual lesson; astrology shows the cosmic timing and specific life areas affected.
+Combine your Personal Year with your current [solar return chart](/blog/solar-return) for a complete picture of your year ahead. Numerology shows the spiritual lesson; astrology shows the cosmic timing and specific life areas affected.
 
 Your Personal Year Number is a roadmap, not a prison. You always have free will. But when you work with the year's natural energy rather than against it, life flows more easily. You're dancing with the universe instead of fighting the music.
 

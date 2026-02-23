@@ -17,7 +17,7 @@ faq:
     answer: "They're similar energies! Saturn represents karmic lessons and areas requiring discipline in astrology, while Karmic Debt Numbers show the same in numerology. A 16/7 karmic debt often coincides with significant Saturn aspects in your birth chart."
 ---
 
-Not all numbers in numerology are created equal. While your [Life Path Number](/posts/life-path-number) reveals your core purpose and your [Birthday Number](/posts/birthday-number-meaning) shows your natural talents, some numbers carry an extra weight—a **Karmic Debt**.
+Not all numbers in numerology are created equal. While your [Life Path Number](/blog/life-path-number) reveals your core purpose and your [Birthday Number](/blog/birthday-number-meaning) shows your natural talents, some numbers carry an extra weight—a **Karmic Debt**.
 
 If you have 13, 14, 16, or 19 appearing in your numerology chart before final reduction, you're carrying karmic debt from past actions or inherited patterns. These numbers indicate areas where you'll face repeated challenges until you master the lesson they teach.
 
@@ -35,7 +35,7 @@ These numbers indicate:
 
 Think of karmic debt like a spiritual student loan—you're paying back something borrowed before, but with interest in the form of life lessons. The good news? Once you've paid it off, you own the wisdom completely.
 
-From an astrological perspective, karmic debt numbers resonate with [Saturn energy](/posts/saturn-return-guide)—the cosmic taskmaster who demands maturity through challenge. If you have a karmic debt number and significant Saturn aspects in your chart, you're really here to do deep work.
+From an astrological perspective, karmic debt numbers resonate with [Saturn energy](/blog/saturn-return-guide)—the cosmic taskmaster who demands maturity through challenge. If you have a karmic debt number and significant Saturn aspects in your chart, you're really here to do deep work.
 
 ## How to Find Your Karmic Debt Numbers
 
@@ -123,7 +123,7 @@ Once you master 13/4, you become incredibly reliable, disciplined, and successfu
 
 ### Astrological Connection
 
-13/4 resonates with [Saturn in Capricorn](/posts/saturn-return-guide)—hard work, discipline, and slow but steady building. If you have Saturn strongly placed in your chart with 13/4 in your numerology, lean into the work. Your [Saturn Return](/posts/saturn-return-guide) will be especially significant.
+13/4 resonates with [Saturn in Capricorn](/blog/saturn-return-guide)—hard work, discipline, and slow but steady building. If you have Saturn strongly placed in your chart with 13/4 in your numerology, lean into the work. Your [Saturn Return](/blog/saturn-return-guide) will be especially significant.
 
 ## Karmic Debt 14/5: The Price of Freedom Abused
 
@@ -167,7 +167,7 @@ Once you master 14/5, you become someone who experiences true freedom—freedom 
 
 ### Astrological Connection
 
-14/5 resonates with [Uranus in hard aspect](/posts/uranus-transits) or challenging Sagittarius placements—the tension between freedom and responsibility. If you have Uranus [square](/glossary#S) Saturn or challenging 9th house placements with 14/5, your lessons around freedom and discipline are amplified.
+14/5 resonates with [Uranus in hard aspect](/blog/uranus-transits) or challenging Sagittarius placements—the tension between freedom and responsibility. If you have Uranus [square](/glossary#S) Saturn or challenging 9th house placements with 14/5, your lessons around freedom and discipline are amplified.
 
 ## Karmic Debt 16/7: The Tower of Ego
 
@@ -211,7 +211,7 @@ Once you master 16/7, you become genuinely wise and spiritual—not in a showy w
 
 ### Astrological Connection
 
-16/7 resonates with [Pluto transits](/posts/pluto-transits), particularly Pluto conjunct, square, or opposite personal planets—transformation through destruction. Also connects to [South Node lessons](/posts/[nodes](/glossary#N)-of-destiny) around ego and power. If you have both 16/7 and significant Pluto aspects, your transformation journey is particularly intense.
+16/7 resonates with [Pluto transits](/blog/pluto-transits), particularly Pluto conjunct, square, or opposite personal planets—transformation through destruction. Also connects to [South Node lessons](/blog/[nodes](/glossary#N)-of-destiny) around ego and power. If you have both 16/7 and significant Pluto aspects, your transformation journey is particularly intense.
 
 ## Karmic Debt 19/1: The Burden of Selfishness
 
@@ -255,7 +255,7 @@ Once you master 19/1, you become a truly great leader—one who leads through in
 
 ### Astrological Connection
 
-19/1 resonates with [Sun-Pluto aspects](/posts/pluto-transits) or challenging Leo/10th house placements—learning to wield power and leadership ethically. If you have Sun square or opposite Pluto with 19/1, your lessons around ego, power, and selflessness are especially pronounced.
+19/1 resonates with [Sun-Pluto aspects](/blog/pluto-transits) or challenging Leo/10th house placements—learning to wield power and leadership ethically. If you have Sun square or opposite Pluto with 19/1, your lessons around ego, power, and selflessness are especially pronounced.
 
 ## Living With Karmic Debt: Practical Guidance
 
@@ -294,7 +294,7 @@ Random life experience doesn't automatically pay karmic debt. **Conscious effort
 
 ### 4. Find Support
 
-Work with a therapist, spiritual teacher, or mentor who understands your specific karmic pattern. [Therapy and astrology](/posts/therapy-and-astrology) can be powerful allies.
+Work with a therapist, spiritual teacher, or mentor who understands your specific karmic pattern. [Therapy and astrology](/blog/therapy-and-astrology) can be powerful allies.
 
 ### 5. Track Progress
 
@@ -306,11 +306,11 @@ Karmic debt doesn't clear overnight. It takes years, sometimes decades. Be patie
 
 ### 7. Combine with Astrology
 
-Your [birth chart](/posts/birth-chart-basics) shows WHERE and WHEN karmic lessons will be most intense. Major transits often activate karmic debt patterns. Understanding both gives you a complete map.
+Your [birth chart](/blog/birth-chart-basics) shows WHERE and WHEN karmic lessons will be most intense. Major transits often activate karmic debt patterns. Understanding both gives you a complete map.
 
 ## Karmic Debt and Your Life Path
 
-Your karmic debt influences how you experience your [Life Path Number](/posts/life-path-number):
+Your karmic debt influences how you experience your [Life Path Number](/blog/life-path-number):
 
 **13/4 Life Path:** You're here to build and organize, but will face constant obstacles requiring extra discipline. Your success comes through persistence.
 
@@ -324,7 +324,7 @@ If your karmic debt appears in other numbers (Birthday, Expression, Soul Urge), 
 
 ## Karmic Debt vs. [master numbers](/glossary#M)
 
-Some people confuse karmic debt numbers with [master numbers](/posts/birthday-number-meaning) (11, 22, 33). They're different:
+Some people confuse karmic debt numbers with [master numbers](/blog/birthday-number-meaning) (11, 22, 33). They're different:
 
 **Master Numbers (11, 22, 33):** Higher vibration potential; spiritual gifts and heightened sensitivity; require using elevated abilities for service.
 

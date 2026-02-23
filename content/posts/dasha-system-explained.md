@@ -68,7 +68,7 @@ The exact degree of the Moon within the Nakshatra determines how much of that da
 
 This is why precise birth time is crucial in Vedic astrology—even a few minutes' difference can change which dasha you're in during important life periods.
 
-To understand Nakshatras in detail, see our comprehensive guide: [The 27 Nakshatras Explained](/posts/nakshatras-explained).
+To understand Nakshatras in detail, see our comprehensive guide: [The 27 Nakshatras Explained](/blog/nakshatras-explained).
 
 ## Levels of Dashas: Maha, Antar, and Beyond
 
@@ -368,7 +368,7 @@ Whether you're in an expansive Jupiter period, a disciplined Saturn period, or a
 
 The dasha system doesn't negate free will—it shows when certain karmic potentials become especially ripe. What you do with those moments, how consciously you navigate them, and what spiritual practices you employ to transform karma—these remain in your hands.
 
-To understand the broader context of Vedic astrology and how dashas fit into the complete system, explore our [introduction to Vedic astrology](/posts/what-is-vedic-astrology). And to see how Vedic timing techniques differ from Western predictive methods, read our comparison: [Vedic vs Western Astrology](/posts/vedic-vs-western-astrology).
+To understand the broader context of Vedic astrology and how dashas fit into the complete system, explore our [introduction to Vedic astrology](/blog/what-is-vedic-astrology). And to see how Vedic timing techniques differ from Western predictive methods, read our comparison: [Vedic vs Western Astrology](/blog/vedic-vs-western-astrology).
 
 **Related Articles:**
 - [Nakshatras Explained](/blog/nakshatras-explained)

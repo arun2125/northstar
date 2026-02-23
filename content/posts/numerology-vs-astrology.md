@@ -17,7 +17,7 @@ faq:
     answer: "Absolutely. Each system stands on its own. However, using both together provides richer insight than either alone. They're like two different languages describing the same truth."
 ---
 
-You've heard about [astrology's birth charts](/posts/birth-chart-basics) with their complex planetary positions, [houses](/glossary#H), and aspects. You've also discovered [numerology's elegant simplicity](/posts/life-path-number)—calculating your core numbers from your birthdate and name. But which system should you use? And how do they relate to each other?
+You've heard about [astrology's birth charts](/blog/birth-chart-basics) with their complex planetary positions, [houses](/glossary#H), and aspects. You've also discovered [numerology's elegant simplicity](/blog/life-path-number)—calculating your core numbers from your birthdate and name. But which system should you use? And how do they relate to each other?
 
 The truth is, **numerology and astrology aren't competitors—they're complementary systems** that reveal different dimensions of the same truth about you. Astrology is like a detailed map showing terrain, weather patterns, and optimal routes. Numerology is like a compass showing your true north and core direction.
 
@@ -37,13 +37,13 @@ Let's explore how these two ancient systems differ, where they overlap, and how 
 
 **Astrology's strength:** Specificity, timing, and nuanced complexity
 
-An [astrological birth chart](/posts/birth-chart-basics) has dozens of data points: Sun, Moon, Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto in various signs and houses, all forming aspects to each other. This creates a highly specific, individualized portrait.
+An [astrological birth chart](/blog/birth-chart-basics) has dozens of data points: Sun, Moon, Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto in various signs and houses, all forming aspects to each other. This creates a highly specific, individualized portrait.
 
 Astrology excels at:
-- **Timing:** When will something happen? [Saturn Returns](/posts/saturn-return-guide) at age 29-30, [Jupiter transits](/posts/jupiter-transits) bring expansion, [eclipses](/posts/[eclipse](/glossary#E)-guide) trigger destiny moments
-- **Emotional patterns:** Your [Moon sign](/posts/moon-signs-emotions) reveals emotional needs and reactions
-- **Communication style:** [Mercury sign](/posts/mercury-[retrograde](/glossary#R)-survival) shows how you think and communicate
-- **Love language:** [Venus sign](/posts/venus-retrograde) reveals how you give and receive love
+- **Timing:** When will something happen? [Saturn Returns](/blog/saturn-return-guide) at age 29-30, [Jupiter transits](/blog/jupiter-transits) bring expansion, [eclipses](/blog/[eclipse](/glossary#E)-guide) trigger destiny moments
+- **Emotional patterns:** Your [Moon sign](/blog/moon-signs-emotions) reveals emotional needs and reactions
+- **Communication style:** [Mercury sign](/blog/mercury-[retrograde](/glossary#R)-survival) shows how you think and communicate
+- **Love language:** [Venus sign](/blog/venus-retrograde) reveals how you give and receive love
 - **Specific life areas:** 12 houses show different domains (career, home, relationships, etc.)
 
 **Example:** Astrology can tell you that next month's Mars [transit](/glossary#T) will energize your career sector, making it an ideal time to ask for a promotion—that's specific, timed guidance.
@@ -59,14 +59,14 @@ Astrology excels at:
 
 **Numerology's strength:** Simplicity, clarity, and essential truth
 
-A [numerology chart](/posts/life-path-number) has fewer core numbers: Life Path, [Expression](/posts/name-numerology), [Soul Urge](/posts/name-numerology), [Personality](/posts/name-numerology), and [Personal Year](/posts/personal-year-number). This creates a clear, focused portrait of essence.
+A [numerology chart](/blog/life-path-number) has fewer core numbers: Life Path, [Expression](/blog/name-numerology), [Soul Urge](/blog/name-numerology), [Personality](/blog/name-numerology), and [Personal Year](/blog/personal-year-number). This creates a clear, focused portrait of essence.
 
 Numerology excels at:
 - **Life purpose:** Your [life path number](/glossary#L) reveals your core journey and purpose
 - **Personality essence:** Core traits distilled to their simplest form
-- **Natural gifts:** [Birthday Number](/posts/birthday-number-meaning) reveals innate talents
-- **Annual themes:** [Personal Year Numbers](/posts/personal-year-number) show nine-year cycles
-- **Compatibility basics:** [Life Path compatibility](/posts/numerology-compatibility) reveals natural dynamics
+- **Natural gifts:** [Birthday Number](/blog/birthday-number-meaning) reveals innate talents
+- **Annual themes:** [Personal Year Numbers](/blog/personal-year-number) show nine-year cycles
+- **Compatibility basics:** [Life Path compatibility](/blog/numerology-compatibility) reveals natural dynamics
 
 **Example:** Numerology can tell you that you're in a Personal Year 1 (new beginnings), so this entire year is ideal for fresh starts—that's a broader, thematic guidance.
 
@@ -94,7 +94,7 @@ Numerology excels at:
 
 ### Personality: Multifaceted vs Essential
 
-**Astrology:** Shows personality through multiple lenses—your [Sun sign](/posts/sun-sign-guide) is core identity, [Moon](/posts/moon-signs-emotions) is emotions, [Rising](/posts/rising-sign-guide) is presentation, [Mercury](/posts/mercury-retrograde-survival) is mind, [Venus](/posts/venus-retrograde) is love style, [Mars](/posts/mars-retrograde) is drive
+**Astrology:** Shows personality through multiple lenses—your [Sun sign](/blog/sun-sign-guide) is core identity, [Moon](/blog/moon-signs-emotions) is emotions, [Rising](/blog/rising-sign-guide) is presentation, [Mercury](/blog/mercury-retrograde-survival) is mind, [Venus](/blog/venus-retrograde) is love style, [Mars](/blog/mars-retrograde) is drive
 
 **Numerology:** Shows personality through essential numbers—Life Path is journey, Expression is natural gifts, Soul Urge is desires, Personality is outer mask
 
@@ -104,9 +104,9 @@ Numerology excels at:
 
 ### Compatibility: Complex vs Clear
 
-**Astrology:** [Synastry](/posts/synastry-guide) examines how two entire charts interact—dozens of aspects between planets, composite charts, timing of relationship evolution
+**Astrology:** [Synastry](/blog/synastry-guide) examines how two entire charts interact—dozens of aspects between planets, composite charts, timing of relationship evolution
 
-**Numerology:** [Life Path compatibility](/posts/numerology-compatibility) examines core number dynamics—which Life Paths naturally harmonize or challenge
+**Numerology:** [Life Path compatibility](/blog/numerology-compatibility) examines core number dynamics—which Life Paths naturally harmonize or challenge
 
 **When to use each:**
 - **Astrology:** "How do we communicate? What triggers conflict? What's our sexual chemistry?"
@@ -165,8 +165,8 @@ Despite their differences, both systems often point to the same truths through d
 
 ### Karmic Lessons
 
-- **Astrology:** [Saturn](/posts/saturn-return-guide), [South Node](/posts/[nodes](/glossary#N)-of-destiny), Pluto show karmic lessons
-- **Numerology:** [Karmic Debt Numbers](/posts/karmic-debt-numbers) (13, 14, 16, 19) show karmic lessons
+- **Astrology:** [Saturn](/blog/saturn-return-guide), [South Node](/blog/[nodes](/glossary#N)-of-destiny), Pluto show karmic lessons
+- **Numerology:** [Karmic Debt Numbers](/blog/karmic-debt-numbers) (13, 14, 16, 19) show karmic lessons
 
 **Example:** Karmic Debt 16/7 (ego transformation) often appears with challenging Saturn or Pluto aspects—both indicating intense personal transformation.
 
@@ -177,20 +177,20 @@ The real magic happens when you layer numerology and astrology for multidimensio
 ### 1. Start with Numerology for Clarity
 
 Calculate your core numbers first:
-- [Life Path Number](/posts/life-path-number): Core purpose
-- [Personal Year Number](/posts/personal-year-number): Current annual theme
-- [Expression Number](/posts/name-numerology): Natural gifts
-- [Birthday Number](/posts/birthday-number-meaning): Special talents
+- [Life Path Number](/blog/life-path-number): Core purpose
+- [Personal Year Number](/blog/personal-year-number): Current annual theme
+- [Expression Number](/blog/name-numerology): Natural gifts
+- [Birthday Number](/blog/birthday-number-meaning): Special talents
 
 This gives you a clear foundation—your essential truth and current cycle.
 
 ### 2. Add Astrology for Specificity
 
 Then examine your birth chart:
-- [Sun, Moon, Rising signs](/posts/birth-chart-basics): Core personality
-- Current [transits](/posts/transit-guide): Specific timing and life areas affected
-- [Progressions](/posts/secondary-progressions): Internal evolution
-- [Solar return](/posts/solar-return): Annual astrological forecast
+- [Sun, Moon, Rising signs](/blog/birth-chart-basics): Core personality
+- Current [transits](/blog/transit-guide): Specific timing and life areas affected
+- [Progressions](/blog/secondary-progressions): Internal evolution
+- [Solar return](/blog/solar-return): Annual astrological forecast
 
 This adds layers of nuance, timing, and specific life areas to your numerological themes.
 
@@ -212,7 +212,7 @@ When the systems seem to contradict, you're seeing different facets of a complex
 
 ### 5. Use Numerology for Annual Planning
 
-Each birthday, calculate your [Personal Year Number](/posts/personal-year-number) to understand the year's theme:
+Each birthday, calculate your [Personal Year Number](/blog/personal-year-number) to understand the year's theme:
 - Year 1: Plant seeds, start fresh
 - Year 2: Collaborate, be patient
 - Year 3: Express creativity, socialize
@@ -223,15 +223,15 @@ Each birthday, calculate your [Personal Year Number](/posts/personal-year-number
 - Year 8: Pursue success, manifest goals
 - Year 9: Complete and release
 
-Then check your [Solar Return](/posts/solar-return) chart for that year to see WHICH SPECIFIC AREAS those themes affect and WHEN during the year they'll be most prominent.
+Then check your [Solar Return](/blog/solar-return) chart for that year to see WHICH SPECIFIC AREAS those themes affect and WHEN during the year they'll be most prominent.
 
 ### 6. Use Astrology for Daily/Monthly Guidance
 
 For day-to-day or month-to-month decisions, astrology provides more granular guidance:
-- Is [Mercury retrograde](/posts/mercury-retrograde-survival)? Hold off on contracts
-- Is [Venus retrograde](/posts/venus-retrograde)? Reflect on relationships, don't start new ones
-- Is the [Full Moon](/posts/moon-phases-guide) in your 7th house? Relationship revelations coming
-- Is [Mars transiting](/posts/mars-retrograde) your 10th house? Push hard at work
+- Is [Mercury retrograde](/blog/mercury-retrograde-survival)? Hold off on contracts
+- Is [Venus retrograde](/blog/venus-retrograde)? Reflect on relationships, don't start new ones
+- Is the [Full Moon](/blog/moon-phases-guide) in your 7th house? Relationship revelations coming
+- Is [Mars transiting](/blog/mars-retrograde) your 10th house? Push hard at work
 
 Your numerological Personal Year sets the overall theme; astrology shows the specific chapters within that theme.
 
@@ -316,16 +316,16 @@ Get weekly astrology insights delivered to your inbox every Monday.
 If you're new to both systems, here's a recommended learning path:
 
 **Phase 1: Numerology Basics (1-2 months)**
-1. Calculate and understand your [Life Path Number](/posts/life-path-number)
-2. Learn about [Personal Year cycles](/posts/personal-year-number)
-3. Calculate your [name numbers](/posts/name-numerology) (Expression, Soul Urge, Personality)
-4. Explore [compatibility basics](/posts/numerology-compatibility)
+1. Calculate and understand your [Life Path Number](/blog/life-path-number)
+2. Learn about [Personal Year cycles](/blog/personal-year-number)
+3. Calculate your [name numbers](/blog/name-numerology) (Expression, Soul Urge, Personality)
+4. Explore [compatibility basics](/blog/numerology-compatibility)
 
 **Phase 2: Astrology Basics (3-6 months)**
-1. Learn your [Sun, Moon, and Rising signs](/posts/birth-chart-basics)
+1. Learn your [Sun, Moon, and Rising signs](/blog/birth-chart-basics)
 2. Understand the 12 houses and what they represent
-3. Learn about [major transits](/posts/transit-guide) (Saturn, Jupiter, eclipses)
-4. Study [Moon phases](/posts/moon-phases-guide) for timing
+3. Learn about [major transits](/blog/transit-guide) (Saturn, Jupiter, eclipses)
+4. Study [Moon phases](/blog/moon-phases-guide) for timing
 
 **Phase 3: Integration (ongoing)**
 1. Notice where your numerology and astrology align
@@ -351,8 +351,8 @@ You don't have to choose between them. Use numerology's compass to know your tru
 
 **Your simple action plan:**
 
-1. **Calculate your Life Path Number** ([guide here](/posts/life-path-number))
-2. **Calculate your Personal Year Number** ([guide here](/posts/personal-year-number))
+1. **Calculate your Life Path Number** ([guide here](/blog/life-path-number))
+2. **Calculate your Personal Year Number** ([guide here](/blog/personal-year-number))
 3. **Get your birth chart free** at astro.com or cafeastrology.com
 4. **Read about your Sun, Moon, and Rising signs**
 5. **Notice where your numbers and signs align**—that's your core truth

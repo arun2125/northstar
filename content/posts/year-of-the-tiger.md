@@ -228,4 +228,4 @@ The Tiger is one of the Chinese zodiac's most powerful signs—blessed with cour
 
 Tigers who embrace their strengths while consciously managing their weaknesses can achieve extraordinary things. Your fierce spirit is a gift—use it wisely, protect those you love, and never let anyone tame the magnificent Tiger within.
 
-**Want to explore your complete Chinese zodiac profile?** Discover your [element](/posts/chinese-zodiac-elements/), learn about [zodiac compatibility](/posts/chinese-zodiac-compatibility/), and read about your [monthly horoscope](/posts/tiger-horoscope/) to understand how cosmic influences shape your Tiger destiny.
+**Want to explore your complete Chinese zodiac profile?** Discover your [element](/blog/chinese-zodiac-elements/), learn about [zodiac compatibility](/blog/chinese-zodiac-compatibility/), and read about your [monthly horoscope](/blog/tiger-horoscope/) to understand how cosmic influences shape your Tiger destiny.

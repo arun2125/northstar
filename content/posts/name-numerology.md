@@ -17,7 +17,7 @@ faq:
     answer: "Changing your name changes your vibration and how you express yourself, which can absolutely shift your life path. Many people adopt new names during major transformations. However, your birth name's energy remains your core blueprint."
 ---
 
-You've probably explored your [Life Path Number](/posts/life-path-number)—the numerological blueprint from your birthdate. But there's another powerful code hidden in plain sight: **your name**.
+You've probably explored your [Life Path Number](/blog/life-path-number)—the numerological blueprint from your birthdate. But there's another powerful code hidden in plain sight: **your name**.
 
 The name you were given at birth isn't random. It carries specific vibrations that reveal how you express yourself in the world, what your soul truly desires, and how others perceive you. While your birthdate shows your life's purpose, your name shows your tools, talents, and the mask you wear.
 
@@ -40,7 +40,7 @@ Your name contains multiple layers of meaning, each revealing a different [aspec
 
 Together, these three numbers create a complete picture of your identity: who you are (Expression), what you want (Soul Urge), and how you appear (Personality).
 
-Think of it astrologically: your Expression Number is like your [Sun sign](/posts/sun-sign-guide) (core identity), your Soul Urge is like your [Moon sign](/posts/moon-signs-emotions) (emotional needs), and your Personality Number is like your [Rising sign](/posts/rising-sign-guide) (outer presentation).
+Think of it astrologically: your Expression Number is like your [Sun sign](/blog/sun-sign-guide) (core identity), your Soul Urge is like your [Moon sign](/blog/moon-signs-emotions) (emotional needs), and your Personality Number is like your [Rising sign](/blog/rising-sign-guide) (outer presentation).
 
 ## How to Calculate Your Name Numbers
 
@@ -132,7 +132,7 @@ Your Expression Number reveals your natural talents, abilities, and how you're m
 
 **Challenge:** Learning to collaborate and accept input without seeing it as weakness or control.
 
-**Astrological parallel:** Strong [Mars or Aries](/posts/aries-season) influence—initiating energy and warrior spirit.
+**Astrological parallel:** Strong [Mars or Aries](/blog/aries-season) influence—initiating energy and warrior spirit.
 
 ### Expression Number 2: The Diplomatic Collaborator
 
@@ -144,7 +144,7 @@ Your Expression Number reveals your natural talents, abilities, and how you're m
 
 **Challenge:** Developing decisiveness and avoiding people-pleasing or passive-aggressive behavior.
 
-**Astrological parallel:** Strong [Venus or Libra](/posts/venus-retrograde) influence—harmony-seeking and relationship-oriented.
+**Astrological parallel:** Strong [Venus or Libra](/blog/venus-retrograde) influence—harmony-seeking and relationship-oriented.
 
 ### Expression Number 3: The Creative Communicator
 
@@ -156,7 +156,7 @@ Your Expression Number reveals your natural talents, abilities, and how you're m
 
 **Challenge:** Focusing your scattered energy and developing depth alongside breadth.
 
-**Astrological parallel:** Strong [Mercury or Gemini](/posts/mercury-retrograde-survival) influence—communicative, versatile, and socially engaging.
+**Astrological parallel:** Strong [Mercury or Gemini](/blog/mercury-retrograde-survival) influence—communicative, versatile, and socially engaging.
 
 ### Expression Number 4: The Practical Builder
 
@@ -168,7 +168,7 @@ Your Expression Number reveals your natural talents, abilities, and how you're m
 
 **Challenge:** Avoiding rigidity and over-focus on work at the expense of play and spontaneity.
 
-**Astrological parallel:** Strong [Saturn or Capricorn](/posts/saturn-return-guide) influence—disciplined, structured, and achievement-oriented.
+**Astrological parallel:** Strong [Saturn or Capricorn](/blog/saturn-return-guide) influence—disciplined, structured, and achievement-oriented.
 
 ### Expression Number 5: The Dynamic Adventurer
 
@@ -180,7 +180,7 @@ Your Expression Number reveals your natural talents, abilities, and how you're m
 
 **Challenge:** Committing long enough to master something and avoiding excessive restlessness or impulsiveness.
 
-**Astrological parallel:** Strong [Mercury or Sagittarius](/posts/sagittarius-season) influence—freedom-seeking, versatile, and adventurous.
+**Astrological parallel:** Strong [Mercury or Sagittarius](/blog/sagittarius-season) influence—freedom-seeking, versatile, and adventurous.
 
 ### Expression Number 6: The Responsible Nurturer
 
@@ -192,7 +192,7 @@ Your Expression Number reveals your natural talents, abilities, and how you're m
 
 **Challenge:** Avoiding martyrdom, over-giving, and neglecting your own needs while caring for others.
 
-**Astrological parallel:** Strong [Venus or Cancer](/posts/cancer-season) influence—nurturing, caring, and home-oriented.
+**Astrological parallel:** Strong [Venus or Cancer](/blog/cancer-season) influence—nurturing, caring, and home-oriented.
 
 ### Expression Number 7: The Wise Seeker
 
@@ -204,7 +204,7 @@ Your Expression Number reveals your natural talents, abilities, and how you're m
 
 **Challenge:** Connecting your insights to practical reality and sharing wisdom without isolating completely.
 
-**Astrological parallel:** Strong [Neptune or Pisces](/posts/neptune-transits) influence (spirituality) or Mercury-Saturn (analysis)—seeking deeper meaning.
+**Astrological parallel:** Strong [Neptune or Pisces](/blog/neptune-transits) influence (spirituality) or Mercury-Saturn (analysis)—seeking deeper meaning.
 
 ### Expression Number 8: The Powerful Manifestor
 
@@ -216,7 +216,7 @@ Your Expression Number reveals your natural talents, abilities, and how you're m
 
 **Challenge:** Balancing material success with spiritual meaning and using power with compassion.
 
-**Astrological parallel:** Strong [Pluto, Saturn, or Capricorn](/posts/pluto-transits) influence—power, authority, and material mastery.
+**Astrological parallel:** Strong [Pluto, Saturn, or Capricorn](/blog/pluto-transits) influence—power, authority, and material mastery.
 
 ### Expression Number 9: The Compassionate Humanitarian
 
@@ -228,7 +228,7 @@ Your Expression Number reveals your natural talents, abilities, and how you're m
 
 **Challenge:** Staying grounded in practical reality and avoiding escapism or over-idealism.
 
-**Astrological parallel:** Strong [Neptune or Pisces](/posts/neptune-transits) influence—compassionate, universal, and idealistic.
+**Astrological parallel:** Strong [Neptune or Pisces](/blog/neptune-transits) influence—compassionate, universal, and idealistic.
 
 ### Expression Number 11: The Inspired Illuminator (Master Number)
 
@@ -242,7 +242,7 @@ Your Expression Number reveals your natural talents, abilities, and how you're m
 
 **Challenge:** The intensity of 11 can be overwhelming. Ground yourself regularly and develop strong boundaries.
 
-**Astrological parallel:** Strong [Neptune or Uranus](/posts/uranus-transits) influence with 12th house or Pisces emphasis—spiritual channeling.
+**Astrological parallel:** Strong [Neptune or Uranus](/blog/uranus-transits) influence with 12th house or Pisces emphasis—spiritual channeling.
 
 ### Expression Number 22: The Master Builder (Master Number)
 
@@ -256,7 +256,7 @@ Your Expression Number reveals your natural talents, abilities, and how you're m
 
 **Challenge:** The pressure of 22 is immense. Start small and build progressively. Your vision is achievable but requires patience.
 
-**Astrological parallel:** Saturn-Uranus conjunction or [Saturn in Aquarius](/posts/aquarius-season)—building innovative structures for collective benefit.
+**Astrological parallel:** Saturn-Uranus conjunction or [Saturn in Aquarius](/blog/aquarius-season)—building innovative structures for collective benefit.
 
 ## Soul Urge Number: Your Heart's Desire
 
@@ -482,11 +482,11 @@ Many people instinctively change their names during major life transformations b
 
 **Calculate both:** Your birth name shows your potential and core self. Your current name shows how you're expressing yourself now and what energy you're working with daily.
 
-For deeper insight into how names and identity interact with celestial patterns, explore your [birth chart](/posts/birth-chart-basics) alongside your name numerology. Together they create a complete picture of identity and purpose.
+For deeper insight into how names and identity interact with celestial patterns, explore your [birth chart](/blog/birth-chart-basics) alongside your name numerology. Together they create a complete picture of identity and purpose.
 
 ## Name Numerology and Astrology: The Complete Picture
 
-Your name numbers and [astrological placements](/posts/birth-chart-basics) work together:
+Your name numbers and [astrological placements](/blog/birth-chart-basics) work together:
 
 - **Expression Number = Sun Sign:** Core identity and natural expression
 - **Soul Urge Number = Moon Sign:** Emotional needs and desires

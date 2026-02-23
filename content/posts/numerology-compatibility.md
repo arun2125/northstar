@@ -17,7 +17,7 @@ faq:
     answer: "Master numbers operate at both their reduced and master levels. An 11 is also a 2, so they're compatible with 2's matches but need partners who understand their higher spiritual intensity."
 ---
 
-You've met someone intriguing. The chemistry is undeniable, but you wonder: will this actually work long-term? While [astrology reveals your romantic patterns](/posts/venus-signs-love), **numerology compatibility** shows whether your core life paths naturally harmonize or clash.
+You've met someone intriguing. The chemistry is undeniable, but you wonder: will this actually work long-term? While [astrology reveals your romantic patterns](/blog/venus-signs-love), **numerology compatibility** shows whether your core life paths naturally harmonize or clash.
 
 Your [life path number](/glossary#L) is numerology's equivalent to your [sun sign](/glossary#S)—it reveals your fundamental nature, strengths, and purpose. When two Life Paths come together, they create a specific dynamic with predictable patterns, challenges, and gifts.
 
@@ -43,7 +43,7 @@ The key is awareness. When you understand the numerology dynamics at play, you c
 
 **Step 1: Calculate your Life Path Number**
 
-Add all digits of your birthdate together, then reduce to a single digit (1-9). For detailed instructions, see our guide to [calculating your Life Path Number](/posts/life-path-number).
+Add all digits of your birthdate together, then reduce to a single digit (1-9). For detailed instructions, see our guide to [calculating your Life Path Number](/blog/life-path-number).
 
 **Example:** Born July 14, 1992
 - 7 + 1 + 4 + 1 + 9 + 9 + 2 = 33
@@ -317,7 +317,7 @@ Life Path Numbers are just the beginning. For deep compatibility analysis, also 
 
 Two people with "incompatible" Life Paths might have perfectly compatible Soul Urge or Expression Numbers. This is why some relationships that "shouldn't" work beautifully do—there's harmony at another level.
 
-For complete relationship insight, combine numerology with [synastry astrology](/posts/synastry-guide). Numerology shows personality compatibility; astrology shows emotional needs, communication styles, sexual chemistry, and long-term potential. Together, they create a complete picture.
+For complete relationship insight, combine numerology with [synastry astrology](/blog/synastry-guide). Numerology shows personality compatibility; astrology shows emotional needs, communication styles, sexual chemistry, and long-term potential. Together, they create a complete picture.
 
 ## Making Any Numbers Work
 

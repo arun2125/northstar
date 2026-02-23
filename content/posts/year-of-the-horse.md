@@ -316,8 +316,8 @@ As we approach the **2026 Fire Horse year**, there's never been a better time to
 ---
 
 **Discover more about the Chinese Zodiac:**
-- [Year of the Dragon: Complete Guide](/posts/year-of-the-dragon/)
-- [Year of the Tiger: Personality & Compatibility](/posts/year-of-the-tiger/)
-- [Chinese Zodiac Calculator: Find Your Sign](/posts/chinese-zodiac-calculator/)
+- [Year of the Dragon: Complete Guide](/blog/year-of-the-dragon/)
+- [Year of the Tiger: Personality & Compatibility](/blog/year-of-the-tiger/)
+- [Chinese Zodiac Calculator: Find Your Sign](/blog/chinese-zodiac-calculator/)
 
 *Want to learn what 2026 holds for your specific zodiac sign? Explore our complete [Chinese Zodiac](/categories/chinese-zodiac/) series for personalized insights.*

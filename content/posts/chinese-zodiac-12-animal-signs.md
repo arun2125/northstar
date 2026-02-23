@@ -171,7 +171,7 @@ The Horse embodies freedom, energy, and the open road. Horses are the adventurer
 
 **Least Compatible With:** Rat, Ox, Rooster, and Horse (two Horses may compete for attention).
 
-*Note: 2026 is a Fire Horse year, which carries special significance. [Learn more about Fire Horse 2026](/posts/fire-horse-2026-complete-guide) and what makes it unique.*
+*Note: 2026 is a Fire Horse year, which carries special significance. [Learn more about Fire Horse 2026](/blog/fire-horse-2026-complete-guide) and what makes it unique.*
 
 ### 🐐 Goat (羊 Yáng)
 
@@ -348,7 +348,7 @@ So a "Fire Horse" (like 2026) is fundamentally different from a "Water Horse" (l
 - **Metal Horse:** Determined and disciplined, strong-willed
 - **Water Horse:** Adaptable and communicative, emotionally intelligent
 
-Understanding your complete sign—animal plus element—gives you a much richer picture of your Chinese zodiac profile. [Learn more about how the Five Elements shape your personality](/posts/chinese-five-elements-guide).
+Understanding your complete sign—animal plus element—gives you a much richer picture of your Chinese zodiac profile. [Learn more about how the Five Elements shape your personality](/blog/chinese-five-elements-guide).
 
 ## Why the Chinese Zodiac Still Matters Today
 
@@ -427,7 +427,7 @@ If you're familiar with Western zodiac signs, you might wonder how the two syste
 | **Elements** | 5 (Wood, Fire, Earth, Metal, Water) | 4 (Fire, Earth, Air, Water) |
 | **Focus** | Character destiny, yearly fortune | Personality, daily/monthly trends |
 
-Many people find value in exploring both systems. Your Western sun sign might describe your core ego and monthly patterns, while your Chinese animal sign speaks to year-long themes and deeply ingrained character traits. [Explore how the two systems compare and complement each other](/posts/chinese-vs-western-zodiac).
+Many people find value in exploring both systems. Your Western sun sign might describe your core ego and monthly patterns, while your Chinese animal sign speaks to year-long themes and deeply ingrained character traits. [Explore how the two systems compare and complement each other](/blog/chinese-vs-western-zodiac).
 
 ## Frequently Asked Questions
 
@@ -459,16 +459,16 @@ According to legend, the Rat tricked the Cat by telling it the wrong day for the
 
 ### What is a Fire Horse year, and why is it special?
 
-Fire Horse years (like 2026) combine the Horse's wild energy with Fire's intensity, creating especially powerful—and traditionally controversial—energy. Historically, East Asian cultures have associated Fire Horse years with strong-willed daughters. [Read our complete Fire Horse 2026 guide](/posts/fire-horse-2026-complete-guide) to learn more.
+Fire Horse years (like 2026) combine the Horse's wild energy with Fire's intensity, creating especially powerful—and traditionally controversial—energy. Historically, East Asian cultures have associated Fire Horse years with strong-willed daughters. [Read our complete Fire Horse 2026 guide](/blog/fire-horse-2026-complete-guide) to learn more.
 
 ## Explore Your Chinese Zodiac Further
 
 The Chinese zodiac offers a rich system for self-understanding and navigating life's major decisions. Whether you use it for deep personal reflection or simply as a fun framework for understanding different personality types, these ancient archetypes continue to resonate across cultures and generations.
 
 **Related Articles:**
-- [Fire Horse 2026: What Makes This Year Unique](/posts/fire-horse-2026-complete-guide)
-- [The Five Elements in Chinese Astrology](/posts/chinese-five-elements-guide)
-- [Chinese vs. Western Zodiac: A Complete Comparison](/posts/chinese-vs-western-zodiac)
+- [Fire Horse 2026: What Makes This Year Unique](/blog/fire-horse-2026-complete-guide)
+- [The Five Elements in Chinese Astrology](/blog/chinese-five-elements-guide)
+- [Chinese vs. Western Zodiac: A Complete Comparison](/blog/chinese-vs-western-zodiac)
 
 ---
 

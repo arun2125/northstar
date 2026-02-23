@@ -293,6 +293,6 @@ The **Year of the Pig** represents the beautiful completion of the Chinese zodia
 
 Whether you're a fiery 2007 Fire Pig or a grounded 2019 Earth Pig, understanding your zodiac sign offers valuable insights for personal growth and fulfillment. Embrace your natural strengths—your kind heart, your work ethic, your ability to bring people together—while staying mindful of potential challenges.
 
-**Ready to explore more?** Discover how your Pig sign interacts with your birth month, learn about [compatible zodiac signs](/tags/zodiac-compatibility/), or explore the [complete Chinese zodiac guide](/posts/chinese-zodiac-guide/) to understand the full cycle.
+**Ready to explore more?** Discover how your Pig sign interacts with your birth month, learn about [compatible zodiac signs](/tags/zodiac-compatibility/), or explore the [complete Chinese zodiac guide](/blog/chinese-zodiac-guide/) to understand the full cycle.
 
 *What resonates most with you about the Pig personality? Share your experiences in the comments below!*

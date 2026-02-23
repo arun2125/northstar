@@ -53,7 +53,7 @@ Rahu is neither inherently good nor bad—it's intensifying. Whatever it touches
 
 ### Rahu in Different [houses](/glossary#H)
 
-The house placement of Rahu in your [Vedic birth chart](/posts/vedic-moon-sign) shows where you're meant to grow and expand in this lifetime, though the path will involve confusion and trial-and-error:
+The house placement of Rahu in your [Vedic birth chart](/blog/vedic-moon-sign) shows where you're meant to grow and expand in this lifetime, though the path will involve confusion and trial-and-error:
 
 - **1st house**: Obsession with identity, appearance, and self. Can bring charisma but also identity confusion.
 - **2nd house**: Intense focus on wealth, family, and speech. Risk of dishonesty for financial gain.
@@ -210,7 +210,7 @@ Understanding your Rahu-Ketu axis reveals your soul's primary journey in this li
 
 These shadow planets remind us that life is not about comfort—it's about evolution. The material and spiritual are not separate paths but complementary forces, represented perfectly by Rahu's insatiable hunger and Ketu's ultimate satisfaction.
 
-When you understand and work with Rahu and Ketu consciously, you align with your deepest karmic purpose. To understand how these nodes interact with the rest of your chart, especially your [Moon sign](/posts/vedic-moon-sign) and during major transits like [Sade Sati](/posts/sade-sati-meaning), consulting with an experienced Vedic astrologer can provide invaluable guidance.
+When you understand and work with Rahu and Ketu consciously, you align with your deepest karmic purpose. To understand how these nodes interact with the rest of your chart, especially your [Moon sign](/blog/vedic-moon-sign) and during major transits like [Sade Sati](/blog/sade-sati-meaning), consulting with an experienced Vedic astrologer can provide invaluable guidance.
 
 Embrace the journey from Ketu to Rahu—from what was to what will be. That's where your destiny awaits.
 

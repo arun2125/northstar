@@ -404,9 +404,9 @@ When assessing compatibility in Chinese astrology, elements often matter more th
 
 Ready to explore more? Check out these guides:
 
-- [The 12 Chinese Zodiac Animals Explained](/posts/chinese-zodiac-animals-explained) - Complete guide to all animal signs
-- [2026 Year of the Fire Horse: What to Expect](/posts/2026-fire-horse-year) - The dramatic energy of the upcoming year
-- [Chinese Astrology vs Western Astrology](/posts/chinese-vs-western-astrology) - How the two systems compare
+- [The 12 Chinese Zodiac Animals Explained](/blog/chinese-zodiac-animals-explained) - Complete guide to all animal signs
+- [2026 Year of the Fire Horse: What to Expect](/blog/2026-fire-horse-year) - The dramatic energy of the upcoming year
+- [Chinese Astrology vs Western Astrology](/blog/chinese-vs-western-astrology) - How the two systems compare
 
 ## Frequently Asked Questions
 

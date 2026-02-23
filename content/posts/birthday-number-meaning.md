@@ -17,7 +17,7 @@ faq:
     answer: "Absolutely! A Life Path 7 with a Birthday Number 3 will express their spiritual seeking much more socially and creatively than a 7 with Birthday Number 4, who'll be more methodical and structured."
 ---
 
-You've likely heard about your [Life Path Number](/posts/life-path-number)—your core purpose and personality in numerology. But there's another powerful number hiding in plain sight: your **Birthday Number**.
+You've likely heard about your [Life Path Number](/blog/life-path-number)—your core purpose and personality in numerology. But there's another powerful number hiding in plain sight: your **Birthday Number**.
 
 This often-overlooked number reveals specific talents, natural abilities, and unique gifts you were born with. Think of it as your special power-up in the game of life. While your Life Path shows your journey, your Birthday Number shows the tools in your backpack.
 
@@ -38,7 +38,7 @@ Unlike your Life Path Number, which comes from your complete birthdate and revea
 - **Unique perspectives** or approaches you bring
 - **Bonus skills** that support your Life Path journey
 
-Think of it this way: If your [Life Path](/posts/personal-year-number) is your career, your Birthday Number is your natural talent that makes you excel at it. A Life Path 1 (leadership) with Birthday Number 3 (communication) might become a charismatic speaker. The same Life Path 1 with Birthday Number 8 (business acumen) might become a CEO instead.
+Think of it this way: If your [Life Path](/blog/personal-year-number) is your career, your Birthday Number is your natural talent that makes you excel at it. A Life Path 1 (leadership) with Birthday Number 3 (communication) might become a charismatic speaker. The same Life Path 1 with Birthday Number 8 (business acumen) might become a CEO instead.
 
 Your Birthday Number doesn't change your core purpose, but it flavors how you express it and which tools you naturally reach for.
 
@@ -143,7 +143,7 @@ Your Birthday Number doesn't change your core purpose, but it flavors how you ex
 
 **Career applications:** Project manager, engineer, architect, accountant, craftsperson, operations roles.
 
-**If you're a 13, 22, or 31:** The **13** is a karmic debt number (see our [karmic debt guide](/posts/karmic-debt-numbers))—hard work pays off but requires extra discipline. **22** is a master number—you build on a grand scale (read master section below). **31** adds creativity to your practical skills.
+**If you're a 13, 22, or 31:** The **13** is a karmic debt number (see our [karmic debt guide](/blog/karmic-debt-numbers))—hard work pays off but requires extra discipline. **22** is a master number—you build on a grand scale (read master section below). **31** adds creativity to your practical skills.
 
 ### Birthday Number 5: The Dynamic Adventurer
 
@@ -162,7 +162,7 @@ Your Birthday Number doesn't change your core purpose, but it flavors how you ex
 
 **Career applications:** Sales, travel industry, public relations, marketing, journalism, any role with variety and freedom.
 
-**If you're a 14 or 23:** The **14** is a karmic debt number requiring discipline around freedom and excess (see our [karmic debt guide](/posts/karmic-debt-numbers)). **23** adds communication skills to your versatility—you're a natural promoter.
+**If you're a 14 or 23:** The **14** is a karmic debt number requiring discipline around freedom and excess (see our [karmic debt guide](/blog/karmic-debt-numbers)). **23** adds communication skills to your versatility—you're a natural promoter.
 
 ### Birthday Number 6: The Responsible Nurturer
 
@@ -200,7 +200,7 @@ Your Birthday Number doesn't change your core purpose, but it flavors how you ex
 
 **Career applications:** Researcher, analyst, scientist, spiritual teacher, psychologist, investigator, writer.
 
-**If you're a 16 or 25:** The **16** is a karmic debt number requiring ego transformation (see our [karmic debt guide](/posts/karmic-debt-numbers)). **25** adds intuition to analysis—spiritual wisdom combined with intellectual rigor.
+**If you're a 16 or 25:** The **16** is a karmic debt number requiring ego transformation (see our [karmic debt guide](/blog/karmic-debt-numbers)). **25** adds intuition to analysis—spiritual wisdom combined with intellectual rigor.
 
 ### Birthday Number 8: The Powerful Manifestor
 
@@ -301,7 +301,7 @@ Get weekly astrology insights delivered to your inbox every Monday.
 
 ## Birthday Number + Life Path: Your Complete Picture
 
-Your Birthday Number works alongside your [Life Path Number](/posts/life-path-number) to create your complete numerological profile. Here's how they interact:
+Your Birthday Number works alongside your [Life Path Number](/blog/life-path-number) to create your complete numerological profile. Here's how they interact:
 
 **Example 1:** Life Path 1 (leadership) + Birthday 3 (communication) = A charismatic leader who inspires through words—think motivational speaker or thought leader.
 
@@ -311,7 +311,7 @@ Your Birthday Number works alongside your [Life Path Number](/posts/life-path-nu
 
 Your Life Path is your journey; your Birthday Number is a key tool for that journey. When you understand both, you can make career and life choices that align with your complete numerological blueprint.
 
-For even deeper insight, explore your [Expression Number](/posts/name-numerology) (from your name) to see how you naturally express these gifts in the world.
+For even deeper insight, explore your [Expression Number](/blog/name-numerology) (from your name) to see how you naturally express these gifts in the world.
 
 ## Using Your Birthday Number Gifts
 
@@ -330,19 +330,19 @@ Your gifts are meant to be shared. How can your natural talents help others or i
 If you're a Birthday Number 3 stuck in a job with no creative expression or communication, you'll feel drained. Align your life with your natural gifts.
 
 **5. Combine with astrology**
-Your [Sun sign](/posts/sun-sign-guide) and [Moon sign](/posts/moon-signs-emotions) show other dimensions of your personality. A Birthday Number 8 with a Pisces Sun will express business abilities very differently than a Birthday 8 with an Aries Sun. Layer the insights.
+Your [Sun sign](/blog/sun-sign-guide) and [Moon sign](/blog/moon-signs-emotions) show other dimensions of your personality. A Birthday Number 8 with a Pisces Sun will express business abilities very differently than a Birthday 8 with an Aries Sun. Layer the insights.
 
 ## Beyond Birthday: Complete Numerology
 
 Your Birthday Number is one piece of your numerological puzzle. For a complete picture, also explore:
 
-- **[Life Path Number](/posts/life-path-number):** Your core purpose and journey
-- **[Personal Year Number](/posts/personal-year-number):** Your current annual theme
-- **[Expression Number](/posts/name-numerology):** How you naturally express yourself (from birth name)
+- **[Life Path Number](/blog/life-path-number):** Your core purpose and journey
+- **[Personal Year Number](/blog/personal-year-number):** Your current annual theme
+- **[Expression Number](/blog/name-numerology):** How you naturally express yourself (from birth name)
 - **Soul Urge Number:** Your deepest desires (from vowels in name)
-- **[Karmic Debt Numbers](/posts/karmic-debt-numbers):** Special lessons if born on 13, 14, 16, or 19
+- **[Karmic Debt Numbers](/blog/karmic-debt-numbers):** Special lessons if born on 13, 14, 16, or 19
 
-Numerology and [astrology](/posts/numerology-vs-astrology) work beautifully together. Numerology reveals your essence through numbers; astrology reveals your path through planetary cycles. Combined, they offer profound self-knowledge.
+Numerology and [astrology](/blog/numerology-vs-astrology) work beautifully together. Numerology reveals your essence through numbers; astrology reveals your path through planetary cycles. Combined, they offer profound self-knowledge.
 
 Your Birthday Number is a gift you were given at birth. It's been with you all along, quietly supporting your journey. Now that you know it consciously, you can use it intentionally. 
 

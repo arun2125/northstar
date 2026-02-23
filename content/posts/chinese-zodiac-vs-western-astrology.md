@@ -252,9 +252,9 @@ For someone with Aries placements and a Tiger Chinese sign, 2026 is rocket fuel.
 
 Ready to dive deeper into Chinese astrology? Explore these guides:
 
-- **[The 12 Chinese Zodiac Animals: Personality, Compatibility & 2026 Forecasts](/posts/chinese-zodiac-animals-guide)** — Complete guide to all twelve animals
-- **[Chinese Five Elements Explained: Wood, Fire, Earth, Metal, Water](/posts/chinese-five-elements)** — How elements shape your animal sign
-- **[Fire Horse 2026: What This Powerful Year Means for Every Sign](/posts/fire-horse-2026)** — Detailed forecasts for all animals
+- **[The 12 Chinese Zodiac Animals: Personality, Compatibility & 2026 Forecasts](/blog/chinese-zodiac-animals-guide)** — Complete guide to all twelve animals
+- **[Chinese Five Elements Explained: Wood, Fire, Earth, Metal, Water](/blog/chinese-five-elements)** — How elements shape your animal sign
+- **[Fire Horse 2026: What This Powerful Year Means for Every Sign](/blog/fire-horse-2026)** — Detailed forecasts for all animals
 
 ## FAQs
 
