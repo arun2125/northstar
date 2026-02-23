@@ -107,7 +107,7 @@ Get weekly astrology insights delivered to your inbox every Monday.
 
 ---
 
-Want more compatibility insights? Check out our full [zodiac compatibility guide](/blog/zodiac-compatibility-real-way) and [fire sign dynamics](/blog/astrology-[elements](/glossary#E)-explained).
+Want more compatibility insights? Check out our full [zodiac compatibility guide](/blog/zodiac-compatibility-real-way) and [fire sign dynamics](/blog/astrology-elements-explained)-explained).
 
 ## Growing Up Aries: The Path to Evolved Warrior
 

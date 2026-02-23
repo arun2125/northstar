@@ -522,7 +522,7 @@ Trust the process. You were made for this.
 **Related Articles:**
 - [2026 Astrology Predictions: Complete Year Guide](/blog/2026-astrology-predictions)
 - [Libra Personality Traits & Characteristics](/blog/libra-personality-traits)
-- [Understanding the Air Element in Astrology](/blog/astrology-[elements](/glossary#E)-explained)
+- [Understanding the Air Element in Astrology](/blog/astrology-elements-explained)-explained)
 
 ---
 

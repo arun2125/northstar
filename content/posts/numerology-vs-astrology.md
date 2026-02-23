@@ -42,7 +42,7 @@ An [astrological birth chart](/blog/birth-chart-basics) has dozens of data point
 Astrology excels at:
 - **Timing:** When will something happen? [Saturn Returns](/blog/saturn-return-guide) at age 29-30, [Jupiter transits](/blog/jupiter-transits) bring expansion, [eclipses](/blog/[eclipse](/glossary#E)-guide) trigger destiny moments
 - **Emotional patterns:** Your [Moon sign](/blog/moon-signs-emotions) reveals emotional needs and reactions
-- **Communication style:** [Mercury sign](/blog/mercury-[retrograde](/glossary#R)-survival) shows how you think and communicate
+- **Communication style:** [Mercury sign](/blog/mercury-retrograde-explained)-survival) shows how you think and communicate
 - **Love language:** [Venus sign](/blog/venus-retrograde) reveals how you give and receive love
 - **Specific life areas:** 12 houses show different domains (career, home, relationships, etc.)
 
