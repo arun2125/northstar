@@ -14,7 +14,7 @@ function getSupabase() {
   return createClient(supabaseUrl, supabaseKey);
 }
 
-const FREE_DAILY_LIMIT = 5;
+const FREE_DAILY_LIMIT = 10;
 
 export async function POST(request: NextRequest) {
   try {
