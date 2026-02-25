@@ -1,15 +1,29 @@
 import { createClient } from '@supabase/supabase-js';
 import { NextRequest, NextResponse } from 'next/server';
 
-const supabase = createClient(
-  process.env.NEXT_PUBLIC_SUPABASE_URL!,
-  process.env.SUPABASE_SERVICE_ROLE_KEY!
-);
+function getSupabase() {
+  const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
+  const supabaseKey = process.env.SUPABASE_SERVICE_KEY;
+  
+  if (!supabaseUrl || !supabaseKey) {
+    return null;
+  }
+  
+  return createClient(supabaseUrl, supabaseKey);
+}
 
 const FREE_DAILY_LIMIT = 10;
 
 export async function POST(request: NextRequest) {
   try {
+    const supabase = getSupabase();
+    if (!supabase) {
+      return NextResponse.json(
+        { error: 'Server configuration error' },
+        { status: 500 }
+      );
+    }
+
     const { userId } = await request.json();
 
     if (!userId) {
@@ -36,7 +50,7 @@ export async function POST(request: NextRequest) {
     // If premium, always allow
     if (user.is_premium) {
       // Still track usage for analytics
-      await incrementUsage(userId);
+      await incrementUsage(supabase, userId);
       return NextResponse.json({
         allowed: true,
         isPremium: true,
@@ -69,7 +83,7 @@ export async function POST(request: NextRequest) {
     }
 
     // Increment usage
-    const newCount = await incrementUsage(userId);
+    const newCount = await incrementUsage(supabase, userId);
 
     return NextResponse.json({
       allowed: true,
@@ -88,7 +102,7 @@ export async function POST(request: NextRequest) {
   }
 }
 
-async function incrementUsage(userId: string): Promise<number> {
+async function incrementUsage(supabase: any, userId: string): Promise<number> {
   const today = new Date().toISOString().split('T')[0];
 
   // Try to increment existing record
@@ -123,6 +137,14 @@ async function incrementUsage(userId: string): Promise<number> {
 // GET endpoint to check status without incrementing
 export async function GET(request: NextRequest) {
   try {
+    const supabase = getSupabase();
+    if (!supabase) {
+      return NextResponse.json(
+        { error: 'Server configuration error' },
+        { status: 500 }
+      );
+    }
+
     const userId = request.nextUrl.searchParams.get('userId');
 
     if (!userId) {
@@ -146,12 +168,21 @@ export async function GET(request: NextRequest) {
       );
     }
 
+    // Get total usage
+    const { data: totalData } = await supabase
+      .from('snapreplies_usage')
+      .select('reply_count')
+      .eq('user_id', userId);
+    
+    const totalReplies = totalData?.reduce((sum: number, row: any) => sum + row.reply_count, 0) || 0;
+
     if (user.is_premium) {
       return NextResponse.json({
         isPremium: true,
         used: -1,
         remaining: -1,
-        limit: -1
+        limit: -1,
+        total: totalReplies
       });
     }
 
@@ -170,7 +201,8 @@ export async function GET(request: NextRequest) {
       isPremium: false,
       used: currentCount,
       remaining: FREE_DAILY_LIMIT - currentCount,
-      limit: FREE_DAILY_LIMIT
+      limit: FREE_DAILY_LIMIT,
+      total: totalReplies
     });
 
   } catch (error) {

@@ -1,31 +1,36 @@
 import { createClient } from '@supabase/supabase-js';
 import { NextRequest, NextResponse } from 'next/server';
 
-const supabase = createClient(
-  process.env.NEXT_PUBLIC_SUPABASE_URL!,
-  process.env.SUPABASE_SERVICE_ROLE_KEY!
-);
+function getSupabase() {
+  const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
+  const supabaseKey = process.env.SUPABASE_SERVICE_KEY;
+  
+  if (!supabaseUrl || !supabaseKey) {
+    return null;
+  }
+  
+  return createClient(supabaseUrl, supabaseKey);
+}
 
 // Gumroad webhook for purchase notifications
-// Set this URL in Gumroad: Settings > Advanced > Ping URL
 export async function POST(request: NextRequest) {
   try {
+    const supabase = getSupabase();
+    if (!supabase) {
+      return NextResponse.json(
+        { error: 'Server configuration error' },
+        { status: 500 }
+      );
+    }
+
     // Gumroad sends form-urlencoded data
     const formData = await request.formData();
     
     const email = formData.get('email')?.toString()?.toLowerCase()?.trim();
     const productId = formData.get('product_id')?.toString();
     const saleId = formData.get('sale_id')?.toString();
-    const price = formData.get('price')?.toString();
-    const sellerEmail = formData.get('seller_id')?.toString();
     
-    console.log('Gumroad webhook received:', {
-      email,
-      productId,
-      saleId,
-      price,
-      sellerEmail
-    });
+    console.log('Gumroad webhook received:', { email, productId, saleId });
 
     if (!email) {
       console.error('No email in webhook');
@@ -79,9 +84,17 @@ export async function POST(request: NextRequest) {
   }
 }
 
-// Endpoint for manual verification (if user used different email for purchase)
+// Endpoint for manual verification
 export async function PUT(request: NextRequest) {
   try {
+    const supabase = getSupabase();
+    if (!supabase) {
+      return NextResponse.json(
+        { error: 'Server configuration error' },
+        { status: 500 }
+      );
+    }
+
     const { appEmail, purchaseEmail } = await request.json();
 
     if (!appEmail || !purchaseEmail) {
